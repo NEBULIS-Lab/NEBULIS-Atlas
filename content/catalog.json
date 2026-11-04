@@ -1,0 +1,2800 @@
+{
+  "resources": [
+    {
+      "id": "S01",
+      "island": "starting",
+      "title": "Proximal Policy Optimization (PPO)",
+      "year": 2017,
+      "type": "paper",
+      "level": "foundation",
+      "summary": "从与环境交互中改进策略，理解奖励、优势估计与稳定更新如何组成强化学习闭环。",
+      "learn": [
+        "画出状态—动作—奖励循环",
+        "理解裁剪目标为何限制策略更新",
+        "区分训练回报与独立评估回报"
+      ],
+      "prerequisites": [],
+      "related": [
+        "S04",
+        "M03",
+        "W01"
+      ],
+      "tags": [
+        "RL",
+        "Policy Gradient"
+      ],
+      "terms": [
+        "mdp",
+        "rl"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/1707.06347"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "island": "starting",
+      "title": "robomimic · Learning from Demonstrations",
+      "year": 2021,
+      "type": "repo",
+      "level": "foundation",
+      "summary": "用统一的数据、训练和评估接口进入机器人模仿学习。先跑通行为克隆，再理解示范质量如何影响成功率。",
+      "learn": [
+        "读取一条示范的观测与动作",
+        "用 BC 建立第一个策略基线",
+        "观察离线损失与闭环成功率的差别"
+      ],
+      "prerequisites": [],
+      "related": [
+        "R01",
+        "DS01",
+        "SIM04"
+      ],
+      "tags": [
+        "Imitation Learning",
+        "BC"
+      ],
+      "terms": [
+        "bc"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2108.03298"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/ARISE-Initiative/robomimic"
+        },
+        {
+          "label": "入门文档",
+          "url": "https://robomimic.github.io/docs/introduction/getting_started.html"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "island": "starting",
+      "title": "LeRobot",
+      "year": 2024,
+      "type": "repo",
+      "level": "foundation",
+      "summary": "Hugging Face 的机器人学习工具链，连接数据集、策略训练、评估与真实硬件。适合建立可重复的实践流程。",
+      "learn": [
+        "认识 episode、视频与动作字段",
+        "沿官方教程完成数据到策略的流程",
+        "记录相机、动作空间与归一化设置"
+      ],
+      "prerequisites": [],
+      "related": [
+        "S02",
+        "E07",
+        "R02"
+      ],
+      "tags": [
+        "Tooling",
+        "Imitation Learning"
+      ],
+      "terms": [
+        "bc"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/huggingface/lerobot"
+        },
+        {
+          "label": "文档",
+          "url": "https://huggingface.co/docs/lerobot"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "island": "starting",
+      "title": "MuJoCo · First Simulation",
+      "year": 2012,
+      "type": "simulator",
+      "level": "foundation",
+      "summary": "以刚体动力学和接触仿真理解机器人环境。先看清关节、控制量与时间步，再开始训练。",
+      "learn": [
+        "区分关节状态、执行器控制与观测",
+        "加载模型并推进仿真一步",
+        "理解接触和控制频率对行为的影响"
+      ],
+      "prerequisites": [],
+      "related": [
+        "SIM01",
+        "SIM04",
+        "S01"
+      ],
+      "tags": [
+        "Physics",
+        "Simulation"
+      ],
+      "terms": [
+        "mdp",
+        "simtoreal"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/google-deepmind/mujoco"
+        },
+        {
+          "label": "文档",
+          "url": "https://mujoco.readthedocs.io/en/stable/overview.html"
+        }
+      ]
+    },
+    {
+      "id": "R01",
+      "island": "robot",
+      "title": "robomimic · Behavior Cloning",
+      "year": 2021,
+      "type": "paper",
+      "level": "core",
+      "summary": "接续起始岛的 robomimic 实践，比较示范来源、观测选择与时序策略对模仿学习的影响。",
+      "learn": [
+        "比较低维观测与图像观测",
+        "检查训练、验证和 rollout 的数据边界",
+        "分析示范质量与策略结构的交互"
+      ],
+      "prerequisites": [],
+      "related": [
+        "S02",
+        "DS01",
+        "R02",
+        "R03"
+      ],
+      "tags": [
+        "BC",
+        "Imitation Learning"
+      ],
+      "terms": [
+        "bc"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2108.03298"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/ARISE-Initiative/robomimic"
+        }
+      ],
+      "aliasOf": "S02",
+      "note": "与 S02 是同一资源；这里提供行为克隆的进阶阅读角度，学习路线不重复计数。"
+    },
+    {
+      "id": "R02",
+      "island": "robot",
+      "title": "ACT / ALOHA",
+      "year": 2023,
+      "type": "paper",
+      "level": "core",
+      "summary": "ACT 一次预测一段动作，ALOHA 提供低成本双臂遥操作系统。把动作序列建模与真实示范采集连起来学习。",
+      "learn": [
+        "理解 action chunk 如何缩短决策序列",
+        "读懂条件 VAE 与时间集成",
+        "区分 ACT 算法和 ALOHA 硬件系统"
+      ],
+      "prerequisites": [
+        "S02"
+      ],
+      "related": [
+        "DS02",
+        "R03",
+        "S03"
+      ],
+      "tags": [
+        "Action Chunking",
+        "Bimanual"
+      ],
+      "terms": [
+        "bc",
+        "actionchunk"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2304.13705"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/tonyzhaozh/act"
+        },
+        {
+          "label": "项目页",
+          "url": "https://tonyzhaozh.github.io/aloha/"
+        }
+      ]
+    },
+    {
+      "id": "R03",
+      "island": "robot",
+      "title": "Diffusion Policy",
+      "year": 2023,
+      "type": "paper",
+      "level": "core",
+      "summary": "将动作序列生成写成条件去噪过程，表达同一观测下多种可行动作，并通过滚动执行形成反馈控制。",
+      "learn": [
+        "理解观测条件下的动作去噪",
+        "区分观测、预测和执行时间窗",
+        "比较多模态动作与单点回归"
+      ],
+      "prerequisites": [
+        "S02"
+      ],
+      "related": [
+        "R02",
+        "E05"
+      ],
+      "tags": [
+        "Diffusion",
+        "Visuomotor"
+      ],
+      "terms": [
+        "bc",
+        "actionchunk",
+        "mpc"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2303.04137"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/real-stanford/diffusion_policy"
+        },
+        {
+          "label": "项目页",
+          "url": "https://diffusion-policy.cs.columbia.edu/"
+        }
+      ]
+    },
+    {
+      "id": "R04",
+      "island": "robot",
+      "title": "MimicGen",
+      "year": 2023,
+      "type": "paper",
+      "level": "core",
+      "summary": "从少量人类示范出发，利用物体相对运动结构生成新的机器人操作轨迹，扩大可用训练数据。",
+      "learn": [
+        "识别物体中心的子任务分段",
+        "理解示范变换与新场景执行",
+        "比较生成数据覆盖与策略成功率"
+      ],
+      "prerequisites": [
+        "S02"
+      ],
+      "related": [
+        "DS06",
+        "SIM04",
+        "B04"
+      ],
+      "tags": [
+        "Data Generation",
+        "Imitation Learning"
+      ],
+      "terms": [
+        "bc",
+        "domainrandomization"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2310.17596"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/NVlabs/mimicgen"
+        },
+        {
+          "label": "项目页",
+          "url": "https://mimicgen.github.io/"
+        }
+      ]
+    },
+    {
+      "id": "R05",
+      "island": "robot",
+      "title": "LIBERO · Lifelong Robot Learning",
+      "year": 2023,
+      "type": "benchmark",
+      "level": "core",
+      "summary": "通过语言描述的机器人操作任务，研究知识迁移与持续学习。重点读懂任务套件和评估协议。",
+      "learn": [
+        "比较空间、物体与目标变化",
+        "区分多任务训练与顺序学习",
+        "记录任务成功率和遗忘表现"
+      ],
+      "prerequisites": [],
+      "related": [
+        "B03",
+        "E04",
+        "SIM04"
+      ],
+      "tags": [
+        "Lifelong Learning",
+        "Manipulation"
+      ],
+      "terms": [
+        "bc",
+        "vla"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2306.03310"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/Lifelong-Robot-Learning/LIBERO"
+        }
+      ]
+    },
+    {
+      "id": "E01",
+      "island": "embodied",
+      "title": "RT-1: Robotics Transformer",
+      "year": 2022,
+      "type": "paper",
+      "level": "core",
+      "summary": "把图像、语言与机器人动作组织为 Transformer 控制策略，理解大规模多任务示范如何支持通用操作。",
+      "learn": [
+        "跟踪语言条件如何进入视觉表示",
+        "理解离散动作表示",
+        "比较任务覆盖与新指令泛化"
+      ],
+      "prerequisites": [
+        "S02"
+      ],
+      "related": [
+        "E02",
+        "E03"
+      ],
+      "tags": [
+        "VLA",
+        "Transformer"
+      ],
+      "terms": [
+        "vla",
+        "bc"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2212.06817"
+        },
+        {
+          "label": "项目页",
+          "url": "https://robotics-transformer1.github.io/"
+        }
+      ]
+    },
+    {
+      "id": "E02",
+      "island": "embodied",
+      "title": "RT-2: Vision-Language-Action Models",
+      "year": 2023,
+      "type": "paper",
+      "level": "core",
+      "summary": "把机器人动作表示为模型可预测的 token，让视觉语言预训练知识参与机器人控制。",
+      "learn": [
+        "理解视觉语言任务到动作输出的转换",
+        "区分语义推理与运动技能",
+        "阅读网络数据和机器人数据的联合训练"
+      ],
+      "prerequisites": [
+        "E01"
+      ],
+      "related": [
+        "E04",
+        "E06"
+      ],
+      "tags": [
+        "VLA",
+        "Transfer"
+      ],
+      "terms": [
+        "vla"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2307.15818"
+        },
+        {
+          "label": "项目页",
+          "url": "https://robotics-transformer2.github.io/"
+        }
+      ]
+    },
+    {
+      "id": "E03",
+      "island": "embodied",
+      "title": "Open X-Embodiment / RT-X",
+      "year": 2023,
+      "type": "dataset",
+      "level": "core",
+      "summary": "跨机构汇集不同机器人的示范数据，研究跨本体训练如何共享能力。数据统一与混合策略是阅读重点。",
+      "learn": [
+        "识别机器人本体和动作空间差异",
+        "查看 RLDS 轨迹结构",
+        "理解混合采样与跨机器人迁移"
+      ],
+      "prerequisites": [],
+      "related": [
+        "DS04",
+        "E04",
+        "DS03",
+        "DS05"
+      ],
+      "tags": [
+        "Cross-Embodiment",
+        "Data"
+      ],
+      "terms": [
+        "vla",
+        "bc"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2310.08864"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/google-deepmind/open_x_embodiment"
+        },
+        {
+          "label": "项目页",
+          "url": "https://robotics-transformer-x.github.io/"
+        }
+      ]
+    },
+    {
+      "id": "E04",
+      "island": "embodied",
+      "title": "OpenVLA",
+      "year": 2024,
+      "type": "paper",
+      "level": "core",
+      "summary": "开放的视觉语言动作模型与微调工具，为理解机器人基础模型的预训练、适配和评估提供实践入口。",
+      "learn": [
+        "追踪视觉、语言到动作 token 的路径",
+        "理解动作归一化和本体适配",
+        "比较预训练迁移与任务微调"
+      ],
+      "prerequisites": [
+        "S02"
+      ],
+      "related": [
+        "E02",
+        "E03",
+        "R05",
+        "B05"
+      ],
+      "tags": [
+        "VLA",
+        "Open Models"
+      ],
+      "terms": [
+        "vla",
+        "bc"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2406.09246"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/openvla/openvla"
+        },
+        {
+          "label": "项目页",
+          "url": "https://openvla.github.io/"
+        }
+      ]
+    },
+    {
+      "id": "E05",
+      "island": "embodied",
+      "title": "π0: A Vision-Language-Action Flow Model",
+      "year": 2024,
+      "type": "paper",
+      "level": "core",
+      "summary": "以视觉语言模型结合流匹配动作生成，学习连续动作序列与多种机器人技能。",
+      "learn": [
+        "理解连续动作生成和离散 token 的区别",
+        "查看视觉语言主干与动作专家的连接",
+        "比较动作生成频率和执行方式"
+      ],
+      "prerequisites": [
+        "S02"
+      ],
+      "related": [
+        "E06",
+        "R03",
+        "E04"
+      ],
+      "tags": [
+        "VLA",
+        "Flow Matching"
+      ],
+      "terms": [
+        "vla",
+        "flow",
+        "actionchunk"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2410.24164"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/Physical-Intelligence/openpi"
+        },
+        {
+          "label": "项目页",
+          "url": "https://www.physicalintelligence.company/blog/pi0"
+        }
+      ]
+    },
+    {
+      "id": "E06",
+      "island": "embodied",
+      "title": "π0.5: Open-World Generalization",
+      "year": 2025,
+      "type": "paper",
+      "level": "advanced",
+      "summary": "在 π0 基础上联合机器人数据、语义子任务和其他异构监督，研究面向新环境的长程操作泛化。",
+      "learn": [
+        "区分高层语义预测与低层动作",
+        "理解异构数据的联合训练",
+        "按新家庭、新物体和长任务阅读实验"
+      ],
+      "prerequisites": [
+        "E05"
+      ],
+      "related": [
+        "E02",
+        "E03"
+      ],
+      "tags": [
+        "VLA",
+        "Generalization"
+      ],
+      "terms": [
+        "vla",
+        "flow"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://proceedings.mlr.press/v305/black25a.html"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/Physical-Intelligence/openpi"
+        }
+      ]
+    },
+    {
+      "id": "E07",
+      "island": "embodied",
+      "title": "SmolVLA",
+      "year": 2025,
+      "type": "paper",
+      "level": "core",
+      "summary": "面向较低计算成本的开放 VLA，结合小型视觉语言模型与动作生成，并探索推理与执行的异步配合。",
+      "learn": [
+        "拆解视觉语言主干和动作专家",
+        "理解异步推理如何影响动作执行",
+        "在 LeRobot 流程中检查数据与模型接口"
+      ],
+      "prerequisites": [
+        "S03"
+      ],
+      "related": [
+        "E05",
+        "E04"
+      ],
+      "tags": [
+        "VLA",
+        "Efficient Models"
+      ],
+      "terms": [
+        "vla",
+        "flow",
+        "actionchunk"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2506.01844"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/huggingface/lerobot"
+        },
+        {
+          "label": "官方介绍",
+          "url": "https://huggingface.co/blog/smolvla"
+        }
+      ]
+    },
+    {
+      "id": "E08",
+      "island": "embodied",
+      "title": "GR00T N1",
+      "year": 2025,
+      "type": "paper",
+      "level": "advanced",
+      "summary": "面向通用人形机器人技能的开放基础模型，结合视觉语言理解与动作生成，研究异构机器人数据和合成数据的作用。",
+      "learn": [
+        "理解慢速语义模块与快速动作模块",
+        "比较真实和合成数据的用途",
+        "检查机器人本体与动作输出接口"
+      ],
+      "prerequisites": [],
+      "related": [
+        "E05",
+        "E03",
+        "SIM02"
+      ],
+      "tags": [
+        "Humanoid",
+        "VLA"
+      ],
+      "terms": [
+        "vla",
+        "flow"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2503.14734"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/NVIDIA/Isaac-GR00T"
+        }
+      ],
+      "note": "本卡对应 N1 论文；代码仓库持续发布后续版本，请按论文版本核对模型与配置。"
+    },
+    {
+      "id": "W00",
+      "island": "world",
+      "title": "A Path Towards Autonomous Machine Intelligence",
+      "year": 2022,
+      "type": "paper",
+      "level": "foundation",
+      "summary": "LeCun 的研究愿景文章：通过表征、预测、记忆与规划组织自主智能。用于建立问题地图，再进入具体方法。",
+      "learn": [
+        "区分能量目标、预测模型和规划器",
+        "理解为何在表征空间预测",
+        "把概念框架映射到后续可运行方法"
+      ],
+      "prerequisites": [],
+      "related": [
+        "W02",
+        "W01",
+        "W04"
+      ],
+      "tags": [
+        "Research Vision",
+        "JEPA"
+      ],
+      "terms": [
+        "jepa",
+        "worldmodel"
+      ],
+      "links": [
+        {
+          "label": "文章",
+          "url": "https://openreview.net/forum?id=BZ5a1r-kVsf"
+        }
+      ],
+      "note": "概念性研究愿景，不是统一实现或评测基准。"
+    },
+    {
+      "id": "W01",
+      "island": "world",
+      "title": "DreamerV3 · Mastering Diverse Control Tasks through World Models",
+      "year": 2025,
+      "type": "paper",
+      "level": "core",
+      "summary": "学习潜在动力学，并在想象轨迹中优化策略。用它理解世界模型如何参与奖励驱动的决策学习。",
+      "learn": [
+        "分清表示、动力学、奖励和价值模型",
+        "理解想象 rollout 的策略学习",
+        "阅读跨任务稳定训练的设计"
+      ],
+      "prerequisites": [
+        "S01"
+      ],
+      "related": [
+        "W03",
+        "W04"
+      ],
+      "tags": [
+        "World Models",
+        "Model-Based RL"
+      ],
+      "terms": [
+        "rl",
+        "worldmodel"
+      ],
+      "links": [
+        {
+          "label": "Nature 论文",
+          "url": "https://www.nature.com/articles/s41586-025-08744-2"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/danijar/dreamerv3"
+        }
+      ],
+      "note": "年份采用 Nature 2025 正式发表版本；DreamerV3 首版预印本发布于 2023 年。"
+    },
+    {
+      "id": "W02",
+      "island": "world",
+      "title": "I-JEPA",
+      "year": 2023,
+      "type": "paper",
+      "level": "core",
+      "summary": "从图像可见区域预测被遮挡区域的目标表征，在不重建像素的情况下学习视觉语义。",
+      "learn": [
+        "区分上下文编码器、目标编码器与预测器",
+        "理解遮挡区域和预测目标",
+        "认识表征学习与动作条件动力学的差别"
+      ],
+      "prerequisites": [],
+      "related": [
+        "W00",
+        "W04",
+        "W05"
+      ],
+      "tags": [
+        "Self-Supervised Learning",
+        "JEPA"
+      ],
+      "terms": [
+        "jepa"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2301.08243"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/facebookresearch/ijepa"
+        }
+      ],
+      "note": "I-JEPA 是图像表征学习方法，不是直接可控制机器人的动作世界模型。"
+    },
+    {
+      "id": "W03",
+      "island": "world",
+      "title": "DINO-WM",
+      "year": 2024,
+      "type": "paper",
+      "level": "core",
+      "summary": "利用预训练视觉特征学习动作条件下的未来变化，再通过目标图像规划动作，把表征学习接到控制问题。",
+      "learn": [
+        "理解冻结视觉特征与动力学学习的分工",
+        "在潜在空间定义目标匹配代价",
+        "跟踪候选动作、预测未来与滚动规划"
+      ],
+      "prerequisites": [],
+      "related": [
+        "W02",
+        "W04",
+        "W05"
+      ],
+      "tags": [
+        "Visual Planning",
+        "World Models"
+      ],
+      "terms": [
+        "worldmodel",
+        "mpc"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2411.04983"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/gaoyuezhou/dino_wm"
+        },
+        {
+          "label": "项目页",
+          "url": "https://dino-wm.github.io/"
+        }
+      ]
+    },
+    {
+      "id": "W04",
+      "island": "world",
+      "title": "V-JEPA 2",
+      "year": 2025,
+      "type": "paper",
+      "level": "core",
+      "summary": "通过大规模视频学习预测表征，并以动作条件后训练连接机器人规划。区分视频理解模型与控制阶段。",
+      "learn": [
+        "读懂视频中的遮挡表征预测",
+        "区分 V-JEPA 2 与动作条件模型",
+        "理解目标条件规划如何利用预测特征"
+      ],
+      "prerequisites": [
+        "W02"
+      ],
+      "related": [
+        "W03",
+        "W06",
+        "DS09"
+      ],
+      "tags": [
+        "Video",
+        "JEPA",
+        "Robotics"
+      ],
+      "terms": [
+        "jepa",
+        "worldmodel",
+        "mpc"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2506.09985"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/facebookresearch/vjepa2"
+        }
+      ]
+    },
+    {
+      "id": "W05",
+      "island": "world",
+      "title": "LeWorldModel (LeWM)",
+      "year": 2026,
+      "type": "paper",
+      "level": "advanced",
+      "summary": "从像素端到端学习潜在世界模型，以下一步表征预测和分布正则化稳定训练，探索更简洁的 JEPA 控制方案。",
+      "learn": [
+        "理解表征坍塌与潜在分布约束",
+        "跟踪动作条件的下一步预测",
+        "比较端到端训练与冻结编码器路线"
+      ],
+      "prerequisites": [
+        "W02"
+      ],
+      "related": [
+        "W03",
+        "W04",
+        "F02"
+      ],
+      "tags": [
+        "JEPA",
+        "End-to-End Learning"
+      ],
+      "terms": [
+        "jepa",
+        "worldmodel",
+        "mpc"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2603.19312"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/lucas-maes/le-wm"
+        }
+      ]
+    },
+    {
+      "id": "W06",
+      "island": "world",
+      "title": "V-JEPA 2.1",
+      "year": 2026,
+      "type": "paper",
+      "level": "advanced",
+      "summary": "以密集预测目标和多层自监督增强图像、视频特征的空间与时间结构，连接密集视觉理解和下游机器人任务。",
+      "learn": [
+        "理解可见与遮挡 token 都参与预测",
+        "比较中间层监督和最终层监督",
+        "按感知任务与机器人任务分别读评估"
+      ],
+      "prerequisites": [
+        "W02"
+      ],
+      "related": [
+        "W04",
+        "DS09"
+      ],
+      "tags": [
+        "Dense Features",
+        "Video",
+        "JEPA"
+      ],
+      "terms": [
+        "jepa",
+        "worldmodel"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2603.14482"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/facebookresearch/vjepa2"
+        }
+      ],
+      "note": "与 V-JEPA 2 共用仓库入口；复现时选择 2.1 对应说明和权重。"
+    },
+    {
+      "id": "M01",
+      "island": "multi",
+      "title": "MADDPG",
+      "year": 2017,
+      "type": "paper",
+      "level": "core",
+      "summary": "训练时让 critic 看见多智能体信息，执行时各 agent 使用自己的观测，建立集中训练、分散执行的直觉。",
+      "learn": [
+        "识别环境非平稳性的来源",
+        "区分集中 critic 和分散 actor",
+        "比较合作、竞争与混合回报"
+      ],
+      "prerequisites": [
+        "S01"
+      ],
+      "related": [
+        "M02",
+        "M03",
+        "B07"
+      ],
+      "tags": [
+        "MARL",
+        "Actor-Critic"
+      ],
+      "terms": [
+        "marl",
+        "ctde",
+        "rl"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/1706.02275"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/openai/maddpg"
+        }
+      ]
+    },
+    {
+      "id": "M02",
+      "island": "multi",
+      "title": "QMIX",
+      "year": 2018,
+      "type": "paper",
+      "level": "core",
+      "summary": "将各智能体的动作价值通过单调混合网络组合为团队价值，研究合作任务中的信用分配和分散决策。",
+      "learn": [
+        "理解局部 Q 与团队 Q 的关系",
+        "读懂单调约束为何允许分散选动作",
+        "识别价值分解的适用任务设置"
+      ],
+      "prerequisites": [
+        "S01"
+      ],
+      "related": [
+        "M01",
+        "M03"
+      ],
+      "tags": [
+        "MARL",
+        "Value Decomposition"
+      ],
+      "terms": [
+        "marl",
+        "ctde",
+        "rl"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/1803.11485"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/oxwhirl/pymarl"
+        }
+      ]
+    },
+    {
+      "id": "M03",
+      "island": "multi",
+      "title": "MAPPO",
+      "year": 2021,
+      "type": "paper",
+      "level": "core",
+      "summary": "把 PPO 扩展到合作多智能体任务，展示训练实现、输入选择和超参数如何影响一个强基线。",
+      "learn": [
+        "比较独立 PPO 与集中价值估计",
+        "理解共享策略和 agent 身份输入",
+        "记录训练预算和评估设置"
+      ],
+      "prerequisites": [
+        "S01"
+      ],
+      "related": [
+        "M01",
+        "M02",
+        "B07"
+      ],
+      "tags": [
+        "MARL",
+        "PPO"
+      ],
+      "terms": [
+        "marl",
+        "ctde",
+        "rl"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2103.01955"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/marlbenchmark/on-policy"
+        }
+      ]
+    },
+    {
+      "id": "M04",
+      "island": "multi",
+      "title": "PARTNR",
+      "year": 2024,
+      "type": "paper",
+      "level": "core",
+      "summary": "在家庭环境中评估人机协作规划，任务包含空间、时序与能力差异约束，连接多智能体决策和语言规划。",
+      "learn": [
+        "将自然语言任务转为约束",
+        "观察分工、进度跟踪与错误恢复",
+        "区分规划失败、感知失败和技能失败"
+      ],
+      "prerequisites": [],
+      "related": [
+        "DS08",
+        "B08",
+        "SIM05",
+        "F04"
+      ],
+      "tags": [
+        "Human-Robot Collaboration",
+        "Planning"
+      ],
+      "terms": [
+        "marl"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2411.00081"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/facebookresearch/partnr-planner"
+        },
+        {
+          "label": "项目页",
+          "url": "https://aihabitat.org/partnr/"
+        }
+      ]
+    },
+    {
+      "id": "M05",
+      "island": "multi",
+      "title": "RoboTwin 2.0 · Bimanual Coordination",
+      "year": 2025,
+      "type": "benchmark",
+      "level": "core",
+      "summary": "通过双臂操作任务与数据生成研究协调控制、泛化和域随机化。适合作为多执行器协作的邻近方向。",
+      "learn": [
+        "理解两臂动作和物体交互的耦合",
+        "比较干净场景与随机化场景",
+        "区分双臂控制与独立多智能体决策"
+      ],
+      "prerequisites": [],
+      "related": [
+        "B06",
+        "DS07",
+        "R02"
+      ],
+      "tags": [
+        "Bimanual",
+        "Domain Randomization"
+      ],
+      "terms": [
+        "actionchunk",
+        "domainrandomization"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2506.18088"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/RoboTwin-Platform/RoboTwin"
+        },
+        {
+          "label": "项目页",
+          "url": "https://robotwin-platform.github.io/"
+        }
+      ],
+      "note": "双臂机器人不自动等同于两个自主 agent；此节点用于协调控制的对照阅读。"
+    },
+    {
+      "id": "D01",
+      "island": "distributed",
+      "title": "Ray: A Distributed Framework for Emerging AI Applications",
+      "year": 2018,
+      "type": "paper",
+      "level": "foundation",
+      "summary": "通过任务、actor 和对象存储组织分布式计算，理解训练、仿真和推理工作负载如何并行协作。",
+      "learn": [
+        "区分无状态 task 与有状态 actor",
+        "理解对象依赖与远程结果",
+        "把仿真采样和策略更新画成执行图"
+      ],
+      "prerequisites": [],
+      "related": [
+        "D03",
+        "D05"
+      ],
+      "tags": [
+        "Distributed Systems",
+        "Actors"
+      ],
+      "terms": [
+        "rl"
+      ],
+      "links": [
+        {
+          "label": "OSDI 论文",
+          "url": "https://www.usenix.org/conference/osdi18/presentation/moritz"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/ray-project/ray"
+        }
+      ]
+    },
+    {
+      "id": "D02",
+      "island": "distributed",
+      "title": "Federated Averaging (FedAvg)",
+      "year": 2017,
+      "type": "paper",
+      "level": "core",
+      "summary": "客户端本地训练后聚合模型更新，以更少通信组织分散数据上的学习。是理解联邦优化的起点。",
+      "learn": [
+        "画出客户端训练和服务器聚合循环",
+        "区分按样本量加权与简单平均",
+        "分析本地步数和数据异质性的影响"
+      ],
+      "prerequisites": [],
+      "related": [
+        "D03",
+        "D04",
+        "B09"
+      ],
+      "tags": [
+        "Federated Learning",
+        "Optimization"
+      ],
+      "terms": [
+        "noniid"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://proceedings.mlr.press/v54/mcmahan17a.html"
+        },
+        {
+          "label": "Flower 实现",
+          "url": "https://github.com/flwrlabs/flower"
+        }
+      ],
+      "note": "Flower 链接是 FedAvg 的框架实现入口，不是原论文作者代码。"
+    },
+    {
+      "id": "D03",
+      "island": "distributed",
+      "title": "Flower: A Friendly Federated Learning Framework",
+      "year": 2020,
+      "type": "repo",
+      "level": "core",
+      "summary": "用统一接口组织客户端、策略与聚合过程，把联邦学习算法从伪代码接入可运行实验。",
+      "learn": [
+        "拆分客户端训练与服务器策略",
+        "复现 FedAvg 的一轮通信",
+        "控制客户端采样和数据划分"
+      ],
+      "prerequisites": [
+        "D02"
+      ],
+      "related": [
+        "D04",
+        "DS10"
+      ],
+      "tags": [
+        "Federated Learning",
+        "Framework"
+      ],
+      "terms": [
+        "noniid"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2007.14390"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/flwrlabs/flower"
+        },
+        {
+          "label": "文档",
+          "url": "https://flower.ai/docs/"
+        }
+      ]
+    },
+    {
+      "id": "D04",
+      "island": "distributed",
+      "title": "FedScale",
+      "year": 2022,
+      "type": "paper",
+      "level": "core",
+      "summary": "面向联邦学习的可扩展评估平台，将真实数据分布、设备能力与系统开销纳入实验设计。",
+      "learn": [
+        "区分统计异质性和系统异质性",
+        "查看客户端可用性与计算速度建模",
+        "同时报告模型质量与训练时间"
+      ],
+      "prerequisites": [
+        "D02"
+      ],
+      "related": [
+        "DS11",
+        "B10",
+        "F05"
+      ],
+      "tags": [
+        "Federated Learning",
+        "Benchmarking"
+      ],
+      "terms": [
+        "noniid"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://proceedings.mlr.press/v162/lai22a.html"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/SymbioticLab/FedScale"
+        }
+      ]
+    },
+    {
+      "id": "D05",
+      "island": "distributed",
+      "title": "vLLM / PagedAttention",
+      "year": 2023,
+      "type": "paper",
+      "level": "core",
+      "summary": "通过分页管理注意力 KV 缓存，减少内存浪费并提高语言模型服务吞吐，建立推理系统的基本成本模型。",
+      "learn": [
+        "理解 KV 缓存随序列增长的成本",
+        "类比虚拟内存理解分页注意力",
+        "同时观察吞吐、首 token 延迟和尾延迟"
+      ],
+      "prerequisites": [],
+      "related": [
+        "D06",
+        "D01"
+      ],
+      "tags": [
+        "LLM Serving",
+        "Memory"
+      ],
+      "terms": [
+        "slo"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2309.06180"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/vllm-project/vllm"
+        }
+      ]
+    },
+    {
+      "id": "D06",
+      "island": "distributed",
+      "title": "DistServe",
+      "year": 2024,
+      "type": "paper",
+      "level": "advanced",
+      "summary": "把大模型请求的 prefill 与 decode 分离部署，通过资源分配满足延迟目标并提高有效服务吞吐。",
+      "learn": [
+        "区分 prefill 和 decode 的计算特性",
+        "理解阶段分离带来的通信成本",
+        "按延迟 SLO 评估 goodput"
+      ],
+      "prerequisites": [
+        "D05"
+      ],
+      "related": [
+        "F04",
+        "D01"
+      ],
+      "tags": [
+        "LLM Serving",
+        "Disaggregation"
+      ],
+      "terms": [
+        "slo"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2401.09670"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/LLMServe/DistServe"
+        }
+      ]
+    },
+    {
+      "id": "DS01",
+      "island": "harbor",
+      "title": "robomimic Datasets",
+      "year": 2021,
+      "type": "dataset",
+      "level": "core",
+      "summary": "包含仿真与真实机器人操作示范，适合研究示范质量、观测形式与离线策略学习。",
+      "learn": [
+        "查看 HDF5 的 episode 和动作字段",
+        "选择一个任务先做 BC 基线"
+      ],
+      "prerequisites": [],
+      "related": [
+        "S02",
+        "R01"
+      ],
+      "tags": [
+        "Demonstrations",
+        "HDF5"
+      ],
+      "terms": [
+        "bc"
+      ],
+      "links": [
+        {
+          "label": "数据文档",
+          "url": "https://robomimic.github.io/docs/datasets/overview.html"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/ARISE-Initiative/robomimic"
+        }
+      ],
+      "dataset": {
+        "data_type": "机器人示范：图像、状态、动作",
+        "scale": "多任务、多来源示范集合",
+        "access": "按官方文档选择数据集与处理脚本",
+        "recommended_use": "从低维观测 BC 开始，再切换图像输入"
+      }
+    },
+    {
+      "id": "DS02",
+      "island": "harbor",
+      "title": "ALOHA Demonstrations",
+      "year": 2023,
+      "type": "dataset",
+      "level": "core",
+      "summary": "ALOHA 遥操作采集与 ACT 配套示范入口，连接双臂硬件、同步观测和动作序列训练。",
+      "learn": [
+        "检查关节动作与多相机时间对齐",
+        "区分实机采集和 ACT 仿真示范"
+      ],
+      "prerequisites": [],
+      "related": [
+        "R02",
+        "S03"
+      ],
+      "tags": [
+        "Bimanual",
+        "Demonstrations"
+      ],
+      "terms": [
+        "bc",
+        "actionchunk"
+      ],
+      "links": [
+        {
+          "label": "项目页",
+          "url": "https://tonyzhaozh.github.io/aloha/"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/tonyzhaozh/act"
+        },
+        {
+          "label": "采集工具",
+          "url": "https://github.com/tonyzhaozh/aloha"
+        }
+      ],
+      "dataset": {
+        "data_type": "双臂遥操作示范与配套仿真数据",
+        "scale": "按任务采集或下载的示范集合",
+        "access": "从 ACT README 与 ALOHA 工具进入；任务数据分别提供",
+        "recommended_use": "实践动作分块、相机同步与双臂 BC"
+      },
+      "note": "原始 ALOHA / ACT 配套示范入口，不把后续 Mobile ALOHA 数据混作同一数据集。"
+    },
+    {
+      "id": "DS03",
+      "island": "harbor",
+      "title": "BridgeData V2",
+      "year": 2023,
+      "type": "dataset",
+      "level": "core",
+      "summary": "跨场景的真实机器人操作数据，包含多样物体、任务和视觉条件，适合语言条件策略与迁移研究。",
+      "learn": [
+        "理解跨场景划分与任务描述",
+        "检查动作规范再混合其他数据"
+      ],
+      "prerequisites": [],
+      "related": [
+        "E03",
+        "E04"
+      ],
+      "tags": [
+        "Real Robot",
+        "Transfer"
+      ],
+      "terms": [
+        "vla",
+        "bc"
+      ],
+      "links": [
+        {
+          "label": "项目页",
+          "url": "https://bridgedata-v2.github.io/"
+        }
+      ],
+      "dataset": {
+        "data_type": "真实机器人图像、动作与语言标注",
+        "scale": "多场景、多任务操作轨迹",
+        "access": "通过官方项目页的数据下载说明获取",
+        "recommended_use": "比较单场景训练与跨场景迁移"
+      }
+    },
+    {
+      "id": "DS04",
+      "island": "harbor",
+      "title": "Open X-Embodiment Dataset",
+      "year": 2023,
+      "type": "dataset",
+      "level": "core",
+      "summary": "统一入口下汇集跨机器人、跨机构数据；阅读时同时关注各子数据集的动作语义和使用条件。",
+      "learn": [
+        "逐一核对本体与动作字段",
+        "按任务或机器人设计混合采样"
+      ],
+      "prerequisites": [],
+      "related": [
+        "E03",
+        "E04",
+        "E05"
+      ],
+      "tags": [
+        "Cross-Embodiment",
+        "RLDS"
+      ],
+      "terms": [
+        "vla"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2310.08864"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/google-deepmind/open_x_embodiment"
+        }
+      ],
+      "dataset": {
+        "data_type": "多本体机器人轨迹与语言信息",
+        "scale": "跨机构的大规模数据集合",
+        "access": "从官方仓库查看各子数据集、RLDS 转换和许可",
+        "recommended_use": "研究跨本体预训练与数据混合"
+      },
+      "note": "集合入口不代表各子数据集具有完全相同的许可或下载条件。"
+    },
+    {
+      "id": "DS05",
+      "island": "harbor",
+      "title": "DROID",
+      "year": 2024,
+      "type": "dataset",
+      "level": "core",
+      "summary": "在多样真实场景中采集的机器人操作数据，提供训练用 RLDS 格式和更丰富的原始相机数据。",
+      "learn": [
+        "先用官方小样本查看 episode",
+        "按用途选择 RLDS 或原始视频"
+      ],
+      "prerequisites": [],
+      "related": [
+        "E03",
+        "E05"
+      ],
+      "tags": [
+        "Real Robot",
+        "RLDS"
+      ],
+      "terms": [
+        "vla",
+        "bc"
+      ],
+      "links": [
+        {
+          "label": "数据文档",
+          "url": "https://droid-dataset.github.io/droid/the-droid-dataset"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/droid-dataset/droid"
+        }
+      ],
+      "dataset": {
+        "data_type": "多视角图像、机器人状态、动作与语言",
+        "scale": "大规模真实环境数据；官方提供 100 条调试样本",
+        "access": "按官方文档从云存储获取相应格式",
+        "recommended_use": "调试数据读取后研究真实场景泛化"
+      }
+    },
+    {
+      "id": "DS06",
+      "island": "harbor",
+      "title": "MimicGen Datasets",
+      "year": 2023,
+      "type": "dataset",
+      "level": "core",
+      "summary": "从少量源示范生成的仿真轨迹，可用于分析数据生成数量、场景覆盖与模仿策略表现。",
+      "learn": [
+        "区分源示范和生成示范",
+        "在相同评估分布比较数据扩展收益"
+      ],
+      "prerequisites": [],
+      "related": [
+        "R04",
+        "SIM04"
+      ],
+      "tags": [
+        "Synthetic Data",
+        "Demonstrations"
+      ],
+      "terms": [
+        "bc",
+        "domainrandomization"
+      ],
+      "links": [
+        {
+          "label": "数据文档",
+          "url": "https://mimicgen.github.io/docs/datasets/mimicgen_corl_2023.html"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/NVlabs/mimicgen"
+        }
+      ],
+      "dataset": {
+        "data_type": "仿真机器人示范、状态与动作",
+        "scale": "多任务、多分布的生成轨迹",
+        "access": "官方文档提供数据集与下载脚本",
+        "recommended_use": "研究可控的数据规模和分布扩展"
+      }
+    },
+    {
+      "id": "DS07",
+      "island": "harbor",
+      "title": "RoboTwin-OD",
+      "year": 2025,
+      "type": "dataset",
+      "level": "core",
+      "summary": "RoboTwin 的物体资产集合，为双臂场景构建与物体多样性提供基础素材。",
+      "learn": [
+        "查看物体几何、语义与操作信息",
+        "区分资产库和执行轨迹数据"
+      ],
+      "prerequisites": [],
+      "related": [
+        "M05",
+        "B06"
+      ],
+      "tags": [
+        "3D Assets",
+        "Bimanual"
+      ],
+      "terms": [
+        "domainrandomization"
+      ],
+      "links": [
+        {
+          "label": "官方文档",
+          "url": "https://robotwin-platform.github.io/doc/"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/RoboTwin-Platform/RoboTwin"
+        }
+      ],
+      "dataset": {
+        "data_type": "面向操作仿真的三维物体资产",
+        "scale": "多类别物体集合",
+        "access": "按 RoboTwin 官方文档下载资产及查看使用规则",
+        "recommended_use": "构建新场景和物体泛化评估"
+      },
+      "note": "RoboTwin-OD 是物体资产数据；RoboTwin 的机器人轨迹数据是另一个数据资源。"
+    },
+    {
+      "id": "DS08",
+      "island": "harbor",
+      "title": "PARTNR Tasks & Demonstrations",
+      "year": 2024,
+      "type": "dataset",
+      "level": "core",
+      "summary": "家庭协作任务包含自然语言指令和可检验约束，配套资源连接任务生成、仿真执行与规划学习。",
+      "learn": [
+        "检查空间、时序与能力约束",
+        "区分任务描述、评估器和人类示范"
+      ],
+      "prerequisites": [],
+      "related": [
+        "M04",
+        "B08",
+        "SIM05"
+      ],
+      "tags": [
+        "Collaboration",
+        "Language Tasks"
+      ],
+      "terms": [
+        "marl"
+      ],
+      "links": [
+        {
+          "label": "项目页",
+          "url": "https://aihabitat.org/partnr/"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/facebookresearch/partnr-planner"
+        }
+      ],
+      "dataset": {
+        "data_type": "协作任务定义、约束与配套仿真示范",
+        "scale": "论文定义 100,000 个自然语言任务",
+        "access": "遵循官方仓库下载步骤；场景资产按各自条款获取",
+        "recommended_use": "研究任务分工、协作规划和进度跟踪"
+      }
+    },
+    {
+      "id": "DS09",
+      "island": "harbor",
+      "title": "Ego4D",
+      "year": 2021,
+      "type": "dataset",
+      "level": "core",
+      "summary": "第一视角视频数据与任务标注，支持理解日常活动、交互和未来事件；适合视频表征学习。",
+      "learn": [
+        "选择与研究问题匹配的标注任务",
+        "区分人类视频与带机器人动作的轨迹"
+      ],
+      "prerequisites": [],
+      "related": [
+        "W04",
+        "W06"
+      ],
+      "tags": [
+        "Egocentric Video",
+        "Pretraining"
+      ],
+      "terms": [
+        "jepa"
+      ],
+      "links": [
+        {
+          "label": "数据官网",
+          "url": "https://ego4d-data.org/"
+        }
+      ],
+      "dataset": {
+        "data_type": "第一视角视频及多种任务标注",
+        "scale": "跨场景、跨参与者的长时视频集合",
+        "access": "在官方网站申请并遵循数据许可",
+        "recommended_use": "研究视频理解、动作预期和视觉预训练"
+      },
+      "note": "视频本身不提供统一的机器人控制动作；用于控制时需要相应数据或适配。"
+    },
+    {
+      "id": "DS10",
+      "island": "harbor",
+      "title": "LEAF / FEMNIST",
+      "year": 2018,
+      "type": "dataset",
+      "level": "core",
+      "summary": "按用户划分的联邦学习数据和评估工具；FEMNIST 用书写者划分构造自然的数据异质性。",
+      "learn": [
+        "比较按用户和随机样本划分",
+        "报告客户端样本量与类别分布"
+      ],
+      "prerequisites": [],
+      "related": [
+        "D02",
+        "D03",
+        "B09"
+      ],
+      "tags": [
+        "Federated Data",
+        "Non-IID"
+      ],
+      "terms": [
+        "noniid"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/TalwalkarLab/leaf"
+        },
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/1812.01097"
+        }
+      ],
+      "dataset": {
+        "data_type": "用户分区的图像、文本等联邦任务数据",
+        "scale": "多个任务与客户端级划分",
+        "access": "按 LEAF 仓库各数据集预处理流程获取",
+        "recommended_use": "以 FEMNIST 建立 non-IID 联邦基线"
+      }
+    },
+    {
+      "id": "DS11",
+      "island": "harbor",
+      "title": "FedScale Datasets",
+      "year": 2022,
+      "type": "dataset",
+      "level": "core",
+      "summary": "为联邦评估整理的客户端分区数据及相关系统资源，连接数据异质性与规模化实验。",
+      "learn": [
+        "检查客户端划分和数据任务",
+        "结合设备轨迹解释系统开销"
+      ],
+      "prerequisites": [],
+      "related": [
+        "D04",
+        "B10"
+      ],
+      "tags": [
+        "Federated Data",
+        "System Traces"
+      ],
+      "terms": [
+        "noniid"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/SymbioticLab/FedScale"
+        },
+        {
+          "label": "数据目录",
+          "url": "https://github.com/SymbioticLab/FedScale/tree/master/benchmark/dataset"
+        }
+      ],
+      "dataset": {
+        "data_type": "联邦任务数据、客户端划分与系统轨迹",
+        "scale": "多任务、大量客户端的集合",
+        "access": "按 FedScale 官方仓库的数据说明获取",
+        "recommended_use": "比较统计和系统异质性下的训练效果"
+      }
+    },
+    {
+      "id": "SIM01",
+      "island": "harbor",
+      "title": "MuJoCo",
+      "year": 2012,
+      "type": "simulator",
+      "level": "foundation",
+      "summary": "机器人动力学与接触仿真引擎，是多个操作环境的底层基础。适合学习模型描述、状态与控制接口。",
+      "learn": [
+        "辨认 MJCF 中的关节与执行器",
+        "复查物理时间步和控制时间步"
+      ],
+      "prerequisites": [],
+      "related": [
+        "S04",
+        "SIM04",
+        "B01"
+      ],
+      "tags": [
+        "Physics",
+        "Simulation"
+      ],
+      "terms": [
+        "simtoreal"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/google-deepmind/mujoco"
+        },
+        {
+          "label": "文档",
+          "url": "https://mujoco.readthedocs.io/en/stable/overview.html"
+        }
+      ]
+    },
+    {
+      "id": "SIM02",
+      "island": "harbor",
+      "title": "Isaac Lab",
+      "year": 2024,
+      "type": "simulator",
+      "level": "advanced",
+      "summary": "基于 Isaac Sim 的机器人学习框架，组织并行环境、传感器和策略训练，常用于机器人与人形技能学习。",
+      "learn": [
+        "理解场景、任务和训练器的边界",
+        "查看机器人资产、观测和奖励配置"
+      ],
+      "prerequisites": [],
+      "related": [
+        "E08",
+        "SIM03"
+      ],
+      "tags": [
+        "Simulation",
+        "Robot Learning"
+      ],
+      "terms": [
+        "rl",
+        "simtoreal"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/isaac-sim/IsaacLab"
+        },
+        {
+          "label": "文档",
+          "url": "https://isaac-sim.github.io/IsaacLab/"
+        }
+      ]
+    },
+    {
+      "id": "SIM03",
+      "island": "harbor",
+      "title": "ManiSkill 3",
+      "year": 2025,
+      "type": "simulator",
+      "level": "core",
+      "summary": "面向操作技能的仿真与学习平台，支持并行环境、示范数据和多种机器人任务。",
+      "learn": [
+        "选择任务并核对动作模式",
+        "比较状态、图像与点云观测"
+      ],
+      "prerequisites": [],
+      "related": [
+        "SIM02",
+        "B05"
+      ],
+      "tags": [
+        "Manipulation",
+        "Simulation"
+      ],
+      "terms": [
+        "rl",
+        "bc",
+        "simtoreal"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/mani-skill/ManiSkill"
+        },
+        {
+          "label": "项目页",
+          "url": "https://www.maniskill.ai/"
+        }
+      ],
+      "note": "年份采用 ManiSkill 3 的 RSS 2025 论文版本；项目仓库持续维护。"
+    },
+    {
+      "id": "SIM04",
+      "island": "harbor",
+      "title": "robosuite",
+      "year": 2020,
+      "type": "simulator",
+      "level": "core",
+      "summary": "基于 MuJoCo 的机器人操作环境框架，为任务、控制器、相机和示范采集提供模块化接口。",
+      "learn": [
+        "比较关节控制与末端位姿控制",
+        "检查相机配置与任务重置分布"
+      ],
+      "prerequisites": [],
+      "related": [
+        "S02",
+        "R04",
+        "R05",
+        "SIM01"
+      ],
+      "tags": [
+        "Manipulation",
+        "Simulation"
+      ],
+      "terms": [
+        "bc",
+        "simtoreal"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/ARISE-Initiative/robosuite"
+        },
+        {
+          "label": "文档",
+          "url": "https://robosuite.ai/"
+        }
+      ]
+    },
+    {
+      "id": "SIM05",
+      "island": "harbor",
+      "title": "Habitat",
+      "year": 2019,
+      "type": "simulator",
+      "level": "core",
+      "summary": "面向室内导航、操作与具身协作的仿真生态。Habitat-Lab 提供任务定义、训练与评估入口。",
+      "learn": [
+        "区分 Habitat-Sim 与 Habitat-Lab",
+        "检查场景数据、传感器和任务配置"
+      ],
+      "prerequisites": [],
+      "related": [
+        "M04",
+        "DS08",
+        "B08"
+      ],
+      "tags": [
+        "Embodied AI",
+        "Navigation"
+      ],
+      "terms": [
+        "mdp",
+        "simtoreal"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/facebookresearch/habitat-lab"
+        },
+        {
+          "label": "项目页",
+          "url": "https://aihabitat.org/"
+        }
+      ]
+    },
+    {
+      "id": "B01",
+      "island": "harbor",
+      "title": "Meta-World",
+      "year": 2019,
+      "type": "benchmark",
+      "level": "core",
+      "summary": "多任务与元强化学习操作基准，用相关操作任务比较共享学习能力和快速适应。",
+      "learn": [
+        "区分多任务和元学习协议",
+        "核对任务集合与训练测试划分"
+      ],
+      "prerequisites": [],
+      "related": [
+        "S01",
+        "SIM01"
+      ],
+      "tags": [
+        "Meta-RL",
+        "Manipulation"
+      ],
+      "terms": [
+        "rl"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/Farama-Foundation/Metaworld"
+        },
+        {
+          "label": "文档",
+          "url": "https://metaworld.farama.org/"
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "island": "harbor",
+      "title": "RLBench",
+      "year": 2019,
+      "type": "benchmark",
+      "level": "core",
+      "summary": "提供丰富操作任务、示范生成与视觉观测的机器人学习基准，基于 CoppeliaSim 和 PyRep。",
+      "learn": [
+        "查看任务变体与成功条件",
+        "对齐观测模式和动作接口"
+      ],
+      "prerequisites": [],
+      "related": [
+        "R02",
+        "R03",
+        "B03"
+      ],
+      "tags": [
+        "Manipulation",
+        "Imitation Learning"
+      ],
+      "terms": [
+        "bc"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/stepjam/RLBench"
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "island": "harbor",
+      "title": "LIBERO Benchmark",
+      "year": 2023,
+      "type": "benchmark",
+      "level": "core",
+      "summary": "用不同类型的语言条件操作任务测试知识迁移，既可用于多任务策略，也可用于持续学习评估。",
+      "learn": [
+        "区分 LIBERO 的各任务套件",
+        "固定示范预算和评估种子"
+      ],
+      "prerequisites": [],
+      "related": [
+        "R05",
+        "E04"
+      ],
+      "tags": [
+        "Lifelong Learning",
+        "VLA"
+      ],
+      "terms": [
+        "vla",
+        "bc"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/Lifelong-Robot-Learning/LIBERO"
+        },
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2306.03310"
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "island": "harbor",
+      "title": "RoboCasa365",
+      "year": 2026,
+      "type": "benchmark",
+      "level": "advanced",
+      "summary": "覆盖 365 个日常厨房任务的仿真框架，连接原子技能、组合任务与通用机器人策略评估。",
+      "learn": [
+        "区分原子技能和组合任务",
+        "阅读具体榜单的数据与评估协议",
+        "分别记录任务总集和实际评测子集"
+      ],
+      "prerequisites": [],
+      "related": [
+        "R04",
+        "SIM04",
+        "E05"
+      ],
+      "tags": [
+        "Generalist Robots",
+        "Long-Horizon"
+      ],
+      "terms": [
+        "vla",
+        "bc"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/robocasa/robocasa"
+        },
+        {
+          "label": "项目页",
+          "url": "https://robocasa.ai/"
+        },
+        {
+          "label": "官方榜单",
+          "url": "https://robocasa.ai/leaderboard"
+        }
+      ],
+      "note": "365 是平台任务总数；榜单采用自己的任务子集与划分，不应把两者混为同一评测规模。"
+    },
+    {
+      "id": "B05",
+      "island": "harbor",
+      "title": "SimplerEnv",
+      "year": 2024,
+      "type": "benchmark",
+      "level": "core",
+      "summary": "以仿真环境近似真实机器人评估设置，便于比较视觉语言动作策略并研究仿真与真实结果的关联。",
+      "learn": [
+        "理解视觉匹配和变体聚合设置",
+        "核对机器人动作接口和评估配置"
+      ],
+      "prerequisites": [],
+      "related": [
+        "E01",
+        "E04",
+        "SIM03"
+      ],
+      "tags": [
+        "VLA",
+        "Sim-to-Real"
+      ],
+      "terms": [
+        "vla",
+        "simtoreal"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/simpler-env/SimplerEnv"
+        },
+        {
+          "label": "项目页",
+          "url": "https://simpler-env.github.io/"
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "island": "harbor",
+      "title": "RoboTwin 2.0 Benchmark",
+      "year": 2025,
+      "type": "benchmark",
+      "level": "core",
+      "summary": "用双臂操作任务和强域随机化评估策略的协调能力与鲁棒性，并提供生成训练数据的工具。",
+      "learn": [
+        "固定训练和测试的随机化范围",
+        "比较任务成功与双臂协同错误"
+      ],
+      "prerequisites": [],
+      "related": [
+        "M05",
+        "DS07",
+        "R02"
+      ],
+      "tags": [
+        "Bimanual",
+        "Robustness"
+      ],
+      "terms": [
+        "domainrandomization",
+        "bc"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/RoboTwin-Platform/RoboTwin"
+        },
+        {
+          "label": "项目页",
+          "url": "https://robotwin-platform.github.io/"
+        },
+        {
+          "label": "文档",
+          "url": "https://robotwin-platform.github.io/doc/"
+        }
+      ],
+      "note": "这里评测双臂操作；是否采用独立 agent 需要由具体策略设计决定。"
+    },
+    {
+      "id": "B07",
+      "island": "harbor",
+      "title": "PettingZoo",
+      "year": 2020,
+      "type": "benchmark",
+      "level": "foundation",
+      "summary": "统一多智能体环境 API 与任务集合，支持轮流行动和并行动作两种交互方式，是 MARL 实践的环境入口。",
+      "learn": [
+        "区分 AEC 与 Parallel API",
+        "核对每个 agent 的终止、奖励和观测"
+      ],
+      "prerequisites": [],
+      "related": [
+        "M01",
+        "M03"
+      ],
+      "tags": [
+        "MARL",
+        "Environment API"
+      ],
+      "terms": [
+        "marl",
+        "rl"
+      ],
+      "links": [
+        {
+          "label": "代码",
+          "url": "https://github.com/Farama-Foundation/PettingZoo"
+        },
+        {
+          "label": "文档",
+          "url": "https://pettingzoo.farama.org/"
+        }
+      ],
+      "note": "PettingZoo 是环境集合与接口标准；比较算法时仍需明确选用的任务和协议。"
+    },
+    {
+      "id": "B08",
+      "island": "harbor",
+      "title": "PARTNR Benchmark",
+      "year": 2024,
+      "type": "benchmark",
+      "level": "advanced",
+      "summary": "通过带约束的家庭任务评估协作规划，重点关注分工、进度跟踪和技能执行之间的配合。",
+      "learn": [
+        "按约束类型分组报告成功率",
+        "比较人机组合与智能体组合的设置"
+      ],
+      "prerequisites": [],
+      "related": [
+        "M04",
+        "DS08",
+        "SIM05",
+        "F04"
+      ],
+      "tags": [
+        "Planning",
+        "Collaboration"
+      ],
+      "terms": [
+        "marl"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2411.00081"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/facebookresearch/partnr-planner"
+        },
+        {
+          "label": "项目页",
+          "url": "https://aihabitat.org/partnr/"
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "island": "harbor",
+      "title": "LEAF Benchmark",
+      "year": 2018,
+      "type": "benchmark",
+      "level": "core",
+      "summary": "提供贴近客户端数据分布的联邦学习任务与评估工具，帮助统一算法比较中的数据划分和统计口径。",
+      "learn": [
+        "同时报告全局与客户端级指标",
+        "固定客户端采样和通信轮数"
+      ],
+      "prerequisites": [],
+      "related": [
+        "DS10",
+        "D02",
+        "D03"
+      ],
+      "tags": [
+        "Federated Learning",
+        "Evaluation"
+      ],
+      "terms": [
+        "noniid"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/1812.01097"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/TalwalkarLab/leaf"
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "island": "harbor",
+      "title": "FedScale Benchmark",
+      "year": 2022,
+      "type": "benchmark",
+      "level": "advanced",
+      "summary": "把模型质量、设备差异、客户端选择和系统时间放入同一联邦评估流程。",
+      "learn": [
+        "区分按轮数与按实际时间比较",
+        "记录设备、数据和采样配置"
+      ],
+      "prerequisites": [],
+      "related": [
+        "D04",
+        "DS11",
+        "F05"
+      ],
+      "tags": [
+        "Federated Learning",
+        "System Evaluation"
+      ],
+      "terms": [
+        "noniid"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://proceedings.mlr.press/v162/lai22a.html"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/SymbioticLab/FedScale"
+        }
+      ]
+    },
+    {
+      "id": "F01",
+      "island": "embodied",
+      "title": "BAS-VLA · Beyond Appearance Shifts",
+      "year": 2026,
+      "type": "frontier",
+      "level": "advanced",
+      "summary": "NEBULIS-Lab 的任务语义动作校准研究：外观变化时保持动作稳定，任务语义变化时作出相应调整。",
+      "learn": [
+        "区分任务保持与语义改变的扰动",
+        "理解配对数据和残差动作校准",
+        "对照项目页查看仿真与实机证据"
+      ],
+      "prerequisites": [
+        "E04"
+      ],
+      "related": [
+        "E05",
+        "B05"
+      ],
+      "tags": [
+        "NEBULIS-Lab",
+        "VLA",
+        "Task Semantics"
+      ],
+      "terms": [
+        "vla"
+      ],
+      "links": [
+        {
+          "label": "项目页",
+          "url": "https://nebulis-lab.com/Beyond-Appearance-Shifts/"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/NEBULIS-Lab/Beyond-Appearance-Shifts"
+        },
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2609.23650"
+        }
+      ]
+    },
+    {
+      "id": "F02",
+      "island": "world",
+      "title": "D-JEPA: A Decision-Aligned Latent World Model",
+      "year": 2026,
+      "type": "frontier",
+      "level": "advanced",
+      "summary": "NEBULIS-Lab 将预测未来的表征与动作选择对齐，学习候选未来之间有助于决策的关系。",
+      "learn": [
+        "区分预测误差与候选动作排序质量",
+        "理解跨预测模型的决策关系",
+        "查看学习信号如何写回未来表征"
+      ],
+      "prerequisites": [
+        "W03",
+        "W04"
+      ],
+      "related": [
+        "W03",
+        "W04",
+        "W05"
+      ],
+      "tags": [
+        "NEBULIS-Lab",
+        "Decision Alignment"
+      ],
+      "terms": [
+        "jepa",
+        "worldmodel",
+        "mpc"
+      ],
+      "links": [
+        {
+          "label": "项目页",
+          "url": "https://nebulis-lab.com/D-JEPA/"
+        },
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2609.24749"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/NEBULIS-Lab/D-JEPA"
+        }
+      ]
+    },
+    {
+      "id": "F03",
+      "island": "multi",
+      "title": "VLA-Fabric",
+      "year": null,
+      "type": "frontier",
+      "level": "advanced",
+      "summary": "探索多个独立 VLA 机器人在动作生成过程中的协作交互，连接多机器人协调与具身策略。",
+      "learn": [
+        "理解独立策略之间需要交换什么信息",
+        "从共享任务目标分析动作协调问题"
+      ],
+      "prerequisites": [
+        "E04",
+        "M03"
+      ],
+      "related": [
+        "E04",
+        "E05",
+        "M03",
+        "D05",
+        "D06"
+      ],
+      "tags": [
+        "NEBULIS-Lab",
+        "Multi-Robot",
+        "VLA"
+      ],
+      "terms": [
+        "vla",
+        "marl"
+      ],
+      "links": [
+        {
+          "label": "实验室项目",
+          "url": "https://nebulis-lab.com/projects.html"
+        }
+      ],
+      "note": "研究方向；专属论文与代码入口将随项目公开进展补充。"
+    },
+    {
+      "id": "F04",
+      "island": "multi",
+      "title": "BRACE · Budgeted Replanning for Embodied Agents",
+      "year": 2026,
+      "type": "frontier",
+      "level": "advanced",
+      "summary": "NEBULIS-Lab 将重规划视为带预算的控制循环，联合决定调用时机、规划模式、token 预算与延迟目标。",
+      "learn": [
+        "理解重规划频率与闭环行为的耦合",
+        "将规划成本纳入每次决策",
+        "同时评估任务成功与延迟违约"
+      ],
+      "prerequisites": [],
+      "related": [
+        "M04",
+        "D06",
+        "B08",
+        "E04"
+      ],
+      "tags": [
+        "NEBULIS-Lab",
+        "Replanning",
+        "Latency"
+      ],
+      "terms": [
+        "slo",
+        "marl"
+      ],
+      "links": [
+        {
+          "label": "项目页",
+          "url": "https://nebulis-lab.com/BRACE/"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/NEBULIS-Lab/BRACE"
+        },
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2608.01428"
+        }
+      ]
+    },
+    {
+      "id": "F05",
+      "island": "distributed",
+      "title": "State of the Union: Towards Reproducible Performance Evaluations in Federated Learning",
+      "year": 2026,
+      "type": "frontier",
+      "level": "advanced",
+      "summary": "在统一的 Plato 框架与受控设置下比较联邦聚合、客户端训练与选择、个性化和通信策略，让算法结论与系统成本都可复现。",
+      "learn": [
+        "梳理数据划分、采样和训练预算",
+        "比较模型指标与系统成本的统计口径",
+        "保留配置与版本以便复现实验"
+      ],
+      "prerequisites": [
+        "D02"
+      ],
+      "related": [
+        "D04",
+        "B09",
+        "B10"
+      ],
+      "tags": [
+        "NEBULIS-Lab",
+        "Federated Learning",
+        "Reproducibility"
+      ],
+      "terms": [
+        "noniid"
+      ],
+      "links": [
+        {
+          "label": "论文 PDF",
+          "url": "https://ningxinsu.github.io/assets/ningxin-tkde26.pdf"
+        },
+        {
+          "label": "Plato 框架",
+          "url": "https://github.com/TL-System/plato"
+        },
+        {
+          "label": "期刊 DOI",
+          "url": "https://doi.org/10.1109/TKDE.2026.3697810"
+        }
+      ],
+      "note": "IEEE TKDE 2026；HKUST 官方研究记录已核对题名、作者、发表年份和 DOI。Plato 为论文的统一评估框架。"
+    }
+  ],
+  "journeys": [
+    {
+      "id": "beginner",
+      "title": "第一次启航",
+      "subtitle": "FIRST EXPEDITION",
+      "description": "先认识仿真与反馈，再用示范跑通策略训练，最后进入动作序列方法。路线是学习建议，不代表必须依次完成。",
+      "nodes": [
+        "S04",
+        "S01",
+        "S02",
+        "S03",
+        "R02",
+        "R03"
+      ]
+    },
+    {
+      "id": "vla",
+      "title": "走向通用机器人",
+      "subtitle": "VISION → LANGUAGE → ACTION",
+      "description": "从多任务控制认识 VLA，沿数据、开放模型与连续动作生成理解泛化能力的来源。",
+      "nodes": [
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E05",
+        "E06",
+        "E07"
+      ]
+    },
+    {
+      "id": "world",
+      "title": "学会预测，再做决策",
+      "subtitle": "REPRESENT → PREDICT → PLAN",
+      "description": "从研究愿景和图像表征进入视频预测与动作规划，比较预训练特征和端到端世界模型。",
+      "nodes": [
+        "W00",
+        "W02",
+        "W03",
+        "W04",
+        "W05",
+        "W06",
+        "F02"
+      ]
+    },
+    {
+      "id": "multi",
+      "title": "从一个策略到协作",
+      "subtitle": "ACT → COORDINATE → PLAN",
+      "description": "先用 PPO 和多智能体环境建立直觉，再比较训练范式，最后走进具身协作任务。",
+      "nodes": [
+        "S01",
+        "B07",
+        "M01",
+        "M02",
+        "M03",
+        "M04",
+        "F04"
+      ]
+    },
+    {
+      "id": "distributed",
+      "title": "让智能系统运行起来",
+      "subtitle": "TRAIN → FEDERATE → SERVE",
+      "description": "沿分布式执行、联邦优化与模型服务理解系统成本；联邦学习和推理服务是两条可分别深入的支线。",
+      "nodes": [
+        "D01",
+        "D02",
+        "D03",
+        "D04",
+        "D05",
+        "D06",
+        "F05"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "id": "mdp",
+      "term": "MDP · 马尔可夫决策过程",
+      "definition": "用状态、动作、转移、奖励和折扣描述序贯决策；当前状态应包含预测下一步所需的信息。"
+    },
+    {
+      "id": "rl",
+      "term": "RL · 强化学习",
+      "definition": "智能体通过交互获得奖励，学习能提高长期累计回报的策略。"
+    },
+    {
+      "id": "bc",
+      "term": "BC · 行为克隆",
+      "definition": "把示范中的观测作为输入、专家动作作为监督目标来训练策略。"
+    },
+    {
+      "id": "actionchunk",
+      "term": "Action Chunk · 动作分块",
+      "definition": "一次预测连续多个时间步的动作；执行一部分后可以根据新观测重新预测。"
+    },
+    {
+      "id": "flow",
+      "term": "Flow Matching · 流匹配",
+      "definition": "学习从简单分布到目标数据分布的连续变换；在机器人中可用于生成动作序列。"
+    },
+    {
+      "id": "vla",
+      "term": "VLA · 视觉语言动作模型",
+      "definition": "结合视觉观测与语言指令产生机器人动作的模型；动作表示和控制接口会随方法变化。"
+    },
+    {
+      "id": "jepa",
+      "term": "JEPA · 联合嵌入预测架构",
+      "definition": "在表征空间预测目标信息的学习框架，通常不要求重建全部像素；具体目标随方法而异。"
+    },
+    {
+      "id": "worldmodel",
+      "term": "World Model · 世界模型",
+      "definition": "学习环境状态或表征如何随时间及动作变化，为预测、规划或策略学习提供模型。"
+    },
+    {
+      "id": "ctde",
+      "term": "CTDE · 集中训练、分散执行",
+      "definition": "训练时可使用全局或多智能体信息，执行时各智能体仅使用允许获得的局部信息。"
+    },
+    {
+      "id": "marl",
+      "term": "MARL · 多智能体强化学习",
+      "definition": "多个决策主体在共享环境中学习；需要处理协作、竞争、信用分配和相互影响。"
+    },
+    {
+      "id": "noniid",
+      "term": "Non-IID · 非独立同分布",
+      "definition": "联邦学习中常指不同客户端的数据分布存在差异，例如类别、样本量或输入风格不同。"
+    },
+    {
+      "id": "slo",
+      "term": "SLO · 服务级目标",
+      "definition": "对系统服务质量设定的可测量目标，例如首 token 延迟或一次规划调用的截止时间。"
+    },
+    {
+      "id": "simtoreal",
+      "term": "Sim-to-Real · 仿真到真实",
+      "definition": "将仿真中获得的策略或结论迁移到真实环境，需要关注视觉、动力学和接口差异。"
+    },
+    {
+      "id": "mpc",
+      "term": "MPC · 模型预测控制",
+      "definition": "用模型预测候选动作的未来结果，选择较优序列并只执行前一部分，再用新状态重新规划。"
+    },
+    {
+      "id": "domainrandomization",
+      "term": "Domain Randomization · 域随机化",
+      "definition": "在训练中改变外观、物体或物理参数，扩展策略经历的环境分布。"
+    }
+  ]
+}

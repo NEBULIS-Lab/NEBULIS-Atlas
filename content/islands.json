@@ -1,0 +1,251 @@
+[
+  {
+    "id": "starting",
+    "number": "00",
+    "name": "Starting Point",
+    "short": "Base Camp",
+    "zh": "启程营地",
+    "color": "#f5cf78",
+    "position": [
+      11,
+      83
+    ],
+    "crop": [
+      4,
+      89
+    ],
+    "icon": "compass",
+    "question": "从哪里开始理解机器人的学习？",
+    "description": "先认识智能体、数据与环境，再选择你的研究方向。用四个入口，建立一张足够清晰的知识地图。",
+    "concepts": [
+      "MDP",
+      "Reinforcement Learning",
+      "Imitation Learning",
+      "Simulation"
+    ],
+    "nodes": [
+      "S01",
+      "S02",
+      "S03",
+      "S04"
+    ],
+    "next": [
+      "robot",
+      "multi"
+    ],
+    "landmark": "A little curiosity goes a long way."
+  },
+  {
+    "id": "robot",
+    "number": "01",
+    "name": "Robot Learning",
+    "short": "Robot Learning",
+    "zh": "机器人学习岛",
+    "color": "#ffb273",
+    "position": [
+      18,
+      42
+    ],
+    "crop": [
+      8,
+      20
+    ],
+    "icon": "robot",
+    "question": "机器人怎样从演示、数据与反馈中学会动作？",
+    "description": "从模仿学习到生成式动作策略，在机械工坊里了解数据如何变成机器人的技能。",
+    "concepts": [
+      "Behavior Cloning",
+      "Action Chunking",
+      "Diffusion Policy"
+    ],
+    "nodes": [
+      "R01",
+      "R02",
+      "R03",
+      "R04",
+      "R05"
+    ],
+    "next": [
+      "embodied",
+      "world"
+    ],
+    "landmark": "From demonstrations to dexterity."
+  },
+  {
+    "id": "embodied",
+    "number": "02",
+    "name": "Embodied Intelligence",
+    "short": "Embodied AI",
+    "zh": "具身智能岛",
+    "color": "#74e3c5",
+    "position": [
+      51,
+      34
+    ],
+    "crop": [
+      50,
+      0
+    ],
+    "icon": "eye",
+    "question": "如何把视觉、语言和动作连接起来？",
+    "description": "沿着 VLA 的演进路线，探索语义理解、跨机器人数据与通用策略之间的联系。",
+    "concepts": [
+      "VLA",
+      "Cross-Embodiment",
+      "Flow Matching"
+    ],
+    "nodes": [
+      "E01",
+      "E02",
+      "E03",
+      "E04",
+      "E05",
+      "E06",
+      "E07",
+      "E08"
+    ],
+    "next": [
+      "world",
+      "distributed"
+    ],
+    "landmark": "See the world. Understand it. Act."
+  },
+  {
+    "id": "world",
+    "number": "03",
+    "name": "World Models",
+    "short": "World Models",
+    "zh": "世界模型岛",
+    "color": "#c5a1ff",
+    "position": [
+      83,
+      45
+    ],
+    "crop": [
+      100,
+      18
+    ],
+    "icon": "orbit",
+    "question": "能否通过预测未来，帮助机器人做出更好的决策？",
+    "description": "走进预测观测站，区分想象中的策略学习、预测表征与基于模型的规划。",
+    "concepts": [
+      "Latent Dynamics",
+      "JEPA",
+      "Model Predictive Control"
+    ],
+    "nodes": [
+      "W01",
+      "W00",
+      "W02",
+      "W03",
+      "W04",
+      "W05",
+      "W06"
+    ],
+    "next": [
+      "embodied",
+      "multi"
+    ],
+    "landmark": "Imagine what happens next."
+  },
+  {
+    "id": "multi",
+    "number": "04",
+    "name": "Multi-Agent Collaboration",
+    "short": "Multi-Agent",
+    "zh": "多智能体协作群岛",
+    "color": "#bce782",
+    "position": [
+      85,
+      86
+    ],
+    "crop": [
+      100,
+      88
+    ],
+    "icon": "network",
+    "question": "多个智能体如何共享信息、协调行动？",
+    "description": "从集中训练与分散执行出发，走向人机协作、任务规划与多机器人协调。",
+    "concepts": [
+      "MARL",
+      "CTDE",
+      "Coordination"
+    ],
+    "nodes": [
+      "M01",
+      "M02",
+      "M03",
+      "M04",
+      "M05"
+    ],
+    "next": [
+      "distributed",
+      "embodied"
+    ],
+    "landmark": "Different agents. Shared discoveries."
+  },
+  {
+    "id": "distributed",
+    "number": "05",
+    "name": "Distributed AI",
+    "short": "Distributed AI",
+    "zh": "分布式智能岛",
+    "color": "#9acbff",
+    "position": [
+      59,
+      93
+    ],
+    "crop": [
+      58,
+      100
+    ],
+    "icon": "server",
+    "question": "分散的数据、模型和算力，如何高效协同？",
+    "description": "计算站的两条路线分别通往分布式学习和推理系统，连接算法、资源调度与真实部署。",
+    "concepts": [
+      "Federated Learning",
+      "Serving",
+      "Scheduling"
+    ],
+    "nodes": [
+      "D01",
+      "D02",
+      "D03",
+      "D04",
+      "D05",
+      "D06"
+    ],
+    "next": [
+      "embodied",
+      "multi"
+    ],
+    "landmark": "Intelligence, connected."
+  },
+  {
+    "id": "harbor",
+    "number": "06",
+    "name": "Resource Harbor",
+    "short": "Resource Harbor",
+    "zh": "公共资源港口",
+    "color": "#edc887",
+    "position": [
+      34,
+      89
+    ],
+    "crop": [
+      28,
+      91
+    ],
+    "icon": "anchor",
+    "question": "为你的下一个实验找到合适的起点。",
+    "description": "把数据集、仿真器和评测基准放在一起查找，再回到各研究方向理解它们的用途。",
+    "concepts": [
+      "Datasets",
+      "Simulators",
+      "Benchmarks"
+    ],
+    "nodes": [],
+    "next": [],
+    "landmark": "Everything you need to set sail."
+  }
+]
