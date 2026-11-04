@@ -1,2 +1,3 @@
 public/atlas/*.woff2 linguist-vendored=true
+public/atlas/FONT-LICENSE.txt -whitespace linguist-vendored=true
 public/research-media/** linguist-vendored=true
