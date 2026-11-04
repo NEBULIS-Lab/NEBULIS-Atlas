@@ -297,7 +297,8 @@
       "related": [
         "DS06",
         "SIM04",
-        "B04"
+        "B04",
+        "R06"
       ],
       "tags": [
         "Data Generation",
@@ -329,7 +330,7 @@
       "year": 2023,
       "type": "benchmark",
       "level": "core",
-      "summary": "通过语言描述的机器人操作任务，研究知识迁移与持续学习。重点读懂任务套件和评估协议。",
+      "summary": "以语言条件操作任务研究知识迁移与持续学习的经典基准。适合学习协议和复现历史结果；用于新模型评估时，需要补充扰动与泛化测试。",
       "learn": [
         "比较空间、物体与目标变化",
         "区分多任务训练与顺序学习",
@@ -339,11 +340,16 @@
       "related": [
         "B03",
         "E04",
-        "SIM04"
+        "SIM04",
+        "B11",
+        "B12",
+        "B13"
       ],
       "tags": [
         "Lifelong Learning",
-        "Manipulation"
+        "Manipulation",
+        "Legacy Benchmark",
+        "Saturation Warning"
       ],
       "terms": [
         "bc",
@@ -357,8 +363,18 @@
         {
           "label": "代码",
           "url": "https://github.com/Lifelong-Robot-Learning/LIBERO"
+        },
+        {
+          "label": "泛化问题 · LIBERO-Pro",
+          "url": "https://arxiv.org/abs/2510.03827"
+        },
+        {
+          "label": "鲁棒性证据 · LIBERO-Plus",
+          "url": "https://arxiv.org/abs/2510.13626"
         }
-      ]
+      ],
+      "note": "经典复现基准，标准设置在多种现代策略上已接近饱和。LIBERO-Pro / Plus 发现，受测模型在物体、初始状态、视角或指令变化下会明显退化；标准高分不足以证明泛化。新实验应同时报告扰动测试，或采用 RoboDojo 等更丰富的能力评测。",
+      "caution": "原版 LIBERO 已不适合作为新模型泛化能力的主要评测依据。标准设置趋于饱和，多种模型在扰动条件下明显退化；建议结合 LIBERO-Pro、LIBERO-Plus 等评测。"
     },
     {
       "id": "E01",
@@ -500,7 +516,10 @@
         "E02",
         "E03",
         "R05",
-        "B05"
+        "B05",
+        "B11",
+        "B12",
+        "B13"
       ],
       "tags": [
         "VLA",
@@ -670,7 +689,8 @@
       "related": [
         "E05",
         "E03",
-        "SIM02"
+        "SIM02",
+        "R06"
       ],
       "tags": [
         "Humanoid",
@@ -866,7 +886,8 @@
       "related": [
         "W03",
         "W06",
-        "DS09"
+        "DS09",
+        "W07"
       ],
       "tags": [
         "Video",
@@ -2120,23 +2141,29 @@
     {
       "id": "B03",
       "island": "harbor",
-      "title": "LIBERO Benchmark",
+      "title": "LIBERO · Legacy Benchmark",
       "year": 2023,
       "type": "benchmark",
       "level": "core",
-      "summary": "用不同类型的语言条件操作任务测试知识迁移，既可用于多任务策略，也可用于持续学习评估。",
+      "summary": "经典机器人操作基准，标准分数在多种现代策略上接近饱和。保留作历史对照与复现入口，泛化评估优先结合 LIBERO-Pro、LIBERO-Plus 或 RoboDojo。",
       "learn": [
-        "区分 LIBERO 的各任务套件",
-        "固定示范预算和评估种子"
+        "区分任务套件、训练测试划分与历史协议",
+        "同时报告标准成功率和分布变化后的成功率",
+        "用 Pro / Plus 扰动和 RoboDojo 能力维度设计新评测"
       ],
       "prerequisites": [],
       "related": [
         "R05",
-        "E04"
+        "E04",
+        "B11",
+        "B12",
+        "B13"
       ],
       "tags": [
         "Lifelong Learning",
-        "VLA"
+        "VLA",
+        "Legacy Benchmark",
+        "Saturation Warning"
       ],
       "terms": [
         "vla",
@@ -2150,8 +2177,18 @@
         {
           "label": "论文",
           "url": "https://arxiv.org/abs/2306.03310"
+        },
+        {
+          "label": "泛化问题 · LIBERO-Pro",
+          "url": "https://arxiv.org/abs/2510.03827"
+        },
+        {
+          "label": "鲁棒性证据 · LIBERO-Plus",
+          "url": "https://arxiv.org/abs/2510.13626"
         }
-      ]
+      ],
+      "note": "经典复现基准，标准设置在多种现代策略上已接近饱和。LIBERO-Pro / Plus 发现，受测模型在物体、初始状态、视角或指令变化下会明显退化；标准高分不足以证明泛化。新实验应同时报告扰动测试，或采用 RoboDojo 等更丰富的能力评测。",
+      "caution": "原版 LIBERO 已不适合作为新模型泛化能力的主要评测依据。标准设置趋于饱和，多种模型在扰动条件下明显退化；建议结合 LIBERO-Pro、LIBERO-Plus 等评测。"
     },
     {
       "id": "B04",
@@ -2249,7 +2286,9 @@
       "related": [
         "M05",
         "DS07",
-        "R02"
+        "R02",
+        "B11",
+        "W07"
       ],
       "tags": [
         "Bimanual",
@@ -2430,7 +2469,7 @@
       "island": "embodied",
       "title": "BAS-VLA · Beyond Appearance Shifts",
       "year": 2026,
-      "type": "frontier",
+      "type": "paper",
       "level": "advanced",
       "summary": "NEBULIS-Lab 的任务语义动作校准研究：外观变化时保持动作稳定，任务语义变化时作出相应调整。",
       "learn": [
@@ -2443,7 +2482,9 @@
       ],
       "related": [
         "E05",
-        "B05"
+        "B05",
+        "B12",
+        "B13"
       ],
       "tags": [
         "NEBULIS-Lab",
@@ -2466,14 +2507,15 @@
           "label": "论文",
           "url": "https://arxiv.org/abs/2609.23650"
         }
-      ]
+      ],
+      "lab": true
     },
     {
       "id": "F02",
       "island": "world",
       "title": "D-JEPA: A Decision-Aligned Latent World Model",
       "year": 2026,
-      "type": "frontier",
+      "type": "paper",
       "level": "advanced",
       "summary": "NEBULIS-Lab 将预测未来的表征与动作选择对齐，学习候选未来之间有助于决策的关系。",
       "learn": [
@@ -2512,14 +2554,15 @@
           "label": "代码",
           "url": "https://github.com/NEBULIS-Lab/D-JEPA"
         }
-      ]
+      ],
+      "lab": true
     },
     {
       "id": "F03",
       "island": "multi",
       "title": "VLA-Fabric",
       "year": null,
-      "type": "frontier",
+      "type": "project",
       "level": "advanced",
       "summary": "探索多个独立 VLA 机器人在动作生成过程中的协作交互，连接多机器人协调与具身策略。",
       "learn": [
@@ -2552,14 +2595,15 @@
           "url": "https://nebulis-lab.com/projects.html"
         }
       ],
-      "note": "研究方向；专属论文与代码入口将随项目公开进展补充。"
+      "note": "研究方向；专属论文与代码入口将随项目公开进展补充。",
+      "lab": true
     },
     {
       "id": "F04",
       "island": "multi",
       "title": "BRACE · Budgeted Replanning for Embodied Agents",
       "year": 2026,
-      "type": "frontier",
+      "type": "paper",
       "level": "advanced",
       "summary": "NEBULIS-Lab 将重规划视为带预算的控制循环，联合决定调用时机、规划模式、token 预算与延迟目标。",
       "learn": [
@@ -2596,14 +2640,15 @@
           "label": "论文",
           "url": "https://arxiv.org/abs/2608.01428"
         }
-      ]
+      ],
+      "lab": true
     },
     {
       "id": "F05",
       "island": "distributed",
       "title": "State of the Union: Towards Reproducible Performance Evaluations in Federated Learning",
       "year": 2026,
-      "type": "frontier",
+      "type": "paper",
       "level": "advanced",
       "summary": "在统一的 Plato 框架与受控设置下比较联邦聚合、客户端训练与选择、个性化和通信策略，让算法结论与系统成本都可复现。",
       "learn": [
@@ -2641,7 +2686,246 @@
           "url": "https://doi.org/10.1109/TKDE.2026.3697810"
         }
       ],
-      "note": "IEEE TKDE 2026；HKUST 官方研究记录已核对题名、作者、发表年份和 DOI。Plato 为论文的统一评估框架。"
+      "note": "IEEE TKDE 2026；HKUST 官方研究记录已核对题名、作者、发表年份和 DOI。Plato 为论文的统一评估框架。",
+      "lab": true
+    },
+    {
+      "id": "R06",
+      "island": "robot",
+      "title": "MimicX · Policy-in-the-Loop Supervision Refinement",
+      "year": 2026,
+      "type": "paper",
+      "level": "advanced",
+      "lab": true,
+      "summary": "从人类视频重建与重定向动作出发，用人形机器人的执行反馈定位困难片段和身体部位，联合调整跟踪目标与训练课程，再以重复执行选择有效改进。",
+      "learn": [
+        "串起视频重建、动作重定向与物理策略学习",
+        "理解失败片段如何转化为跟踪目标和课程监督",
+        "同时检查动作跟踪误差、执行时长与任务完成"
+      ],
+      "prerequisites": [
+        "S01"
+      ],
+      "related": [
+        "S04",
+        "E08",
+        "R04",
+        "SIM02"
+      ],
+      "tags": [
+        "NEBULIS-Lab",
+        "Humanoid",
+        "Video Imitation",
+        "Policy Learning"
+      ],
+      "terms": [
+        "rl",
+        "simtoreal"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2610.09055"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/NEBULIS-Lab/MimicX"
+        },
+        {
+          "label": "项目页",
+          "url": "https://nebulis-lab.com/MimicX/"
+        }
+      ]
+    },
+    {
+      "id": "W07",
+      "island": "world",
+      "title": "Fast-WAM",
+      "year": 2026,
+      "type": "paper",
+      "level": "advanced",
+      "summary": "把世界动作模型的视频联合训练与推理时的未来生成分开：训练保留视频监督，执行时直接生成动作，以受控变体比较表征学习和显式想象的作用。",
+      "learn": [
+        "区分训练时的视频监督与测试时的未来生成",
+        "读懂视频主干和动作专家的连接",
+        "在相同设置下比较控制成功率与推理延迟"
+      ],
+      "prerequisites": [
+        "R03"
+      ],
+      "related": [
+        "W04",
+        "E05",
+        "B06",
+        "B12",
+        "B13"
+      ],
+      "tags": [
+        "World Action Models",
+        "Video Co-training",
+        "Efficient Inference"
+      ],
+      "terms": [
+        "worldmodel",
+        "actionchunk"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2603.16666"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/yuantianyuan01/FastWAM"
+        },
+        {
+          "label": "项目页",
+          "url": "https://yuantianyuan01.github.io/FastWAM/"
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "island": "harbor",
+      "title": "RoboDojo",
+      "year": 2026,
+      "type": "benchmark",
+      "level": "advanced",
+      "summary": "统一仿真与真实机器人操作评测，包含 42 个仿真任务和 18 个实机任务，从泛化、记忆、精度、长程执行与开放词汇指令五个维度审视通用策略。",
+      "learn": [
+        "按能力维度比较结果，避免只看总成功率",
+        "分别核对仿真与实机的任务和复位协议",
+        "理解 XPolicyLab 统一策略接口与远程实机评测"
+      ],
+      "prerequisites": [
+        "S02"
+      ],
+      "related": [
+        "B04",
+        "B06",
+        "B12",
+        "B13",
+        "E05",
+        "SIM02"
+      ],
+      "tags": [
+        "Generalist Robots",
+        "Sim-and-Real",
+        "Robustness"
+      ],
+      "terms": [
+        "vla",
+        "simtoreal"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2607.04434"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/RoboDojo-Benchmark/RoboDojo"
+        },
+        {
+          "label": "项目页",
+          "url": "https://robodojo-benchmark.com/"
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "island": "harbor",
+      "title": "LIBERO-Pro · Beyond Memorization",
+      "year": 2025,
+      "type": "benchmark",
+      "level": "advanced",
+      "summary": "对操纵物体、初始状态、任务指令和环境施加受控变化，检查 LIBERO 标准高分背后的动作记忆与任务理解差异，建立更可靠的泛化评估。",
+      "learn": [
+        "区分任务语义变化与保持任务的环境扰动",
+        "比较标准任务和扰动任务的配对成功率",
+        "固定初始状态、指令处理和评估协议"
+      ],
+      "prerequisites": [
+        "B03"
+      ],
+      "related": [
+        "B13",
+        "B11",
+        "E04",
+        "F01"
+      ],
+      "tags": [
+        "VLA",
+        "Robustness",
+        "Generalization"
+      ],
+      "terms": [
+        "vla",
+        "domainrandomization"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2510.03827"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/Zxy-MLlab/LIBERO-PRO"
+        },
+        {
+          "label": "项目页",
+          "url": "https://zxy-mllab.github.io/LIBERO-PRO-Webpage/"
+        }
+      ],
+      "note": "本卡对应 2025 年 LIBERO-PRO 原始论文与四维扰动协议；后续 LIBERO-Pro2.0 使用新的静态与运行时扰动协议，结果应分开比较。"
+    },
+    {
+      "id": "B13",
+      "island": "harbor",
+      "title": "LIBERO-Plus · Robustness Benchmark",
+      "year": 2025,
+      "type": "benchmark",
+      "level": "advanced",
+      "summary": "在 LIBERO 上加入物体布局、相机视角、机器人初态、语言、光照、背景和传感器噪声七类变化，研究单项扰动与组合扰动下的策略鲁棒性。",
+      "learn": [
+        "按七个扰动维度定位策略退化来源",
+        "检查语言变化是否真正改变策略行为",
+        "比较单项与组合扰动，报告分层成功率"
+      ],
+      "prerequisites": [
+        "B03"
+      ],
+      "related": [
+        "B12",
+        "B11",
+        "E04",
+        "F01",
+        "W07"
+      ],
+      "tags": [
+        "VLA",
+        "Robustness",
+        "Distribution Shift"
+      ],
+      "terms": [
+        "vla",
+        "domainrandomization"
+      ],
+      "links": [
+        {
+          "label": "论文",
+          "url": "https://arxiv.org/abs/2510.13626"
+        },
+        {
+          "label": "代码",
+          "url": "https://github.com/sylvestf/LIBERO-plus"
+        },
+        {
+          "label": "项目页",
+          "url": "https://sylvestf.github.io/LIBERO-plus/"
+        }
+      ],
+      "note": "年份按 2025 年 arXiv 版本记录。与 LIBERO-Pro 是不同团队的独立基准；选择适合研究问题的扰动类型，并保留各自评估协议。"
     }
   ],
   "journeys": [
@@ -2663,7 +2947,7 @@
       "id": "vla",
       "title": "走向通用机器人",
       "subtitle": "VISION → LANGUAGE → ACTION",
-      "description": "从多任务控制认识 VLA，沿数据、开放模型与连续动作生成理解泛化能力的来源。",
+      "description": "从多任务控制认识 VLA，沿数据、开放模型与连续动作生成理解泛化能力的来源，再用语义校准与扰动评测检查能力边界。",
       "nodes": [
         "E01",
         "E02",
@@ -2671,7 +2955,9 @@
         "E04",
         "E05",
         "E06",
-        "E07"
+        "E07",
+        "F01",
+        "B13"
       ]
     },
     {
@@ -2686,7 +2972,8 @@
         "W04",
         "W05",
         "W06",
-        "F02"
+        "F02",
+        "W07"
       ]
     },
     {
