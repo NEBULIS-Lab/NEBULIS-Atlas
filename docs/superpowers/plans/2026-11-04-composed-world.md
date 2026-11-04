@@ -8,8 +8,8 @@ Implementation decisions: retain the original landing markup/styles in an isolat
 - [x] Compose seven independent regions from terrain and scene objects; no flattened all-island backdrop.
 - [x] Implement full-screen camera, selection, animations and research panels.
 - [x] Integrate routes, accessible/mobile alternatives and retained library.
-- [ ] Inspect screenshots and run one focused interaction check, then publish.
+- [x] Inspect screenshots and run one focused interaction check, then publish.
 
 Verification is deliberately limited to the changed journey and essential display/interaction behavior, following the user's preference.
 
-Local verification: the prefixed GitHub Pages build passed a focused 10-check browser journey at desktop and phone widths, with zero browser errors, missing requests or external runtime dependencies. It covers landing navigation, seven composed regions, camera controls, island/node selection, video playback, persisted reading marks, glossary, bookmarks, search and the mobile panel. Source syntax and catalog/scene asset references also passed. Deployment verification follows publication.
+Local verification: the prefixed GitHub Pages build passed a focused 10-check browser journey at desktop and phone widths, with zero browser errors, missing requests or external runtime dependencies. It covers landing navigation, seven composed regions, camera controls, island/node selection, video playback, persisted reading marks, glossary, bookmarks, search and the mobile panel. Source syntax and catalog/scene asset references also passed. Source commit `3233fac` passed GitHub verification. Pages commit `2cb1542` deployed successfully (run `41839359383`). The live site passed homepage → world → Robot Learning → ACT / ALOHA navigation and actual video playback, with seven terrain regions, 506 independent sprite objects and zero browser/HTTP errors.
