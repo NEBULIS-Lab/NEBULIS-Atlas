@@ -37,14 +37,14 @@ export function decorateSea(stage, world, sprite, animated, url){
  stage.querySelectorAll('.sea-wave,.sea-boat').forEach(n=>n.remove());
  for(let n=animated.length-1;n>=0;n--)if(!animated[n].node.isConnected)animated.splice(n,1);
  let seed=179;const random=()=>{seed=(seed*1664525+1013904223)>>>0;return seed/4294967296;};
- const occupied=(x,y)=>world.regions.some(r=>x>r.x-90&&x<r.x+740&&y>r.y-80&&y<r.y+640);
+ const boats=world.width<2000?[[.1,.44,0,-18],[.94,.58,1,24],[.47,.30,2,-35]]:[[.16,.12,0,-28],[.91,.57,1,26],[.48,.89,2,-50]];
+ const occupied=(x,y)=>world.regions.some(r=>x>r.x-90&&x<r.x+740&&y>r.y-80&&y<r.y+640)||boats.some(([bx,by])=>Math.hypot(x-bx*world.width,y-by*world.height)<240);
  let placed=0;for(let attempt=0;attempt<500&&placed<57;attempt++){
   const x=100+random()*(world.width-200),y=120+random()*(world.height-200);if(occupied(x,y))continue;
   const rock=placed%5===0,name=rock?['large-water-rock','medium-water-rock','small-water-rock'][placed%3]:'water-foam';
   const el=sprite(stage,name,x,y,rock?3.1+random()*1.2:2.8+random()*1.7,placed);
   if(!el)continue;el.classList.add('sea-wave',rock?'sea-rock':'sea-ripple');placed++;
  }
- const boats=world.width<2000?[[.1,.44,0,-18],[.94,.58,1,24],[.47,.30,2,-35]]:[[.16,.12,0,-28],[.91,.57,1,26],[.48,.89,2,-50]];
  boats.forEach(([x,y,frame,angle],n)=>{
   const boat=document.createElement('div');boat.className='sea-boat';boat.setAttribute('aria-hidden','true');
   boat.style.cssText=`left:${x*world.width}px;top:${y*world.height}px;--boat-angle:${angle}deg;--boat-delay:${-n*1.8}s;`;
