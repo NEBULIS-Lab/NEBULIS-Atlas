@@ -1,0 +1,10 @@
+<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow_dot" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(8 8) rotate(75) scale(12)">
+      <stop stop-color="#C6FFB8"/>
+      <stop offset="0.455" stop-color="#52FF6E"/>
+    </radialGradient>
+  </defs>
+  <circle cx="10" cy="10" r="7.5" fill="url(#glow_dot)" stroke="black" stroke-width="2"/>
+</svg>

@@ -1,0 +1,2 @@
+let SQL;
+onmessage=async({data})=>{try{if(!SQL){importScripts('./vendor/sqljs/sql-wasm.js');SQL=await initSqlJs({locateFile:f=>new URL('./vendor/sqljs/'+f,self.location.href).href});}const db=new SQL.Database();try{db.exec(await(await fetch(new URL('./data/shows.sql',self.location.href))).text());const tables=db.exec(data.code);postMessage({ok:true,output:tables.map(t=>[t.columns.join(' | '),...t.values.map(row=>row.join(' | '))].join('\n')).join('\n\n')||'Query completed.'});}finally{db.close();}}catch(error){postMessage({ok:false,output:String(error)});}};
