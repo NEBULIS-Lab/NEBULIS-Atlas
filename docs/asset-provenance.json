@@ -1,0 +1,4977 @@
+[
+  {
+    "file": "assets/ce9cb2e1503a6e086737.css",
+    "source": "https://www.codedex.io/_next/static/css/b020897797f84685.css",
+    "bytes": 386034
+  },
+  {
+    "file": "assets/352bc3ee2a445cbcf67b.woff",
+    "source": "https://www.codedex.io/fonts/pixelgrid-squareboldm.woff",
+    "bytes": 12768
+  },
+  {
+    "file": "assets/a5605be67e3e7a3221d8.woff",
+    "source": "https://www.codedex.io/fonts/pixelgrid-squareboldxl.woff",
+    "bytes": 32928
+  },
+  {
+    "file": "assets/eedfaed563ddbba99f95.ttf",
+    "source": "https://www.codedex.io/fonts/Hack-Regular.ttf",
+    "bytes": 309408
+  },
+  {
+    "file": "assets/1c47836124fe934f7c9b.woff",
+    "source": "https://www.codedex.io/fonts/pixelgrid-squarebolds.woff",
+    "bytes": 12952
+  },
+  {
+    "file": "assets/ef71aa26d91c70be3fa0.webp",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Sky.webp",
+    "bytes": 2254
+  },
+  {
+    "file": "assets/39735b72d81c7a1b3ff3.webp",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Mountain.webp",
+    "bytes": 2772
+  },
+  {
+    "file": "assets/83071c16664c2f1b5112.webp",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Hills.webp",
+    "bytes": 64138
+  },
+  {
+    "file": "assets/d079ff77c3a98f340ada.webp",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Mascot.webp",
+    "bytes": 47944
+  },
+  {
+    "file": "assets/a8c3c550d8c3ae24813c.webp",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Grass.webp",
+    "bytes": 34102
+  },
+  {
+    "file": "assets/73ea765aa8ab57a9ed4d.png",
+    "source": "https://www.codedex.io/images/homepage/town%20sq.png",
+    "bytes": 196652
+  },
+  {
+    "file": "assets/cf547faeb6bb0a2e6cea.png",
+    "source": "https://www.codedex.io/images/coin-cropped.png",
+    "bytes": 8209
+  },
+  {
+    "file": "assets/898444b46b128900a192.gif",
+    "source": "https://www.codedex.io/images/character_gifs/6wYeoCS.gif",
+    "bytes": 28767
+  },
+  {
+    "file": "assets/9fc266acd6fa7d6f2400.gif",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Text.gif",
+    "bytes": 8320
+  },
+  {
+    "file": "assets/61f06984bd0de4525010.woff2",
+    "source": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nVivM.woff2",
+    "bytes": 12440
+  },
+  {
+    "file": "assets/a148a9f3cb9d134fb183.gif",
+    "source": "https://www.codedex.io/images/html/html-parralax-combined.gif",
+    "bytes": 42913
+  },
+  {
+    "file": "assets/f21de1a6e201f39acc38.png",
+    "source": "https://www.codedex.io/images/Untitled%20(64%20x%2064%20px).png",
+    "bytes": 1071
+  },
+  {
+    "file": "assets/1e096bf0aae45fe913cf.png",
+    "source": "https://www.codedex.io/images/tiktok_logo.png",
+    "bytes": 3129
+  },
+  {
+    "file": "assets/28a7b8491748181632e0.png",
+    "source": "https://www.codedex.io/images/python/pythonbannerbackground.png",
+    "bytes": 5432
+  },
+  {
+    "file": "assets/82db3b9435178efd0350.gif",
+    "source": "https://www.codedex.io/images/character_gifs/battle.gif",
+    "bytes": 48113
+  },
+  {
+    "file": "assets/57580b963f918b098df2.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRW8aevG547LTdNwA.woff2",
+    "bytes": 13500
+  },
+  {
+    "file": "assets/e8c113e2765c44868c05.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFR8aevG547LTdNwA.woff2",
+    "bytes": 13528
+  },
+  {
+    "file": "assets/2f3a92cf7ffbe8aa9182.svg",
+    "source": "https://www.codedex.io/images/homepage/hearticon.svg",
+    "bytes": 1009
+  },
+  {
+    "file": "assets/615480b554e4377578b8.webp",
+    "source": "https://www.codedex.io/images/homepage/minesweaper.webp",
+    "bytes": 17984
+  },
+  {
+    "file": "assets/c139bfd378f12dac00f8.png",
+    "source": "https://www.codedex.io/images/badges/python/lists.png",
+    "bytes": 346
+  },
+  {
+    "file": "assets/0e4b7fc2376742be3bfb.png",
+    "source": "https://www.codedex.io/images/homepage/s.png",
+    "bytes": 3449
+  },
+  {
+    "file": "assets/d49453616bb06a4a5ed6.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8aevG547LTdNwA.woff2",
+    "bytes": 13568
+  },
+  {
+    "file": "assets/dd7a61fe91c852b7707f.webp",
+    "source": "https://www.codedex.io/images/lumi/lumi-idle.webp",
+    "bytes": 2618
+  },
+  {
+    "file": "assets/42ae5a217cc0838ef2d4.png",
+    "source": "https://www.codedex.io/images/school_logos/columbia-logo.png",
+    "bytes": 28367
+  },
+  {
+    "file": "assets/d4f4f1ce567e1a5d37d8.gif",
+    "source": "https://www.codedex.io/images/css/css-course-banner.gif",
+    "bytes": 203491
+  },
+  {
+    "file": "assets/b9e3e9a4e34356ad2f90.svg",
+    "source": "https://www.codedex.io/images/homepage/chat-conversation.svg",
+    "bytes": 209501
+  },
+  {
+    "file": "assets/9571d7337234b5ed577d.png",
+    "source": "https://www.codedex.io/images/socials/discord.png",
+    "bytes": 791
+  },
+  {
+    "file": "assets/2d3af6bc7945609e8312.png",
+    "source": "https://www.codedex.io/images/image%2065%20(3).png",
+    "bytes": 4039
+  },
+  {
+    "file": "assets/f8966d7adf58e93ed721.gif",
+    "source": "https://www.codedex.io/images/javascript/javascript-course-banner.gif",
+    "bytes": 175336
+  },
+  {
+    "file": "assets/e27efc6ce64ab5df82a8.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8aevG547LTdNwA.woff2",
+    "bytes": 13548
+  },
+  {
+    "file": "assets/76959072fb44c1ee20c5.gif",
+    "source": "https://www.codedex.io/images/character_gifs/qOSmiVc.gif",
+    "bytes": 60025
+  },
+  {
+    "file": "assets/75e182f181d1a24bb3db.gif",
+    "source": "https://www.codedex.io/images/character_gifs/tekmLsi.gif",
+    "bytes": 54442
+  },
+  {
+    "file": "assets/017c317e4d0cb49d2c1c.png",
+    "source": "https://www.codedex.io/images/school_logos/csta-white-removebg-preview.png",
+    "bytes": 13460
+  },
+  {
+    "file": "assets/2e12d0e5d2d956bc2acd.png",
+    "source": "https://www.codedex.io/images/school_logos/hacknyu.png",
+    "bytes": 3587
+  },
+  {
+    "file": "assets/b37c2e1a55623801db03.gif",
+    "source": "https://www.codedex.io/images/character_gifs/Ai30sjf.gif",
+    "bytes": 144896
+  },
+  {
+    "file": "assets/8d005d5d40c0d27c7e45.gif",
+    "source": "https://www.codedex.io/images/sql/seo-bannergif.gif",
+    "bytes": 125765
+  },
+  {
+    "file": "assets/ab9d2364450d22b6b4bb.png",
+    "source": "https://www.codedex.io/images/school_logos/pinterest.png",
+    "bytes": 44545
+  },
+  {
+    "file": "assets/449f4182dcb6ab5acc87.png",
+    "source": "https://www.codedex.io/images/badges/python/modules.png",
+    "bytes": 293
+  },
+  {
+    "file": "assets/2e36f300ce6f9bff47db.gif",
+    "source": "https://www.codedex.io/images/boy.gif",
+    "bytes": 9294
+  },
+  {
+    "file": "assets/c259dab6582e51d5c56a.svg",
+    "source": "https://www.codedex.io/images/school_logos/Deloitte_1.svg",
+    "bytes": 7066
+  },
+  {
+    "file": "assets/eaf38dbc14d10441aa24.png",
+    "source": "https://www.codedex.io/images/school_logos/ohio-state-university.png",
+    "bytes": 61377
+  },
+  {
+    "file": "assets/89da5e384ac09ee41120.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNW8aevG547LTdNwA.woff2",
+    "bytes": 13612
+  },
+  {
+    "file": "assets/1432e19cecb832808bab.gif",
+    "source": "https://www.codedex.io/images/python/python-animated.gif",
+    "bytes": 136184
+  },
+  {
+    "file": "assets/bdb12c5d9627ad7aa5c4.svg",
+    "source": "https://www.codedex.io/images/school_logos/uber-eats-white.svg",
+    "bytes": 1954
+  },
+  {
+    "file": "assets/9d717455766580e53fea.png",
+    "source": "https://www.codedex.io/images/badges/python/variables.png",
+    "bytes": 350
+  },
+  {
+    "file": "assets/757feddf7459c50000f7.svg",
+    "source": "https://www.codedex.io/images/school_logos/amd-logo.svg",
+    "bytes": 1971
+  },
+  {
+    "file": "assets/b9eb9fe58633de5b4d2e.png",
+    "source": "https://www.codedex.io/images/badges/python/hello-world.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/674bfb3bb19460d4b850.gif",
+    "source": "https://www.codedex.io/images/python/pythonanimated-forground.gif",
+    "bytes": 104267
+  },
+  {
+    "file": "assets/dc5f7d20d253ef86521b.png",
+    "source": "https://www.codedex.io/images/school_logos/tesla-logo.png",
+    "bytes": 43209
+  },
+  {
+    "file": "assets/b072a13a8c852debcc9e.gif",
+    "source": "https://www.codedex.io/images/sql/sqlbanner.gif",
+    "bytes": 250737
+  },
+  {
+    "file": "assets/3bdc79df975dd9338493.webp",
+    "source": "https://www.codedex.io/images/lumi/lumi-levitate.webp",
+    "bytes": 4946
+  },
+  {
+    "file": "assets/aa7ff7f0bb2b94d4d8ee.png",
+    "source": "https://www.codedex.io/images/badges/python/functions.png",
+    "bytes": 392
+  },
+  {
+    "file": "assets/faf2ef6ea54326db40f3.png",
+    "source": "https://www.codedex.io/images/courses/dsabanner.png",
+    "bytes": 42649
+  },
+  {
+    "file": "assets/585ebf76dbe26a7c130d.png",
+    "source": "https://www.codedex.io/images/school_logos/spotify-logo.png",
+    "bytes": 47582
+  },
+  {
+    "file": "assets/a085409fd1a18d277e50.webp",
+    "source": "https://www.codedex.io/images/banners/custom-phaser.webp",
+    "bytes": 88336
+  },
+  {
+    "file": "assets/ceefd47decddeca1a66f.svg",
+    "source": "https://www.codedex.io/images/school_logos/csforall-logo.svg",
+    "bytes": 15883
+  },
+  {
+    "file": "assets/d6dd7a757b4562c2aed2.svg",
+    "source": "https://www.codedex.io/images/school_logos/apple_logo_grey.svg",
+    "bytes": 1752
+  },
+  {
+    "file": "assets/56e9626494bc96f2c8b4.png",
+    "source": "https://www.codedex.io/images/badges/python/classes-and-objects.png",
+    "bytes": 349
+  },
+  {
+    "file": "assets/f35d6a8b4cf812c7f004.png",
+    "source": "https://www.codedex.io/images/badges/python/control-flow.png",
+    "bytes": 372
+  },
+  {
+    "file": "assets/3afbdcad947122552b2e.gif",
+    "source": "https://www.codedex.io/images/courses/worldmap.gif",
+    "bytes": 264044
+  },
+  {
+    "file": "assets/e4aaf46fdda0b0cc5892.png",
+    "source": "https://www.codedex.io/images/school_logos/MIT_logo.png",
+    "bytes": 18274
+  },
+  {
+    "file": "assets/f0d46d262d6c429cd113.png",
+    "source": "https://www.codedex.io/images/school_logos/Sullivan.png",
+    "bytes": 30983
+  },
+  {
+    "file": "assets/6ec2e55e97b53642cce3.png",
+    "source": "https://www.codedex.io/images/intermediate-java/intermediate-java-banner-image.png",
+    "bytes": 231597
+  },
+  {
+    "file": "assets/f60267b8e0f950d883cc.png",
+    "source": "https://www.codedex.io/images/homepage/Challenge%20card.png",
+    "bytes": 641642
+  },
+  {
+    "file": "assets/6ec0e2b27a471fce4b51.svg",
+    "source": "https://www.codedex.io/images/school_logos/spacex.svg",
+    "bytes": 2330
+  },
+  {
+    "file": "assets/db8292cd93feee893795.png",
+    "source": "https://www.codedex.io/images/css/banner.png",
+    "bytes": 176283
+  },
+  {
+    "file": "assets/524e4c6e1b15820e0d60.gif",
+    "source": "https://www.codedex.io/images/ui-ux-design/uiux.gif",
+    "bytes": 394220
+  },
+  {
+    "file": "assets/0bbd3846ccd2398c91f9.gif",
+    "source": "https://www.codedex.io/images/courses/projectPreviews/python/final-1.gif",
+    "bytes": 111056
+  },
+  {
+    "file": "assets/f3ab76d7927c9c839124.png",
+    "source": "https://www.codedex.io/images/school_logos/lehman-logo.png",
+    "bytes": 81191
+  },
+  {
+    "file": "assets/6a709b690c3ac14a17fa.png",
+    "source": "https://www.codedex.io/images/badges/python/loops.png",
+    "bytes": 368
+  },
+  {
+    "file": "assets/954e27723b5e1ba332dd.gif",
+    "source": "https://www.codedex.io/images/numpy/banner.gif",
+    "bytes": 398042
+  },
+  {
+    "file": "assets/64d7e1bda4313b9c5233.png",
+    "source": "https://www.codedex.io/images/homepage/le-illustrations.png",
+    "bytes": 648338
+  },
+  {
+    "file": "assets/4bde8d30562db7d6a137.png",
+    "source": "https://www.codedex.io/images/school_logos/divhacks-logo.png",
+    "bytes": 68336
+  },
+  {
+    "file": "assets/b535e38bae4eae95acae.png",
+    "source": "https://www.codedex.io/images/html-header.png",
+    "bytes": 79849
+  },
+  {
+    "file": "assets/b693c7f996837086e1f3.gif",
+    "source": "https://www.codedex.io/images/courses/github-copilots.gif",
+    "bytes": 250519
+  },
+  {
+    "file": "assets/554663e1e64b89dc9f62.gif",
+    "source": "https://www.codedex.io/images/p5/p5courseimage.gif",
+    "bytes": 952747
+  },
+  {
+    "file": "assets/6278e00438d9e71a6835.gif",
+    "source": "https://www.codedex.io/images/courses/lua-banner.gif",
+    "bytes": 637057
+  },
+  {
+    "file": "assets/85e3ec4eff9b55cf15ab.webp",
+    "source": "https://www.codedex.io/images/gen-ai/genai-banner.webp",
+    "bytes": 1517496
+  },
+  {
+    "file": "assets/b140a60c83d4fb20c497.webp",
+    "source": "https://www.codedex.io/images/csharp/charp.webp",
+    "bytes": 1703070
+  },
+  {
+    "file": "assets/2a6da036492a69dc7bd4.gif",
+    "source": "https://www.codedex.io/images/intermediate-python/intermediate-python.gif",
+    "bytes": 1841851
+  },
+  {
+    "file": "assets/45f413faf3b3cd23c7f9.webp",
+    "source": "https://www.codedex.io/images/java/java-banner-image.webp",
+    "bytes": 997024
+  },
+  {
+    "file": "assets/3eb440519caf0135c466.gif",
+    "source": "https://www.codedex.io/images/framework-valley-react/banner.gif",
+    "bytes": 2841029
+  },
+  {
+    "file": "assets/c8e6cb5284014a997e82.webp",
+    "source": "https://www.codedex.io/images/machine-learning/machine-learning-header.webp",
+    "bytes": 2456306
+  },
+  {
+    "file": "assets/9f71f1dc9bbdf8b2bb82.png",
+    "source": "https://www.codedex.io/images/courses/nodejsbannerseo.png",
+    "bytes": 6684515
+  },
+  {
+    "file": "assets/1fd9f8822f2bf8e2f73c.gif",
+    "source": "https://www.codedex.io/images/homepage/minesweepers.gif",
+    "bytes": 1732397
+  },
+  {
+    "file": "assets/b7b5ffc132331722fe6f.png",
+    "source": "https://www.codedex.io/images/html/html-banner-background.png",
+    "bytes": 14761
+  },
+  {
+    "file": "assets/b9f17b9dac9b094a720e.gif",
+    "source": "https://www.codedex.io/images/html/html-banner-foreground.gif",
+    "bytes": 69727
+  },
+  {
+    "file": "assets/9285f2425680cef89b4d.png",
+    "source": "https://www.codedex.io/images/css/css-course-banner-background.png",
+    "bytes": 6695
+  },
+  {
+    "file": "assets/3f2a4c1c0fb4d3c87963.gif",
+    "source": "https://www.codedex.io/images/css/css-course-banner-forground.gif",
+    "bytes": 96067
+  },
+  {
+    "file": "assets/32d209cc0e3b5ec29842.gif",
+    "source": "https://www.codedex.io/images/javascript/javascript-course-banner-foreground.gif",
+    "bytes": 150349
+  },
+  {
+    "file": "assets/c64ad8214967a237e324.png",
+    "source": "https://www.codedex.io/images/javascript/javascript-course-banner-background.png",
+    "bytes": 9563
+  },
+  {
+    "file": "assets/a64d33984757a14830e4.png",
+    "source": "https://www.codedex.io/images/badges/html/elements.png",
+    "bytes": 457
+  },
+  {
+    "file": "assets/7fa640763cc9604fa412.png",
+    "source": "https://www.codedex.io/images/badges/html/forms.png",
+    "bytes": 274
+  },
+  {
+    "file": "assets/836eb1678f02bcc79931.png",
+    "source": "https://www.codedex.io/images/badges/html/semantic-html.png",
+    "bytes": 349
+  },
+  {
+    "file": "assets/75da4c5db176982fd3a3.png",
+    "source": "https://www.codedex.io/images/badges/html/structure.png",
+    "bytes": 293
+  },
+  {
+    "file": "assets/67b982894311f0b49067.png",
+    "source": "https://www.codedex.io/images/badges/css/selectors.png",
+    "bytes": 851
+  },
+  {
+    "file": "assets/22319746501e64a1ce21.png",
+    "source": "https://www.codedex.io/images/badges/css/properties.png",
+    "bytes": 1109
+  },
+  {
+    "file": "assets/74a53a4068853c7b5daf.gif",
+    "source": "https://www.codedex.io/images/courses/projectPreviews/html/Nov-11-2024%2009-04-40.gif",
+    "bytes": 2008258
+  },
+  {
+    "file": "assets/dad5ce4a52cfc65e668e.png",
+    "source": "https://www.codedex.io/images/badges/css/flexbox.png",
+    "bytes": 685
+  },
+  {
+    "file": "assets/6696145cffecff3aea28.png",
+    "source": "https://www.codedex.io/images/badges/css/layout.png",
+    "bytes": 2535
+  },
+  {
+    "file": "assets/2cbf7b42aef20312a5c0.png",
+    "source": "https://www.codedex.io/images/badges/css/box-model.png",
+    "bytes": 861
+  },
+  {
+    "file": "assets/33c2b8ce7d688cba27fa.png",
+    "source": "https://www.codedex.io/images/badges/javascript/the-console.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/3e47f758ffbd00ac931d.png",
+    "source": "https://www.codedex.io/images/badges/javascript/functions.png",
+    "bytes": 392
+  },
+  {
+    "file": "assets/788595c3cade3df73f6d.png",
+    "source": "https://www.codedex.io/images/badges/javascript/conditionals.png",
+    "bytes": 372
+  },
+  {
+    "file": "assets/14618d6db7dcfd8bd007.png",
+    "source": "https://www.codedex.io/images/badges/javascript/trifecta.png",
+    "bytes": 293
+  },
+  {
+    "file": "assets/0788cbc750c519c9ad3c.png",
+    "source": "https://www.codedex.io/images/badges/javascript/variables.png",
+    "bytes": 350
+  },
+  {
+    "file": "assets/bd1a27d81427615cdd57.png",
+    "source": "https://www.codedex.io/images/badges/javascript/arrays.png",
+    "bytes": 346
+  },
+  {
+    "file": "assets/cd183cda9cb5ad915fd0.png",
+    "source": "https://www.codedex.io/images/badges/javascript/objects.png",
+    "bytes": 349
+  },
+  {
+    "file": "assets/a3ddf5b3775d6bbce0c1.png",
+    "source": "https://www.codedex.io/images/badges/javascript/loops.png",
+    "bytes": 368
+  },
+  {
+    "file": "assets/81f623868f5ec0e47c40.gif",
+    "source": "https://www.codedex.io/images/courses/projectPreviews/javascript/Nov-11-2024%2009-23-09.gif",
+    "bytes": 39666
+  },
+  {
+    "file": "assets/0baed5a25b7c3fc90bb4.gif",
+    "source": "https://www.codedex.io/images/sql/sql-background.gif",
+    "bytes": 9507
+  },
+  {
+    "file": "assets/11316709ad4ce384162a.png",
+    "source": "https://www.codedex.io/images/badges/sql/new-table.png",
+    "bytes": 601
+  },
+  {
+    "file": "assets/b55672261ea7bdd38db7.png",
+    "source": "https://www.codedex.io/images/badges/sql/queries.png",
+    "bytes": 488
+  },
+  {
+    "file": "assets/ba772221254e6af7a458.png",
+    "source": "https://www.codedex.io/images/badges/sql/multiple-tables.png",
+    "bytes": 398
+  },
+  {
+    "file": "assets/acb41b018e916006f59b.gif",
+    "source": "https://www.codedex.io/images/sql/sql-forground.gif",
+    "bytes": 429223
+  },
+  {
+    "file": "assets/fbb47ab80db4a40d763a.png",
+    "source": "https://www.codedex.io/images/badges/sql/aggregates.png",
+    "bytes": 1087
+  },
+  {
+    "file": "assets/047b1c9e5f0955c8f9ca.png",
+    "source": "https://www.codedex.io/images/badges/java/loops.png",
+    "bytes": 368
+  },
+  {
+    "file": "assets/56c2eed9a561fbbe8a39.png",
+    "source": "https://www.codedex.io/images/badges/java/arrays.png",
+    "bytes": 346
+  },
+  {
+    "file": "assets/6f61419a6cbaad9353a3.png",
+    "source": "https://www.codedex.io/images/challenge_packs/questionmark.png",
+    "bytes": 156
+  },
+  {
+    "file": "assets/eb04ebbdfb0e704b5dcc.webp",
+    "source": "https://www.codedex.io/images/challenge_packs/textures/deckfaces/deck-face.webp",
+    "bytes": 230964
+  },
+  {
+    "file": "assets/311179efce6572b00d64.png",
+    "source": "https://www.codedex.io/images/badges/c-sharp/control-flow.png",
+    "bytes": 372
+  },
+  {
+    "file": "assets/654caea6a8f68cecc95a.png",
+    "source": "https://www.codedex.io/images/projects/card_images/generate-a-blog-with-openai.png",
+    "bytes": 35057
+  },
+  {
+    "file": "assets/ff9f7c7d182e5cd5bbbe.png",
+    "source": "https://www.codedex.io/images/projects/card_images/gui_project_card.png",
+    "bytes": 48075
+  },
+  {
+    "file": "assets/6bb35aecad6b8a6b4384.png",
+    "source": "https://www.codedex.io/images/projects/card_images/create-a-voice-virtual-assistant-with-elevenlabs.png",
+    "bytes": 6823
+  },
+  {
+    "file": "assets/ce885f871ff1d8a23ee8.png",
+    "source": "https://www.codedex.io/images/projects/card_images/exa-ai.png",
+    "bytes": 33100
+  },
+  {
+    "file": "assets/6b31599c4ed4b13ab9ce.png",
+    "source": "https://www.codedex.io/images/projects/card_images/htmlanimate.png",
+    "bytes": 1537480
+  },
+  {
+    "file": "assets/71d8d61fab8c296be299.png",
+    "source": "https://www.codedex.io/images/projects/card_images/word-game.png",
+    "bytes": 1378573
+  },
+  {
+    "file": "assets/1e4675cf63431ef4b25e.png",
+    "source": "https://www.codedex.io/images/projects/card_images/create-a-gif-with-python.png",
+    "bytes": 20854
+  },
+  {
+    "file": "assets/8123ca275be94cdf8a22.png",
+    "source": "https://www.codedex.io/images/projects/card_images/local-html.png",
+    "bytes": 30198
+  },
+  {
+    "file": "assets/1614bea67393758f35c0.png",
+    "source": "https://www.codedex.io/images/projects/card_images/convert-roman-numerals-with-python.png",
+    "bytes": 43726
+  },
+  {
+    "file": "assets/8b19ab97db76208ffe63.gif",
+    "source": "https://www.codedex.io/images/projects/card_images/p5.gif",
+    "bytes": 81218
+  },
+  {
+    "file": "assets/013a88659b83216c4b9b.png",
+    "source": "https://www.codedex.io/images/projects/card_images/animate-html.png",
+    "bytes": 42034
+  },
+  {
+    "file": "assets/ac9a8d73872d965b48aa.png",
+    "source": "https://www.codedex.io/images/projects/card_images/set-up-local-dev-environment-with-python.png",
+    "bytes": 8304
+  },
+  {
+    "file": "assets/a6231d44ac5b4a36962b.png",
+    "source": "https://www.codedex.io/images/projects/card_images/build-a-flappy-bird-clone-with-phaser.png",
+    "bytes": 42052
+  },
+  {
+    "file": "assets/abcffee964bebd9001ec.png",
+    "source": "https://www.codedex.io/images/projects/card_images/fireworks-with-javascript-and-canvas.png",
+    "bytes": 93466
+  },
+  {
+    "file": "assets/c18904e680cdb7c37d1c.png",
+    "source": "https://www.codedex.io/images/projects/card_images/Threejs%20Project%20Card.png",
+    "bytes": 13914
+  },
+  {
+    "file": "assets/9140305b4ab8541768c1.png",
+    "source": "https://www.codedex.io/images/projects/card_images/cipher_project_card.png",
+    "bytes": 61933
+  },
+  {
+    "file": "assets/2c1095032c412dc84966.png",
+    "source": "https://www.codedex.io/images/projects/card_images/make-a-bg3-mod-with-lua.png",
+    "bytes": 58842
+  },
+  {
+    "file": "assets/5f6649b9abd52e57fcba.png",
+    "source": "https://www.codedex.io/images/projects/card_images/get-started-with-love2d-and-lua.png",
+    "bytes": 27762
+  },
+  {
+    "file": "assets/fe2f7f26c1612b3ee5de.png",
+    "source": "https://www.codedex.io/images/projects/card_images/google-maps-thumbnail.png",
+    "bytes": 305704
+  },
+  {
+    "file": "assets/7eabceb7bdbe3c83c3c0.jpg",
+    "source": "https://www.codedex.io/images/projects/card_images/linear-regression.jpg",
+    "bytes": 59628
+  },
+  {
+    "file": "assets/21593fd7313d6dfc3b6f.png",
+    "source": "https://www.codedex.io/images/projects/card_images/debug-card.png",
+    "bytes": 219497
+  },
+  {
+    "file": "assets/00d03ddec6b87d563ecb.png",
+    "source": "https://www.codedex.io/images/projects/card_images/deploy-vercel-project.png",
+    "bytes": 16449
+  },
+  {
+    "file": "assets/cc584542581a18c269b4.png",
+    "source": "https://www.codedex.io/images/projects/card_images/make-a-github-profile-readme.png",
+    "bytes": 135678
+  },
+  {
+    "file": "assets/43a3b1711bae85c35bde.png",
+    "source": "https://www.codedex.io/images/projects/card_images/web-scrape-amazon-with-beautiful-soup.png",
+    "bytes": 60566
+  },
+  {
+    "file": "assets/383226fc03bd8179d0a5.png",
+    "source": "https://www.codedex.io/images/projects/card_images/generate-a-poem-with-google-gemini.png",
+    "bytes": 18933
+  },
+  {
+    "file": "assets/9761d25013fa02491530.png",
+    "source": "https://www.codedex.io/images/projects/card_images/build-a-discord-bot-with-python.png",
+    "bytes": 24885
+  },
+  {
+    "file": "assets/9cc0381e70952ae18022.png",
+    "source": "https://www.codedex.io/images/projects/card_images/generate-a-qr-code-with-python.png",
+    "bytes": 21095
+  },
+  {
+    "file": "assets/c27c6de77ed94771d005.png",
+    "source": "https://www.codedex.io/images/projects/card_images/scipy.png",
+    "bytes": 100184
+  },
+  {
+    "file": "assets/09a01855f062dec3952c.png",
+    "source": "https://www.codedex.io/images/projects/card_images/analyze-best-selling-books-with-pandas.png",
+    "bytes": 198202
+  },
+  {
+    "file": "assets/afe8c4a0159a5c7d489c.png",
+    "source": "https://www.codedex.io/images/projects/card_images/Generate%20AI%20Art%20with%20Krea.AI.png",
+    "bytes": 7315
+  },
+  {
+    "file": "assets/f4c3e89bff9f031b1579.png",
+    "source": "https://www.codedex.io/images/projects/card_images/create-a-vr-solar-system-with-a-frame.png",
+    "bytes": 118297
+  },
+  {
+    "file": "assets/4ed55c2cf260e0ebdc53.png",
+    "source": "https://www.codedex.io/images/projects/card_images/view-weather-with-html-css-js.png",
+    "bytes": 112240
+  },
+  {
+    "file": "assets/30d95bd4cd455e6fb1b9.png",
+    "source": "https://www.codedex.io/images/projects/card_images/publish-vite.png",
+    "bytes": 16650
+  },
+  {
+    "file": "assets/261d2648ff672eccd912.png",
+    "source": "https://www.codedex.io/images/projects/card_images/automate-secret-santa-emails-with-smtp.png",
+    "bytes": 8639
+  },
+  {
+    "file": "assets/82f6fd63728614b29df8.png",
+    "source": "https://www.codedex.io/images/projects/card_images/build-a-pomodoro-app-with-html-css-js.png",
+    "bytes": 74817
+  },
+  {
+    "file": "assets/acac5045729dc1ed0905.png",
+    "source": "https://www.codedex.io/images/projects/card_images/conversation-project-card.png",
+    "bytes": 43276
+  },
+  {
+    "file": "assets/9bc41d1ef70980069228.png",
+    "source": "https://www.codedex.io/images/projects/card_images/get-started-with-roblox-studio-and-lua.png",
+    "bytes": 10434
+  },
+  {
+    "file": "assets/e40a924cf749b8ec534b.jpg",
+    "source": "https://www.codedex.io/images/projects/card_images/spotify.jpg",
+    "bytes": 32668
+  },
+  {
+    "file": "assets/6f9ca58be98c586ef44a.png",
+    "source": "https://www.codedex.io/images/projects/card_images/create-a-to-do-list-app-with-html-css-js.png",
+    "bytes": 29152
+  },
+  {
+    "file": "assets/bbff1420eab07bf90383.png",
+    "source": "https://www.codedex.io/images/projects/card_images/visualize-youtube-data-with-plotly.png",
+    "bytes": 49991
+  },
+  {
+    "file": "assets/2bac64206ef298152b13.png",
+    "source": "https://www.codedex.io/images/projects/card_images/chatapp-with-socket-io.png",
+    "bytes": 155778
+  },
+  {
+    "file": "assets/3c3faa687d77b61a43ab.png",
+    "source": "https://www.codedex.io/images/projects/card_images/build-pong-with-pygame.png",
+    "bytes": 408173
+  },
+  {
+    "file": "assets/6aa70ab7a004b7c1daf5.png",
+    "source": "https://www.codedex.io/images/projects/card_images/50-terminal-project-ideas-with-python.png",
+    "bytes": 24203
+  },
+  {
+    "file": "assets/eb2ff9b97a87fb446523.png",
+    "source": "https://www.codedex.io/images/projects/card_images/detect-hotdog-with-hugging-face.png",
+    "bytes": 1327902
+  },
+  {
+    "file": "assets/cb9866ed6d89a6daabcb.png",
+    "source": "https://www.codedex.io/images/projects/card_images/tictactoe.png",
+    "bytes": 1488023
+  },
+  {
+    "file": "assets/7e51432b2d3faa559d88.gif",
+    "source": "https://www.codedex.io/images/projects/card_images/daniels-minecraft.gif",
+    "bytes": 2214834
+  },
+  {
+    "file": "assets/4f909d1c9aac26b0ebcb.png",
+    "source": "https://www.codedex.io/images/projects/card_images/nearest-model.png",
+    "bytes": 1646094
+  },
+  {
+    "file": "assets/3d65ad47dbd567369c30.gif",
+    "source": "https://www.codedex.io/images/projects/card_images/add-easing-to-your-game-animations-with-phaser.gif",
+    "bytes": 3176866
+  },
+  {
+    "file": "assets/ae5d90cca4d76e977c4a.png",
+    "source": "https://www.codedex.io/images/editor/java-pixel-logo.png",
+    "bytes": 481
+  },
+  {
+    "file": "assets/46f3eab37e8538be35b0.png",
+    "source": "https://www.codedex.io/images/editor/csharp-pixel-logo.png",
+    "bytes": 619
+  },
+  {
+    "file": "assets/b67817cd5054fde5f64c.gif",
+    "source": "https://www.codedex.io/images/builds/head-bobbing.gif",
+    "bytes": 8957
+  },
+  {
+    "file": "assets/579c542a471597af3737.gif",
+    "source": "https://www.codedex.io/images/builds/robot.gif",
+    "bytes": 12052
+  },
+  {
+    "file": "assets/5d1c6518e1579b8f3814.png",
+    "source": "https://www.codedex.io/images/editor/html-pixel-logo.png",
+    "bytes": 489
+  },
+  {
+    "file": "assets/3991315420e547012181.png",
+    "source": "https://www.codedex.io/images/editor/js-pixel-logo.png",
+    "bytes": 1418
+  },
+  {
+    "file": "assets/f21cd64dfa7746c699ca.png",
+    "source": "https://www.codedex.io/images/editor/python-pixel-logo.png",
+    "bytes": 702
+  },
+  {
+    "file": "assets/48dc24588cd680749506.png",
+    "source": "https://www.codedex.io/images/editor/cpp-pixel-logo.png",
+    "bytes": 706
+  },
+  {
+    "file": "assets/7b9d6871ef8d0ce14627.webp",
+    "source": "https://www.codedex.io/images/builds/magical-garden.webp",
+    "bytes": 68398
+  },
+  {
+    "file": "assets/eb64c197ea018f6e5359.gif",
+    "source": "https://www.codedex.io/images/builds/boy.gif",
+    "bytes": 11969
+  },
+  {
+    "file": "assets/78231eea802c9371d719.png",
+    "source": "https://avatars.githubusercontent.com/u/62636076",
+    "bytes": 147804
+  },
+  {
+    "file": "assets/6f229779282cb027c551.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSG-OfGZQ6DzNVwd6k.woff2",
+    "bytes": 14548
+  },
+  {
+    "file": "assets/f9e1018ac5b70633634d.png",
+    "source": "https://www.codedex.io/images/editor/react-pixel-logo.png",
+    "bytes": 395
+  },
+  {
+    "file": "assets/e4390d16e067254ee533.png",
+    "source": "https://www.codedex.io/images/builds/buildshero.png",
+    "bytes": 499665
+  },
+  {
+    "file": "assets/cf5f0a9065b1c75daf04.svg",
+    "source": "https://www.codedex.io/images/pricing/girl-working.svg",
+    "bytes": 15380
+  },
+  {
+    "file": "assets/e3e6abf204947352f12f.webp",
+    "source": "https://www.codedex.io/images/builds/plants-slot-machine.webp",
+    "bytes": 16228
+  },
+  {
+    "file": "assets/8c4ebca1878f0139fee3.webp",
+    "source": "https://www.codedex.io/images/builds/flappy-star.webp",
+    "bytes": 15064
+  },
+  {
+    "file": "assets/da382a6615984646c575.svg",
+    "source": "https://www.codedex.io/images/pricing/boy-working.svg",
+    "bytes": 8475
+  },
+  {
+    "file": "assets/8408e8a5ed5ddd9536f2.webp",
+    "source": "https://www.codedex.io/images/builds/lumon-pomodoro.webp",
+    "bytes": 16412
+  },
+  {
+    "file": "assets/f82cd92ebf65474b0cbb.webp",
+    "source": "https://www.codedex.io/images/builds/midnight-brew.webp",
+    "bytes": 23180
+  },
+  {
+    "file": "assets/c07748f2ec18f7192756.webp",
+    "source": "https://www.codedex.io/images/builds/virtual-garden.webp",
+    "bytes": 44670
+  },
+  {
+    "file": "assets/5fc4e3b7c6f4eac06286.gif",
+    "source": "https://www.codedex.io/images/community/bouncer.gif",
+    "bytes": 1007577
+  },
+  {
+    "file": "assets/058dfe2bb85b9434f8b4.svg",
+    "source": "https://www.codedex.io/images/community/loader.svg",
+    "bytes": 3359
+  },
+  {
+    "file": "assets/e16808677acca3246d72.png",
+    "source": "https://www.codedex.io/images/homepage/room2.png",
+    "bytes": 13660
+  },
+  {
+    "file": "assets/45a30184733e7e7529c6.png",
+    "source": "https://www.apple.com/v/macbook-pro/proled-xdr-display/a/images/meta/mbp_proled_xdr__f7755bx607yq_og.png",
+    "bytes": 554003
+  },
+  {
+    "file": "assets/41a7a826dfcf77300f4b.png",
+    "source": "https://avatars.githubusercontent.com/u/270779634",
+    "bytes": 48989
+  },
+  {
+    "file": "assets/a33288ca1e0ccf493968.png",
+    "source": "https://avatars.githubusercontent.com/u/129923993",
+    "bytes": 58756
+  },
+  {
+    "file": "assets/011e0cc012dde3398d90.jpg",
+    "source": "https://www.codedex.io/images/default-profile-pic.jpg",
+    "bytes": 1944
+  },
+  {
+    "file": "assets/18300f8bdc6af2d33721.png",
+    "source": "https://www.codedex.io/images/community/mochi_avatar.png",
+    "bytes": 14324
+  },
+  {
+    "file": "assets/1ddd71bda3bc16476fff.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSfGZQ6DzNVwd6k.woff2",
+    "bytes": 14548
+  },
+  {
+    "file": "assets/2131ca40d20a249fdf8b.png",
+    "source": "https://www.codedex.io/images/community/news.png",
+    "bytes": 20967
+  },
+  {
+    "file": "assets/679067824c4ce04b8e6d.avif",
+    "source": "https://www.codedex.io/images/community/career-suitcase.avif",
+    "bytes": 2944
+  },
+  {
+    "file": "assets/bd592d95b1a10fa79fee.png",
+    "source": "https://www.codedex.io/images/rank_badges/level_1.png",
+    "bytes": 156661
+  },
+  {
+    "file": "assets/cfa5f7d6f46634a46950.png",
+    "source": "https://www.codedex.io/images/rank_badges/level_5.png",
+    "bytes": 309265
+  },
+  {
+    "file": "assets/ec10f88af9ecb7791b56.png",
+    "source": "https://www.codedex.io/images/rank_badges/level_2.png",
+    "bytes": 190304
+  },
+  {
+    "file": "assets/364fc715495350612d1b.png",
+    "source": "https://www.codedex.io/images/rank_badges/level_4.png",
+    "bytes": 279385
+  },
+  {
+    "file": "assets/ae928ec8c6d555e82348.png",
+    "source": "https://www.codedex.io/images/rank_badges/level_3.png",
+    "bytes": 229667
+  },
+  {
+    "file": "assets/eade14956f48c8ab3688.gif",
+    "source": "https://www.codedex.io/images/character_gifs/dZ7Qu9K.gif",
+    "bytes": 38683
+  },
+  {
+    "file": "assets/c618c7fd64783713b814.webp",
+    "source": "https://www.codedex.io/images/brand/bot/bouncingbot.webp",
+    "bytes": 11384
+  },
+  {
+    "file": "assets/232d45bf37f966c040b0.webp",
+    "source": "https://www.codedex.io/images/login-signup/dark-cloud.webp",
+    "bytes": 4172
+  },
+  {
+    "file": "assets/b20c9571bc7cb1b4bff6.png",
+    "source": "https://www.codedex.io/images/login-signup/sky-stars.png",
+    "bytes": 88537
+  },
+  {
+    "file": "assets/67cd405d838bb92dd05c.png",
+    "source": "https://www.codedex.io/images/30-nites-of-code/trophy.png",
+    "bytes": 821
+  },
+  {
+    "file": "assets/796448c9687334a25378.png",
+    "source": "https://www.codedex.io/images/30-nites-of-code/calendar.png",
+    "bytes": 620
+  },
+  {
+    "file": "assets/bd0f71b5715ee4cace11.gif",
+    "source": "https://www.codedex.io/images/30-nites-of-code/step-2.gif",
+    "bytes": 61889
+  },
+  {
+    "file": "assets/e19027e625f3a67a2caf.gif",
+    "source": "https://www.codedex.io/images/30-nites-of-code/step-3.gif",
+    "bytes": 27658
+  },
+  {
+    "file": "assets/c7431b9c906af5af5c4a.png",
+    "source": "https://www.codedex.io/images/30-nites-of-code/egg.png",
+    "bytes": 733
+  },
+  {
+    "file": "assets/7384d05ddc1c1b40d8a1.ttf",
+    "source": "https://www.codedex.io/fonts/Scrambled_Eggs_Bold.ttf",
+    "bytes": 52597
+  },
+  {
+    "file": "assets/942f89e6951caf5515ab.png",
+    "source": "https://www.codedex.io/images/30-nites-of-code/star-bg.png",
+    "bytes": 1035
+  },
+  {
+    "file": "assets/d61d508bd3c37d9afd8a.gif",
+    "source": "https://www.codedex.io/images/30-nites-of-code/step-1.gif",
+    "bytes": 13494
+  },
+  {
+    "file": "assets/a306d9a827921da4ad0f.gif",
+    "source": "https://www.codedex.io/images/30-nites-of-code/all-pets.gif",
+    "bytes": 64181
+  },
+  {
+    "file": "assets/5d0974dd5d3f6144743c.gif",
+    "source": "https://www.codedex.io/images/30-nites-of-code/footer.gif",
+    "bytes": 18412
+  },
+  {
+    "file": "assets/623eec3ecfe49e28a744.svg",
+    "source": "https://www.codedex.io/images/about/space-bg.svg",
+    "bytes": 259138
+  },
+  {
+    "file": "assets/0503dd4c639ccb8aa88d.svg",
+    "source": "https://www.codedex.io/images/about/team-card-image.svg",
+    "bytes": 635
+  },
+  {
+    "file": "assets/5a0f7b5146cfc9ffe710.svg",
+    "source": "https://www.codedex.io/images/about/red-dot.svg",
+    "bytes": 1485
+  },
+  {
+    "file": "assets/19c8e6a03d77cd9315a7.svg",
+    "source": "https://www.codedex.io/images/about/smaller-red-dots.svg",
+    "bytes": 1230
+  },
+  {
+    "file": "assets/f301e83c65a736c14fe9.png",
+    "source": "https://www.codedex.io/images/team/sonny_avatar.png",
+    "bytes": 14610
+  },
+  {
+    "file": "assets/d359908add664d4e0ba6.png",
+    "source": "https://www.codedex.io/images/team/baby-sonny.png",
+    "bytes": 63865
+  },
+  {
+    "file": "assets/047d54907205b7667f32.svg",
+    "source": "https://www.codedex.io/images/about/Pok%C3%A9dex.svg",
+    "bytes": 18814
+  },
+  {
+    "file": "assets/9dea4091eefb8c8632c8.svg",
+    "source": "https://www.codedex.io/images/about/green-dot.svg",
+    "bytes": 455
+  },
+  {
+    "file": "assets/e755cf8930ce073508ab.png",
+    "source": "https://www.codedex.io/images/team/asiqur_animated.png",
+    "bytes": 14588
+  },
+  {
+    "file": "assets/9bb992602025824735e7.jpeg",
+    "source": "https://www.codedex.io/images/team/baby_julien.jpeg",
+    "bytes": 81049
+  },
+  {
+    "file": "assets/7a999b8ec6f7a0d8b0d3.webp",
+    "source": "https://www.codedex.io/images/team/colin_animated.webp",
+    "bytes": 13530
+  },
+  {
+    "file": "assets/b63abde90a6dd2039dd3.png",
+    "source": "https://www.codedex.io/images/team/naomi_animated.png",
+    "bytes": 15393
+  },
+  {
+    "file": "assets/fd81dd19e5abefa7e843.png",
+    "source": "https://www.codedex.io/images/team/brandon_animated.png",
+    "bytes": 14493
+  },
+  {
+    "file": "assets/6e872345dc41aff61e85.webp",
+    "source": "https://www.codedex.io/images/team/jackie_real.webp",
+    "bytes": 10396
+  },
+  {
+    "file": "assets/54e44c08769c4a0db8d3.png",
+    "source": "https://www.codedex.io/images/about/nyventures.png",
+    "bytes": 145321
+  },
+  {
+    "file": "assets/125c4518cbb48411b37e.png",
+    "source": "https://www.codedex.io/images/team/baby-brandon.png",
+    "bytes": 51825
+  },
+  {
+    "file": "assets/7feb26caa99e19c3ae7f.jpeg",
+    "source": "https://www.codedex.io/images/team/colin_baby.jpeg",
+    "bytes": 377070
+  },
+  {
+    "file": "assets/6fb1e75e1de8934773bc.png",
+    "source": "https://www.codedex.io/images/about/NPHARD.png",
+    "bytes": 9459
+  },
+  {
+    "file": "assets/bcfc71eafb2e5768122e.png",
+    "source": "https://www.codedex.io/images/team/baby-lil.png",
+    "bytes": 76367
+  },
+  {
+    "file": "assets/96a0d32c4d490f4c1b99.svg",
+    "source": "https://www.codedex.io/images/about/hustlefund.svg",
+    "bytes": 44737
+  },
+  {
+    "file": "assets/2d06d21d1836a87fea83.png",
+    "source": "https://www.codedex.io/images/team/lil_animated.png",
+    "bytes": 6728
+  },
+  {
+    "file": "assets/531abede107bc3bf2022.svg",
+    "source": "https://www.codedex.io/images/about/worklifevc.svg",
+    "bytes": 2863
+  },
+  {
+    "file": "assets/83b177694d67b1b51b25.png",
+    "source": "https://www.codedex.io/images/team/dharma_avatar.png",
+    "bytes": 14309
+  },
+  {
+    "file": "assets/4afda813bdaa94d8952f.png",
+    "source": "https://www.codedex.io/images/team/baby-dharma.png",
+    "bytes": 69783
+  },
+  {
+    "file": "assets/881bd169efaed22b2cbc.webp",
+    "source": "https://www.codedex.io/images/team/jackie_animated.webp",
+    "bytes": 15096
+  },
+  {
+    "file": "assets/13dd43969350c7a85b06.svg",
+    "source": "https://www.codedex.io/images/about/goodwater.svg",
+    "bytes": 15564
+  },
+  {
+    "file": "assets/7589546560a551e6d5d8.png",
+    "source": "https://www.codedex.io/images/malcolm_avatar.png",
+    "bytes": 15339
+  },
+  {
+    "file": "assets/fa4ae86c2c3b58616672.png",
+    "source": "https://www.codedex.io/images/team/julien.png",
+    "bytes": 10147
+  },
+  {
+    "file": "assets/ce0c592540450c92af83.png",
+    "source": "https://www.codedex.io/images/mochi_avatar.png",
+    "bytes": 14324
+  },
+  {
+    "file": "assets/7a66ef3dadc9a57f56d5.png",
+    "source": "https://www.codedex.io/images/team/baby-eric.png",
+    "bytes": 124537
+  },
+  {
+    "file": "assets/b077b6e00580135b4eb0.jpeg",
+    "source": "https://www.codedex.io/images/malcolm-brick.jpeg",
+    "bytes": 963902
+  },
+  {
+    "file": "assets/3019a2682e108df74920.png",
+    "source": "https://www.codedex.io/images/team/baby-asiqur.png",
+    "bytes": 55820
+  },
+  {
+    "file": "assets/d9489651216007a9ca81.png",
+    "source": "https://www.codedex.io/images/team/baby-ellie.png",
+    "bytes": 73951
+  },
+  {
+    "file": "assets/f2151f6adef26a950dcd.png",
+    "source": "https://www.codedex.io/images/team/mochi-real.png",
+    "bytes": 861149
+  },
+  {
+    "file": "assets/9c99289a24752e9f12a4.png",
+    "source": "https://www.codedex.io/images/team/ellie_animated.png",
+    "bytes": 13873
+  },
+  {
+    "file": "assets/a61a56d776ae9d1436ab.svg",
+    "source": "https://www.codedex.io/images/about/zfellows.svg",
+    "bytes": 11390
+  },
+  {
+    "file": "assets/eeff642dc2cb56ab92ee.png",
+    "source": "https://www.codedex.io/images/team/eric_animated.png",
+    "bytes": 6296
+  },
+  {
+    "file": "assets/6048897d2738a4856a01.png",
+    "source": "https://www.codedex.io/images/team/baby-naomi.png",
+    "bytes": 469704
+  },
+  {
+    "file": "assets/3013f0022cc2d73b3f98.svg",
+    "source": "https://www.codedex.io/images/about/transcend.svg",
+    "bytes": 4593
+  },
+  {
+    "file": "assets/6a4ed189a39ea451d408.png",
+    "source": "https://cdn.sanity.io/images/ornj730p/production/2707a8676184bd8444ab9a94ac63b1eff0b8e66b-946x800.png",
+    "bytes": 470568
+  },
+  {
+    "file": "assets/61c63055ceae24138f3b.png",
+    "source": "https://www.codedex.io/images/blog/blog-title.png",
+    "bytes": 2096
+  },
+  {
+    "file": "assets/29ca8ca7616edeeb73e8.png",
+    "source": "https://www.codedex.io/images/blog/blog-background.png",
+    "bytes": 47090
+  },
+  {
+    "file": "assets/5a42f97b83db51ae5f72.gif",
+    "source": "https://www.codedex.io/images/community/ticket.gif",
+    "bytes": 73409
+  },
+  {
+    "file": "assets/aa1470dee34af0c400be.gif",
+    "source": "https://www.codedex.io/images/character_gifs/letter.gif",
+    "bytes": 183899
+  },
+  {
+    "file": "assets/326eb9d46ff165e5c0ad.jpg",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/a-personal-history-of-the-creative-coding-zeitgeist/assets/header.jpg",
+    "bytes": 160332
+  },
+  {
+    "file": "assets/5dbe506677bf49655d53.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/gen-z-builders-networking-nite-recap/assets/header.png",
+    "bytes": 811657
+  },
+  {
+    "file": "assets/0de953a661ed76ae2394.png",
+    "source": "https://www.codedex.io/images/image-not-found.png",
+    "bytes": 143
+  },
+  {
+    "file": "assets/596654dc06069cc6a9ac.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/github-student-developer-pack-update/assets/blog-header.gif",
+    "bytes": 449327
+  },
+  {
+    "file": "assets/60d92b2de932a758cdb0.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/its-okay-to-change-your-mind/assets/blog-cover.png",
+    "bytes": 1542488
+  },
+  {
+    "file": "assets/bf2d00eb194acad007c0.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/codedex-update-q3-2026/assets/blog-header.png",
+    "bytes": 1133757
+  },
+  {
+    "file": "assets/c5f503af2e44369b1952.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/my-intro-to-creative-coding/assets/header.png",
+    "bytes": 179050
+  },
+  {
+    "file": "assets/7bfed6bcde4d84c65e1c.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/74955e06f3f456a3cc672ea665ee1e8c15cf6ab4/blogs/2026/ap-computer-science-exam-2026-2027/images/cover_apcs_guide.png",
+    "bytes": 1721211
+  },
+  {
+    "file": "assets/fbd5827e80a8a0cffeeb.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blog-images/codedex-update-q2-2026/header.png",
+    "bytes": 3857441
+  },
+  {
+    "file": "assets/f59c6cfae86ff8aeb862.png",
+    "source": "https://www.codedex.io/images/badges/intermediate-python/file-and-error-handling.png",
+    "bytes": 750
+  },
+  {
+    "file": "assets/88f28a054434a18ad5cf.png",
+    "source": "https://www.codedex.io/images/badges/intermediate-python/functional-programming.png",
+    "bytes": 392
+  },
+  {
+    "file": "assets/59b67386e1faf30d360b.png",
+    "source": "https://www.codedex.io/images/badges/intermediate-python/testing.png",
+    "bytes": 349
+  },
+  {
+    "file": "assets/94f5db2bba79b7094f0d.png",
+    "source": "https://www.codedex.io/images/badges/intermediate-python/data-structures.png",
+    "bytes": 867
+  },
+  {
+    "file": "assets/0946f47ec6c792d17980.png",
+    "source": "https://www.codedex.io/images/school_logos/school-logos-for-slider/fishers-island.png",
+    "bytes": 36552
+  },
+  {
+    "file": "assets/1d8ee00bf1c58b2031f1.png",
+    "source": "https://www.codedex.io/images/school_logos/school/how-it-works-2.png",
+    "bytes": 20423
+  },
+  {
+    "file": "assets/889b9c707c17298d380d.png",
+    "source": "https://www.codedex.io/images/school_logos/school-logos-for-slider/NYU_Short_RGB_White.png",
+    "bytes": 13920
+  },
+  {
+    "file": "assets/983f6821eff335c84629.png",
+    "source": "https://www.codedex.io/images/school_logos/school/how-it-works-1.png",
+    "bytes": 35126
+  },
+  {
+    "file": "assets/b77b1ab7326aadd51a76.png",
+    "source": "https://www.codedex.io/images/school_logos/school/how-it-works-3.png",
+    "bytes": 31551
+  },
+  {
+    "file": "assets/a14758f02a64da18b262.webp",
+    "source": "https://www.codedex.io/images/school_logos/school-logos-for-slider/csta-white.webp",
+    "bytes": 7696
+  },
+  {
+    "file": "assets/35a034b472aba1725c82.png",
+    "source": "https://www.codedex.io/images/school_logos/school-logos-for-slider/sullivan-boces.png",
+    "bytes": 17823
+  },
+  {
+    "file": "assets/56bf2d42e00c88d54007.png",
+    "source": "https://www.codedex.io/images/school_logos/school-logos-for-slider/sha-white.png",
+    "bytes": 3392
+  },
+  {
+    "file": "assets/b61a80e454891b0490df.png",
+    "source": "https://www.codedex.io/images/school_logos/school-logos-for-slider/TNS_Logo3_Large_KO.png",
+    "bytes": 1741
+  },
+  {
+    "file": "assets/49598f40aed0822e9489.svg",
+    "source": "https://www.codedex.io/images/school_logos/school-logos-for-slider/Kent_Roosevelt_seal.svg",
+    "bytes": 43575
+  },
+  {
+    "file": "assets/bba018c6fd405772fd35.svg",
+    "source": "https://www.codedex.io/images/school_logos/school-logos-for-slider/SA-full.svg",
+    "bytes": 9656
+  },
+  {
+    "file": "assets/b3cfbd38c60fcdcc799d.png",
+    "source": "https://www.codedex.io/images/school_logos/school-logos-for-slider/columbia-white.png",
+    "bytes": 45359
+  },
+  {
+    "file": "assets/23dde5279a5d79b21515.svg",
+    "source": "https://www.codedex.io/images/school_logos/school-logos-for-slider/csforall.svg",
+    "bytes": 15866
+  },
+  {
+    "file": "assets/90dde6093ec4ea6bde2b.png",
+    "source": "https://www.codedex.io/images/school_logos/school-logos-for-slider/lehman-white.png",
+    "bytes": 27895
+  },
+  {
+    "file": "assets/93414998ee1a8980b882.gif",
+    "source": "https://www.codedex.io/images/character_gifs/data-structures-and-algorithms.gif",
+    "bytes": 46190
+  },
+  {
+    "file": "assets/9790d7e6fb83bbd70f23.jpg",
+    "source": "https://www.codedex.io/images/school_logos/school/teacher-1.jpg",
+    "bytes": 128465
+  },
+  {
+    "file": "assets/2652d939cda8f47f1dc1.png",
+    "source": "https://www.codedex.io/images/school_logos/schoolsdashboard.png",
+    "bytes": 501997
+  },
+  {
+    "file": "assets/3a8abbcecb0a44da1755.gif",
+    "source": "https://www.codedex.io/images/school_logos/schoolbus.gif",
+    "bytes": 920505
+  },
+  {
+    "file": "assets/3b8a4838867828a3c6f4.png",
+    "source": "https://www.codedex.io/images/badges/numpy/dear-data.png",
+    "bytes": 867
+  },
+  {
+    "file": "assets/3c1688f2e6dec8acc273.png",
+    "source": "https://www.codedex.io/images/badges/numpy/basic-operations.png",
+    "bytes": 392
+  },
+  {
+    "file": "assets/3334679ed527e5d0c5a6.png",
+    "source": "https://www.codedex.io/images/badges/pandas/dataframe.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/912f1bf8917f165a5016.png",
+    "source": "https://www.codedex.io/images/badges/pandas/data-cleaning.png",
+    "bytes": 293
+  },
+  {
+    "file": "assets/941dc0e877036aae06a9.png",
+    "source": "https://www.codedex.io/images/badges/gen-ai/how-ai-thinks.png",
+    "bytes": 637
+  },
+  {
+    "file": "assets/b9fb167bb7c772556ca4.png",
+    "source": "https://www.codedex.io/images/badges/gen-ai/prompt-engineering.png",
+    "bytes": 446
+  },
+  {
+    "file": "assets/ce46d875376435f47064.png",
+    "source": "https://www.codedex.io/images/badges/matplotlib/and-beyond.png",
+    "bytes": 323
+  },
+  {
+    "file": "assets/fe8b88867781126e801c.png",
+    "source": "https://www.codedex.io/images/badges/matplotlib/line-plots.png",
+    "bytes": 379
+  },
+  {
+    "file": "assets/8fddf53013198005ee8e.png",
+    "source": "https://www.codedex.io/images/badges/gen-ai/limitations-safety.png",
+    "bytes": 843
+  },
+  {
+    "file": "assets/f74c388da11f3ba93585.png",
+    "source": "https://www.codedex.io/images/badges/gen-ai/embeddings.png",
+    "bytes": 566
+  },
+  {
+    "file": "assets/91e3d558d0c3e3748336.png",
+    "source": "https://www.codedex.io/images/badges/machine-learning/intro-to-machine-learning.png",
+    "bytes": 581
+  },
+  {
+    "file": "assets/24b2690a5dee179cef88.png",
+    "source": "https://www.codedex.io/images/badges/machine-learning/k-nearest-neighbors.png",
+    "bytes": 492
+  },
+  {
+    "file": "assets/4b0ad2a8e237211ce3c8.png",
+    "source": "https://www.codedex.io/images/badges/machine-learning/linear-regression.png",
+    "bytes": 457
+  },
+  {
+    "file": "assets/088c6c53030ac3588113.png",
+    "source": "https://www.codedex.io/images/badges/intermediate-javascript/ecmascript.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/7dacb8e1764c2ecf031d.png",
+    "source": "https://www.codedex.io/images/badges/intermediate-javascript/async-js.png",
+    "bytes": 372
+  },
+  {
+    "file": "assets/edfd9d04f7426276cfbc.png",
+    "source": "https://www.codedex.io/images/badges/p5js/canvas-elements.png",
+    "bytes": 457
+  },
+  {
+    "file": "assets/c36df021f308abc6ac67.png",
+    "source": "https://www.codedex.io/images/badges/framework-valley-react/data-fetching.png",
+    "bytes": 349
+  },
+  {
+    "file": "assets/c09cb64b0d14500b41ff.png",
+    "source": "https://www.codedex.io/images/badges/framework-valley-react/jsx-&-components.png",
+    "bytes": 350
+  },
+  {
+    "file": "assets/037287cb62242cb7f2eb.png",
+    "source": "https://www.codedex.io/images/badges/framework-valley-react/hooks.png",
+    "bytes": 392
+  },
+  {
+    "file": "assets/8622f5b2bba91df21f1e.png",
+    "source": "https://www.codedex.io/images/badges/framework-valley-react/first-react-app.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/fd7d37c012b51193fd82.png",
+    "source": "https://www.codedex.io/images/badges/framework-valley-react/events.png",
+    "bytes": 368
+  },
+  {
+    "file": "assets/742751a2a83130626e21.png",
+    "source": "https://www.codedex.io/images/badges/framework-valley-react/routing.png",
+    "bytes": 293
+  },
+  {
+    "file": "assets/f68fe579f9dc194aa3cc.png",
+    "source": "https://www.codedex.io/images/badges/framework-valley-react/forms.png",
+    "bytes": 346
+  },
+  {
+    "file": "assets/84b2ea7009ab3ae454f5.png",
+    "source": "https://www.codedex.io/images/badges/framework-valley-react/props-&-state.png",
+    "bytes": 372
+  },
+  {
+    "file": "assets/850721c7644cfdd64ca8.png",
+    "source": "https://www.codedex.io/images/badges/nodejs/hello-world.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/893242e81ed65a4a2df8.png",
+    "source": "https://www.codedex.io/images/badges/nodejs/http-methods.png",
+    "bytes": 867
+  },
+  {
+    "file": "assets/7a15ed37246cfab17943.png",
+    "source": "https://www.codedex.io/images/badges/nodejs/servers.png",
+    "bytes": 346
+  },
+  {
+    "file": "assets/42df191608af80bc3a6c.png",
+    "source": "https://www.codedex.io/images/badges/nodejs/modules.png",
+    "bytes": 293
+  },
+  {
+    "file": "assets/0dc609cace86de3003b7.png",
+    "source": "https://www.codedex.io/images/badges/command-line/navigation.png",
+    "bytes": 349
+  },
+  {
+    "file": "assets/6a7b2b6a9510e7b4f878.png",
+    "source": "https://www.codedex.io/images/badges/command-line/manipulation.png",
+    "bytes": 372
+  },
+  {
+    "file": "assets/c63ef563a731a8bcf48f.jpg",
+    "source": "https://cdn.wallpapersafari.com/26/68/CK7JQZ.jpg",
+    "bytes": 221380
+  },
+  {
+    "file": "assets/5884dc1c616b59b23191.png",
+    "source": "https://www.codedex.io/images/badges/git-github/your-first-repo.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/c4e631a8c5de8f952bfb.png",
+    "source": "https://www.codedex.io/images/badges/git-github/exploring-repos.png",
+    "bytes": 350
+  },
+  {
+    "file": "assets/6fbfc97c7ceef75a4df2.png",
+    "source": "https://www.codedex.io/images/badges/github-copilot/setting-up.png",
+    "bytes": 515
+  },
+  {
+    "file": "assets/41e64c007caf075009cc.png",
+    "source": "https://www.codedex.io/images/badges/github-copilot/vibe-coding-a-gui-app.png",
+    "bytes": 668
+  },
+  {
+    "file": "assets/2643767aa96b33a8717e.png",
+    "source": "https://www.codedex.io/images/badges/java/utility-classes.png",
+    "bytes": 392
+  },
+  {
+    "file": "assets/cab013a9ec53f9d3c64b.png",
+    "source": "https://www.codedex.io/images/badges/java/classes-and-objects.png",
+    "bytes": 349
+  },
+  {
+    "file": "assets/39452192f56f443308ff.png",
+    "source": "https://www.codedex.io/images/badges/java/control-flow.png",
+    "bytes": 372
+  },
+  {
+    "file": "assets/f7c0d0c8f979920764d5.png",
+    "source": "https://www.codedex.io/images/badges/java/methods.png",
+    "bytes": 293
+  },
+  {
+    "file": "assets/10040c16b1e9224a7523.png",
+    "source": "https://www.codedex.io/images/badges/java/variables.png",
+    "bytes": 350
+  },
+  {
+    "file": "assets/8c7b90d888da7ca3224b.png",
+    "source": "https://www.codedex.io/images/badges/java/hello-world.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/ccab068274012d980e29.png",
+    "source": "https://www.codedex.io/images/badges/cpp/vectors.png",
+    "bytes": 349
+  },
+  {
+    "file": "assets/9fce2770ea04f81d2cf3.png",
+    "source": "https://www.codedex.io/images/badges/cpp/functions.png",
+    "bytes": 392
+  },
+  {
+    "file": "assets/bd23327237a00042b0c0.png",
+    "source": "https://www.codedex.io/images/badges/cpp/conditionals.png",
+    "bytes": 372
+  },
+  {
+    "file": "assets/65f3534d182a389a795a.png",
+    "source": "https://www.codedex.io/images/badges/cpp/hello-world.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/48d3947874f48f4e9b54.png",
+    "source": "https://www.codedex.io/images/badges/cpp/variables.png",
+    "bytes": 350
+  },
+  {
+    "file": "assets/1b39de649299765bb960.png",
+    "source": "https://www.codedex.io/images/badges/cpp/loops.png",
+    "bytes": 368
+  },
+  {
+    "file": "assets/d234ca0b019cd6fc5283.png",
+    "source": "https://www.codedex.io/images/badges/cpp/classes-and-objects.png",
+    "bytes": 346
+  },
+  {
+    "file": "assets/ff6bad466fe799602322.png",
+    "source": "https://www.codedex.io/images/badges/cpp/pointers-and-references.png",
+    "bytes": 293
+  },
+  {
+    "file": "assets/43c9cbadcb9e6220e189.png",
+    "source": "https://www.codedex.io/images/badges/intermediate-java/inheritance.png",
+    "bytes": 395
+  },
+  {
+    "file": "assets/6f077108a7ecd8ceab52.png",
+    "source": "https://www.codedex.io/images/badges/intermediate-java/encapsulation.png",
+    "bytes": 346
+  },
+  {
+    "file": "assets/6590cb817a4f06c01092.png",
+    "source": "https://www.codedex.io/images/badges/phaser/new-worldbuilder.png",
+    "bytes": 346
+  },
+  {
+    "file": "assets/5d7a763dfbddfa22b62c.png",
+    "source": "https://www.codedex.io/images/badges/phaser/your-first-quest.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/49b31e7b60e7b9664382.png",
+    "source": "https://www.codedex.io/images/badges/phaser/sprites-sprites-sprites.png",
+    "bytes": 350
+  },
+  {
+    "file": "assets/fa18f07252a86e8a4fa8.png",
+    "source": "https://www.codedex.io/images/badges/phaser/triple-jump.png",
+    "bytes": 372
+  },
+  {
+    "file": "assets/c8ff651ec17758715d6c.css",
+    "source": "https://www.codedex.io/_next/static/css/92e074b97232c763.css",
+    "bytes": 2029
+  },
+  {
+    "file": "assets/a486a4af7432d48ba602.png",
+    "source": "https://www.codedex.io/images/editor/python-logo.png",
+    "bytes": 2261
+  },
+  {
+    "file": "assets/8e2175d321bbb5c36f9c.svg",
+    "source": "https://www.codedex.io/images/chatbot/Icon.svg",
+    "bytes": 896
+  },
+  {
+    "file": "assets/9437a95b1920b3330d7e.png",
+    "source": "https://www.codedex.io/images/unlockableItems/RubberDuck.png",
+    "bytes": 4167
+  },
+  {
+    "file": "assets/40ea02c7cb87a67cb900.woff2",
+    "source": "https://fonts.gstatic.com/s/montserrat/v25/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "bytes": 30928
+  },
+  {
+    "file": "assets/c8c8111c37143bef197e.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2evCj.woff2",
+    "bytes": 28720
+  },
+  {
+    "file": "assets/60b6fe8a449530e0b95a.css",
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.33.0/min/vs/editor/editor.main.css",
+    "bytes": 77302
+  },
+  {
+    "file": "assets/e9fc1e99e89952fead6d.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFR8amvG547LTdNwPak.woff2",
+    "bytes": 12628
+  },
+  {
+    "file": "assets/1bf2055f0199ae4614ec.woff2",
+    "source": "https://fonts.gstatic.com/s/worksans/v18/QGYsz_wNahGAdqQ43Rh_fKDp.woff2",
+    "bytes": 47728
+  },
+  {
+    "file": "assets/81703257a936a1a77b13.png",
+    "source": "https://www.codedex.io/images/editor/html-logo.png",
+    "bytes": 2261
+  },
+  {
+    "file": "assets/65780262d292863b63b6.png",
+    "source": "https://www.codedex.io/images/editor/css-logo.png",
+    "bytes": 17791
+  },
+  {
+    "file": "assets/226b54b3b71d603bed5f.png",
+    "source": "https://www.codedex.io/images/editor/javascript-logo.png",
+    "bytes": 8049
+  },
+  {
+    "file": "assets/2c927c5004a36654bc71.png",
+    "source": "https://www.codedex.io/images/html/florida-man.png",
+    "bytes": 47696
+  },
+  {
+    "file": "assets/761fe2da967d3c1f8b49.png",
+    "source": "https://www.codedex.io/images/html/html-headings.png",
+    "bytes": 50466
+  },
+  {
+    "file": "assets/ed0dd2d5276603c47cb3.png",
+    "source": "https://www.codedex.io/images/html/exercise-04-example.png",
+    "bytes": 201917
+  },
+  {
+    "file": "assets/22a6cfebccf7479f77d2.png",
+    "source": "https://www.codedex.io/images/html/exercise-04-formatting.png",
+    "bytes": 308723
+  },
+  {
+    "file": "assets/d78b8a711886c0761394.png",
+    "source": "https://www.codedex.io/images/html/exercise-05-ordered-list.png",
+    "bytes": 109781
+  },
+  {
+    "file": "assets/f7e01f23b5090793f38c.png",
+    "source": "https://www.codedex.io/images/html/exercise-05-unordered-list.png",
+    "bytes": 109774
+  },
+  {
+    "file": "assets/bb1b01a7f9cd5230d385.png",
+    "source": "https://www.codedex.io/images/sql-course/Sql_data_base_with_logo.png",
+    "bytes": 66770
+  },
+  {
+    "file": "assets/88fbcf9827511565363e.png",
+    "source": "https://www.codedex.io/images/css/challenge-2-rule-syntax-diagram.png",
+    "bytes": 8300
+  },
+  {
+    "file": "assets/d1372d0dbcd6692201c2.ttf",
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.33.0/min/vs/base/browser/ui/codicons/codicon/codicon.ttf",
+    "bytes": 70776
+  },
+  {
+    "file": "assets/3ee574e9c46bbae784d5.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/create-a-gif-with-python/process.gif",
+    "bytes": 1428852
+  },
+  {
+    "file": "assets/e42581f64b7003177f2b.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/create-a-gif-with-python/header.gif",
+    "bytes": 2579045
+  },
+  {
+    "file": "assets/66cc673c2d6ae86c0160.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/build-a-word-guessing-game-with-python/header.gif",
+    "bytes": 1795244
+  },
+  {
+    "file": "assets/90e691931e20f17449a7.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/create-a-gif-with-python/team.gif",
+    "bytes": 5642309
+  },
+  {
+    "file": "assets/b73f96c5a824c50fb26d.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/set-up-a-gui-with-java/header.png",
+    "bytes": 5778116
+  },
+  {
+    "file": "assets/efe979ed373f332c0e42.png",
+    "source": "https://avatars.githubusercontent.com/u/115612833",
+    "bytes": 25370
+  },
+  {
+    "file": "assets/39e8540e545b565a64ed.png",
+    "source": "https://avatars.githubusercontent.com/u/229064431",
+    "bytes": 20682
+  },
+  {
+    "file": "assets/d529e8ac4a14f29cf906.png",
+    "source": "https://avatars.githubusercontent.com/u/189159877",
+    "bytes": 9564
+  },
+  {
+    "file": "assets/5c544396613fad1dabb7.png",
+    "source": "https://avatars.githubusercontent.com/u/192224017",
+    "bytes": 3933
+  },
+  {
+    "file": "assets/1f5c1bf7401ba66e0e49.png",
+    "source": "https://avatars.githubusercontent.com/u/185239633",
+    "bytes": 53646
+  },
+  {
+    "file": "assets/b78379aa7700dce83855.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRW8amvG547LTdNwPak.woff2",
+    "bytes": 12620
+  },
+  {
+    "file": "assets/5c766da1ad8bfdcad3b0.png",
+    "source": "https://avatars.githubusercontent.com/u/206413232",
+    "bytes": 3277
+  },
+  {
+    "file": "assets/1e0b367f8e4f4a00538d.png",
+    "source": "https://avatars.githubusercontent.com/u/230383664",
+    "bytes": 2574
+  },
+  {
+    "file": "assets/1ea669b5315876f21d80.png",
+    "source": "https://avatars.githubusercontent.com/u/234845242",
+    "bytes": 30017
+  },
+  {
+    "file": "assets/8cd34281081f6c8abe92.gif",
+    "source": "https://media0.giphy.com/media/xaO6TmgQmKEQ4516sE/giphy.gif",
+    "bytes": 14367
+  },
+  {
+    "file": "assets/565a483c91ae0c31f981.png",
+    "source": "https://avatars.githubusercontent.com/u/220947203",
+    "bytes": 22107
+  },
+  {
+    "file": "assets/a1ed57dcf517832636c3.gif",
+    "source": "https://media1.giphy.com/media/Xev2JdopBxGj1LuGvt/giphy.gif",
+    "bytes": 2486790
+  },
+  {
+    "file": "assets/ae57555f4e6bd90eef71.gif",
+    "source": "https://media1.giphy.com/media/3ohhwrFfqYoFvqDOTu/giphy.gif",
+    "bytes": 3388828
+  },
+  {
+    "file": "assets/2a6e74ea482b6ca35941.gif",
+    "source": "https://media2.giphy.com/media/w0dgldwTGJqnK/giphy.gif",
+    "bytes": 194179
+  },
+  {
+    "file": "assets/713c2ee81bab13b2bdb6.gif",
+    "source": "https://media3.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif",
+    "bytes": 808751
+  },
+  {
+    "file": "assets/d045760f2f47ee8a2350.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/generate-a-blog-with-openai/header.png",
+    "bytes": 55154
+  },
+  {
+    "file": "assets/d3a86cc4d4529d84e394.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/generate-a-blog-with-openai/calculation-math.gif",
+    "bytes": 763734
+  },
+  {
+    "file": "assets/bf88e74cbfafeb107bc9.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/generate-a-blog-with-openai/generator-demo.gif",
+    "bytes": 178054
+  },
+  {
+    "file": "assets/faf141c947a333b9d935.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/build-a-custom-search-engine-with-exa-ai/token.gif",
+    "bytes": 172279
+  },
+  {
+    "file": "assets/b065968d4e3b970ed24b.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/build-a-custom-search-engine-with-exa-ai/header.gif",
+    "bytes": 550625
+  },
+  {
+    "file": "assets/abcc0e979af4522e59a4.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/create-a-voice-virtual-assistant-with-elevenlabs/header.gif",
+    "bytes": 732173
+  },
+  {
+    "file": "assets/5a0fab08181d80032654.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/generate-a-poem-with-google-gemini/poem_ai_screen_result.png",
+    "bytes": 284609
+  },
+  {
+    "file": "assets/0c56dc34fe1083d32acf.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/generate-a-poem-with-google-gemini/header.png",
+    "bytes": 4156068
+  },
+  {
+    "file": "assets/7dca10897a16cadd2c34.png",
+    "source": "https://avatars.githubusercontent.com/u/211747927",
+    "bytes": 22909
+  },
+  {
+    "file": "assets/a3e25f9d5b6ded9ea155.png",
+    "source": "https://avatars.githubusercontent.com/u/127553272",
+    "bytes": 54335
+  },
+  {
+    "file": "assets/bbcb4e5a4070ee6c5a08.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/generate-a-poem-with-google-gemini/poem_css_examples.png",
+    "bytes": 1201521
+  },
+  {
+    "file": "assets/82dd82aef050a97e8c95.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/run-a-website-locally-with-html/live-server-button.png",
+    "bytes": 32411
+  },
+  {
+    "file": "assets/6d7246af58fa4f1b184a.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/run-a-website-locally-with-html/open-html-in-windows-explorer.png",
+    "bytes": 233232
+  },
+  {
+    "file": "assets/ce9b8571382a73e55f10.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/run-a-website-locally-with-html/vs-code-activity-bar.png",
+    "bytes": 310994
+  },
+  {
+    "file": "assets/f30cc1a4aedd98754379.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/run-a-website-locally-with-html/vs-code-extensions.gif",
+    "bytes": 224966
+  },
+  {
+    "file": "assets/6164dfbc7b7f0639a3b4.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/run-a-website-locally-with-html/live-server-demo.gif",
+    "bytes": 175804
+  },
+  {
+    "file": "assets/9087fbd92c2a254d4bc7.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/run-a-website-locally-with-html/open-html-on-mac-finder.gif",
+    "bytes": 224876
+  },
+  {
+    "file": "assets/9f67221bfdc17c8775c6.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/run-a-website-locally-with-html/header.gif",
+    "bytes": 1194428
+  },
+  {
+    "file": "assets/c8db526f7605e42c9924.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/deploy-a-website-with-vercel/images/vercel-fw-demo.gif",
+    "bytes": 381599
+  },
+  {
+    "file": "assets/c95efc32a204126ef934.jpeg",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/create-a-react-app-with-vite/react-hero-image.jpeg",
+    "bytes": 46229
+  },
+  {
+    "file": "assets/8364e28ad745c97e4216.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/create-a-react-app-with-vite/vite-logo.png",
+    "bytes": 99968
+  },
+  {
+    "file": "assets/3141c606d9cc2b3b52f2.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/deploy-a-website-with-vercel/images/header.png",
+    "bytes": 1335448
+  },
+  {
+    "file": "assets/5630937e9cd0fe1a26b2.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/create-a-react-app-with-vite/header.png",
+    "bytes": 1523922
+  },
+  {
+    "file": "assets/ba8927ed8ddefa31e492.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/deploy-a-website-with-vercel/images/vercel-authed.png",
+    "bytes": 1355676
+  },
+  {
+    "file": "assets/d3d08df0b0cf380f0f39.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/deploy-a-website-with-vercel/images/vercel-intro.png",
+    "bytes": 1311985
+  },
+  {
+    "file": "assets/6c7257fe8bd9ae191cd6.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/create-a-react-app-with-vite/npm-logo.png",
+    "bytes": 3275
+  },
+  {
+    "file": "assets/4ac5d8298e8d578766c1.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/create-a-react-app-with-vite/vite-prompt-1.png",
+    "bytes": 3561
+  },
+  {
+    "file": "assets/0f1495ccbcfde33f90f9.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/create-a-react-app-with-vite/vite-prompt-2.png",
+    "bytes": 13867
+  },
+  {
+    "file": "assets/ad38ec882b86d261d2ba.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/create-a-react-app-with-vite/vite-prompt-3.png",
+    "bytes": 13622
+  },
+  {
+    "file": "assets/771033da32a976718c7b.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/create-a-react-app-with-vite/served-react-app-1.png",
+    "bytes": 13070
+  },
+  {
+    "file": "assets/ae6b9ef64d1ea795d409.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/deploy-a-website-with-vercel/images/vercel-pre-deploy.png",
+    "bytes": 1305105
+  },
+  {
+    "file": "assets/72dc7255259389bbb4f4.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/deploy-a-website-with-vercel/images/vercel-loading.png",
+    "bytes": 1130895
+  },
+  {
+    "file": "assets/93f1da108e06e2d7fa20.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/create-a-react-app-with-vite/served-react-app-2.gif",
+    "bytes": 311336
+  },
+  {
+    "file": "assets/3617b16750ef2e53ce8d.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/deploy-a-website-with-vercel/images/vercel-pre-app-demo.gif",
+    "bytes": 4794251
+  },
+  {
+    "file": "assets/ff05923c170fdfab0bad.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/deploy-a-website-with-vercel/images/vercel-congrats.png",
+    "bytes": 1814823
+  },
+  {
+    "file": "assets/1d54907cd39a4674cf08.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/interactGif.gif",
+    "bytes": 6018368
+  },
+  {
+    "file": "assets/065d368a5a1899b3b4e4.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/d83e6c63658c5ab93f80daa6bb00f89f7ba636e2/projects/debug-your-web-app-in-vs-code/header.png",
+    "bytes": 4024560
+  },
+  {
+    "file": "assets/dc56b4aa4016cd6849fb.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/build-a-pocket-rave-with-arduino/assets/preview.gif",
+    "bytes": 4937311
+  },
+  {
+    "file": "assets/7fd6e53fae55008418b9.png",
+    "source": "https://www.codedex.io/images/challenge_packs/textures/help_texture.png",
+    "bytes": 794732
+  },
+  {
+    "file": "assets/70ad0437fde2ac098260.png",
+    "source": "https://www.codedex.io/images/challenge_packs/textures/easy_texture.png",
+    "bytes": 1044137
+  },
+  {
+    "file": "assets/dd53ac1cd83b901f8a63.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/debug-your-web-app-in-vs-code/invalid-date-solution.png",
+    "bytes": 53446
+  },
+  {
+    "file": "assets/5b2f6b8ec97815b89f5a.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/debug-your-web-app-in-vs-code/activity-bar-example-2.png",
+    "bytes": 19401
+  },
+  {
+    "file": "assets/77b6ac646ff4b815d259.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/debug-your-web-app-in-vs-code/todo-invalid-date.png",
+    "bytes": 142229
+  },
+  {
+    "file": "assets/f74d5b040399861ab150.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/debug-your-web-app-in-vs-code/run-and-debug.png",
+    "bytes": 117128
+  },
+  {
+    "file": "assets/5855798d00c884adb174.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/debug-your-web-app-in-vs-code/invalid-date-error.png",
+    "bytes": 53868
+  },
+  {
+    "file": "assets/6f11140abd10a27738c5.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/debug-your-web-app-in-vs-code/todo-string.png",
+    "bytes": 98675
+  },
+  {
+    "file": "assets/8038df2dc73c284344de.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/debug-your-web-app-in-vs-code/todo-app-desired-behaviour.png",
+    "bytes": 104931
+  },
+  {
+    "file": "assets/94cd51a324b998d32051.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/debug-your-web-app-in-vs-code/todo-app-form.png",
+    "bytes": 14387
+  },
+  {
+    "file": "assets/f8878857aaca8123b1ab.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/debug-your-web-app-in-vs-code/debugger-widget.png",
+    "bytes": 8167
+  },
+  {
+    "file": "assets/3c8f2276d6d96700e8dd.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/debug-your-web-app-in-vs-code/activity-bar-example.png",
+    "bytes": 67172
+  },
+  {
+    "file": "assets/11a192f54efd2c91afc6.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/debug-your-web-app-in-vs-code/todo-app-error.png",
+    "bytes": 90691
+  },
+  {
+    "file": "assets/303f0682c6ea5e39257f.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/debug-your-web-app-in-vs-code/empty-string-value.gif",
+    "bytes": 3264250
+  },
+  {
+    "file": "assets/a29350e63f5433344677.png",
+    "source": "https://www.codedex.io/images/java/java_logo.png",
+    "bytes": 26726
+  },
+  {
+    "file": "assets/e8f14cc0d25767ae8de7.svg",
+    "source": "https://www.codedex.io/images/courses/csharp-logo.svg",
+    "bytes": 1620
+  },
+  {
+    "file": "assets/43d28eda2fb1e7b79ca4.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/its-okay-to-change-your-mind/assets/1-early-years.png",
+    "bytes": 1795657
+  },
+  {
+    "file": "assets/e929e4238128880cb729.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/github-student-developer-pack-update/assets/github-students.png",
+    "bytes": 182678
+  },
+  {
+    "file": "assets/4330c36006a1f47007f8.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/its-okay-to-change-your-mind/assets/2-locking-in.png",
+    "bytes": 1593276
+  },
+  {
+    "file": "assets/912a170c10e861f849bf.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/its-okay-to-change-your-mind/assets/3-probably-cooked.png",
+    "bytes": 2049554
+  },
+  {
+    "file": "assets/7c886575f1c9178b9354.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/its-okay-to-change-your-mind/assets/4-hiatus.png",
+    "bytes": 1818575
+  },
+  {
+    "file": "assets/ce539fe88c76aa3c914c.gif",
+    "source": "https://media4.giphy.com/media/VeaRi8IUAw7xmnIv0O/giphy.gif",
+    "bytes": 107889
+  },
+  {
+    "file": "assets/4a0a91412d0956ffb442.png",
+    "source": "https://www.codedex.io/images/badges/community/newbie.png",
+    "bytes": 437
+  },
+  {
+    "file": "assets/77dcbafa89999750c7b4.png",
+    "source": "https://www.codedex.io/images/badges/community/main-character.png",
+    "bytes": 276
+  },
+  {
+    "file": "assets/44bb4f20a81b05febb85.png",
+    "source": "https://www.codedex.io/images/badges/community/hello-world.png",
+    "bytes": 423
+  },
+  {
+    "file": "assets/b79cf6a865f0e9e12949.png",
+    "source": "https://www.codedex.io/images/badges/community/two-cents.png",
+    "bytes": 511
+  },
+  {
+    "file": "assets/61fc1aa3d00ba83d1d83.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/codedex-update-q3-2026/assets/mention-feature.png",
+    "bytes": 108320
+  },
+  {
+    "file": "assets/e4387f6377e980edce75.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/codedex-update-q3-2026/assets/starter-code.gif",
+    "bytes": 4382003
+  },
+  {
+    "file": "assets/1d405641e337674039cf.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/codedex-update-q3-2026/assets/preview-page.gif",
+    "bytes": 8513920
+  },
+  {
+    "file": "assets/b97cc568de84fb668d36.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/gen-z-builders-networking-nite-recap/assets/postcard.gif",
+    "bytes": 406828
+  },
+  {
+    "file": "assets/b27dc2bcd0cc172112c4.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/gen-z-builders-networking-nite-recap/assets/email.png",
+    "bytes": 263608
+  },
+  {
+    "file": "assets/556048f840678787e718.gif",
+    "source": "https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif",
+    "bytes": 1284235
+  },
+  {
+    "file": "assets/9c2672967a493d8bc87b.gif",
+    "source": "https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif",
+    "bytes": 2831861
+  },
+  {
+    "file": "assets/b7a1c9b6a58ee82804c2.gif",
+    "source": "https://media0.giphy.com/media/UcK7JalnjCz0k/giphy.gif",
+    "bytes": 390738
+  },
+  {
+    "file": "assets/56da7d1fabad0615ad27.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/gen-z-builders-networking-nite-recap/assets/tote-station.png",
+    "bytes": 2263866
+  },
+  {
+    "file": "assets/d1238352b4157af55727.png",
+    "source": "https://avatars.githubusercontent.com/u/195620842",
+    "bytes": 20557
+  },
+  {
+    "file": "assets/2e252d70da0a504fa52b.png",
+    "source": "https://avatars.githubusercontent.com/u/201357053",
+    "bytes": 22744
+  },
+  {
+    "file": "assets/b4c04709d80b825dcabb.png",
+    "source": "https://avatars.githubusercontent.com/u/334189732",
+    "bytes": 3334
+  },
+  {
+    "file": "assets/754467f6f0d29e39de90.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blogs/2026/gen-z-builders-networking-nite-recap/assets/blue-hat.png",
+    "bytes": 8657290
+  },
+  {
+    "file": "assets/ae1f387dda33b1f59772.png",
+    "source": "https://www.codedex.io/images/badges/community/internet-famous.png",
+    "bytes": 320
+  },
+  {
+    "file": "assets/981200ce2bfe67a36c62.png",
+    "source": "https://www.codedex.io/images/badges/community/cheerleader.png",
+    "bytes": 723
+  },
+  {
+    "file": "assets/c79a36cddbbf0c286057.png",
+    "source": "https://www.codedex.io/images/badges/community/yapper.png",
+    "bytes": 417
+  },
+  {
+    "file": "assets/1c29bb13aa22b0380a14.png",
+    "source": "https://www.codedex.io/images/badges/community/monthly-challenge-winner.png",
+    "bytes": 443
+  },
+  {
+    "file": "assets/caaa5b0eed4dbb361619.png",
+    "source": "https://www.codedex.io/images/badges/community/likes.png",
+    "bytes": 362
+  },
+  {
+    "file": "assets/1386aee9ff98d36c9ddb.png",
+    "source": "https://www.codedex.io/images/badges/community/butterfly.png",
+    "bytes": 378
+  },
+  {
+    "file": "assets/b952f4f576005965f2e1.png",
+    "source": "https://www.codedex.io/images/badges/community/networkbuilder.png",
+    "bytes": 577
+  },
+  {
+    "file": "assets/a7a5fa2557752ff00002.png",
+    "source": "https://www.codedex.io/images/badges/community/challenge-accepted.png",
+    "bytes": 433
+  },
+  {
+    "file": "assets/eac602d88c7551cfaa6a.png",
+    "source": "https://www.codedex.io/images/badges/community/comment.png",
+    "bytes": 359
+  },
+  {
+    "file": "assets/405887631fca669ead2d.png",
+    "source": "https://www.codedex.io/images/badges/community/icebreaker.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/19ae580ed0b6062adbbc.png",
+    "source": "https://www.codedex.io/images/badges/community/100followers.png",
+    "bytes": 477
+  },
+  {
+    "file": "assets/2169f7499e39144e9ac7.gif",
+    "source": "https://media1.giphy.com/media/J2kEzw4FN6C42F0ULM/giphy.gif",
+    "bytes": 438009
+  },
+  {
+    "file": "assets/26e727d41407fc15ed97.png",
+    "source": "https://avatars.githubusercontent.com/u/77118008",
+    "bytes": 53494
+  },
+  {
+    "file": "assets/0c2924ffbd164bf231c7.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blog-images/from-uber-eats-to-software-developer-at-deloitte-tj-moses-james/i-got-the-offer.png",
+    "bytes": 66193
+  },
+  {
+    "file": "assets/9d027927c6c5841c80ff.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blog-images/from-uber-eats-to-software-developer-at-deloitte-tj-moses-james/welcome-week.png",
+    "bytes": 1877300
+  },
+  {
+    "file": "assets/6da4a4ed44f96b6cda87.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blog-images/from-uber-eats-to-software-developer-at-deloitte-tj-moses-james/home-workstation.png",
+    "bytes": 1739112
+  },
+  {
+    "file": "assets/4bb2f484349d3ecee7ee.png",
+    "source": "http://assets.iceable.com/img/noise-transparent.png",
+    "bytes": 11126
+  },
+  {
+    "file": "assets/6817649559b0c012b33a.bin",
+    "source": "https://avatars.githubusercontent.com/u/113115824",
+    "bytes": 19920
+  },
+  {
+    "file": "assets/7f532bd7e11af57cb129.bin",
+    "source": "https://avatars.githubusercontent.com/u/121723035",
+    "bytes": 272836
+  },
+  {
+    "file": "assets/8b3e3565ca886762fab8.bin",
+    "source": "https://avatars.githubusercontent.com/u/136950210",
+    "bytes": 3259
+  },
+  {
+    "file": "assets/320c8e552545773e226f.bin",
+    "source": "https://avatars.githubusercontent.com/u/172177570",
+    "bytes": 20426
+  },
+  {
+    "file": "assets/369a9f5d2546e1924f68.bin",
+    "source": "https://avatars.githubusercontent.com/u/208285774",
+    "bytes": 1540
+  },
+  {
+    "file": "assets/7598b63d67ea5b5123d8.bin",
+    "source": "https://avatars.githubusercontent.com/u/221691741",
+    "bytes": 17827
+  },
+  {
+    "file": "assets/f4f0d1a4844e2443abd5.bin",
+    "source": "https://encrypted-tbn0.gstatic.com/images",
+    "bytes": 6824
+  },
+  {
+    "file": "assets/40f2dd51fee82207a60e.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/assets%2Flandingpage%2F6b2ecd08-c734-474c-985c-8e36d85fdc03.webp",
+    "bytes": 214228
+  },
+  {
+    "file": "assets/1598a64f1ac2f72f832b.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/assets%2Flandingpage%2FAlan.png",
+    "bytes": 237679
+  },
+  {
+    "file": "assets/c94a7d3502a9da2c8415.mp4",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/assets%2Flandingpage%2FHello%20world%20video%20-%20final.mp4",
+    "bytes": 1173495
+  },
+  {
+    "file": "assets/a26b0d0c22c0a12b95ee.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/assets%2Flandingpage%2FMoses.png",
+    "bytes": 363699
+  },
+  {
+    "file": "assets/e8713aa28563ad908069.mp4",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/assets%2Flandingpage%2Fv1video.mp4",
+    "bytes": 24708705
+  },
+  {
+    "file": "assets/126425ad7fd279d01eca.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F0EZVhJ4PvZPCNbXl8n4uKOtxiEl1%2Fprofile.jpeg",
+    "bytes": 8350
+  },
+  {
+    "file": "assets/4e2460205dac47857054.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F0LfblOJXMIVaqm7kDVloFKTlruF2%2Fprofile.png",
+    "bytes": 6880
+  },
+  {
+    "file": "assets/41845edd56c802d2963d.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F11zhRKeJCWWcD7IkTJBtuK3Mkvo1%2Fprofile.webp",
+    "bytes": 187240
+  },
+  {
+    "file": "assets/044ffb2bd7ed56d9ba49.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F12WpOLLi8TSvRM75LG0jyajYlMR2%2Fprofile.jpeg",
+    "bytes": 7132
+  },
+  {
+    "file": "assets/4723813e7c1cc9ffab74.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F1FemRPkwHENcPoy7Lp5WrEBAvAC3%2Fprofile.webp",
+    "bytes": 27756
+  },
+  {
+    "file": "assets/25efd2dba311079498f2.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F1d6twdQMQMZ1rF23rwx58em0rpt2%2Fprofile.webp",
+    "bytes": 111844
+  },
+  {
+    "file": "assets/510dbfb6a891fc537cc9.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F1s33CRzmkeQOAAHm0qXef4bg4in1%2Fprofile.webp",
+    "bytes": 51440
+  },
+  {
+    "file": "assets/4ec4c1444c73bb84c14b.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F1slN0yrzeue7S7J4YfvhAFwJ6c13%2Fprofile.gif",
+    "bytes": 1755297
+  },
+  {
+    "file": "assets/5d3444e2a9523b6c68dd.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F2a4irVOwY3eKJKm4iNo2aDMYOdx1%2Fprofile.webp",
+    "bytes": 42712
+  },
+  {
+    "file": "assets/94c367e86e277d4ac6ea.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F2nhtFJeduVcGm6N6uItXjfHkEW03%2Fprofile.webp",
+    "bytes": 425738
+  },
+  {
+    "file": "assets/588e1dddfcef0a0ee2fa.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F2tG1IcPPB7c4HjbuLb4pNtBnj6j2%2Fprofile.webp",
+    "bytes": 12038
+  },
+  {
+    "file": "assets/e96575bf87162eea2f85.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F3LTMeSpnTDPkrtIFGYToFxd7JC62%2Fprofile.png",
+    "bytes": 1337226
+  },
+  {
+    "file": "assets/029d906912b08b36816c.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F3WEaQyOzCdMdvulUwvNz7XC9YW52%2Fprofile.webp",
+    "bytes": 48558
+  },
+  {
+    "file": "assets/b84ace0e490cceb37390.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F3ZTxbLD5IcMBdk6FVy4y0NcllPc2%2Fprofile.jpeg",
+    "bytes": 641423
+  },
+  {
+    "file": "assets/0fa96cdfc3d979738258.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F3muKWPPCHjgYTyN0P3JjFftnp4L2%2Fprofile.webp",
+    "bytes": 8762
+  },
+  {
+    "file": "assets/d7d0dac106ee39b30ca6.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F4lFDPKTV7FRDh6ceUyixTMWJgJl1%2Fprofile.jpg",
+    "bytes": 61989
+  },
+  {
+    "file": "assets/a0f90e275daba9a45cb4.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F4mXj3XcV8PSNye9iBKmFIVBggDJ3%2Fprofile.gif",
+    "bytes": 3947287
+  },
+  {
+    "file": "assets/e48abda528e2bce2b408.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F5WA3OMsTa5Z1ouKFhDibwezKDur1%2Fprofile.jpg",
+    "bytes": 58096
+  },
+  {
+    "file": "assets/443fb5f8079d35ba5b0f.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F5j7cBENIyPYmtjF3uAkshGUAqVt1%2Fprofile.jpg",
+    "bytes": 1037166
+  },
+  {
+    "file": "assets/25245bf545e2eaa0c13c.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F5k5WC31oPvcUQmaDCgK38v6Et133%2Fprofile.png",
+    "bytes": 326800
+  },
+  {
+    "file": "assets/ac3867a9dd3fec12e40b.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F6gd8AzoTSmglxD5zy7nIbcOQ2Oq1%2Fprofile.jpg",
+    "bytes": 71962
+  },
+  {
+    "file": "assets/df8a521a3d307b23861c.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F6hIrQQg6USc1ArQ12bk0mFOGdlL2%2Fprofile.webp",
+    "bytes": 69400
+  },
+  {
+    "file": "assets/a57128723d15f1968f71.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F6tN6CkBsK3SKfCeoEFS3vwMvzF13%2Fprofile.jpeg",
+    "bytes": 610166
+  },
+  {
+    "file": "assets/bab5236e795b0d99c115.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F78SAcaaeJwfsmzJBk1YooeJeMsx1%2Fprofile.webp",
+    "bytes": 51100
+  },
+  {
+    "file": "assets/7a578c10ccf8291ea393.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F7Kw3KcW2WXW54zMXCcjO9YhONo62%2Fprofile.png",
+    "bytes": 26347
+  },
+  {
+    "file": "assets/7669c893e53487130c8c.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F7Zly05NOrgN7eqhTS9QuWbY5uCI3%2Fprofile.webp",
+    "bytes": 81592
+  },
+  {
+    "file": "assets/cf19b8874a32510b5d3b.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F7gdPC6OgAYTwW8awtMb9Pvgb4xw2%2Fprofile.jpeg",
+    "bytes": 204811
+  },
+  {
+    "file": "assets/da6f73cbddf9a02d9b6d.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F81mDQiujXCNOOnd5kBB2bCW8No33%2Fprofile.png",
+    "bytes": 360111
+  },
+  {
+    "file": "assets/5f1b4f583ef9fc8866b8.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F8aErTd5iJWbTm4bWMY4u2HZzc5N2%2Fprofile.jpg",
+    "bytes": 10721
+  },
+  {
+    "file": "assets/a567f3befc6c6500ba4c.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F8ckfgJ8E8rVTTzRYXwuTrgB3R4m1%2Fprofile.jpg",
+    "bytes": 47252
+  },
+  {
+    "file": "assets/794fe83209b39767cf83.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F8g5EOp259IgErWgm1R2MxwmAfAW2%2Fprofile.png",
+    "bytes": 252366
+  },
+  {
+    "file": "assets/e9659e1adeb2225167c3.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F8jenH7quQxYwXyyCdBMJL826km62%2Fprofile.webp",
+    "bytes": 85308
+  },
+  {
+    "file": "assets/eea0229c3a2836a8e181.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2F96KULDgDfIYsqtj2MpZrhwmmPdr2%2Fprofile.webp",
+    "bytes": 247930
+  },
+  {
+    "file": "assets/7ec9a4be66ae243c6143.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FAKdkUuaPUwf4VOYhc7hLlEYBDaD3%2Fprofile.webp",
+    "bytes": 25286
+  },
+  {
+    "file": "assets/9151d065dd895a9eacbf.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FAS6ZhDnhmJOfKafTGZUmhFsoUfw1%2Fprofile.webp",
+    "bytes": 58524
+  },
+  {
+    "file": "assets/be766bed48a94359c873.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FBCx2S8ztILZhHkmTJ89iskkc0T82%2Fprofile.webp",
+    "bytes": 55966
+  },
+  {
+    "file": "assets/c9b181deae57f8218fac.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FBc5rTYnywycE3sk0cdLC3Vuxump1%2Fprofile.png",
+    "bytes": 1584321
+  },
+  {
+    "file": "assets/46d029b61050d8c49cce.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FBhC9WgWVmLcZGBdhomxASWX8BXn1%2Fprofile.jpg",
+    "bytes": 59310
+  },
+  {
+    "file": "assets/dda0136d20333a182a20.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FC6Prj03LZjVrL6bo6E4UkwnceL43%2Fprofile.jpg",
+    "bytes": 15018
+  },
+  {
+    "file": "assets/6e57f8948cc2596ab3ea.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FCWHvHwPdIJY5EChCY9avkZm8Ga82%2Fprofile.webp",
+    "bytes": 136332
+  },
+  {
+    "file": "assets/b264b9cbeac22c2da12c.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FCgUQBagDrWWBRUuoh3mkyi3aedg1%2Fprofile.jpg",
+    "bytes": 32263
+  },
+  {
+    "file": "assets/2857ae71a8a4380440f9.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FCy4hnk8er2glwJXlLI2Rshr20r22%2Fprofile.webp",
+    "bytes": 11904
+  },
+  {
+    "file": "assets/713801f55849e4c9012c.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FD2fTRLsQlhdohmO47AzsAS8Blhb2%2Fprofile.jpg",
+    "bytes": 698568
+  },
+  {
+    "file": "assets/4eb30fcd4fe4f96836b1.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FFc9spXDxZONODCZpMsMlxagfeTF3%2Fprofile.webp",
+    "bytes": 71658
+  },
+  {
+    "file": "assets/301a548ee1d08875a6d3.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FGBiCk5dVb7c7mapt7X7XPZ2UeLU2%2Fprofile.webp",
+    "bytes": 110838
+  },
+  {
+    "file": "assets/385b4c1a55906fd41d1b.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FGz8sq0eJDgfnEqgPsv3VLclJSY73%2Fprofile.webp",
+    "bytes": 42192
+  },
+  {
+    "file": "assets/b0ce4601d8dbc4d2e83c.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FH7lTRTjDJ0VbnaVUJdWSclFxwiH3%2Fprofile.png",
+    "bytes": 30493
+  },
+  {
+    "file": "assets/b8d2e31f86f75ae7d2d1.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FHBCRFuK471Pa8bTXAyuvAyI7efy1%2Fprofile.webp",
+    "bytes": 99872
+  },
+  {
+    "file": "assets/1b67d248bc200ee5b984.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FHZGCfaGy8DR2KX8Q4BO10KKXmoS2%2Fprofile.jpg",
+    "bytes": 85435
+  },
+  {
+    "file": "assets/9b849acab485025f6983.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FIMAKq6gry9gDpciuaxavNq0ExZl2%2Fprofile.png",
+    "bytes": 1417548
+  },
+  {
+    "file": "assets/568ca43af4da69694308.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FJNiNsHg2yFQjZExQvRGWhAIh3CC2%2Fprofile.png",
+    "bytes": 1761917
+  },
+  {
+    "file": "assets/7cd9ba255ae54fb3c40f.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FJps14SaCwqgdbbnYvoMpvMKv92P2%2Fprofile.png",
+    "bytes": 10147
+  },
+  {
+    "file": "assets/873042c62eadd21775a0.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FKvP9xvLb1iXaUX8Dlhgazq3MnhF3%2Fprofile.png",
+    "bytes": 136298
+  },
+  {
+    "file": "assets/b6cfabbb76e6d49682a5.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FLiTWtoqGuLYnGiArlOBmSbwstML2%2Fprofile.webp",
+    "bytes": 12392
+  },
+  {
+    "file": "assets/28f705dec5291afd0b46.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FM021fuQ5BPWczTTVzPi5vp0rDs52%2Fprofile.webp",
+    "bytes": 59690
+  },
+  {
+    "file": "assets/0bcc424565d19501198f.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FMGGG9G8EqTbPYY3HzhZS6Apwsp93%2Fprofile.webp",
+    "bytes": 223868
+  },
+  {
+    "file": "assets/bedb34df616383529453.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FMKZBs5PzohWavEf9gBGk73hICyu1%2Fprofile.jpg",
+    "bytes": 125844
+  },
+  {
+    "file": "assets/be086d59230037c5941f.jfif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FNJmTj1G1Eea1YCxHp9O8gKKLc2u1%2Fprofile.jfif",
+    "bytes": 95919
+  },
+  {
+    "file": "assets/6d2297ff494d08e64144.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FNOwmNSFYRlP33NgoEcOSFHx0b5t2%2Fprofile.jpg",
+    "bytes": 2227231
+  },
+  {
+    "file": "assets/0130fece4993ef79e10e.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FNYMt4smRzKWsZK4CpPNKAxo4nHO2%2Fprofile.jpeg",
+    "bytes": 490926
+  },
+  {
+    "file": "assets/8d4e48e462f394d33797.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FOrwgrxg2M4d0eRUaX31J2cCtIxj1%2Fprofile.webp",
+    "bytes": 121792
+  },
+  {
+    "file": "assets/bbd4c209e379839fa591.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FPCg0NJnKhfX95hYyNX3mHYwsxJf2%2Fprofile.webp",
+    "bytes": 25480
+  },
+  {
+    "file": "assets/607c38be7ec7897a139a.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FPJMl85wE6rc7ZUZDlWWSdXFwnU83%2Fprofile.webp",
+    "bytes": 641861
+  },
+  {
+    "file": "assets/5ad41128ee5e1d2c5f47.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FSEnzOUqntCTO68fXyisLbROhb1i2%2Fprofile.webp",
+    "bytes": 102570
+  },
+  {
+    "file": "assets/b3103ada3ed0dfb14c5c.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FU0zBYPCGtAXirhWvrGdlJrXliW52%2Fprofile.webp",
+    "bytes": 20168
+  },
+  {
+    "file": "assets/184e2cca8b51c87163f1.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FUPCCC627L6d4TUkGdAvbM7COADQ2%2Fprofile.jpg",
+    "bytes": 122336
+  },
+  {
+    "file": "assets/bbacf2e4513667ce4788.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FUXU2QV9hludzzl1eGfGpFb0Ogj02%2Fprofile.png",
+    "bytes": 1599032
+  },
+  {
+    "file": "assets/ecebc75a94f00f2729d3.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FUouMWo7VHtdUs7cYP8G62nFOA3b2%2Fprofile.webp",
+    "bytes": 923986
+  },
+  {
+    "file": "assets/9afbe59eb0bc20b85718.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FV5pPMkEm31Tpc2LcZ27hqw2DVP53%2Fprofile.webp",
+    "bytes": 17698
+  },
+  {
+    "file": "assets/d65bda8737327da1720a.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FVSauVcCcCohxkyNih2gpoEqoulR2%2Fprofile.webp",
+    "bytes": 15096
+  },
+  {
+    "file": "assets/bddde285b0f4e816ac5c.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FVaBFZBoFWNVN5yLVWNUNHrgZHYT2%2Fprofile.webp",
+    "bytes": 777356
+  },
+  {
+    "file": "assets/fb7c7d50f9e916de636e.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FY15JWtjS93c1fi8lVHIGiGGasLQ2%2Fprofile.webp",
+    "bytes": 28242
+  },
+  {
+    "file": "assets/2a09421ca6c534eb469c.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FYDnhx5Wm89Uv3pyi0jM9FkjCzgl1%2Fprofile.webp",
+    "bytes": 190834
+  },
+  {
+    "file": "assets/d6c16af2de5b77407888.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FZFPipJfmMsRypDJMytAzcxVPQHn2%2Fprofile.png",
+    "bytes": 265425
+  },
+  {
+    "file": "assets/92db23dd4a9653c314aa.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FZZE2MycFqsTI4yi7Oj8Wbmez0Yb2%2Fprofile.webp",
+    "bytes": 35176
+  },
+  {
+    "file": "assets/1cd58df91c2008437fc6.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FZai06xd7TDfDZgzx6MjUgvwYJe32%2Fprofile.jpeg",
+    "bytes": 410621
+  },
+  {
+    "file": "assets/515917574a7fc2ee0a62.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FaQc7txmFTnNxU6QUh70PGcilif33%2Fprofile.jpg",
+    "bytes": 49007
+  },
+  {
+    "file": "assets/c3a410e39bd8e4d5fa9d.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FaZi5pQ2CzgNvcM57hibmIyntUmw2%2Fprofile.png",
+    "bytes": 75439
+  },
+  {
+    "file": "assets/4acccb9ff097aa58d083.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FapymvMM5szVupcX9JUF74fxQpMv1%2Fprofile.webp",
+    "bytes": 153802
+  },
+  {
+    "file": "assets/671c9a84b3280bb05697.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FblAfl45y8KbUrdjicPwIVfWJYGu1%2Fprofile.webp",
+    "bytes": 62948
+  },
+  {
+    "file": "assets/a2266b531320d9ac2c33.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FbtlyGZhPRTQFPfJi8hfg95WYfPz1%2Fprofile.jpg",
+    "bytes": 6850
+  },
+  {
+    "file": "assets/0c0dc5993123042c76d0.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FcBDYgcHbVyZ6sJRw9zZt89yA3AJ2%2Fprofile.webp",
+    "bytes": 17176
+  },
+  {
+    "file": "assets/a6d766a64e9e3cea9d48.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FcNMAlAWX00hOUuOjPnUshX4dNcW2%2Fprofile.jpeg",
+    "bytes": 63375
+  },
+  {
+    "file": "assets/b7ff870b3b512ee2bb6e.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FcfkbEta2dZM6DuEw9vKc4zoKpnm1%2Fprofile.jpg",
+    "bytes": 217622
+  },
+  {
+    "file": "assets/ac35024bf3ededf2809e.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FckIKPzTze9TMFFPNXZkKTfjDBiz1%2Fprofile.webp",
+    "bytes": 42746
+  },
+  {
+    "file": "assets/4d4582d60043b0d791f3.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Fd0J9J2mxcTOIHqMlUfbPrSoxJtI3%2Fprofile.jpg",
+    "bytes": 22109
+  },
+  {
+    "file": "assets/b6d40bb61dc1bd549e44.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FdelOFFktSAQc4yvPnKk5LQkoLxi1%2Fprofile.webp",
+    "bytes": 16682
+  },
+  {
+    "file": "assets/21df23a6fec48482c8fd.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FdoMR917r2Hg9EgOOpAmUB6lRmPK2%2Fprofile.webp",
+    "bytes": 39306
+  },
+  {
+    "file": "assets/0266035e032a21ce3ed9.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FdostAizRJFbwKBueuFxgr6mMy2J3%2Fprofile.png",
+    "bytes": 15393
+  },
+  {
+    "file": "assets/0f4dde9b27fc9cd35afb.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Fe4JFCccNfxMXG5dIKW0RUbPSIij1%2Fprofile.webp",
+    "bytes": 25566
+  },
+  {
+    "file": "assets/13da89d6204e63e751de.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FetSD4rgxxUTP4NOFgFw5djOrKc13%2Fprofile.webp",
+    "bytes": 182472
+  },
+  {
+    "file": "assets/fb9dd8632613b6da56aa.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Ff3vq4kwmixfMb7pB3bTtKUHQMTx2%2Fprofile.gif",
+    "bytes": 5228184
+  },
+  {
+    "file": "assets/b0151459a0828c96d64c.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Ff9vZkNjEU8g7JRQO6RpqSfYfj7j2%2Fprofile.jpeg",
+    "bytes": 55239
+  },
+  {
+    "file": "assets/6d0fb85fd70c7fbf68a5.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FfEJQ11Uhv3XVazjul8TClzX5jWP2%2Fprofile.webp",
+    "bytes": 23502
+  },
+  {
+    "file": "assets/595fd7d0e01b43bdfa0b.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FfUJoYjp0Z7gxbhRs3Y8WS7EmYH73%2Fprofile.jpg",
+    "bytes": 27888
+  },
+  {
+    "file": "assets/6cade03a33ce488cb29e.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FgOR7nb6WyzYRQOOjcOdLRWM6xqc2%2Fprofile.webp",
+    "bytes": 112542
+  },
+  {
+    "file": "assets/b42cd598075e3ab87365.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FhAGN3HojnER6jnhlVT08vBTRMDH2%2Fprofile.webp",
+    "bytes": 1050
+  },
+  {
+    "file": "assets/14df644c8bdb226ed448.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FhOI9XexAK6htkC6FGnKo0y2ouN83%2Fprofile.jpg",
+    "bytes": 9243
+  },
+  {
+    "file": "assets/a26f1539761587e6f7e7.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FhjKrkt9E2hdrHoCMy0SlIef2Ca52%2Fprofile.webp",
+    "bytes": 110720
+  },
+  {
+    "file": "assets/71ddcd3cf1dab31b28b1.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FiGCqEnvFqhacOHFojO1PcUHBQ2D2%2Fprofile.webp",
+    "bytes": 73804
+  },
+  {
+    "file": "assets/9e3a49ba91dfd2e203aa.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FiUENYKv7L1hOsNGGwpTcWQV3NpH3%2Fprofile.webp",
+    "bytes": 43466
+  },
+  {
+    "file": "assets/ba7091a600705ab4d0d7.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FinV9GLffvhafMJU3Le6tCezgbrZ2%2Fprofile.png",
+    "bytes": 1076337
+  },
+  {
+    "file": "assets/a0d6b9381dec7140b9ff.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FjCIMBghQywPKUcvdTKo4LNeTwTE3%2Fprofile.png",
+    "bytes": 506385
+  },
+  {
+    "file": "assets/0be98300c8bc763f1276.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FjFngQDBe1nesA3M9MY7FYcc4On82%2Fprofile.webp",
+    "bytes": 42458
+  },
+  {
+    "file": "assets/d2c86a4e1ba2db0647e1.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FjHDM3F0ejJhkNg5P63rQ1eTf0ZD2%2Fprofile.webp",
+    "bytes": 43478
+  },
+  {
+    "file": "assets/00522902d671ed0ca7f7.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FjHMm1llOHzRoM1tJpZK1dvqD0B92%2Fprofile.png",
+    "bytes": 4380
+  },
+  {
+    "file": "assets/91d7b44f856604d7a78f.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FjMk2qx72J0Vb4N6KWRvJq8YUs5f1%2Fprofile.webp",
+    "bytes": 69544
+  },
+  {
+    "file": "assets/a5639025d198dace8be9.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FkpEBcP0g20SPY0Os4kzO4n656U02%2Fprofile.webp",
+    "bytes": 10344
+  },
+  {
+    "file": "assets/c4b59e5ad20430a28f3c.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Fl2IskOVudwdIrEDJyq18a7pNLQJ2%2Fprofile.gif",
+    "bytes": 17856
+  },
+  {
+    "file": "assets/755e25877416bc912f26.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FlbhVDvYtHYOh90zLqu92sElvtzF2%2Fprofile.webp",
+    "bytes": 45876
+  },
+  {
+    "file": "assets/62f6a1ea74da16c106a0.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Fm5PupGz5p6NCkl9LeopINstGnVS2%2Fprofile.jpeg",
+    "bytes": 57013
+  },
+  {
+    "file": "assets/da16921ba33128e47643.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Fm7L10ynTVYSh1ziYgGhFmGl7OAk2%2Fprofile.webp",
+    "bytes": 21120
+  },
+  {
+    "file": "assets/847c7e97d0e619bd0167.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FmI7RpnwEU9cDUSedm6QI8ZaKqxC3%2Fprofile.jpeg",
+    "bytes": 2736644
+  },
+  {
+    "file": "assets/155dba02e93c3d9bec37.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FmWIxPMeit7Yjm4CpaAd3Jk47p2Y2%2Fprofile.webp",
+    "bytes": 35598
+  },
+  {
+    "file": "assets/4050041ca70b8a65127e.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FmcKIQN9BI3Nzs9PSWn9MHyspqM22%2Fprofile.png",
+    "bytes": 102558
+  },
+  {
+    "file": "assets/f523ab87fe1dbf333c28.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Fn7SS2T3DMrVMAkfxtLLncPwlIT03%2Fprofile.webp",
+    "bytes": 135772
+  },
+  {
+    "file": "assets/d5240bad3f5f1cd463a3.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FnX72ZO6HquPvHniFPy6oeFNTSOE3%2Fprofile.webp",
+    "bytes": 1826098
+  },
+  {
+    "file": "assets/b63145fe91a497cbf8d2.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FoqQJVBv600gnZupJZyIy1qiJDVr1%2Fprofile.jpeg",
+    "bytes": 7658
+  },
+  {
+    "file": "assets/a6833f7c2745a297b70f.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Foufwdpk2svQuRUm6UAizAKJNRoV2%2Fprofile.webp",
+    "bytes": 57416
+  },
+  {
+    "file": "assets/f3f0258ee02f536fb6ef.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FoxoKtmiW2rTIHIx8N0oQwi03zm12%2Fprofile.png",
+    "bytes": 245722
+  },
+  {
+    "file": "assets/3a2f54ac8afc98dd7cea.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FpoIL22TVYTNmmMFpmLpJiV9venP2%2Fprofile.webp",
+    "bytes": 1369718
+  },
+  {
+    "file": "assets/d56c79de3a05075550ab.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FqBtEhP1M4oYo3XPjCsPS4QvblS62%2Fprofile.png",
+    "bytes": 38809
+  },
+  {
+    "file": "assets/dcd238c0b5bdb1ddd6e0.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FqSxV2gjUYjbFc5gxVCdZSvn2GID2%2Fprofile.webp",
+    "bytes": 92326
+  },
+  {
+    "file": "assets/d8e0699c8df99e5b4cc2.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FqaHkvWjTwUTmzt1RpvMgtMhm59s1%2Fprofile.webp",
+    "bytes": 26724
+  },
+  {
+    "file": "assets/46dcd81d7d1b036b5888.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Fs5fPedp1dZdtWoI1pjb1cFnLrNA2%2Fprofile.webp",
+    "bytes": 15252
+  },
+  {
+    "file": "assets/d72f0ac5cac7827942cf.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Ft0UFoMvXxjf1q1Ne3la3Sgh0Iar2%2Fprofile.webp",
+    "bytes": 13840
+  },
+  {
+    "file": "assets/c2033113792fd3655b28.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FtxMauN7yJLequC8ULxtym9zoNon1%2Fprofile.webp",
+    "bytes": 71666
+  },
+  {
+    "file": "assets/aec5c478a876b98c5b88.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Fu2DitJXVOqWo18bLsyXNLcVtufC2%2FAlexandre.jpg",
+    "bytes": 130436
+  },
+  {
+    "file": "assets/721cca1ee63e3630b08e.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Fu36dEcMIFjMtfGzJe6EdxtlAQGs2%2Fprofile.jpg",
+    "bytes": 7876
+  },
+  {
+    "file": "assets/e1b969726130cde00ce7.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FuuOWZxOjXsZOAmSqRtw31EzMRyt1%2Fprofile.webp",
+    "bytes": 604983
+  },
+  {
+    "file": "assets/4f525c9c9df7f82fb92c.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Fv7rLCzDTokSLjeCrvAWrPEbTP0R2%2Fprofile.webp",
+    "bytes": 70076
+  },
+  {
+    "file": "assets/dec8ecf2d1f33fa86585.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FvCGXyDvX9ZNZ1TNgETTzXD2Y80k1%2FFollowers.gif",
+    "bytes": 311849
+  },
+  {
+    "file": "assets/cfc53087d09496c37b20.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FxCXSYWJuf4T1HZWlMTZuMKeOvDE2%2Fprofile.webp",
+    "bytes": 38410
+  },
+  {
+    "file": "assets/d155b4ad2c5676263ff4.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FxMxdjMSy1YPBNUOrSqXJInQDTbw1%2Fprofile.webp",
+    "bytes": 50166
+  },
+  {
+    "file": "assets/41b8915375e5bbd2160d.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2FxmaouRmmJ3eCpiiRXU2zVzvpOvw1%2Fprofile.webp",
+    "bytes": 153766
+  },
+  {
+    "file": "assets/e5ae7323e1a96931f3f8.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/avatars%2Fy7UMgxphNRcA5EFnXLlTV5Xo5ME2%2Fprofile.jpeg",
+    "bytes": 9744
+  },
+  {
+    "file": "assets/93133c1a3a5f711cc11f.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2F2026%2Fcodedex-builds-v1%2Fheader.gif",
+    "bytes": 344202
+  },
+  {
+    "file": "assets/44272953ac5e651bcb53.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2F2026%2Ffrom-self-taught-to-software-engineer-at-ikea-adrian-joltea%2Fblog-header.png",
+    "bytes": 446947
+  },
+  {
+    "file": "assets/267a5d7dcc78671fc4d3.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2F2026%2Fgabbys-guide-to-cold-emailing-when-we-werent-even-hiring%2Fheader.png",
+    "bytes": 2470968
+  },
+  {
+    "file": "assets/9bf528f063dc92955a7c.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2F2026%2Fhello-and-goodbye%2Fheader.png",
+    "bytes": 6837432
+  },
+  {
+    "file": "assets/0c68c9c36ad9117e14f4.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2F30-nites-of-code-revamp-2025%2Fbanner.png",
+    "bytes": 2395701
+  },
+  {
+    "file": "assets/e09001afdb1f546c1f48.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fboba-talk-episode-14-cs-students%2Fbanner.gif",
+    "bytes": 1193662
+  },
+  {
+    "file": "assets/250bf7fec963e421d041.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fcodedex-update-q4-2025%2FBlog%20Post%20Headers%20(Optimized%20for%20Twitter%20Post)%20(6).png",
+    "bytes": 1618467
+  },
+  {
+    "file": "assets/c790fa2079a8a1bb58a0.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fcoding-the-web-from-scratch%2Fbanner.png",
+    "bytes": 368071
+  },
+  {
+    "file": "assets/61f346c0256e1a5bf35a.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fcommunity-redesign%2Fbanner.png",
+    "bytes": 284938
+  },
+  {
+    "file": "assets/139a7c2a7c72c07df872.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Ffrom-best-first-time-hack-to-fullstack-developer-anjali-sharma%2Fbanner.png",
+    "bytes": 2056336
+  },
+  {
+    "file": "assets/fd2da528a8829d1ae864.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Ffrom-retail-to-fullstack-developer-alan-geirnaert%2Fimage1.png",
+    "bytes": 1639442
+  },
+  {
+    "file": "assets/fc55489b2bd9599305b3.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Ffrom-retail-to-fullstack-developer-alan-geirnaert%2Fimage2.png",
+    "bytes": 1805504
+  },
+  {
+    "file": "assets/98cdba56dd44adc1a9b6.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Ffrom-retail-to-fullstack-developer-alan-geirnaert%2Fimage4.png",
+    "bytes": 240970
+  },
+  {
+    "file": "assets/03105fd57cb69aa80a90.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Ffrom-retail-to-fullstack-developer-alan-geirnaert%2Fimage5.png",
+    "bytes": 478769
+  },
+  {
+    "file": "assets/f21eac670832853490dc.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Ffrom-uber-eats-to-software-developer-at-deloitte-tj-moses-james%2Fbanner.png",
+    "bytes": 2328005
+  },
+  {
+    "file": "assets/64b735e623ae039b6389.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fgame-jam-2025-winners%2FNaomi's%20Version%20(3).png",
+    "bytes": 1054692
+  },
+  {
+    "file": "assets/67335f63fb4d0c7edb49.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fgithub-copilot-partnership%2Fbanner.gif",
+    "bytes": 2100455
+  },
+  {
+    "file": "assets/1d7aad0776850424a07a.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fhackathon-survival-guide%2Fbanner.png",
+    "bytes": 2988206
+  },
+  {
+    "file": "assets/284cd9abf1e178590cb8.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fhow-i-landed-my-first-swe-internship-at-pinterest%2FBlog%20Post%20Headers%20(Optimized%20for%20Twitter%20Post)%20(15).gif",
+    "bytes": 1463657
+  },
+  {
+    "file": "assets/0d4d748e17fcd71204a9.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fhow-to-get-started-with-game-development%2Fbanner.png",
+    "bytes": 2267380
+  },
+  {
+    "file": "assets/45897e7e6eff2b2e0ea9.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fintroducing-community-badges%2Fbannerimage.png",
+    "bytes": 95311
+  },
+  {
+    "file": "assets/a15de69863f2345a4189.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fintroducing-community-badges%2Fcommunity%20checklist.png",
+    "bytes": 741301
+  },
+  {
+    "file": "assets/1260e1650078296a926b.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fintroducing-community-badges%2Fcommunity-badge-progress.png",
+    "bytes": 853883
+  },
+  {
+    "file": "assets/63dd914a2bd32dc4b75d.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fintroducing-community-badges%2Fopen-badges-from-dashboard.gif",
+    "bytes": 5393078
+  },
+  {
+    "file": "assets/594625c36407eaade636.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fintroducing-game-development-on-codedex-phaser-and-lua%2Fbanner.gif",
+    "bytes": 1665890
+  },
+  {
+    "file": "assets/f8d8feb4513cba32e715.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fmy-intro-to-creative-coding%2Fapplication-email.png",
+    "bytes": 77555
+  },
+  {
+    "file": "assets/17bdc0f4755d500c0931.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fmy-intro-to-creative-coding%2Fbuild-a-pc.png",
+    "bytes": 407411
+  },
+  {
+    "file": "assets/f49ea9c8f56caf1a2b10.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fmy-intro-to-creative-coding%2Fcreative-coding-search.png",
+    "bytes": 1688015
+  },
+  {
+    "file": "assets/9f16574a44c9a538faa7.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fmy-intro-to-creative-coding%2Ffractal-trees.png",
+    "bytes": 403465
+  },
+  {
+    "file": "assets/fdf1ca39057db9940cf4.jpg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fmy-intro-to-creative-coding%2Finside-out.jpg",
+    "bytes": 153678
+  },
+  {
+    "file": "assets/40853b97efa3c44a7a8d.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fmy-intro-to-creative-coding%2Fthank-you-for-applying.png",
+    "bytes": 90804
+  },
+  {
+    "file": "assets/c0fb73b444105d9e2cc2.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/blogs%2Fmy-intro-to-creative-coding%2Fvolume-control.png",
+    "bytes": 530061
+  },
+  {
+    "file": "assets/460c8460fceabb0c4fa4.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/code-challenges%2Fc-sharp%2Fswipe-right.png",
+    "bytes": 725601
+  },
+  {
+    "file": "assets/3a82106b3c003472be36.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/code-challenges%2Fhtml%2Felements%2Fgarage-sale-large.png",
+    "bytes": 35682
+  },
+  {
+    "file": "assets/0ef05c8da1e3939b84d6.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fcareer%2Fpost%2FmvQmiV2rF1ulvsuvJG30%2F1793630063108_0_Screenshot%202026-11-02%20171108.webp",
+    "bytes": 76384
+  },
+  {
+    "file": "assets/bc7be5d98a38f554a9fe.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2F4S76CZO9K5t0YO3xOyPI%2F0_Screenshot_20261027_171920_Chrome.webp",
+    "bytes": 76982
+  },
+  {
+    "file": "assets/f9f72535025f06e111a5.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2F4S76CZO9K5t0YO3xOyPI%2F1_Screenshot_20261027_171628_Chrome.webp",
+    "bytes": 77940
+  },
+  {
+    "file": "assets/b35ab3e06341b79e9cf5.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2F4S76CZO9K5t0YO3xOyPI%2F2_Screenshot_20261027_171911_Chrome.webp",
+    "bytes": 293818
+  },
+  {
+    "file": "assets/99285a6eea979819b96c.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2F4S76CZO9K5t0YO3xOyPI%2F3_Screenshot_20261027_171855_Chrome.webp",
+    "bytes": 68496
+  },
+  {
+    "file": "assets/0696a42d178045eccc0c.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2FGAKZv2k1hyqAT4poYv4X%2F0_image.webp",
+    "bytes": 83760
+  },
+  {
+    "file": "assets/fd1f2ddfc77fbb71a2e6.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2FIvOPFNkaBbNKivgN9gIp%2F0_distress.webp",
+    "bytes": 4820
+  },
+  {
+    "file": "assets/ffb24b305bfe24b658f0.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2FNa5W8lLOWzmPdd1YSJuv%2F0_77a7cadb9a8c78b1429f5629ec7f3358.webp",
+    "bytes": 55830
+  },
+  {
+    "file": "assets/60bbcd4c4ede4ccde748.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2FRlcm0oIeiqeJw1Irfnsb%2F0_Screenshot%202026-10-29%20at%204.00.48%E2%80%AFPM.webp",
+    "bytes": 83214
+  },
+  {
+    "file": "assets/3e8c065b669bac2d0eb2.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2FTyHCVSDlOydMmPgCeLgS%2F0_Screenshot%202026-10-31%20090855.webp",
+    "bytes": 48954
+  },
+  {
+    "file": "assets/8ec11fc4e0617959af67.mp4",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2FePqgoFZjiRzESBzjTGTq%2FCurriculum%20Roundup%20(1).mp4",
+    "bytes": 17039277
+  },
+  {
+    "file": "assets/f270ae0c1b5665d3ced9.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2FePqgoFZjiRzESBzjTGTq%2Fbackgroundimage.webp",
+    "bytes": 186062
+  },
+  {
+    "file": "assets/f934b9de0bab1b95d674.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2Fnqr2NzTfSIKJhiG87kiS%2F0_jareth.webp",
+    "bytes": 670908
+  },
+  {
+    "file": "assets/e3ce0a3e8a8d7db10f8e.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2Fz3LrPclZ7OnWTrp91q0L%2F0_Screenshot%202026-11-03%20182422.webp",
+    "bytes": 63540
+  },
+  {
+    "file": "assets/8b6a818a3179bf667503.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmain%2Fpost%2Fz3LrPclZ7OnWTrp91q0L%2F1_Screenshot%202026-11-03%20182411.webp",
+    "bytes": 53152
+  },
+  {
+    "file": "assets/9d1fc9133a76d93d376b.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmeme%2Fpost%2FGYy12APxq562N8ctiIAy%2F0_images.webp",
+    "bytes": 39760
+  },
+  {
+    "file": "assets/0b2b893d7f03f79cd73f.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmeme%2Fpost%2FMT5Tj3L3sdCpCZMBd5RZ%2F0_meme.webp",
+    "bytes": 25168
+  },
+  {
+    "file": "assets/a7dd185625b88d768e7f.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmeme%2Fpost%2Fwtmi5udYfTMYtglZhAs5%2F0_a5Vp0zg_460swp.webp",
+    "bytes": 22700
+  },
+  {
+    "file": "assets/d77283e70685a1f9350e.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmonthly-challenge%2Fpost%2FFunYcf2WakUcGuPmTJcI%2F0_luffy-face-closeup.webp",
+    "bytes": 72766
+  },
+  {
+    "file": "assets/f851dd1b8c39755a78a0.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmonthly-challenge%2Fpost%2FFunYcf2WakUcGuPmTJcI%2F1_luffy-header-1600x900.webp",
+    "bytes": 119394
+  },
+  {
+    "file": "assets/98fa9af885343ad6730d.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmonthly-challenge%2Fpost%2FFunYcf2WakUcGuPmTJcI%2F2_WhatsApp%20Image%202026-10-31%20at%207.02.14%20PM.webp",
+    "bytes": 96328
+  },
+  {
+    "file": "assets/6974d622c989c8c9b9d9.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fmonthly-challenge%2Fpost%2FLjDT0qduwVinS6iN43wy%2F0_Application%20Rejected_%20A%20Late-Night%20Setback.webp",
+    "bytes": 63532
+  },
+  {
+    "file": "assets/3b42f13ab3e64be1c035.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fpets%2Fpost%2Fzs66YQCJmUYLsrcyGYOi%2F0_Skyro%20Growth.webp",
+    "bytes": 24482
+  },
+  {
+    "file": "assets/eb8dd4e9cabeba7b56bc.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Fpets%2Fpost%2Fzs66YQCJmUYLsrcyGYOi%2F1_Opuss%201st%20day.webp",
+    "bytes": 21664
+  },
+  {
+    "file": "assets/afd1b53a449c94d5a100.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Ftech-news%2Fpost%2F7uDDpgPBfXuH1Bi7SV09%2F0_Screenshot_20261031_100255_Chrome.webp",
+    "bytes": 120060
+  },
+  {
+    "file": "assets/a17c9eed623e52b3a0f8.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/community%2Ftech-news%2Fpost%2FMdw1BRuNe5mYTL62jWXS%2F0_Screenshot_1-11-2026_212145_www.figma.com.webp",
+    "bytes": 73848
+  },
+  {
+    "file": "assets/6c8ab1a51e96e9ec3b32.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/courses%2Fhtml%2F01-html.gif",
+    "bytes": 144896
+  },
+  {
+    "file": "assets/d81dffa682e7328e4fa4.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/courses%2Fhtml%2F01-output.png",
+    "bytes": 19647
+  },
+  {
+    "file": "assets/066e4ad56f6fbe815655.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/courses%2Fhtml%2F07-band.gif",
+    "bytes": 38683
+  },
+  {
+    "file": "assets/151edf0d9d14611c0487.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/courses%2Fjavascript%2F01-rocket.gif",
+    "bytes": 54442
+  },
+  {
+    "file": "assets/fd361a1edcf4a39e43c9.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/courses%2Fmatplotlib%2Fbanner.gif",
+    "bytes": 440562
+  },
+  {
+    "file": "assets/95cf504125d2f31cf2d1.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/courses%2Fpython%2F1-hello.gif",
+    "bytes": 70930
+  },
+  {
+    "file": "assets/c138c0781eef173c6a1c.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/courses%2Fpython%2F1-letter.gif",
+    "bytes": 183899
+  },
+  {
+    "file": "assets/bfd2b239894e27f7b7a2.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/courses%2Fpython%2F1-snake.gif",
+    "bytes": 48113
+  },
+  {
+    "file": "assets/052cc4f17386bd5e8dba.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/courses%2Fsql%2F01-table.gif",
+    "bytes": 37092
+  },
+  {
+    "file": "assets/ff5f44f250687d4f590c.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fadd-interactable-objects-to-your-godot-game%2Fbanner.webp",
+    "bytes": 77572
+  },
+  {
+    "file": "assets/04f6ce29c339d4406c5d.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fadd-interactable-objects-to-your-godot-game%2Fthumbnail.webp",
+    "bytes": 11686
+  },
+  {
+    "file": "assets/212a227a81c34fa1a10a.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fadd-time-travel-to-games-with-phaser%2Ftime-travel-project-card.png",
+    "bytes": 66644
+  },
+  {
+    "file": "assets/ea09fcda21e77da8db6f.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fanalyze-baseball-stats-with-pandas-and-matplotlib%2Fmlb-pt-project-card.png",
+    "bytes": 11495
+  },
+  {
+    "file": "assets/0cad3acc5b085c51a94d.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fanalyze-twitch-data-with-sqlite%2Fanalyze-twitch-data-with-sqlite-card.png",
+    "bytes": 3086384
+  },
+  {
+    "file": "assets/42cbbe599bf91bb637bd.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fbuild-a-pixel-art-creator-with-html-css-and-javascript%2Fcard.png",
+    "bytes": 29795
+  },
+  {
+    "file": "assets/b403147e08630e1d12d0.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fbuild-a-pocket-rave-with-arduino%2Fbanner.webp",
+    "bytes": 127652
+  },
+  {
+    "file": "assets/9c1296b5543c17c71d3b.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fbuild-a-pocket-rave-with-arduino%2Fconnection-guide.webp",
+    "bytes": 20898
+  },
+  {
+    "file": "assets/317d87c8ad25088eca52.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fbuild-a-pocket-rave-with-arduino%2Fthumbnail.webp",
+    "bytes": 11588
+  },
+  {
+    "file": "assets/d6b9bae065245216afe1.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fbuild-a-tts-app-with-web-browsers%2Fcard_tts.png",
+    "bytes": 24630
+  },
+  {
+    "file": "assets/32e7ab7129166287a140.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fbuild-a-word-guessing-game-with-python%2Fpost%2FNtbADUKot4utxbNKLTkG%2Fimage%20(2).png",
+    "bytes": 20668
+  },
+  {
+    "file": "assets/0b12639325226bd5863a.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fbuild-a-word-guessing-game-with-python%2Fpost%2FjRXw4SrUUnRPzuORhfnh%2F%E8%81%94%E6%83%B3%E6%88%AA%E5%9B%BE_20251218234246.png",
+    "bytes": 71967
+  },
+  {
+    "file": "assets/f19fdf8d997b5efbdade.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fbuild-a-word-guessing-game-with-python%2Fpost%2FnkV6S38Ad0GqTnRguFAI%2FScreenshot%202026-01-03%20225157.png",
+    "bytes": 39510
+  },
+  {
+    "file": "assets/071a19657dc562cbb24b.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fbuild-a-word-guessing-game-with-python%2Fpost%2FtpIiDjrKfdJCcKdnzMO6%2Fword_guess_game_en.png",
+    "bytes": 11483
+  },
+  {
+    "file": "assets/cd1f2d5d159de449e543.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-doodle-gallery-with-supabase%2Fimage.png",
+    "bytes": 1449133
+  },
+  {
+    "file": "assets/093474c427fe9a96b880.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2F8oo83sZ76qt5XlJ5p9Mm%2Fteam.gif",
+    "bytes": 267864
+  },
+  {
+    "file": "assets/280de14a3867d554379d.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FBxFhMO2qgaTMeOQS9Uxh%2FDINO.gif",
+    "bytes": 8970
+  },
+  {
+    "file": "assets/382046d46f50f1aa043c.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FJYh9Z6ow3QIVUiAPPyh2%2Flain.gif",
+    "bytes": 64896
+  },
+  {
+    "file": "assets/c9f4f0e98fdffa06a66b.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FKN7e9mYihXcAU4MovSBr%2Fchicklet.gif",
+    "bytes": 7667
+  },
+  {
+    "file": "assets/c53504ae712840f6681f.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FP9bu4wooAtNoJ94ymkGo%2Fteam.gif",
+    "bytes": 443052
+  },
+  {
+    "file": "assets/21efcfa7d67b9625dae5.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FPPXJXVEhQbkUGVDeEJEj%2Fnyan_cat.gif",
+    "bytes": 29018
+  },
+  {
+    "file": "assets/e9a282e2285be90c85a2.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FRKP0Y0WqOjE3CP8bPJeG%2Fteam.gif",
+    "bytes": 443052
+  },
+  {
+    "file": "assets/0e9dc0eae306c2c553f4.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FRlNgpwvvsRvf5VGuiSdA%2Fteam.gif",
+    "bytes": 7667
+  },
+  {
+    "file": "assets/9cd8c142b3a12b9ce2ad.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FUuQSu1HBbXbL77LbFB90%2Fshinchan.gif",
+    "bytes": 116872
+  },
+  {
+    "file": "assets/635986608ebaa070bf2d.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FW868skKrJE7aJ2aYYDdQ%2Fbraun.gif",
+    "bytes": 5520064
+  },
+  {
+    "file": "assets/402a54ea49813cec9235.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FY5jbfxRzfvIpkzuAVscE%2Fimg5.gif",
+    "bytes": 1943744
+  },
+  {
+    "file": "assets/6ed16f6f92c7aef28fab.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FeLSpXs5RYKi1w32No2fI%2Fgangster.gif",
+    "bytes": 1790402
+  },
+  {
+    "file": "assets/d5fc144ec70bb0c2cbf9.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FmLYqkPJlWoev4243QZQ0%2Fcalvos.gif",
+    "bytes": 424180
+  },
+  {
+    "file": "assets/577cf634dbfd4b7b4fc1.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FncVQ5Ysaqfd84OkkJKWU%2Fteam.gif",
+    "bytes": 217181
+  },
+  {
+    "file": "assets/d3958ffce831df02f3fa.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FoqdNZ7LBauTUG7uVBgG4%2Fspiderman.gif",
+    "bytes": 8200936
+  },
+  {
+    "file": "assets/e85145d012e350125a5b.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2FxFRJOuosMZ5WDs7hNPtP%2Fcatmeme.gif",
+    "bytes": 58372
+  },
+  {
+    "file": "assets/358ff8750a75ef766725.gif",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-gif-with-python%2Fpost%2Fzf0wGwct1T7E0kEHGM6e%2Fonepiece.gif",
+    "bytes": 1021992
+  },
+  {
+    "file": "assets/54862cdff0f0bc32d957.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-github-profile-pet-with-graphql%2Fthumbnail.webp",
+    "bytes": 9874
+  },
+  {
+    "file": "assets/709af00e057e2df496cf.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-personal-website-with-html-css-js-and-codedex-builds%2Fheader.webp",
+    "bytes": 27978
+  },
+  {
+    "file": "assets/32407e112ae878d5d7b4.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-plant-buddy-with-electron%2Fthumbnail.webp",
+    "bytes": 4426
+  },
+  {
+    "file": "assets/7c7db017c65755c234f5.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-a-scrollable-text-wrap-effect-with-pretext%2Fpretext.webp",
+    "bytes": 64130
+  },
+  {
+    "file": "assets/db42c931f1caa3f2dc5a.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-an-rpg-map-with-love2d-and-lua%2FTileMAP-Project-Card.png",
+    "bytes": 34801
+  },
+  {
+    "file": "assets/7b75a69e4bbb5c1d19df.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fcreate-your-first-scene-with-unity-and-c-sharp%2Fthumbnail.webp",
+    "bytes": 3930
+  },
+  {
+    "file": "assets/cfb53bbf28a04e9ee619.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fmake-a-webcam-controlled-game-with-tensorflowjs%2Fts-card.png",
+    "bytes": 3500
+  },
+  {
+    "file": "assets/0d2248592c3f2aa1a8e6.jpeg",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Frun-a-website-locally-with-html%2Fpost%2FL8Rg7Fmb8J2PTnfhEmT4%2Fhan%20solo.jpeg",
+    "bytes": 107550
+  },
+  {
+    "file": "assets/a58f1ca703d5f8ab389c.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fset-up-a-gui-with-java%2Fpost%2FUjFkp5g3gmm3l4bQleCZ%2FScreenshot%202026-05-23%20132929.png",
+    "bytes": 11117
+  },
+  {
+    "file": "assets/691e87507709e3e79308.png",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/projects%2Fset-up-a-gui-with-java%2Fpost%2FvCKKNrDIyRPjkrSIFaRf%2FScreenshot%20(2).png",
+    "bytes": 55406
+  },
+  {
+    "file": "assets/36a79c47b62172e0b59c.woff2",
+    "source": "https://fonts.gstatic.com/s/montserrat/v25/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2",
+    "bytes": 31760
+  },
+  {
+    "file": "assets/c6b2b9358d246d581cae.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSG-OfF5Q6DzNVwd6kWSA.woff2",
+    "bytes": 13624
+  },
+  {
+    "file": "assets/55b8842a68eeb8ad6104.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSfF5Q6DzNVwd6kWSA.woff2",
+    "bytes": 13780
+  },
+  {
+    "file": "assets/dba13c0feabbaf174c48.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSfFJQ6DzNVwd6kWSA.woff2",
+    "bytes": 9216
+  },
+  {
+    "file": "assets/16ac30b8c892753fa79d.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSfFpQ6DzNVwd6kWSA.woff2",
+    "bytes": 5592
+  },
+  {
+    "file": "assets/4b52f45503509b9ebd47.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSfHZQ6DzNVwd6kWSA.woff2",
+    "bytes": 7204
+  },
+  {
+    "file": "assets/d05665f96f9b325d8210.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNW8aOvG547LTdNwPak.woff2",
+    "bytes": 6768
+  },
+  {
+    "file": "assets/0670b9ac042ca690fd60.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNW8aivG547LTdNwPak.woff2",
+    "bytes": 5008
+  },
+  {
+    "file": "assets/2ae8e1ef98a1bf6fe944.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNW8amvG547LTdNwPak.woff2",
+    "bytes": 12784
+  },
+  {
+    "file": "assets/1b0f7085a7c0590e0160.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNW8aqvG547LTdNwPak.woff2",
+    "bytes": 8716
+  },
+  {
+    "file": "assets/9e7fbef5fee414a4b232.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8amvG547LTdNwPak.woff2",
+    "bytes": 12768
+  },
+  {
+    "file": "assets/8f3845a21ca282b4b7cd.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8amvG547LTdNwPak.woff2",
+    "bytes": 12608
+  },
+  {
+    "file": "assets/f707fa89abf8c57423c2.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2dPCj7dc.woff2",
+    "bytes": 83852
+  },
+  {
+    "file": "assets/b5ef62d5a9ee3dbeec77.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2d_Cj7dc.woff2",
+    "bytes": 57280
+  },
+  {
+    "file": "assets/c84e5b7a39149b5d9acf.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2dfCj7dc.woff2",
+    "bytes": 6156
+  },
+  {
+    "file": "assets/9f87fca89fe21ae206c3.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2dvCj7dc.woff2",
+    "bytes": 12188
+  },
+  {
+    "file": "assets/d41ee427be12e0ba4424.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2efCj7dc.woff2",
+    "bytes": 17728
+  },
+  {
+    "file": "assets/e7cfbe1e05d8f602f004.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2fvCj7dc.woff2",
+    "bytes": 16904
+  },
+  {
+    "file": "assets/e5a99505630243bfaaa3.woff2",
+    "source": "https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2",
+    "bytes": 16720
+  },
+  {
+    "file": "assets/1b4731d7c012e8f597da.woff2",
+    "source": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nRivN04w.woff2",
+    "bytes": 6832
+  },
+  {
+    "file": "assets/a5c738b4cff027da96bd.woff2",
+    "source": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nWivN04w.woff2",
+    "bytes": 6640
+  },
+  {
+    "file": "assets/a7ceb73c669c9e18e071.woff2",
+    "source": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nYivN04w.woff2",
+    "bytes": 6720
+  },
+  {
+    "file": "assets/80b1d9dd6af004d80871.woff2",
+    "source": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nbivN04w.woff2",
+    "bytes": 9492
+  },
+  {
+    "file": "assets/253434a8d525769c6fba.woff2",
+    "source": "https://fonts.gstatic.com/s/worksans/v18/QGYqz_wNahGAdqQ43Rh_eZDrv_0.woff2",
+    "bytes": 45540
+  },
+  {
+    "file": "assets/18700e0a390e8300f5dd.gif",
+    "source": "https://gifdb.com/images/high/comedian-el-risitas-warp-face-kekw-meme-0bf8c28fx7xo9a1x.gif",
+    "bytes": 6000817
+  },
+  {
+    "file": "assets/61549264d5cd3627a231.webp",
+    "source": "https://github.com/codedex-io/blog/blob/main/blogs/2026/a-personal-history-of-the-creative-coding-zeitgeist/assets/book.webp",
+    "bytes": 165296
+  },
+  {
+    "file": "assets/61fb726b3f43dbb68e73.jpeg",
+    "source": "https://github.com/codedex-io/blog/blob/main/blogs/2026/a-personal-history-of-the-creative-coding-zeitgeist/assets/clippy.jpeg",
+    "bytes": 36853
+  },
+  {
+    "file": "assets/3e8f71acddf052c59fd5.webp",
+    "source": "https://github.com/codedex-io/blog/blob/main/blogs/2026/a-personal-history-of-the-creative-coding-zeitgeist/assets/cyberdeck.webp",
+    "bytes": 154838
+  },
+  {
+    "file": "assets/c057aba25b90726971de.png",
+    "source": "https://github.com/codedex-io/blog/blob/main/blogs/2026/a-personal-history-of-the-creative-coding-zeitgeist/assets/ecosystem.png",
+    "bytes": 209507
+  },
+  {
+    "file": "assets/c550225062aa89f8f914.webp",
+    "source": "https://github.com/codedex-io/blog/blob/main/blogs/2026/a-personal-history-of-the-creative-coding-zeitgeist/assets/eyebeam.webp",
+    "bytes": 49626
+  },
+  {
+    "file": "assets/ddcb059f5a349893e361.webp",
+    "source": "https://github.com/codedex-io/blog/blob/main/blogs/2026/a-personal-history-of-the-creative-coding-zeitgeist/assets/poster.webp",
+    "bytes": 130116
+  },
+  {
+    "file": "assets/7b63143f7346abe5d84c.webp",
+    "source": "https://github.com/codedex-io/blog/blob/main/blogs/2026/a-personal-history-of-the-creative-coding-zeitgeist/assets/processing.webp",
+    "bytes": 146214
+  },
+  {
+    "file": "assets/2ba6ec019b04db55bbf4.mp4",
+    "source": "https://github.com/codedex-io/blog/raw/refs/heads/main/blogs/2026/gen-z-builders-networking-nite-recap/assets/keycap.mp4",
+    "bytes": 1455096
+  },
+  {
+    "file": "assets/72fe21e1a854b577a24e.gif",
+    "source": "https://github.com/codedex-io/projects/blob/main/projects/animate-images-with-keyframes-using-css/header.gif",
+    "bytes": 5602813
+  },
+  {
+    "file": "assets/8552f6429b327c1ad51d.bin",
+    "source": "https://lh3.googleusercontent.com/a-/ALV-UjWqLfaOYzMuvb3VvxRdQ_uotn3VhaKavg5LhMtKK94sp2U_9Acv-QY1gn-ve9EXIXJu2Fyv4SwzOEzMyLM7pRd4_WKaAT0TC6lfeet3qdeZUAMuaNKDiIS0coJzVgs1twdR8Q5uLtaTnCaiO9YqN50BGHRy70q30V853_aWTP_ECAdmAmPFy6l_NR4UFQaRH2ifmltNrxKdUSIMC3jWqruCn6yd2Pi8zoaVWpKrdPLsxO1Di2dXPzQwwsIQe-PtskBU-SHQFQSGoGM-a5lzCedlus0_odnTeAAfPVd5kJxHca7tqA-NMPZqsADZ0OqcaezLiYLJHk_lhV-zjZLdd_b-IIvadoKnIyY31NXCJs8H66nRi4fzQjNuF2xKz6mJMH0erVDZhgWu0aKZDE-g7gJszgCoViCtvZ_9taKc-pGbpVIsPS9PghNJaeAQvbOMszI2aoE7d4g7PVWz0SVY4Bfi1vcfYFewFV6ipbNqvH18To4xVzLaY8ok7bUowMRB-gCCtmAdoJDI3PrtFD1ImOXxgMpLP8o_ODB7XGQ273SLfeaDpYEJDBZxWYIZek0XiO_-YDj8ec3ISbiBo3EY-s5oJVlf4_18iupCzMVDmhSyBZMCzFcSrdaEc0-mSLLcDqebO3jll9naorZv3IC94G48WIDJOmoNYX4aP_cer_YkWzv5vNWkzZD8Ty4OREkdkEB91FDx6aihpRud502sNIg4_zY89kaDzfmRyXRguSAzayXGpFWqfAGU8N-P7Or26LcH1dvAUHX0b0nLVOi5usXPWJ9rUM3VLhTGT4g4xsPPgiChMVpEuOHZMfsRj2poaL4ufiC4HI5YWBL3GyIeObaO-ctBILlTIXehicNieYLNnpMoa1ByNkuGPl5wfS-iCpXOmT_1jq2QrMgcRbdwskSwPtauBZVc-vKW-rvx5Q7lzf-gFrkOnSdvsfRKrjYkZfVXtQkr0k_Qg7M4AVdfDLOKUnTBCFwgImf0pobLBYE-gJknKe8pUbxSUJUJie5CWVetjZ-ZgoxNpukAmVBR_CgqWZ1WY7PyjmcnUUjDV_d2Y3xP-50=s96-c",
+    "bytes": 4507
+  },
+  {
+    "file": "assets/00b9344f3c25fefa6541.bin",
+    "source": "https://lh3.googleusercontent.com/a-/ALV-UjX7uiMZF4yGTDnzH52F5qS4Tz6ZcX_8rtgw7sC3hu_2UnLMsxHtO0y89ONXua0hdPM0rLP3uwkuiiB8Fj7KK12aFtrVheu0FB1FQngkTJ949XnaEz8RI-YT3LdCo8uOgTLnF1muPtWpuZ9WT-whV_i9dkSI5pKkk6wW9liBL-KBOT3sF-VbdolEXgicWsaFSGHnmS9UdE9Hm_DRXYSsnk9pLocmfDGTTxLjYf7-iMn1PeMJyn9QJ_tABIAxb_KtJnjyVoQ-JHTey-xvhvdciDQ6QieQv8ao7QLCRECsavLDwSXt9PgQEfiAukzP3S7yBViyquuLGFyKY6CLZ_7angEP7u7QUGpfM1EwigAH6BfDEq7wVz8b_ljVAvcj_bh4goNYTwIoaLq4kuoD0sBhJSOvS7zoHn1vrqiZ37Bc0t02Tufe2NBFzoVTrBK7niSrypNueq9lqdDAugfwe7KoZqW8iwclMhVIUQtD8c5Cj7Is1Y0d8W6HDswV0WncxN-RpnAtisu5rqXhk0JF3H1QjpoItMOB-wsXOXcfd0cmdZrW98Ljj-2m4vWY-aeigbbvNiGBaSO1ojcLmol066Zok77oS25Xp_JBkGVq19DGm_KSxvlLIId9Qas0KAPL5bthIFTwg5J2qXuOcVZWczCJqbE4wItJ8nt3ok2UlAmoupxshAqO_6ELE622dJHsjYqPQTpZuK1jaspxtvW-P0P-rS2I24txMS4F17GdOij9qahu0S7Ld5l-EoSB2q9P0Nonj5-1uvH8msRx1rQKQgfHTerz4-D8WJZAKnDKh02I2bu7CsbnWTShIeTN_9sC3UfcZAazBR5rpqjQIow7N91iC5rxAEnelZuYC1-JgsIbzRRMzoOzWuE9-jc-ijj7--cGmszz3Qf0d17uHdtEvPdZ-oTgaOruFW3rijkAtEYtoCRrxLRp8GKEpp6I77u1NBAXT75jCmD3myW3-cKw38T-rzs1aC_Oz-o9NRyYQQ6U5mtedZwojwBXaB6mHL7i4pj0lu3pzjFnWKPj14-E21l19CBXQ1BWZB5e-pqVIytr3zjkru--A5wR9NdU=s96-c",
+    "bytes": 567
+  },
+  {
+    "file": "assets/bc4d090d9d94dc94f2d9.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocI1C_hdsFttwcaN1bFNOglBHFmIyjgS_9Ph-7OBk2U3f_Y9Kw=s96-c",
+    "bytes": 1373
+  },
+  {
+    "file": "assets/15c52934103eaf8bb215.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocI6OkCnlzWi3twBgz6Z2wTNVk41PfTBnO98LG8Yq2douej_=s96-c",
+    "bytes": 1351
+  },
+  {
+    "file": "assets/55a445ecffeb8b6b2b23.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocILvnLu9c3T5g4Pvxi_yK8HatWGr3hYncwa8kmp2doGFcxNgIG4=s96-c",
+    "bytes": 5969
+  },
+  {
+    "file": "assets/e857ab4eebc37c3c04ff.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocIVvGsu-M3frNeCu9M7kgzz-nHoBatp0qV2cAitpyBrI8D68A=s96-c",
+    "bytes": 1373
+  },
+  {
+    "file": "assets/6feb44a93994b66d729c.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocIfmM3yryYP2HEjZXlRnMOVG_SlVZ188nLRMV1kTsQ7XbqV2Q=s96-c",
+    "bytes": 1221
+  },
+  {
+    "file": "assets/6940a3e9948e6f98572a.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocIfod5fJpFoMPrw96_s6VUoWtggkzkFdGTneWROHToQRQkxEQ=s96-c",
+    "bytes": 14997
+  },
+  {
+    "file": "assets/ad846fc3da6558d9e9e0.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocIh7Jm3GMiG42qvg_0iippsnn6LBqNI7x5L_zUzly61vy6zHq-S=s96-c",
+    "bytes": 272310
+  },
+  {
+    "file": "assets/b9a93d6fa31deb95ad21.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocIhfkwOcW_yHMGVn-goOFxDrZZtJzDz6wTTKB4tsjF6-r6IgkI=s96-c",
+    "bytes": 3874
+  },
+  {
+    "file": "assets/515792960369a453f6e1.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocIl7kbnmtpUXD8lWbci2rtDno92vH7GHEyMdOCuUHA3ns4yFRA=s96-c",
+    "bytes": 12433
+  },
+  {
+    "file": "assets/331138ee5f6917f1e59c.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocImmy0H-Oj_SBc3m7IWUEmDcf5xJACltqWB73e8fARs1V3m2LnT=s96-c",
+    "bytes": 8581
+  },
+  {
+    "file": "assets/2c30e2f07a7d04921a0a.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocIq4eqj3xUBUqCVBxaYOyzDp7aGitDpcM0RYhoqSy0k1ay62A=s96-c",
+    "bytes": 1393
+  },
+  {
+    "file": "assets/9d189ced412f18c246d3.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocIrcuBpdLT-gdq2V-JJtjLEWqcoApW8N_D_hcNvqquFXYrjvsudTQ=s96-c",
+    "bytes": 6711
+  },
+  {
+    "file": "assets/e71399e2ace91ec4c6d8.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocIuRQ10W5iPWHd6XKi-iP1nZOpqu7c718Br5EAa8WBh9Y-ZW-w=s96-c",
+    "bytes": 5962
+  },
+  {
+    "file": "assets/eff8c95f261adc24a397.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocIvsb-ZgdVrEYlBO8nUN29jsvRD4v9NMiZD4_PAvjlxjd5gdQ=s96-c",
+    "bytes": 309186
+  },
+  {
+    "file": "assets/2685e8b28cb564a076a7.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocIxd7qZrVzIVos0JC-1u1bmIGaWMnQs07kFcs3-2EkvikJ0L7PfDw=s96-c",
+    "bytes": 4545
+  },
+  {
+    "file": "assets/7b925f6d202026f695df.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocJ5HfvR_0yPKzEefklPUie13OR4rJ0hLOARODpyYBuv7pRFRw=s96-c",
+    "bytes": 5183
+  },
+  {
+    "file": "assets/36d9b251c3929c29f571.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocJAoKYLeh9ZC9HKSlSfbaCDVGedaoSD7XcVeSoIrRj_-KUJrPqP=s96-c",
+    "bytes": 2569
+  },
+  {
+    "file": "assets/bb7618cda0287fdfa86a.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocJFW05M_UVmVQ9Towqj7Pf55Lf4jNGqnQ7lUAf812NcNzgTvA=s96-c",
+    "bytes": 1435
+  },
+  {
+    "file": "assets/79d01c7b8a71acd1632f.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocJUemkDlzYYiydxEGiJ42u7HZXp9mAMFYEcKnW43biC9clIIYA=s96-c",
+    "bytes": 3770
+  },
+  {
+    "file": "assets/217ae6cb8e249c54b8ea.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocJYPDuhaqo3Du1X4xAQeURDC3cWT95moqaUvxscPGbGAK_vEw=s96-c",
+    "bytes": 1623
+  },
+  {
+    "file": "assets/69fcee6add354d9eaf1e.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocJaP8v0aPAqaCqp7KSSshhOJcBr8SpuiuYsfwtZbMOPenLwuGw=s96-c",
+    "bytes": 4105
+  },
+  {
+    "file": "assets/2b10d885567d64e11b17.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocJc-TpV1mcTS_VG8Np6x6iAw_tQQSGo8uH1lTmcDOS_n7vlru4Ecw=s96-c",
+    "bytes": 3270
+  },
+  {
+    "file": "assets/9667706caafb6334f787.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocJk8Tw-1IEYvdkNGfQVqve6xxcDKdvA3ZBWRO2JXJQZKjktEl49=s96-c",
+    "bytes": 3194
+  },
+  {
+    "file": "assets/2e43c3d89302b405a4aa.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocJnfphnVwbvEjmNTq3YGQvD9cIjYWS7ow0xSFKaQ0n7hgCqi4WcZA=s96-c",
+    "bytes": 3932
+  },
+  {
+    "file": "assets/f6bcd72dabb59350847e.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocK03kwQ1Fn5hZvFyA3FQ8FWPMzE1YyiOTMY_eQRUySIV35-c2g=s96-c",
+    "bytes": 6773
+  },
+  {
+    "file": "assets/d9b00fa1661159458a5e.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocK21EE3pWd0Jcf1K7nS6kQc1YZ6uZ0KwMNjcPVQDqIR-OXm1Q=s96-c",
+    "bytes": 472
+  },
+  {
+    "file": "assets/ba7a94446b8dd55db7fe.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocK4p6QcXL1flHHN7fAKSv29RkX4_0LixFF43HLe2qJ8UkeS6g=s96-c",
+    "bytes": 1583
+  },
+  {
+    "file": "assets/1160947f29a1c7707cc1.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocK5XGMbasxnVIlbybsvksW5AvjxdmDmrKVfvbSHM7cr0d7cSJE=s96-c",
+    "bytes": 6566
+  },
+  {
+    "file": "assets/26d371492c913137ef9a.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocK74rbYKMk2NIHIOypgk2SehNlAjKm34T6HKHde0CsPwZOJyVc6=s96-c",
+    "bytes": 6869
+  },
+  {
+    "file": "assets/73b0fd8a68a3946b021e.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocKELphr3010yyHEKGaJA9VMNy3yJUMsTmhy1P91RhZ15pMr2w=s96-c",
+    "bytes": 1832
+  },
+  {
+    "file": "assets/23c5a5f4f027b8f22be0.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocKIrRsfmvdlaa5Dm2m_JrDSiuJX4ZxLXZO7Z8lY53Ziw_OJDUrT=s96-c",
+    "bytes": 358
+  },
+  {
+    "file": "assets/7ca4355cbe0425639308.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocKJ_2x04JYJ-B1KYpoiAKgk6BUv-FlCTSPPwxHXM0LwRFXhoHnE=s96-c",
+    "bytes": 4026
+  },
+  {
+    "file": "assets/839ed6fe4dad675262fe.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocKaIeRj4Cphoj3kNvR4N6UXLcbQy97xc8ZnxZTp9RnwuklgUrfl=s96-c",
+    "bytes": 4018
+  },
+  {
+    "file": "assets/d86f53a2e5de69eac198.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocKe5urF8YZs5Ylm6pwFgKlYk4hf0V9558CRlFtC0StOxfUHD53e=s96-c",
+    "bytes": 410867
+  },
+  {
+    "file": "assets/2e9f5496ce72b0897e7d.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocKfbnp2HB6K-zpDYozS5CLcGW7SJuqN2RdBHFZDjMGWAF_39qh6=s96-c",
+    "bytes": 2892
+  },
+  {
+    "file": "assets/0a93b75b42d80d30dcfb.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocKgRm-sTBcm9x8qTIrxAy1q5TWL51HNfPV6iE_kc3ZiRG0n6z4=s96-c",
+    "bytes": 5477
+  },
+  {
+    "file": "assets/72db24e948960954680e.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocKpEr9EexcQM9jGbcainkFT5ZwzAy4g5RTE2Y7jV9-xL2HbODY=s96-c",
+    "bytes": 5702
+  },
+  {
+    "file": "assets/352dd477b3f7e84e7ac2.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocKrXpLvzeQkrE9YSjGKEuGl5G05kz9uZDZ2aRkbsck7dcWJaStZ=s96-c",
+    "bytes": 800
+  },
+  {
+    "file": "assets/cbe272473886d153db3e.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocKsUDd49fWTlR5o2rsi4TBkHz0E08TC3VaK3NvedIkclMaVeGzn=s96-c",
+    "bytes": 4279
+  },
+  {
+    "file": "assets/131f7c4ac7e36e0c3c44.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocKtXlKHzStJej44XLXyg0oj3wRHC6JCOi8mMz3NOqFGm51J7XZtrw=s96-c",
+    "bytes": 10078
+  },
+  {
+    "file": "assets/1d0c53949206bf0b9918.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocKxQKT2f0HAH45N9AwA1e1Ycw3scMDKnGfqAadO3olSS4UVVg=s96-c",
+    "bytes": 426
+  },
+  {
+    "file": "assets/6bf53a86d1a00c1e3225.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocL5DfAX9wYUrg7ng8CJjJ2DZ1c6gCpiQDCEdgIwsPvb8fGifg=s96-c",
+    "bytes": 1356
+  },
+  {
+    "file": "assets/4ec5d5d879e39b74a5cd.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocL6FF7Zm3d7UCYqc68m68D6zXTPx897eFvRihkmzhL5iuB9Lg=s96-c",
+    "bytes": 979
+  },
+  {
+    "file": "assets/859e646486c953983ddf.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocLDOvRFWbwylLe4DEq8Q-YeijkuE0jKZtmuMC8fo1o0s-NruJ0=s96-c",
+    "bytes": 1249
+  },
+  {
+    "file": "assets/2e6bb75c39a4252cc797.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocLNhi1hZESyMR9vb9FhuUEqaZN9J2tjyAxoB0D9JMs0wJ4RVtoN=s96-c",
+    "bytes": 12337
+  },
+  {
+    "file": "assets/b8b4fafa16ff579e8e7e.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocLPJsiWLF7xfXA6AM5Y_yjDIx205exSnldUcLmW6c0IpUrQBg=s96-c",
+    "bytes": 1324
+  },
+  {
+    "file": "assets/3ad1bf291dc14bc748d4.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocLgLPfOiEqzXq8JdqtmstArXi16pVUDKPAdCgSE231KoKLtQmvP=s96-c",
+    "bytes": 10741
+  },
+  {
+    "file": "assets/aa85a3bc2f0953b67c0a.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocLgrAo-Gqbn8jZljMFQA2R1q6bEgsBcQmrGJtw8kMxHPhroEQ=s96-c",
+    "bytes": 1334
+  },
+  {
+    "file": "assets/60fe9342f3c27d06bfe0.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocLrsns0aqsuuuJl9kFQo2ND12qn1UcnctnGyPjwzqOS06zoo5wN=s96-c",
+    "bytes": 9771
+  },
+  {
+    "file": "assets/5fc98d9b0598c309b390.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocLxtyc0h0Ks7ZxDpe2as1VSlCw2mblknj6zWgyxP4yZEnKpyQ=s96-c",
+    "bytes": 1037
+  },
+  {
+    "file": "assets/fc8d6b274fd57cb2689b.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocLzYF_2UKTsgfQrLnt9VE11es3qDHP1sn5lyFCYChKqG9zQaovv=s96-c",
+    "bytes": 18279
+  },
+  {
+    "file": "assets/8b8276609e4c3176d7b7.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocLzeiYyn5DpkkbD5z9Qb2QgalnlLqIRcrRNA1e5hHgxqMrr5ww=s96-c",
+    "bytes": 511
+  },
+  {
+    "file": "assets/5ce7ed4de31a018d37aa.bin",
+    "source": "https://lh3.googleusercontent.com/a/ACg8ocLzfWZwhoXEPltFF4cRDVhXah4abLrvnSAHesU5RKwjFJwloHt8=s96-c",
+    "bytes": 3580
+  },
+  {
+    "file": "assets/d3d30b0c92445d8223a1.gif",
+    "source": "https://media0.giphy.com/media/1C8bHHJturSx2/giphy.gif",
+    "bytes": 236077
+  },
+  {
+    "file": "assets/593b2a1372f5fef3703e.gif",
+    "source": "https://media0.giphy.com/media/29IalLLWizqz8SViU1/giphy.gif",
+    "bytes": 1332427
+  },
+  {
+    "file": "assets/b5c1c3a139085666e9c8.gif",
+    "source": "https://media0.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif",
+    "bytes": 2762657
+  },
+  {
+    "file": "assets/8c99645ad905bb92c83c.gif",
+    "source": "https://media0.giphy.com/media/Zo64h6yIpS00i7gytV/giphy.gif",
+    "bytes": 4629404
+  },
+  {
+    "file": "assets/7cb96fb4b1c2cf9c7cb2.gif",
+    "source": "https://media0.giphy.com/media/e5FEqvo9ueEo8EOz7l/giphy.gif",
+    "bytes": 4602062
+  },
+  {
+    "file": "assets/5851fbf91c4d12aeac35.gif",
+    "source": "https://media0.giphy.com/media/nMP4ub7FKyan75O0K9/giphy.gif",
+    "bytes": 667032
+  },
+  {
+    "file": "assets/2cbf6cf083879f76ba24.gif",
+    "source": "https://media0.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif",
+    "bytes": 799934
+  },
+  {
+    "file": "assets/db7995cbbb60969fd171.gif",
+    "source": "https://media0.giphy.com/media/xxCNsOokj8Rxp8EtUL/giphy.gif",
+    "bytes": 6980599
+  },
+  {
+    "file": "assets/d137dbc995018bb96428.gif",
+    "source": "https://media1.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif",
+    "bytes": 4400377
+  },
+  {
+    "file": "assets/50f05552a11ebd707841.gif",
+    "source": "https://media1.giphy.com/media/u8KKMcVxOriK61GOF7/giphy.gif",
+    "bytes": 2489277
+  },
+  {
+    "file": "assets/f0b0892e5d7c1a158001.gif",
+    "source": "https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif",
+    "bytes": 2831861
+  },
+  {
+    "file": "assets/68dff580a37767e5e35c.gif",
+    "source": "https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif",
+    "bytes": 3987891
+  },
+  {
+    "file": "assets/c837ad7f8ec355461d09.gif",
+    "source": "https://media2.giphy.com/media/87UFpLKtD3d2ERiVKD/giphy.gif",
+    "bytes": 82531
+  },
+  {
+    "file": "assets/1248efee58fab443f15b.gif",
+    "source": "https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif",
+    "bytes": 4715830
+  },
+  {
+    "file": "assets/1bfc0aa753ff2c443906.gif",
+    "source": "https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif",
+    "bytes": 4715830
+  },
+  {
+    "file": "assets/ae08216f9b7e9b0d0c93.gif",
+    "source": "https://media2.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif",
+    "bytes": 268495
+  },
+  {
+    "file": "assets/452c19a9fdbf1c49061e.gif",
+    "source": "https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif",
+    "bytes": 799934
+  },
+  {
+    "file": "assets/a96b3c9da023d1dcbce5.gif",
+    "source": "https://media3.giphy.com/media/YZOsKxJfmvzG0/giphy.gif",
+    "bytes": 13551228
+  },
+  {
+    "file": "assets/92d74154564a70e7718c.gif",
+    "source": "https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif",
+    "bytes": 2762657
+  },
+  {
+    "file": "assets/213ae4c56e43c87e02e5.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/74955e06f3f456a3cc672ea665ee1e8c15cf6ab4/blogs/2026/ap-computer-science-exam-2026-2027/images/apcs_img_1.png",
+    "bytes": 547994
+  },
+  {
+    "file": "assets/9eeafa7356c8983146f1.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/74955e06f3f456a3cc672ea665ee1e8c15cf6ab4/blogs/2026/ap-computer-science-exam-2026-2027/images/apcs_img_2.png",
+    "bytes": 306074
+  },
+  {
+    "file": "assets/c10b293b21f5dd2f0471.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/blog/refs/heads/main/blog-images/from-uber-eats-to-software-developer-at-deloitte-tj-moses-james/deloitte-event.png",
+    "bytes": 3008755
+  },
+  {
+    "file": "assets/9a351210a9b93f0e8ec1.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/build-a-custom-search-engine-with-exa-ai/coffee_exa_search_results.gif",
+    "bytes": 1773234
+  },
+  {
+    "file": "assets/1fdbf2333797bffe5a89.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/build-a-custom-search-engine-with-exa-ai/coffee_search_results.png",
+    "bytes": 110886
+  },
+  {
+    "file": "assets/cdab34ebf21ea41893e0.jpg",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/build-a-custom-search-engine-with-exa-ai/exa_dashboard.jpg",
+    "bytes": 181226
+  },
+  {
+    "file": "assets/871198389bf6b221702a.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/build-a-custom-search-engine-with-exa-ai/neural_search.gif",
+    "bytes": 14498801
+  },
+  {
+    "file": "assets/8e80dacf8d23743baaf9.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/generate-a-blog-with-openai/api-key.png",
+    "bytes": 103105
+  },
+  {
+    "file": "assets/09ae4685daad9f7f686e.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/main/projects/generate-a-blog-with-openai/output-nyc.png",
+    "bytes": 256325
+  },
+  {
+    "file": "assets/cc02b85ca15db724bdc0.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/CompatabilitySettingGodot.png",
+    "bytes": 192685
+  },
+  {
+    "file": "assets/0870058bdb535661305a.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/EAndLabelVisibility.png",
+    "bytes": 248770
+  },
+  {
+    "file": "assets/7f960ac77d32e5c9f10d.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/ESetup.png",
+    "bytes": 295537
+  },
+  {
+    "file": "assets/6caad6e19e3d42c20976.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/Godot2DprojectScreen.png",
+    "bytes": 67694
+  },
+  {
+    "file": "assets/a7ddcafdd1335ee58cf1.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/addCharacterBody2D.png",
+    "bytes": 280797
+  },
+  {
+    "file": "assets/2dafdd201400c38a63e7.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/addNode.png",
+    "bytes": 70721
+  },
+  {
+    "file": "assets/2063fe758eb25e131719.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/addNode2.png",
+    "bytes": 81200
+  },
+  {
+    "file": "assets/81607c4e24631fe33e50.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/addingNewScene.png",
+    "bytes": 234680
+  },
+  {
+    "file": "assets/d1b95d62ac6f77b4f690.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/area2dExample.png",
+    "bytes": 168789
+  },
+  {
+    "file": "assets/cdb411cc44066381acc8.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/area2dSetup.png",
+    "bytes": 168044
+  },
+  {
+    "file": "assets/fcc5168c3512017bb151.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/attachScript.png",
+    "bytes": 207631
+  },
+  {
+    "file": "assets/26c802fa87bb88deacb5.mp4",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/backgroundImageAddition.mp4",
+    "bytes": 1002640
+  },
+  {
+    "file": "assets/0abba43facbc1dea0d45.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/charHierarchy.png",
+    "bytes": 20929
+  },
+  {
+    "file": "assets/7cb67175a35becb1c7cc.mp4",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/characterMaking.mp4",
+    "bytes": 1114031
+  },
+  {
+    "file": "assets/2a0854c0526e54faf53e.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/collisionPlaacement.png",
+    "bytes": 246854
+  },
+  {
+    "file": "assets/2521a248bca54214bb4d.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/createProjectInGodot.png",
+    "bytes": 156859
+  },
+  {
+    "file": "assets/c1da04723008b5da7485.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/createScript.png",
+    "bytes": 205644
+  },
+  {
+    "file": "assets/fe27c68e03a80e0bbb55.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/debugColor.png",
+    "bytes": 202850
+  },
+  {
+    "file": "assets/8bd0de18863ed4c65f70.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/fileSystemGodot.png",
+    "bytes": 30759
+  },
+  {
+    "file": "assets/3338cd9e08149ecdb36b.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/folderCreationGodot.png",
+    "bytes": 57354
+  },
+  {
+    "file": "assets/fc1527cd2edaba98aa2a.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/fontEdit.png",
+    "bytes": 298230
+  },
+  {
+    "file": "assets/1d4aea7a1a5af8804ca8.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/godot-logo.png",
+    "bytes": 47458
+  },
+  {
+    "file": "assets/7ccf18b3f60a6534291d.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/interactDemo.png",
+    "bytes": 57710
+  },
+  {
+    "file": "assets/b4fba15c712beaede7a5.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/keySetup.png",
+    "bytes": 36743
+  },
+  {
+    "file": "assets/d52e6b7eac1dcfd8ce9f.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/labelText.png",
+    "bytes": 300075
+  },
+  {
+    "file": "assets/1fc9896e99d9698c5222.mp4",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/mapBuilding.mp4",
+    "bytes": 1258574
+  },
+  {
+    "file": "assets/753d8028f67b98fa47a5.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/moveScript.png",
+    "bytes": 276691
+  },
+  {
+    "file": "assets/2ea1c9d99e02c44a1e1a.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/rectangleShape.png",
+    "bytes": 309327
+  },
+  {
+    "file": "assets/24ce0294ebcff73b9bcd.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/saveScene.png",
+    "bytes": 34792
+  },
+  {
+    "file": "assets/d9cc24322dfb5dc72dba.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/sceneSetup.png",
+    "bytes": 38207
+  },
+  {
+    "file": "assets/ae9d87766123fb607133.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/scriptAttach.png",
+    "bytes": 208147
+  },
+  {
+    "file": "assets/22a3bc2bb41fc52c220e.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/add-interactable-objects-to-your-godot-game/assets/staticBodySetup.png",
+    "bytes": 168414
+  },
+  {
+    "file": "assets/bd50de383fe47178bfbb.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/build-a-pocket-rave-with-arduino/assets/arduino-ide.png",
+    "bytes": 38596
+  },
+  {
+    "file": "assets/00270ea1d7d93bd4c06d.png",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/build-a-pocket-rave-with-arduino/assets/connections.png",
+    "bytes": 1461020
+  },
+  {
+    "file": "assets/490c3c18e1ebe418636f.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/build-a-pocket-rave-with-arduino/assets/hearts.gif",
+    "bytes": 59307
+  },
+  {
+    "file": "assets/a7228d9fe8d1aaaa181e.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/build-a-pocket-rave-with-arduino/assets/jumping-man.gif",
+    "bytes": 42844
+  },
+  {
+    "file": "assets/0505e7b2dddf0c20d9d0.gif",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/build-a-pocket-rave-with-arduino/assets/libraries.gif",
+    "bytes": 425467
+  },
+  {
+    "file": "assets/53604d899aecf7394333.jpeg",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/build-a-pocket-rave-with-arduino/assets/oledwsong.jpeg",
+    "bytes": 75762
+  },
+  {
+    "file": "assets/264d90361a39e5c28950.jpeg",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/build-a-pocket-rave-with-arduino/assets/uno.jpeg",
+    "bytes": 205098
+  },
+  {
+    "file": "assets/52a4e807b6286e29ca71.mp4",
+    "source": "https://raw.githubusercontent.com/codedex-io/projects/refs/heads/main/projects/build-a-pocket-rave-with-arduino/assets/wkConnection%20(1).mp4",
+    "bytes": 854903
+  },
+  {
+    "file": "assets/da701913293d1ba7f8c9.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_AMS-Regular.1608a09b.woff",
+    "bytes": 33516
+  },
+  {
+    "file": "assets/e2d92a3df76e57e4a76f.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_AMS-Regular.4aafdb68.ttf",
+    "bytes": 63632
+  },
+  {
+    "file": "assets/da2bcc642180658d28a3.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_AMS-Regular.a79f1c31.woff2",
+    "bytes": 28076
+  },
+  {
+    "file": "assets/641bfbf13b4c8bd23378.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Caligraphic-Bold.b6770918.woff",
+    "bytes": 7716
+  },
+  {
+    "file": "assets/e2eb9f07e97290356844.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Caligraphic-Bold.cce5b8ec.ttf",
+    "bytes": 12368
+  },
+  {
+    "file": "assets/89966f4d054cf2cdde28.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Caligraphic-Bold.ec17d132.woff2",
+    "bytes": 6912
+  },
+  {
+    "file": "assets/25cbc79caefb70b07c3e.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Caligraphic-Regular.07ef19e7.ttf",
+    "bytes": 12344
+  },
+  {
+    "file": "assets/c231a100f6a75f307a43.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Caligraphic-Regular.55fac258.woff2",
+    "bytes": 6908
+  },
+  {
+    "file": "assets/1d12c8c7f8a96e294921.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Caligraphic-Regular.dad44a7f.woff",
+    "bytes": 7656
+  },
+  {
+    "file": "assets/c86c2b8525b4e751f90a.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Fraktur-Bold.9f256b85.woff",
+    "bytes": 13296
+  },
+  {
+    "file": "assets/1412de23540bf5d04fe5.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Fraktur-Bold.b18f59e1.ttf",
+    "bytes": 19584
+  },
+  {
+    "file": "assets/418905c8b2157c5b3f09.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Fraktur-Bold.d42a5579.woff2",
+    "bytes": 11348
+  },
+  {
+    "file": "assets/8116e6b7d2822e041039.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Fraktur-Regular.7c187121.woff",
+    "bytes": 13208
+  },
+  {
+    "file": "assets/077d08bec2fb2878e177.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Fraktur-Regular.d3c882a6.woff2",
+    "bytes": 11316
+  },
+  {
+    "file": "assets/59982a5c205cf7719430.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Fraktur-Regular.ed38e79f.ttf",
+    "bytes": 19572
+  },
+  {
+    "file": "assets/e54234ab2ac6759294e3.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Bold.b74a1a8b.ttf",
+    "bytes": 51336
+  },
+  {
+    "file": "assets/63720c35428f79d321d6.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Bold.c3fb5ac2.woff2",
+    "bytes": 25324
+  },
+  {
+    "file": "assets/9b3bd6cd5f502be5d6e9.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Bold.d181c465.woff",
+    "bytes": 29912
+  },
+  {
+    "file": "assets/22c67552b1ff070c36c2.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-BoldItalic.6f2bb1df.woff2",
+    "bytes": 16780
+  },
+  {
+    "file": "assets/ba84bc3e6c08b7d30b85.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-BoldItalic.70d8b0a5.ttf",
+    "bytes": 32968
+  },
+  {
+    "file": "assets/beb833a01a0c9cfe46d5.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-BoldItalic.e3f82f9d.woff",
+    "bytes": 19412
+  },
+  {
+    "file": "assets/951978b3f7c5bd5bc8b3.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Italic.47373d1e.ttf",
+    "bytes": 33580
+  },
+  {
+    "file": "assets/a43c7a26ec46dc8e19a1.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Italic.8916142b.woff2",
+    "bytes": 16988
+  },
+  {
+    "file": "assets/2b323f5bba76edbe8e12.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Italic.9024d815.woff",
+    "bytes": 19676
+  },
+  {
+    "file": "assets/32ad96c90fe84be067df.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Regular.0462f03b.woff2",
+    "bytes": 26272
+  },
+  {
+    "file": "assets/2a0723bb43c50817df80.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Regular.7f51fe03.woff",
+    "bytes": 30772
+  },
+  {
+    "file": "assets/392e5a1987037b4c5460.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Regular.b7f8fe9b.ttf",
+    "bytes": 53580
+  },
+  {
+    "file": "assets/a01aa2b908d25b0724a3.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Math-BoldItalic.572d331f.woff2",
+    "bytes": 16400
+  },
+  {
+    "file": "assets/b1d7a435e0f481bccd2a.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Math-BoldItalic.a879cf83.ttf",
+    "bytes": 31196
+  },
+  {
+    "file": "assets/4dd57770b6ff4264212f.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Math-BoldItalic.f1035d8d.woff",
+    "bytes": 18668
+  },
+  {
+    "file": "assets/76dea87f8430fd4c56dd.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Math-Italic.5295ba48.woff",
+    "bytes": 18748
+  },
+  {
+    "file": "assets/6dbc0f743145638f35aa.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Math-Italic.939bc644.ttf",
+    "bytes": 31308
+  },
+  {
+    "file": "assets/8925e61b0a71775d2fd7.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Math-Italic.f28c23ac.woff2",
+    "bytes": 16440
+  },
+  {
+    "file": "assets/f03ad3f0f1bbdf66197e.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Bold.8c5b5494.woff2",
+    "bytes": 12216
+  },
+  {
+    "file": "assets/eb6d92bcbc068c432f73.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Bold.94e1e8dc.ttf",
+    "bytes": 24504
+  },
+  {
+    "file": "assets/23a32cabcb3c7425f0d0.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Bold.bf59d231.woff",
+    "bytes": 14408
+  },
+  {
+    "file": "assets/06d47700a4acaa199110.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Italic.3b1e59b3.woff2",
+    "bytes": 12028
+  },
+  {
+    "file": "assets/90c84d361ec253ba5c36.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Italic.7c9bc82b.woff",
+    "bytes": 14112
+  },
+  {
+    "file": "assets/6cae6f7735295a79076e.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Italic.b4c20c84.ttf",
+    "bytes": 22364
+  },
+  {
+    "file": "assets/46bad539a526acc3a8c2.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Regular.74048478.woff",
+    "bytes": 12316
+  },
+  {
+    "file": "assets/072f3f43e5a37b28c9e8.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Regular.ba21ed5f.woff2",
+    "bytes": 10344
+  },
+  {
+    "file": "assets/f4eb12e7b9e629802bfd.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Regular.d4d7ba48.ttf",
+    "bytes": 19436
+  },
+  {
+    "file": "assets/4dd99e2781fb25422ff5.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Script-Regular.03e9641d.woff2",
+    "bytes": 9644
+  },
+  {
+    "file": "assets/a2f41dd418b540d55dc4.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Script-Regular.07505710.woff",
+    "bytes": 10588
+  },
+  {
+    "file": "assets/06e652347188fa8bd384.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Script-Regular.fe9cbbe1.ttf",
+    "bytes": 16648
+  },
+  {
+    "file": "assets/7a8ff62efddb3f38d1f2.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size1-Regular.e1e279cb.woff",
+    "bytes": 6496
+  },
+  {
+    "file": "assets/f482ad8a422e336bc1c3.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size1-Regular.eae34984.woff2",
+    "bytes": 5468
+  },
+  {
+    "file": "assets/d4883607b8012cdca3c3.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size1-Regular.fabc004a.ttf",
+    "bytes": 12228
+  },
+  {
+    "file": "assets/5522f6504d1614177bdb.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size2-Regular.57727022.woff",
+    "bytes": 6188
+  },
+  {
+    "file": "assets/fab1e788486a23bd4fa8.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size2-Regular.5916a24f.woff2",
+    "bytes": 5208
+  },
+  {
+    "file": "assets/4c84f4dcefe507dba295.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size2-Regular.d6b476ec.ttf",
+    "bytes": 11508
+  },
+  {
+    "file": "assets/b1ab69fd0780f21e6c31.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size3-Regular.9acaf01c.woff",
+    "bytes": 4420
+  },
+  {
+    "file": "assets/bce53c0d63275d29c8e2.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size3-Regular.a144ef58.ttf",
+    "bytes": 7588
+  },
+  {
+    "file": "assets/ab39dad5945b15038bf1.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size3-Regular.b4230e7e.woff2",
+    "bytes": 3624
+  },
+  {
+    "file": "assets/8d1504641beb2e8435d1.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size4-Regular.10d95fd3.woff2",
+    "bytes": 4928
+  },
+  {
+    "file": "assets/c16e733247e604b993b9.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size4-Regular.7a996c9d.woff",
+    "bytes": 5980
+  },
+  {
+    "file": "assets/dbf93e121989821e4fbe.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size4-Regular.fbccdabe.ttf",
+    "bytes": 10364
+  },
+  {
+    "file": "assets/45f1e9a49cfb7fe69590.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Typewriter-Regular.6258592b.woff",
+    "bytes": 16028
+  },
+  {
+    "file": "assets/e55de0041a497ba3b26e.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Typewriter-Regular.a8709e36.woff2",
+    "bytes": 13568
+  },
+  {
+    "file": "assets/d5137db9bc0370fb3f87.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Typewriter-Regular.d97aaf4a.ttf",
+    "bytes": 27556
+  },
+  {
+    "file": "assets/542a53cb8599dd0bc8dc.otf",
+    "source": "https://www.codedex.io/_next/static/media/dogica.8c4894b8.otf",
+    "bytes": 34256
+  },
+  {
+    "file": "assets/6b0678155c72801764f0.mp3",
+    "source": "https://www.codedex.io/audio/codedex_pronunciation.mp3",
+    "bytes": 4904
+  },
+  {
+    "file": "assets/748dada8b1ecf4da7a32.ttf",
+    "source": "https://www.codedex.io/fonts/empire/empire7h.ttf",
+    "bytes": 52597
+  },
+  {
+    "file": "assets/98fa2a0c8b660d76f4ac.ttf",
+    "source": "https://www.codedex.io/fonts/empire/empire7p.ttf",
+    "bytes": 52597
+  },
+  {
+    "file": "assets/459a635480c4eea6e506.ttf",
+    "source": "https://www.codedex.io/fonts/empire/empire9h.ttf",
+    "bytes": 52597
+  },
+  {
+    "file": "assets/35311f2730b83033f64d.ttf",
+    "source": "https://www.codedex.io/fonts/empire/empire9p.ttf",
+    "bytes": 52597
+  },
+  {
+    "file": "assets/08efb7ecd790400f53a8.woff2",
+    "source": "https://www.codedex.io/fonts/pixelgrid-squareboldm.woff2",
+    "bytes": 11492
+  },
+  {
+    "file": "assets/54d0c38b17b4340b36ba.woff2",
+    "source": "https://www.codedex.io/fonts/pixelgrid-squarebolds.woff2",
+    "bytes": 11568
+  },
+  {
+    "file": "assets/54339c80a79fc3d93168.woff2",
+    "source": "https://www.codedex.io/fonts/pixelgrid-squareboldxl.woff2",
+    "bytes": 19100
+  },
+  {
+    "file": "assets/be7f3113d93f6a6c4ea3.png",
+    "source": "https://www.codedex.io/images/apple-touch-icon.png",
+    "bytes": 14540
+  },
+  {
+    "file": "assets/72bd3dcf783740e569af.png",
+    "source": "https://www.codedex.io/images/badges/c-sharp/arrays.png",
+    "bytes": 346
+  },
+  {
+    "file": "assets/91af32e93393adea5480.png",
+    "source": "https://www.codedex.io/images/badges/c-sharp/classes-and-objects.png",
+    "bytes": 349
+  },
+  {
+    "file": "assets/6f6f6ac0ec90f6298356.png",
+    "source": "https://www.codedex.io/images/badges/c-sharp/hello-world.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/9288d8b44f79cf1ac972.png",
+    "source": "https://www.codedex.io/images/badges/c-sharp/loops.png",
+    "bytes": 368
+  },
+  {
+    "file": "assets/ae66a82292e3723836cb.png",
+    "source": "https://www.codedex.io/images/badges/c-sharp/methods.png",
+    "bytes": 293
+  },
+  {
+    "file": "assets/cfef1ee1d220cb59dd25.png",
+    "source": "https://www.codedex.io/images/badges/c-sharp/variables.png",
+    "bytes": 350
+  },
+  {
+    "file": "assets/1e2d472d44fff0e32092.png",
+    "source": "https://www.codedex.io/images/badges/data-structures-and-algorithms/introduction.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/5c80479cfbf809fc867f.png",
+    "source": "https://www.codedex.io/images/badges/data-structures-and-algorithms/list-algorithms.png",
+    "bytes": 349
+  },
+  {
+    "file": "assets/7881b92a2b56a3986906.png",
+    "source": "https://www.codedex.io/images/badges/lua/control-flow-and-loops.png",
+    "bytes": 350
+  },
+  {
+    "file": "assets/05fe71d7217b65f22448.png",
+    "source": "https://www.codedex.io/images/badges/lua/objects.png",
+    "bytes": 368
+  },
+  {
+    "file": "assets/3d4651f047b59caef310.png",
+    "source": "https://www.codedex.io/images/badges/lua/ola-lua.png",
+    "bytes": 509
+  },
+  {
+    "file": "assets/13ab2bb71212747ae353.png",
+    "source": "https://www.codedex.io/images/badges/lua/tables-and-functions.png",
+    "bytes": 372
+  },
+  {
+    "file": "assets/8b9351c1b8154537b24e.png",
+    "source": "https://www.codedex.io/images/badges/ui-ux-design/design-as-problem-solving.png",
+    "bytes": 415
+  },
+  {
+    "file": "assets/d939b13ac6627b8f001b.png",
+    "source": "https://www.codedex.io/images/badges/ui-ux-design/the-world-of-design.png",
+    "bytes": 345
+  },
+  {
+    "file": "assets/d9fb0412dbadda1f1691.svg",
+    "source": "https://www.codedex.io/images/courses/white-arrow-svg.svg",
+    "bytes": 252
+  },
+  {
+    "file": "assets/aedc83783a1ee7ddaaab.png",
+    "source": "https://www.codedex.io/images/favicon.png",
+    "bytes": 8110
+  },
+  {
+    "file": "assets/aa3bf994c54427eba738.svg",
+    "source": "https://www.codedex.io/images/favicon.svg",
+    "bytes": 18330
+  },
+  {
+    "file": "assets/a9b1885e29cb6dafecf8.png",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Mountain.png",
+    "bytes": 3094
+  },
+  {
+    "file": "assets/006be1b09a9660a7c34a.png",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Sky.png",
+    "bytes": 2432
+  }
+]

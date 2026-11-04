@@ -1,0 +1,19 @@
+{
+  "name": "nebulis-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs dist",
+    "test": "node --test tests/*.test.mjs",
+    "test:e2e": "node tests/browser.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "playwright": "1.54.2"
+  }
+}

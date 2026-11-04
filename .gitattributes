@@ -1,0 +1,3 @@
+src/pages/** -whitespace linguist-generated=true
+public/assets/** -whitespace linguist-vendored=true
+public/vendor/** -whitespace linguist-vendored=true

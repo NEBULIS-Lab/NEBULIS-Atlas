@@ -1,0 +1,5007 @@
+{
+  "tool": "rea-agents",
+  "version": "6.8.0",
+  "target": "https://www.codedex.io/",
+  "evidence_id": "ev_da14ecab278ea4e205f46b7fa199471db3b1b91518233869a7c086f4b2f05c52",
+  "source_manifest_sha256": "de5512170b9b2f6a6a103b4a8ff12758c498459ebb5ef32c42d95761d465aa99",
+  "completeness": {
+    "status": "partial",
+    "parsed_scripts": 15,
+    "parse_failures": 0,
+    "visited_ast_nodes": 618373
+  },
+  "statistics": {
+    "sources_seen": 16,
+    "sources_retained": 16,
+    "route_patterns": 364,
+    "occurrences": 648,
+    "unanchored_literals_excluded": 442
+  },
+  "coverage": {
+    "scope": "provided-code-sources",
+    "source_parsing": "partial",
+    "candidate_enumeration": "partial",
+    "application_routes": "unknown"
+  },
+  "sources": [
+    {
+      "id": "jss:f732a25d7be710c27ecfbe5d3c15c52b",
+      "key": "scr_0eef44d520894b68790e24c7c8ea90f76c285012b59ee801d083e429b41e89b8",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/d2094a0f-0a8da592d338d9d6.js",
+      "sha256": "e8caa104e265ce635a13cba6950426ec81c7955e05512dce70edbbeaebb33aa0",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:099d1bcb3f3073c890e1f0ed8fe1477f",
+      "key": "scr_2102b94d4cda49e4f2de0a041234d75ba3f26d9c7f58d0bdd4d285b07ee732e5",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/4153-8d26a42888c15c00.js",
+      "sha256": "f8171ba02b6d47e14ae532ff8aec47f64bc75105b9e54e033338caab5995ea63",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:11a1755a0a053d8fec4132438f8b0138",
+      "key": "scr_251ccfa1125724d04d9f060dc92e978e5e3a7ad49457e17d250bc2cae4264abe",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/jpYIh4XLBaTAyErMx2Nki/_ssgManifest.js",
+      "sha256": "b4cd3136b8c46ad8312b30a6163958e14266c488db1299aa788d857130899e56",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:d2d0c04c4f4d6c1d1b49f0b10ee273c4",
+      "key": "scr_2e7a28053e391ad58ba2927a66856ea4dac6b1003cd1293bb46dbfa3ee65f8fe",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/3037-4a3679989fe55176.js",
+      "sha256": "7347f63ee7bcf6de57e2d2214302618c4c88ad2984a24baf0ab22246c9717d14",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:bd1756124a8aaa9535e5b4447ce8335c",
+      "key": "scr_3da2c05d891d771b0561c10b2519eeb74be9e65964c9f8c3413f42b40e0077f6",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/9566-2af1476382664844.js",
+      "sha256": "6c5c8422487eb8f68f48c3659db07ac528e26385b6521f7acbafc7a6c1cd2bec",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:fa3c19aab312e522da561bbad2f9989a",
+      "key": "scr_41e7cc3c8e9955119749c2b4154a1043c245364b43e4e08538e2c8c553cf3484",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/framework-60bf45134ade75bd.js",
+      "sha256": "30105b157f4489bafc0a73ed7344db860f97106e6eb5acfb8f6d1d2268b1003e",
+      "container_sha256": null,
+      "status": "unavailable",
+      "reported_route_capacity": null,
+      "reason": "deadline",
+      "base_path": null
+    },
+    {
+      "id": "jss:a1daf8bd83420478841a54fd534e30f6",
+      "key": "scr_4cee6fc0b47c20225979f83bb12d2e6d393f5a7665ff4bbcf9fed9537b3b6048",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/pages/index-07f8e2f6942a4f89.js",
+      "sha256": "ccd9b7a90a14a57692cf92f80ca4558fea870e0692c4d0faadedaa381f66fa71",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:a0ac213ff203a5ed4c6fed0d4609577e",
+      "key": "scr_5ef70ed7d906e4a69a9e72811c75e9a96a09c8b683b03afcac95c2aa4d6090db",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/6961-41340959258f9779.js",
+      "sha256": "907daf621a8e41c2cf75bb5dd38f7f1b98ae9a2e9aed4d9c7fbedc7a19d4e028",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:10e3d83211e85efc5fc138d3243b0ee2",
+      "key": "scr_87e6d7cc44fff1b34ed9dd9f5311f81b995d1cde12c38c4cb00fa300a470e3ef",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/main-fb05c5ce56499bfb.js",
+      "sha256": "8af22b1d82a4e91d40cb885e259077f76ede5939f86aec61f662f93afe9abaf6",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:a5055a9b98a1a19c6c1f0062ac334884",
+      "key": "scr_9b48c21990d8f9339785e159c0c212786346a63bfb2e801591124c5f06484113",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/webpack-0cd999aeac58ecba.js",
+      "sha256": "d16882e9918f1f79bc0e853c1b0466cc99c080d263599754daffa77dd60bd474",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:036590e1e5b0fb9cf6c9564efbe1be4c",
+      "key": "scr_bf7af948dbdb4bc95c623d898890d4b70ad996371338dcf0115faaab3e7d2616",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/pages/_app-2d8510419c1983e9.js",
+      "sha256": "231f5c7290190ea035558010cc4cd18be72e3fbd60a8a0774725c2c7a3139038",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:3229eaf83d946cbc35074cb71e0f22da",
+      "key": "scr_d322c3c741b4c24c02d2612eb0235dae2994db75665168f1fa9edb65392c14c1",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/jpYIh4XLBaTAyErMx2Nki/_buildManifest.js",
+      "sha256": "ff60c102e9757fe06ebd5da0ce629308bd031c8f6fe8a1d185e3d39f9c6f1d85",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:45d9f6157d08263a91b78d8908d8e803",
+      "key": "scr_d8a48bf33d4eb213e9217bc7b6c52508a4678f9ea6333e81b329918ba3c30cf4",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/1622-87dcc4f7db117507.js",
+      "sha256": "4967743b2ae6b5102cc12a3ed6d0997fe1448f5b010016e5cae97741ba79396b",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:db4e3149d3f584029401e196e673d922",
+      "key": "scr_de8fd18e94b2e452f259cc9f5d7a8147d5ecde705a71eb59fd869913f898fa1a",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/d3048c20-600004235a1e1a88.js",
+      "sha256": "a6743e517c73c7e237cede201c498f18175fff0eefcbf58c390280bd8797179e",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:022e8dad721a41d02c5c457f4512a27a",
+      "key": "scr_f1e28aadb6c3b10fa23447d7aae03acb2fb3a15dee1795830eb765a98d2dae5e",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/5459-eb8692f6862b910a.js",
+      "sha256": "a0033fcf28855027b510f0dce23d66951d1fb30029474e76a453963a89ab3670",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    },
+    {
+      "id": "jss:3591b3fffe57159be05b7e6704cdf701",
+      "key": "scr_f9fc14cd05b9cef45636f41749ffb6e04fb6608ede89aa6465e9874e642e45e8",
+      "path": null,
+      "url": "https://www.codedex.io/_next/static/chunks/4025-d7174ce5f539344c.js",
+      "sha256": "c982fa985d94ca075c02973dc73ab0b9d91b3b7fd55f0b70e1d46de642c2237f",
+      "container_sha256": null,
+      "status": "complete",
+      "reported_route_capacity": null,
+      "reason": null,
+      "base_path": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "jsr:d60cf282742bb410c6d8c61ff51cc46f",
+      "path": "/@vickydavinci",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:479cb576bfd2176d689ba93a226935cc"
+    },
+    {
+      "id": "jsr:baa8c79bd258790237774637932d98ff",
+      "path": "/account",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 7,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:117f0a39b1f70ef61b6b8a0fbcdd70bd"
+    },
+    {
+      "id": "jsr:ea5cfce0fa136481230beb7139942dfe",
+      "path": "/builds",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 4,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:746229b42eab8994e5d4744dc5f97a09"
+    },
+    {
+      "id": "jsr:6b1f1eaf62f2e9d4444261427579f982",
+      "path": "/community",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 18,
+      "source_count": 3,
+      "primary_occurrence_id": "jso:0866b4d5c8480f5eb2999066eb5c1e08"
+    },
+    {
+      "id": "jsr:c86f56b0d8a094e992a62cde8c6965d0",
+      "path": "/community/",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 12,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:2a333c40e946a8d8b4bbc0225877eeee"
+    },
+    {
+      "id": "jsr:9c57f53d57bca9151309589116902e3e",
+      "path": "/community/30-nites-of-code",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:730d566f1652033e11e9ed6f84908dc9"
+    },
+    {
+      "id": "jsr:b533a0887da6109495ba450941cf541f",
+      "path": "/community/leaderboards",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0c2d1db604837d42ca84626ee2fe0567"
+    },
+    {
+      "id": "jsr:06b9e69353afe5a337a40bab08ff5c1e",
+      "path": "/community/main/",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0cda9e1c87424b2aeef32b1e6c4ccf68"
+    },
+    {
+      "id": "jsr:a3fd0487fec78c3d69a02ca8e85470aa",
+      "path": "/community/monthly-challenge",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:9d229dc9cce439b7f2339ef8ac2bf749"
+    },
+    {
+      "id": "jsr:79f7de45da4d6a45225bcdcb5809f98e",
+      "path": "/community/monthly-challenge/:challengeid+",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:caba9ff4380be9226a0dc2eacc929d07"
+    },
+    {
+      "id": "jsr:670e28b6bd1d0d577c191770d7525b0f",
+      "path": "/community/monthly-challenge/submission/",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0630eddf1da5770fddff90b22ddedb15"
+    },
+    {
+      "id": "jsr:251d5a59da49701d7a6988e801c70a19",
+      "path": "/community/project-showcase",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7cfa6fb71ab0b31663bb076ab445654f"
+    },
+    {
+      "id": "jsr:9d3f6875193f00077f1fca91391805eb",
+      "path": "/community/project-showcase/:tag",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:05809811aea1f020de3aede507297e44"
+    },
+    {
+      "id": "jsr:666a5ba8d5e6070ee0a5a5bcd717f226",
+      "path": "/community/project-showcase/YZxxGgzCyQMiTuJ9yX3k",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:615ecdd8aa86d688ce221ad0970ac377"
+    },
+    {
+      "id": "jsr:13f862bc0eb3fae9bd3c2585972b9795",
+      "path": "/community/python",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:555e64e94566750d3c151f733016980a"
+    },
+    {
+      "id": "jsr:6d69fa9eaa3cdc5ef3a1ce7a337b182f",
+      "path": "/community/web-dev",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:b189542c670f214a3465f0bb66f6510c"
+    },
+    {
+      "id": "jsr:53f980946f8d54c25d8c0e593c5ccedc",
+      "path": "/courses",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 7,
+      "source_count": 3,
+      "primary_occurrence_id": "jso:0a98a3feaf0133a62e843e52d16727b0"
+    },
+    {
+      "id": "jsr:ded02e13e21368de5f43b11bed2d56fd",
+      "path": "/css",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 8,
+      "source_count": 3,
+      "primary_occurrence_id": "jso:0466154aeac6824e0c6065e7d15b7c6f"
+    },
+    {
+      "id": "jsr:b5d6730dcbd4fea03044df71a772e9ab",
+      "path": "/css/:challenge+",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:4315b69097c8b77f767dc7d27483151d"
+    },
+    {
+      "id": "jsr:268eff3260f8044683ef5a25633cc3f4",
+      "path": "/css/bonus/pseudo-classes-in-css",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1cd0c7d34f70b842bb939a4c66a99913"
+    },
+    {
+      "id": "jsr:d700495e1eff0ff36f7ec53f5554af34",
+      "path": "/css/bonus/pseudo-elements-in-css",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7a685bc310f8fafbc8824e2322b013a6"
+    },
+    {
+      "id": "jsr:ca9c4636b91fde488b79b82644b29bbc",
+      "path": "/daily-challenge",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:3a58f792e18fd270ba78c2a1adbab7a4"
+    },
+    {
+      "id": "jsr:beacc5ba8a6ee2f1eab23fe781907b0d",
+      "path": "/educators",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:92958dd0d6e70adb86dfbc7b601d86ba"
+    },
+    {
+      "id": "jsr:b428466e8905d87a4cefdd1d49a947e3",
+      "path": "/fonts/Hack-Regular.ttf",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:07e6a69ef1638048a11a53587a7c2f97"
+    },
+    {
+      "id": "jsr:ab3ea3375656ce491cd840c125c3f1a5",
+      "path": "/fonts/pixelgrid-squareboldm.woff",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:b6472fb60860e6ce02cb76e5d5409989"
+    },
+    {
+      "id": "jsr:0f350ecdc95c83b89938f9b4532d6160",
+      "path": "/fonts/pixelgrid-squarebolds.woff",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:e32ac7b5d33fd92ffec7fc9590fb179e"
+    },
+    {
+      "id": "jsr:a4ca5fff00251837ba17924e79264695",
+      "path": "/fonts/pixelgrid-squareboldxl.woff",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1dbc7a1a0176b08ecd8273b794d02b7e"
+    },
+    {
+      "id": "jsr:afc1ce8a73a14ad32dce3c3568935db2",
+      "path": "/html",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 10,
+      "source_count": 3,
+      "primary_occurrence_id": "jso:1a237b331914f93c8eb962c679357942"
+    },
+    {
+      "id": "jsr:51fbe30f713fb604ad9e4587a324be9e",
+      "path": "/html/:challenge+",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:9e92fc0e688b40cce59fc14b312fe03f"
+    },
+    {
+      "id": "jsr:ca8a1d22b69b96c8fa0b070ee634d586",
+      "path": "/html/bonus/developer-tools",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6fd5a79e3afaeb1ecb2ef78c18224a05"
+    },
+    {
+      "id": "jsr:0daa97663870c2c2aeea4129599713b0",
+      "path": "/images/alert-info-graphic.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:e8714c20098d61c0dca3eedb9998166a"
+    },
+    {
+      "id": "jsr:622350920fd706d8b7690c7478c090e6",
+      "path": "/images/apple-touch-icon.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 4,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5b18d4549eab22c6fa74e4ac09b8e724"
+    },
+    {
+      "id": "jsr:16d110ed5060a927e632927b804a4d17",
+      "path": "/images/badges/",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:c51665c4479cf6e5fa29f01ff86b8e18"
+    },
+    {
+      "id": "jsr:4734f693e35de2117782ef7586ad4c15",
+      "path": "/images/badges/assembly-club-2026.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:a11a9f3c40477bd0d8588f5e1814b7a9"
+    },
+    {
+      "id": "jsr:800973b295b8316655ea77eda1865189",
+      "path": "/images/badges/c-sharp/arrays.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:eeaffe078aaa828f712cebfbbd0d934c"
+    },
+    {
+      "id": "jsr:47786661172f68448113768221e9de12",
+      "path": "/images/badges/c-sharp/classes-and-objects.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:ab3873f8faf1bf21539845edccf25469"
+    },
+    {
+      "id": "jsr:9eab77f4a470f6b9e117b72ed1d2e8ae",
+      "path": "/images/badges/c-sharp/control-flow.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d8ff1187e9192c450ab264925ab1bf24"
+    },
+    {
+      "id": "jsr:c016ecc4a8ae2b78a792d5b01c2cc216",
+      "path": "/images/badges/c-sharp/methods.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:72d369e00fd1a03b8cb5e622d1bdde23"
+    },
+    {
+      "id": "jsr:1b59aa9357af8dd1bd99934726f83210",
+      "path": "/images/badges/campus-tour-2025.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1109860ae42a79f6560f8da4b4bd0581"
+    },
+    {
+      "id": "jsr:2e09f7c27e8673ab3e111052a35eb810",
+      "path": "/images/badges/campus-tour.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:e8ee48a044dd9312a693970182fc0b76"
+    },
+    {
+      "id": "jsr:25c115116afe42c336f3a05077e09e94",
+      "path": "/images/badges/club-for-life/club-for-life.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:10490becacc2b62d388543d5e238d31c"
+    },
+    {
+      "id": "jsr:bcfa438d61d5052e735a3e54e99f5d56",
+      "path": "/images/badges/command-line/manipulation.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:9cd4952592902e1cfd4426072be8472d"
+    },
+    {
+      "id": "jsr:73965451e195284b12d050dc4913a31f",
+      "path": "/images/badges/command-line/navigation.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:22b0377f6d5ce84bac09632a4a5a8178"
+    },
+    {
+      "id": "jsr:69b2c4cebdde78ca367388efdbcc8977",
+      "path": "/images/badges/community/100followers.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:33b7a3fc11ab2cb99d33420c4d62b557"
+    },
+    {
+      "id": "jsr:f35cf9116f4f78aea7579362243c9847",
+      "path": "/images/badges/community/butterfly.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:adfe6791802433f52a183987b0f1d6b1"
+    },
+    {
+      "id": "jsr:9af6e5d6c502e177b69f9ce26cb46f73",
+      "path": "/images/badges/community/challenge-accepted.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6316d5db3b88c4deef1f66e4ad71ac42"
+    },
+    {
+      "id": "jsr:b3c18250a2da446184672e44645de845",
+      "path": "/images/badges/community/cheerleader.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:e0a8a12e413d081c2ab4aee02fe93e7a"
+    },
+    {
+      "id": "jsr:990ee086fadaecc70da41d12b589c75f",
+      "path": "/images/badges/community/comment.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:afc1deca70be5d5e4431b74cb7594a0c"
+    },
+    {
+      "id": "jsr:8fc95533e64978bb5693acba71ae025e",
+      "path": "/images/badges/community/hello-world.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d99ef10cefe53a24bef562c7f7d96cd1"
+    },
+    {
+      "id": "jsr:19616bb5a3fd18ad5a9c201217c55a28",
+      "path": "/images/badges/community/icebreaker.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:c2406bf1f2261bf1b98810ab9088a144"
+    },
+    {
+      "id": "jsr:1df28e105289cfc281b2941b984a0bad",
+      "path": "/images/badges/community/internet-famous.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:df91a47c3e817370262c941a46276a76"
+    },
+    {
+      "id": "jsr:dc00268e4bf13cc24e7d01bf8d277ad2",
+      "path": "/images/badges/community/likes.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:cb9163b7c04ed139d4ff67e334ec20ed"
+    },
+    {
+      "id": "jsr:a9004477d69c144c6dd9342d99e310b6",
+      "path": "/images/badges/community/main-character.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:414ee5bc1d490e2de05e051423a39e12"
+    },
+    {
+      "id": "jsr:1f9edb8b960bf38779fa556c8f79fa2d",
+      "path": "/images/badges/community/monthly-challenge-winner.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5619d483db5873fedc8f794e2f5f1607"
+    },
+    {
+      "id": "jsr:c77ede026544ce26f49d774e19d94300",
+      "path": "/images/badges/community/networkbuilder.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:f85c8bb301391c8f4eba54666f415e44"
+    },
+    {
+      "id": "jsr:eb5714235fe255f23d5a269b865d3248",
+      "path": "/images/badges/community/newbie.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:abaadaa6b982475a5b1878162e65c53f"
+    },
+    {
+      "id": "jsr:fcf7123bc0facbc335b73ce59e2fbd7c",
+      "path": "/images/badges/community/two-cents.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:efe8615651fd064f19caf5b8deaad158"
+    },
+    {
+      "id": "jsr:0767e4695f0f87b69377921f12ad7aac",
+      "path": "/images/badges/community/yapper.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:114ee11c0a9f3cd99e201ab7504b2f72"
+    },
+    {
+      "id": "jsr:c9cc5f9ebd138b41c4122f033bec3954",
+      "path": "/images/badges/css/box-model.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5d2d3a4d8990601e1785a24c7989c053"
+    },
+    {
+      "id": "jsr:bfe7ba0b4ff5cedbe8e6d695eb9039b8",
+      "path": "/images/badges/css/flexbox.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:932a24254d07e2cb2f6d4d57c7688200"
+    },
+    {
+      "id": "jsr:22e6853141180728c167ad82c392e4cb",
+      "path": "/images/badges/css/layout.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:00849cbaaec613d2ce27377bcdf443e7"
+    },
+    {
+      "id": "jsr:9c09e2b1835f7888ab15ffa2daf9eef3",
+      "path": "/images/badges/css/properties.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6946201bca4799a8dd4770b27e7d883e"
+    },
+    {
+      "id": "jsr:d3e1671b30d6a35c58791b6bdcfa8d29",
+      "path": "/images/badges/css/selectors.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1bf93a54978c6f670c2f7a4504595042"
+    },
+    {
+      "id": "jsr:66c9a42ac9c54abcc1e2e2144e4a4427",
+      "path": "/images/badges/earthBadge.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:af93f25e0b63c8ac292853124cbba2b6"
+    },
+    {
+      "id": "jsr:7b0874918883aff735ab3e8da8554d9b",
+      "path": "/images/badges/earth_badge.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 56,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:041977f61ec039db1aeb4cf529189388"
+    },
+    {
+      "id": "jsr:eb6de975d29f8403b02bbb4a89653f5b",
+      "path": "/images/badges/gen-ai/how-ai-thinks.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:c743b3ccbe9de6bea996621b746ed3b3"
+    },
+    {
+      "id": "jsr:ca63f3e16d5fbfba55597dba9868e1c1",
+      "path": "/images/badges/gen-ai/prompt-engineering.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:b421f290bcd45d58e88808859518832d"
+    },
+    {
+      "id": "jsr:bb11635f2459b6e4cc9fd01b218ac34a",
+      "path": "/images/badges/git-github/exploring-repos.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:cb04d5b1235c8006bcadc53ad98ba187"
+    },
+    {
+      "id": "jsr:535cca8d32dce5cd8627738f36bd81b2",
+      "path": "/images/badges/git-github/your-first-repo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:b4067087e9fd55da8d3490909150da59"
+    },
+    {
+      "id": "jsr:834428113de89e2c05636bc11b2573ea",
+      "path": "/images/badges/goldenCourseBadges/command-line.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:aa0a976ab4d8290e5b4646ed6390440c"
+    },
+    {
+      "id": "jsr:7be59091340898665717e58f166d3b74",
+      "path": "/images/badges/goldenCourseBadges/cpp.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:36a55d665dcc296001d23e472cd01eb8"
+    },
+    {
+      "id": "jsr:666a97de45f3b1708018515188cfc439",
+      "path": "/images/badges/goldenCourseBadges/css.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:ea2c8842c23d32ba6bb71e71168296f8"
+    },
+    {
+      "id": "jsr:cb94744c25d464520f1d50764a6f53d6",
+      "path": "/images/badges/goldenCourseBadges/gen-ai.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:4ffcacdea5c682cd748f36e257e2718d"
+    },
+    {
+      "id": "jsr:407feb623e168c8a4410e1f57deb48b3",
+      "path": "/images/badges/goldenCourseBadges/github-copilot.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:a1725137a63e9dbe8b27aa086f15e145"
+    },
+    {
+      "id": "jsr:512bdbb8ffb48efee429004ddf0c8f71",
+      "path": "/images/badges/goldenCourseBadges/github.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7e7244283de91beb81ac55f9953edb0b"
+    },
+    {
+      "id": "jsr:ba96b1ac76c4daeebbaf58174be71430",
+      "path": "/images/badges/goldenCourseBadges/golden-trophy-badge.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:724bd76d402b237e85759f9570b099f5"
+    },
+    {
+      "id": "jsr:02052e9c3221cd96eed3e05d5f71dc79",
+      "path": "/images/badges/goldenCourseBadges/html.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:26376bfd27ccd801a6ee5443d8eca04f"
+    },
+    {
+      "id": "jsr:5638432adf13bcc98088e163a1d45939",
+      "path": "/images/badges/goldenCourseBadges/int-java.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:25f2630027b2a8dad2c02061fd386d4e"
+    },
+    {
+      "id": "jsr:f62f9028f47a40e5978149706c08b0e3",
+      "path": "/images/badges/goldenCourseBadges/int-js.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:9f99c7f0e0ef199029eef8e649061d8c"
+    },
+    {
+      "id": "jsr:2349c731c4ac99f2bc4ce83e951d7f6f",
+      "path": "/images/badges/goldenCourseBadges/int-python.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:49a120fca29de0342cb46f763c442115"
+    },
+    {
+      "id": "jsr:22cb9a04a55135952c782213bc58c53a",
+      "path": "/images/badges/goldenCourseBadges/java.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:74d10820ad8104382480312a3288e6c1"
+    },
+    {
+      "id": "jsr:9754ddd137f6d10a9e46c42803232da9",
+      "path": "/images/badges/goldenCourseBadges/js.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:e23c3b7bba0b0f7590b1ac0bfa55357d"
+    },
+    {
+      "id": "jsr:307356351461d07a869b937a9c726182",
+      "path": "/images/badges/goldenCourseBadges/lua.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d078f64653635b55c730eb7d241d5159"
+    },
+    {
+      "id": "jsr:2abcaef12d684627d332a12a4f6d3f49",
+      "path": "/images/badges/goldenCourseBadges/matplotlib.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0ca910e7f8742acc398f1a954afe4903"
+    },
+    {
+      "id": "jsr:036b9b151f0f3cc67fdb50838cf1c46d",
+      "path": "/images/badges/goldenCourseBadges/node.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:413df40d08238194cb13868c4893b47d"
+    },
+    {
+      "id": "jsr:e7ef5a438875caa06d1dc6184b153826",
+      "path": "/images/badges/goldenCourseBadges/numpy.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0c04d666d491cde1aa5ed6721ceda921"
+    },
+    {
+      "id": "jsr:1e08fec8c8be5631eba48b9fa5be6e80",
+      "path": "/images/badges/goldenCourseBadges/pandas.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:78fba98d0e3fcc2c120b0f241bf35448"
+    },
+    {
+      "id": "jsr:5a7666d36b510c0f94ef61aea2d7ddf8",
+      "path": "/images/badges/goldenCourseBadges/phaser.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5d646520750d7ce99394adfa0cad73cf"
+    },
+    {
+      "id": "jsr:4b239abdcbc1ebc09c115604cd899913",
+      "path": "/images/badges/goldenCourseBadges/python.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:56d89d899b62e41459b442e8a005f978"
+    },
+    {
+      "id": "jsr:2f548970431f0c9d45c6391ad32fe486",
+      "path": "/images/badges/goldenCourseBadges/react.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:19cc04f87f7b1e8e2e938ed6721fcb63"
+    },
+    {
+      "id": "jsr:37bdf7147917c1c00332432c2d6c3a69",
+      "path": "/images/badges/goldenCourseBadges/sql.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:52715d7631e2e134c62b99f9d18871c1"
+    },
+    {
+      "id": "jsr:62dac0365c2ac666ddd8969c625f31f6",
+      "path": "/images/badges/haloBadge.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:ee36c7a765bcc19546195c52388be898"
+    },
+    {
+      "id": "jsr:c2e2a2f5fd903c4961bd091061ee431e",
+      "path": "/images/badges/html/elements.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:317dd141d52c82a8f2fdd535bf6696ad"
+    },
+    {
+      "id": "jsr:f4ff94ea057f76298ab14dc07a960498",
+      "path": "/images/badges/html/forms.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:11f0430927449eaceb37300a1a58dac1"
+    },
+    {
+      "id": "jsr:acf290d54e8fa94cc6f758ef6a723ec3",
+      "path": "/images/badges/html/semantic-html.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:c90de3a17362210dda0cd689e071c09f"
+    },
+    {
+      "id": "jsr:4f59543338cca8e746b906d727cdebd1",
+      "path": "/images/badges/html/structure.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5dee6b541686a23fcb175f902fe0a6d8"
+    },
+    {
+      "id": "jsr:c2f7c3a79dfc7cfe51ebb68355ab1ea7",
+      "path": "/images/badges/intermediate-javascript/async-js.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:e8561ce8ad2fbab5b178692035e02eff"
+    },
+    {
+      "id": "jsr:6568b7bd06f55fc0af7ef7b7e1fc91af",
+      "path": "/images/badges/intermediate-python/data-structures.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6b4d63f8cf657c331218631dbcbe8998"
+    },
+    {
+      "id": "jsr:356663a87ccf72b916e40d53b9996536",
+      "path": "/images/badges/intermediate-python/file-and-error-handling.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:171ae94e7c89e158afa3f13df3a61e41"
+    },
+    {
+      "id": "jsr:527b9be8e420c2234ef9882b8a7f0dca",
+      "path": "/images/badges/intermediate-python/functional-programming.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:534e3404069121682009f78c08ec781e"
+    },
+    {
+      "id": "jsr:3fec7917e6c9f4bc4e37eb514c2da87a",
+      "path": "/images/badges/intermediate-python/testing.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:440a08dcb0b435c3164c0f8b0e186b3d"
+    },
+    {
+      "id": "jsr:2cbff059f65c04113a0813724d99e5fa",
+      "path": "/images/badges/java/arrays.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:760b6a04dcf2755270745092800206aa"
+    },
+    {
+      "id": "jsr:7d936b0b25de503990692a0a6f1a5a8e",
+      "path": "/images/badges/java/loops.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:9fabe68f125b7f183a460d7123b0161d"
+    },
+    {
+      "id": "jsr:5796f0d13b70b23d9ed8c96c327c5969",
+      "path": "/images/badges/javascript/conditionals.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:f1bda9c133babe8946ebfe74f1cde714"
+    },
+    {
+      "id": "jsr:4cd1772fa136ebd3b8ece4b6e3499186",
+      "path": "/images/badges/matplotlib/and-beyond.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d74560419c118911f84cd85cd23eab95"
+    },
+    {
+      "id": "jsr:95a75501e74326e9228d5f9b4b1b631b",
+      "path": "/images/badges/matplotlib/line-plots.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:242519cc1c17449724620a08c3590170"
+    },
+    {
+      "id": "jsr:1948f9f63502600eb390ef1b7794fa2f",
+      "path": "/images/badges/memoryBadge.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:e6e5d6c24df74a2fd7b00d3c1723601d"
+    },
+    {
+      "id": "jsr:ebfa8afc423454b53a3584efeb3d9246",
+      "path": "/images/badges/mini-holiday-hackathon-2024/mini-holiday-hackathon-hacker.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:ab54fe3b8affff4946685cf9016b3e53"
+    },
+    {
+      "id": "jsr:f02d9da74c29e132e56fdd3d06597ea4",
+      "path": "/images/badges/mini-holiday-hackathon-2024/mini-holiday-hackathon-winner.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:75a3e7555393ede89690862158c152e0"
+    },
+    {
+      "id": "jsr:78f06dd0522a2a957cdd1f8cfb5b2e9a",
+      "path": "/images/badges/puzzleBadge.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d141455446bcfcc4d8cb31496aa4bbcb"
+    },
+    {
+      "id": "jsr:c38afb69990cc47c98f153180ee83e72",
+      "path": "/images/badges/python-badgecards/filesBadge.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:141c79a8163eb53c8c1cd5a070402e21"
+    },
+    {
+      "id": "jsr:da2798624f2a214d18b5bf607929e4cf",
+      "path": "/images/badges/python-badgecards/rubyBadge.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:126271711f66e85bc76e4881343f382d"
+    },
+    {
+      "id": "jsr:57d962b88f9d424321a575a9a94aa1fe",
+      "path": "/images/badges/python/classes-and-objects.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:70ec03f35599dda5e3dad184909daa92"
+    },
+    {
+      "id": "jsr:617404475e577f5b7d013c6dcddc1099",
+      "path": "/images/badges/python/control-flow.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:4c9eddfdd52ead4ae735c4064cd97310"
+    },
+    {
+      "id": "jsr:6665993775b4bbd679be61d8ed6560e1",
+      "path": "/images/badges/python/functions.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:24908c398eab7eac98f68b0478a94fa7"
+    },
+    {
+      "id": "jsr:04880d8e969de0fbb8faef87c1bc798b",
+      "path": "/images/badges/python/hello-world.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:707876c6376cf52b4cd2c17129c2ec29"
+    },
+    {
+      "id": "jsr:f73edf6ead7c208ee000fed69bb19690",
+      "path": "/images/badges/python/lists.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:16e503b9e2ab662d7ee0dcec101d233b"
+    },
+    {
+      "id": "jsr:ca42c755a469037439c25f621bcc6493",
+      "path": "/images/badges/python/loops.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0cae45de61d4967057d147924faa4fb1"
+    },
+    {
+      "id": "jsr:e49f30175f0f72c5c74ac8d7ce63925d",
+      "path": "/images/badges/python/modules.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1fbac40812eed213d266bf8397fd8010"
+    },
+    {
+      "id": "jsr:4d74c734c9f8e32c607c5fbbb5fb6250",
+      "path": "/images/badges/python/variables.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:c442346133179b8fb8e197c1c0d3364b"
+    },
+    {
+      "id": "jsr:92c6c87f36970dfccc93156e293a8c1c",
+      "path": "/images/badges/roadBadge.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:4608008a9af672f947df88ced626b764"
+    },
+    {
+      "id": "jsr:81ef5511009c7fb1f8c90207363d222f",
+      "path": "/images/badges/sequenceBadge.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5ef246e29a04234386da84903cdc5615"
+    },
+    {
+      "id": "jsr:f6302f3e083fa4dcdf3c1d9e2d114eb8",
+      "path": "/images/badges/summer-hackathon-2024/summer-2024-hackathon-hacker.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:233204008ac8c2831d238db324e038d9"
+    },
+    {
+      "id": "jsr:b8a837f8128f8f61715b12962670124b",
+      "path": "/images/badges/summer-hackathon-2024/summer-2024-hackathon-winner.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:cbd76b051126c25a408b4319e5ada17a"
+    },
+    {
+      "id": "jsr:04a9e5161153a733ce2a4f4a7d1dfe73",
+      "path": "/images/banners/custom-phaser.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:21320b0848bd7feb77b2139d495b59f2"
+    },
+    {
+      "id": "jsr:26d26eb07d45f8f0a3ff309cf2dca3cc",
+      "path": "/images/boy.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:43eb69079cf39e01e4c7fcdba9bf338f"
+    },
+    {
+      "id": "jsr:79634e8576e555cc3a1531b3ed13f679",
+      "path": "/images/brand/bot/bouncingbot.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:4813f967c5af1b03b0d41153ec073fe7"
+    },
+    {
+      "id": "jsr:792d2c4d1e2a091924600452a1deebe9",
+      "path": "/images/brand/bot/jinglebot.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:2edd33e0d0203254f52eac4244a27192"
+    },
+    {
+      "id": "jsr:e86d2a8f1507d76aeb3c5b5c6b6d45d8",
+      "path": "/images/brand/bot/sleepybot.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:36d2fabc4bbf6b3c403f1a7623d5b5fd"
+    },
+    {
+      "id": "jsr:a5d0420e5b59d67980ff9ed0ce9ba826",
+      "path": "/images/brand/bot/spookybots.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7a93dfbeec1c95ce31480b28dd23ff98"
+    },
+    {
+      "id": "jsr:fdba6e0de9f8efc9e8e050d4f3b032f3",
+      "path": "/images/brand/bot/valentinesbot.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7ca1f77009722247bd465954a390f4a6"
+    },
+    {
+      "id": "jsr:4a8820ccd25ca44409bb876641dd81f7",
+      "path": "/images/challenge_packs/textures/easy_texture.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:aa1c780dc7925694bc5653ca348be8fe"
+    },
+    {
+      "id": "jsr:732ec9d939ff6c6c880fc263d8ae86ea",
+      "path": "/images/challenge_packs/textures/hard_texture.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:ea9f392d1adcf52c1fb58493933e07cf"
+    },
+    {
+      "id": "jsr:9e525fe66f243819e02c3d45d490fedd",
+      "path": "/images/challenge_packs/textures/medium_texture.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:9ace663448be6a313263853633e1daae"
+    },
+    {
+      "id": "jsr:d870306c29789cadbe41b731055c5666",
+      "path": "/images/character_gifs/6wYeoCS.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:ebf39f4268c98ce3b4b70905727d73a5"
+    },
+    {
+      "id": "jsr:bd5218f8a8ac924704498954ba5d2c2a",
+      "path": "/images/character_gifs/Ai30sjf.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:24429419d3e8306e6781585ee1a03721"
+    },
+    {
+      "id": "jsr:fc5b7b23c5a976e90618d12fff5264bf",
+      "path": "/images/character_gifs/battle-cropped.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:41a7e89c6a0bd06d247343f4bb247c01"
+    },
+    {
+      "id": "jsr:14a738a018f31929810cd6e2ee37b5dc",
+      "path": "/images/character_gifs/battle.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:65137553a66245d024fa65896c3821c9"
+    },
+    {
+      "id": "jsr:01e7d27eeeaf39bf7998f95b38fe8584",
+      "path": "/images/character_gifs/club-feedback.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6eb3770fdab9b098ff8c1c844c7726cd"
+    },
+    {
+      "id": "jsr:0f66695f86c816081571ead179771ee0",
+      "path": "/images/character_gifs/dZ7Qu9K.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0945bfdd170ff1b28b63ce3dc2655428"
+    },
+    {
+      "id": "jsr:5a5a5fdcf2cb39dbd72261cdb1334e76",
+      "path": "/images/character_gifs/qOSmiVc.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:64ebdc2416d7a3e48d383ab8cf42641a"
+    },
+    {
+      "id": "jsr:c7a10940e01bb958f5e50541c284b6f3",
+      "path": "/images/character_gifs/rock-paper-scissors.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5114b217088df1dfcf94192a6b205b71"
+    },
+    {
+      "id": "jsr:044fd50b32a8eed26cf9dd3de8e18a19",
+      "path": "/images/character_gifs/search.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:3193f02f2723d3d7d1a9238385cac979"
+    },
+    {
+      "id": "jsr:b0d6e3b22d703bfe9860ad3d1fce2cc4",
+      "path": "/images/character_gifs/tekmLsi.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:8c87299fee23026e07f284a0c6fc7366"
+    },
+    {
+      "id": "jsr:f5f1343dc7b38f8b64ba5f25984ca39f",
+      "path": "/images/character_gifs/wMCUVlB.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:9d3985054728953673a273688a07123b"
+    },
+    {
+      "id": "jsr:eab6717028e1e894fe8f3fb483f15895",
+      "path": "/images/character_gifs/winners.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:009086e4a3ec8f275bbff2463fd4ebd7"
+    },
+    {
+      "id": "jsr:4bd6b44c6bc6ce9b79eb17841046b19b",
+      "path": "/images/code-nights/apple.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:63a7a4f4c60a72cd568d34f44c40ec50"
+    },
+    {
+      "id": "jsr:0238a76fad619c3afc40a79ea35f2553",
+      "path": "/images/code-nights/dinosaur.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:fc424564beda6584850e37b0dbc8d5d6"
+    },
+    {
+      "id": "jsr:9eb0ae5cc3187a092f94b44714f0b259",
+      "path": "/images/code-nights/dragon.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d06f586d09f4c1278978fcf646978ab0"
+    },
+    {
+      "id": "jsr:d83d0086aeb182300b80f5ad1ec11961",
+      "path": "/images/code-nights/duck.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:bffebe3f49ce4ad72487507009b124ba"
+    },
+    {
+      "id": "jsr:2517b229b20b01c5a11a6870cf35199a",
+      "path": "/images/coin-cropped.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:64230b4aeda9e7033d74c5b76cdf85e1"
+    },
+    {
+      "id": "jsr:01fa2188c3705084cf22db84cc3e0325",
+      "path": "/images/community/loader.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:33974732ef5c37d13bd70ae332e04720"
+    },
+    {
+      "id": "jsr:57d7fa4be913a75c7037158b8d22eb5e",
+      "path": "/images/courses/articleScreenshots/cpp.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6fc6ccf1110001b565dda812ae9011e2"
+    },
+    {
+      "id": "jsr:d658d0c800d32bbea19bd40815f8d5ec",
+      "path": "/images/courses/articleScreenshots/create-a-react-app-with-vite.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1e6498f70ab783eed71dce26d8f8f78a"
+    },
+    {
+      "id": "jsr:3088da5e3ab96705048f59e44001fd84",
+      "path": "/images/courses/articleScreenshots/css-pseudo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d3a43170a3d52f011834315f7690b109"
+    },
+    {
+      "id": "jsr:9201d7e4a693ced985412588da8e5c29",
+      "path": "/images/courses/articleScreenshots/css-psuedo-classes.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:8377b126ed8d7dc168e7ffa0e376711e"
+    },
+    {
+      "id": "jsr:359261417c077b80b8ada96a5c21a69d",
+      "path": "/images/courses/articleScreenshots/decorators-and-generators.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:12345d0edcd80ddc1339410bbf38e288"
+    },
+    {
+      "id": "jsr:508891f850ab8f048442ca56465b6a59",
+      "path": "/images/courses/articleScreenshots/errors-in-js.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:fc8da78f5b5ddcbd975118b04c447130"
+    },
+    {
+      "id": "jsr:6b0a45ccd2bfcbaf6323397942761455",
+      "path": "/images/courses/articleScreenshots/errors-in-python.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:921e619de9c0c5123e45e69b5604ac29"
+    },
+    {
+      "id": "jsr:bcfae021b36405252a00b309e7c7ab11",
+      "path": "/images/courses/articleScreenshots/food-ratings.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0036029cfa0e60339232e9ea0e7f7875"
+    },
+    {
+      "id": "jsr:553ee7bf5765745deb8fe1133bcfb09c",
+      "path": "/images/courses/articleScreenshots/html-developer-tools.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1dae8e4026593479eb0a85a0970197ab"
+    },
+    {
+      "id": "jsr:d823ee66c24d6a71b246414ade81bfbd",
+      "path": "/images/courses/articleScreenshots/intro-to-lambda.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:f83811c246349b9ff05e4b479a1bef3f"
+    },
+    {
+      "id": "jsr:87f86e0198ce06f9222a5212659c238d",
+      "path": "/images/courses/articleScreenshots/js-arrow-functions.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d0f8c2cc3e2de9de25315414881ce6e2"
+    },
+    {
+      "id": "jsr:638be97c011825f2821b18011bb9e2ba",
+      "path": "/images/courses/articleScreenshots/js-in-the-browser.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0d43e5bc38714d609c2b6f7a712e31bf"
+    },
+    {
+      "id": "jsr:be510604c7131848a7c62a79e88db7b9",
+      "path": "/images/courses/articleScreenshots/js-loops.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:c0dde6ea4c723591661d35cef1ade397"
+    },
+    {
+      "id": "jsr:cf2377310c559b5ce67131cf39b72c54",
+      "path": "/images/courses/articleScreenshots/js-nested-if.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:249edc53a3d553f7b827c13ae23ee4b0"
+    },
+    {
+      "id": "jsr:2ddd5e69a92329eed08589d341f383e8",
+      "path": "/images/courses/articleScreenshots/js-ternary.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:75a4120288e49ed71b1f10c9c24f5568"
+    },
+    {
+      "id": "jsr:d4fa1019790d78f04f4e9bddd3667211",
+      "path": "/images/courses/articleScreenshots/kda-functions.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:9f590717eb27377707369787e043bcf8"
+    },
+    {
+      "id": "jsr:db4874020f6f0e68c92648c5584503b5",
+      "path": "/images/courses/articleScreenshots/nested-if-python.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:8e7f70bf9a5a793847d4bfe2e41f9099"
+    },
+    {
+      "id": "jsr:4d267f8a9654169493541a0e4e9ffb27",
+      "path": "/images/courses/articleScreenshots/python-countdown.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:521ab14488f743412305b3a15be056e1"
+    },
+    {
+      "id": "jsr:deb0ccb48b3681f0a7f591adb7895356",
+      "path": "/images/courses/articleScreenshots/python-list.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:3b7494af5f5541b72faacc118dc721f3"
+    },
+    {
+      "id": "jsr:d4c89822001cf4ed0262a758e43b7135",
+      "path": "/images/courses/articleScreenshots/python-nested-lists.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:bc1c1a05f24b89f1b76f04d1a0807ea6"
+    },
+    {
+      "id": "jsr:faae63400c211185ad4d7b180f433b75",
+      "path": "/images/courses/articleScreenshots/python-nested-loops.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:ac70235410f4e6a4fa73e6e626480b61"
+    },
+    {
+      "id": "jsr:74d7d254afce6e0bea01068d1ff110a9",
+      "path": "/images/courses/articleScreenshots/react-usenavigate.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:4e8cdf58c7ada8a548eca80d581b54cb"
+    },
+    {
+      "id": "jsr:2846d89e8b30ae6a95763f0d3223f1bb",
+      "path": "/images/courses/articleScreenshots/setup-local-env.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:02851d720580c5449795e68386aa22d5"
+    },
+    {
+      "id": "jsr:d981545370d52c182bc0dd3857c17e89",
+      "path": "/images/courses/articleScreenshots/sql-bonus.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7ee645acd12f90f90a050a293ccd2ca2"
+    },
+    {
+      "id": "jsr:70d526e377c329336134bec8cbfbe986",
+      "path": "/images/courses/articleScreenshots/sql-cte.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:58e83c4781a0c25c0f5c2b3cb6e73486"
+    },
+    {
+      "id": "jsr:d6cc13041158fe86a6a089443fea3e7b",
+      "path": "/images/courses/articleScreenshots/useref-article.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:78a3bc74ed9a1bdfa1a1ac1726a784a6"
+    },
+    {
+      "id": "jsr:dfe5d69dd23ef673400f609b00691e07",
+      "path": "/images/courses/cpp-logo.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:b15d29705657e2cbbeb56462bfa6d1bb"
+    },
+    {
+      "id": "jsr:bfe27a833e5ad1b0c8ba27617269b487",
+      "path": "/images/courses/csharp-logo.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:2e4b549b6670ce4e265ec313d64a3078"
+    },
+    {
+      "id": "jsr:306c89ea378b744740245b9bdb544e8c",
+      "path": "/images/courses/dsabanner.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:c0e45738c1737ccdffc395a863ecf595"
+    },
+    {
+      "id": "jsr:92bbf158215e6d20dd38a0de65e926f6",
+      "path": "/images/courses/github-copilots.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:267d31d93b12c2ac8f61a0f9ca32d43d"
+    },
+    {
+      "id": "jsr:548ed429cd49f0f3f55ad65c05169d4c",
+      "path": "/images/courses/lightbulb.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:560e5121df2d69c2825a7be50b65dd9b"
+    },
+    {
+      "id": "jsr:bda0db9c20e56e5108bef1f98b1a2fdb",
+      "path": "/images/courses/lua-banner.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7e30354f94a27b538a778c7230e8016a"
+    },
+    {
+      "id": "jsr:a4f17032a3236e5e2ddd22f102e01562",
+      "path": "/images/courses/nodejsbannerseo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:db48a5718897efd623c2ecd18d610e89"
+    },
+    {
+      "id": "jsr:be40ab27bb4e9b99de05edbe960720d8",
+      "path": "/images/csharp/charp.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:82b5e4a43e64ffed404e20fedf99c4b4"
+    },
+    {
+      "id": "jsr:54a30028ae901cd26be298d85e91ca92",
+      "path": "/images/css/banner.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:9ab779885c7288a67f7f5c2e8f695324"
+    },
+    {
+      "id": "jsr:66d16d3976bd5cf02fc58cc83e1a28dc",
+      "path": "/images/css/css-course-banner.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:be8214d91391ede12b2dee5c194cabea"
+    },
+    {
+      "id": "jsr:291d22b8b8d9f8f75bca2d7814c52fba",
+      "path": "/images/default-profile-pic.jpg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 4,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:507b40bdb3c9f6248c2eb5331964c99c"
+    },
+    {
+      "id": "jsr:26fafdb79a21477ced9ee41845cb58b9",
+      "path": "/images/editor/cpp-grid.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1821548aa73a1b53880b7fba0a6ebf3c"
+    },
+    {
+      "id": "jsr:2290740ba830f04f9032fbbfedf879aa",
+      "path": "/images/editor/cpp-pixel-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d10013c09b3bdb4c681a3d6b3e66b26a"
+    },
+    {
+      "id": "jsr:20e5a02a2bdd88cb4e9a5c536bf37391",
+      "path": "/images/editor/csharp-pixel-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:68bec887ac13f636ca0ea916dcef1033"
+    },
+    {
+      "id": "jsr:c7ecf960b066729e68b7ee35b33cfb1a",
+      "path": "/images/editor/css-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0a219f849bcc037db1598cb08683976c"
+    },
+    {
+      "id": "jsr:afe6bf9c06807aaf3cad6469a5b29628",
+      "path": "/images/editor/html-grid.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6ba776060884fd8a73bf7c727e775e64"
+    },
+    {
+      "id": "jsr:0e421fbb23021e9510ce3b4b8832b383",
+      "path": "/images/editor/html-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:4df82702099ff774e56cffc7330d3a02"
+    },
+    {
+      "id": "jsr:24cbaba3cdad5cd6c382a32f72671915",
+      "path": "/images/editor/html-pixel-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:fa1c22d776b14042667c2b029919c004"
+    },
+    {
+      "id": "jsr:5b393de57f87c29e030b459c9fd85bee",
+      "path": "/images/editor/java-grid.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0cdcb64b310304767c752d2ba922b600"
+    },
+    {
+      "id": "jsr:1c54891f4be20df4ef663b4f28fd1bdb",
+      "path": "/images/editor/java-pixel-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:49f7ecd33819bf07e69ac006798cf530"
+    },
+    {
+      "id": "jsr:e88174e124444c87923a4502f91d67ac",
+      "path": "/images/editor/javascript-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:8cb5edb6ec42a8ba093591904f63d03c"
+    },
+    {
+      "id": "jsr:b46c6585a2211d5dd26fb5a09ab22437",
+      "path": "/images/editor/js-grid.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:29e481f054296358291d7575dd3adf15"
+    },
+    {
+      "id": "jsr:369351b3ea2b9a2d60a5c72b01caa8c0",
+      "path": "/images/editor/js-pixel-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:689912b3e82a4d98d0c501b6076be877"
+    },
+    {
+      "id": "jsr:e014e175bd7488e60db1750c3a491698",
+      "path": "/images/editor/lua.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:27877b1827ef6172fcbcf8a84f6ae5fd"
+    },
+    {
+      "id": "jsr:7ada53d7d0c354e558ffc4ac9cbb3a06",
+      "path": "/images/editor/python-grid.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0807b6768f6806e5105447a5fd9a23a3"
+    },
+    {
+      "id": "jsr:1bfbb1f8b959aa568b2d32523bde4695",
+      "path": "/images/editor/python-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:ac33f6867f1b48bf04f1c0ce2fcafca0"
+    },
+    {
+      "id": "jsr:a6af52891b23e47611394fa06c2c6076",
+      "path": "/images/editor/python-pixel-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:11e3adefe652b1162a834e84454edf38"
+    },
+    {
+      "id": "jsr:5682100e6098440fe60b6c0a8934d8ef",
+      "path": "/images/editor/react-icon-grid.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:dd0a0b9bf012a65225fe3a46214dc882"
+    },
+    {
+      "id": "jsr:64da804625d67fa05ee21f4980737a57",
+      "path": "/images/editor/react-icon.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:732c77d11fd4ee24a83e48c50613f215"
+    },
+    {
+      "id": "jsr:898ff131707aa1486b69c413f2901c72",
+      "path": "/images/editor/react-pixel-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:e9ca6c2862c23d0945865aa16eca82f4"
+    },
+    {
+      "id": "jsr:68fbfd35ac70544873fae994ff8ab973",
+      "path": "/images/editor/typescript-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:e1565a87fa26f3bb29c51ad07b50465b"
+    },
+    {
+      "id": "jsr:46d15adaa81484da52787a24bdb35d34",
+      "path": "/images/favicon.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 4,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6356c6d50cf7c15bcbc1c1de6de69329"
+    },
+    {
+      "id": "jsr:52e18aed37448ed7007b589144191ea7",
+      "path": "/images/favicon.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 4,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:09918908fe1e23654905d940f6f26b0f"
+    },
+    {
+      "id": "jsr:a56c05b5bd38439171cdf598a4993382",
+      "path": "/images/foxboy.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:234db2bd6c41340d956917a9e90d618c"
+    },
+    {
+      "id": "jsr:842bc30504bc06b2ff8c6f7ed563050d",
+      "path": "/images/foxgirl.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1709ba9c09eafcca8b46264b7f55cbdd"
+    },
+    {
+      "id": "jsr:dbfe2b345e88b66d6d80a2cdbdd119ca",
+      "path": "/images/framework-valley-react/banner.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:beefeb82be4b0ff1f2499d889f8e4576"
+    },
+    {
+      "id": "jsr:68b3627917ba7f860277076eb23ae6ce",
+      "path": "/images/gen-ai/genai-banner.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:edce6166715a9a0efdd6ad0a7f58a4dc"
+    },
+    {
+      "id": "jsr:5b8e9a3de3f4c207951033673bf15557",
+      "path": "/images/gen-z-builders-networking-nite-2026.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:eb016215011b2f6f3091238fd66904d6"
+    },
+    {
+      "id": "jsr:6ec35f282fa4594ce90702c08730f4fb",
+      "path": "/images/girl.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:11ae2cc1a49d80b378ff1784d0c3880b"
+    },
+    {
+      "id": "jsr:b99d4fe1ab1a4905dfe8eadd6b330558",
+      "path": "/images/homepage/LandingPage_Text.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:b62cdd978a42a482814e9ab69c800d1b"
+    },
+    {
+      "id": "jsr:5f3f96074e901147dc5fe3ab8c1ea804",
+      "path": "/images/homepage/chat-conversation.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:15eb4e0980fe4d0e8b09a8d64c3a7471"
+    },
+    {
+      "id": "jsr:36c47e8d340e8d1cda8b9d7a69e787e9",
+      "path": "/images/homepage/hearticon.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:8735fcaca588e0b4f29008bceb71f3df"
+    },
+    {
+      "id": "jsr:31deb17a9e08982fc841769bddbf8479",
+      "path": "/images/homepage/le-illustrations.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d0a3e30c62ffe23277b4d8f08edadf3f"
+    },
+    {
+      "id": "jsr:4ac9b801cba5751a6df554650ce7c4a5",
+      "path": "/images/homepage/minesweaper.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d4c3f25b3a0d1b9023f1931b563b0e03"
+    },
+    {
+      "id": "jsr:775cc7a307a3b56947377655e46aec04",
+      "path": "/images/homepage/minesweepers.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:c5f485ecc1cacb7a0833676de4db6cfb"
+    },
+    {
+      "id": "jsr:611144ab9398979b0106cce712615e71",
+      "path": "/images/homepage/s.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:fb979a7bedc9ca121010c97edeb3ea46"
+    },
+    {
+      "id": "jsr:56320efc9a9fdc9d90bed1d792a08e85",
+      "path": "/images/html-header.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:a020aea1fd4f3f8000808d63e5789bb4"
+    },
+    {
+      "id": "jsr:32075c0ad384355c1bcb2ae0e3a79afb",
+      "path": "/images/html/html-parralax-combined.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:e035923158681fe8cdbd2c29424cf901"
+    },
+    {
+      "id": "jsr:3615fb3f85786fc7697f4bb5a24f8de4",
+      "path": "/images/image-not-found.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:03ada779c27ca0df2205276a5f35e88c"
+    },
+    {
+      "id": "jsr:d827a22223dfb17083d63fb37a99673d",
+      "path": "/images/intermediate-java/intermediate-java-banner-image.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d06223989c6fc98151bb86d2a9628d68"
+    },
+    {
+      "id": "jsr:4fb90bee4c82d737d426271930dfb875",
+      "path": "/images/intermediate-python/intermediate-python.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:70763b993688b42a53ea865f969d9f3f"
+    },
+    {
+      "id": "jsr:a7ab329185992e0756deb66e71751401",
+      "path": "/images/java/java-banner-image.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:4790fafef8e395c76fe03ed74ff1d536"
+    },
+    {
+      "id": "jsr:ca5471c3bde8575cf8555a250d7b66e3",
+      "path": "/images/java/java_logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:60e0326f470e5247e8eef40cd2862ed4"
+    },
+    {
+      "id": "jsr:a1b91eb5c8f024ff8a54a23e62843112",
+      "path": "/images/javascript/javascript-course-banner.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d926f7c3b126750893f22c187de4cbb2"
+    },
+    {
+      "id": "jsr:f301f8f47886de9d14cd3aea70222669",
+      "path": "/images/lumi/lumi-idle.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1327a465c8b644976559c18adf5b4dea"
+    },
+    {
+      "id": "jsr:e918199175c4120bc5aee34c8d07b619",
+      "path": "/images/lumi/lumi-levitate.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:9f5fe2f27ea5d8cdc045429a1f805809"
+    },
+    {
+      "id": "jsr:4ce4739821b6527e28e199b95a68d160",
+      "path": "/images/lumi/lumi-still.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:57bc9dd4744aa10d7ff82f8289ddfdb5"
+    },
+    {
+      "id": "jsr:b0d497d2e913da1c77d83dc10af8bea1",
+      "path": "/images/machine-learning/machine-learning-header.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1631c917f649b6aaeb2cc7ddc6b4db0e"
+    },
+    {
+      "id": "jsr:d6628adcaa93ee5221c30270c71975c3",
+      "path": "/images/numpy/banner.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6a15be6fcbf2066c540afc73c833f98e"
+    },
+    {
+      "id": "jsr:c3b8838e1231adaa31388a4d910737eb",
+      "path": "/images/p5/p5courseimage.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:75fa7286f91213b4496f7227a6b3613e"
+    },
+    {
+      "id": "jsr:6a2ef4aece4dfc6dcf43b7b30e3219dd",
+      "path": "/images/payments/UPI-01.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:20ba435f0619b671b0dea2ae85878035"
+    },
+    {
+      "id": "jsr:a72ef1a3cf6e49b95ff3a21ca69b516f",
+      "path": "/images/payments/payment_success_card.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1152ed646c7e9549c1bb4c68712ecb0b"
+    },
+    {
+      "id": "jsr:f0e5baeaa0a6183644cc33f0ef24b86b",
+      "path": "/images/pop-ups/discord-unlock.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:f326ff3f009a38fa90cb556327436308"
+    },
+    {
+      "id": "jsr:3538dc632f1989cf2900b9d8bd773efb",
+      "path": "/images/pop-ups/paywall/blue-tick.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:468945a6dcea0fbe9888eaf34f4306b3"
+    },
+    {
+      "id": "jsr:fa9f4d3e6fcbd6c4944cd78fa4615d2b",
+      "path": "/images/pop-ups/paywall/tick.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7a19464c1ca7eb00809d269f9b26d07e"
+    },
+    {
+      "id": "jsr:deaca921595cc6127675082d139d0602",
+      "path": "/images/pricing/boy-working.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:405473069a56d84615913313408ca394"
+    },
+    {
+      "id": "jsr:693f56fd06ec5cc52b2f808356f9f163",
+      "path": "/images/pricing/girl-working.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:bb07798e32bd4eee6dff52df20ea634a"
+    },
+    {
+      "id": "jsr:1312bf83708f9b256aa673974f7a0681",
+      "path": "/images/projects/authors/Alexandre.jpg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:9b7e48c3db6b91f37468ea9e761fbe46"
+    },
+    {
+      "id": "jsr:52eb09579a95e2093bd19702c9e35a3c",
+      "path": "/images/projects/authors/ThousandthStar.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:070fa97ee75b909f78d588cd4f7f0ef4"
+    },
+    {
+      "id": "jsr:1669891fb3477e91cb671ce3d3c462eb",
+      "path": "/images/projects/authors/alex.jpeg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:a8beeeb578b1c1632d22efd3e95a071f"
+    },
+    {
+      "id": "jsr:68b7f2ffca841a23028a0920e277b758",
+      "path": "/images/projects/authors/ashutosh_krishna.jpg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:ba3920342d1423c83a6840ddad8d493a"
+    },
+    {
+      "id": "jsr:7ea3b08fa30258b9580472d3a79cef98",
+      "path": "/images/projects/authors/asiqur_rahman.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1441c0ffdb7a36b49f13ef955c6e2f16"
+    },
+    {
+      "id": "jsr:a9d044008da2bd5f3858624a0e164a01",
+      "path": "/images/projects/authors/brandon.jpg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:a39ea6193159aa71d368296ad12e18d0"
+    },
+    {
+      "id": "jsr:02cd93da9853d5f04d2926661c491a16",
+      "path": "/images/projects/authors/dana-lee.jpg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:acd2f12fd54ff3a3fa248ed1547f39da"
+    },
+    {
+      "id": "jsr:32de856e468b211a9ccc70c964474020",
+      "path": "/images/projects/authors/daniel-li.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:21dd61a34515177298196f442305da43"
+    },
+    {
+      "id": "jsr:ca42d51fb0c0e51f923ee03d3a115bbb",
+      "path": "/images/projects/authors/david-verghese.jpg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:cd7b9a9363f7f8b0c558b82d8e63feec"
+    },
+    {
+      "id": "jsr:acab53798e577b265cdfd06a789ffb18",
+      "path": "/images/projects/authors/dev-docs.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5c5ba3295af3757687e987798e5567da"
+    },
+    {
+      "id": "jsr:d80b5e0dda602dc7ad23dcfe91a5adee",
+      "path": "/images/projects/authors/dharma-jethva.jpg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:e282e247f8068a8f24881dbeb82085df"
+    },
+    {
+      "id": "jsr:8bbf7e9c53a3b1eefc83ef6ec64eba5d",
+      "path": "/images/projects/authors/ellie-popoca.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 8,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:02ddc3107835e844192dea9c1bfa0d01"
+    },
+    {
+      "id": "jsr:6a8bdc6ec28af011a5f39c9c2357fc38",
+      "path": "/images/projects/authors/grace-peters-chatgpt.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:f370566bf89e15550caf640b04689afa"
+    },
+    {
+      "id": "jsr:889acaef1baca7c619e102160f42926b",
+      "path": "/images/projects/authors/hong_jeon.jpg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:137578137b2e17b859c271bf95725ddb"
+    },
+    {
+      "id": "jsr:b0c524e8fe6893c88bbb0a702f070c83",
+      "path": "/images/projects/authors/jerry_zhu.jpg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0914c96f5e6316a63c1c1f8159822e5e"
+    },
+    {
+      "id": "jsr:42820ab10b4c1c4b016f8ebe4a4c381d",
+      "path": "/images/projects/authors/katherin_solis.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 3,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0ca5903f6a11422d0244b95f1ba4681e"
+    },
+    {
+      "id": "jsr:6150b55b3cd6e9dbc3d5b6b673c2f3de",
+      "path": "/images/projects/authors/michael-wiltfong.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5386dab1d736ae536790e8a70867555f"
+    },
+    {
+      "id": "jsr:0324d15118971e7ab26964a540b78909",
+      "path": "/images/projects/authors/miracle_awonuga.jpg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7d86895f06feace1cf6419df2b3c02a6"
+    },
+    {
+      "id": "jsr:87999cf416555ae8d5cbd4beec31e10b",
+      "path": "/images/projects/authors/olga_ivanova.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:a1985dbd64133983bf19a4b6fcd2ebee"
+    },
+    {
+      "id": "jsr:17a3d7a8e4fa9f6fcd30c39680e5c250",
+      "path": "/images/projects/authors/shadeira-nesmith.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:66d6e694c2e171af37373b21fd934d39"
+    },
+    {
+      "id": "jsr:bdb96f880a59fb485cd6609acb5e7d1f",
+      "path": "/images/projects/authors/sonny_avatar.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7cecb534306da5e8a63ea5d962a287af"
+    },
+    {
+      "id": "jsr:936bc8863147f34770b8e9eb32bd9af2",
+      "path": "/images/projects/authors/tara_tran.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1adc0368c61dab3d3e12106d87a23ed0"
+    },
+    {
+      "id": "jsr:3551ec5b62b031c956cdff6caec6d1f4",
+      "path": "/images/projects/card_images/50-terminal-project-ideas-with-python.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:e4c927d280cdf75d6e75efa30f857bed"
+    },
+    {
+      "id": "jsr:9ca6b7ae472c61a733ee4c6d7badb619",
+      "path": "/images/projects/card_images/add-easing-to-your-game-animations-with-phaser.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7788961d8f597386ead08afefd3676f8"
+    },
+    {
+      "id": "jsr:31531d5b3788251e9f24aebd7bf7bc88",
+      "path": "/images/projects/card_images/analyze-best-selling-books-with-pandas.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:2abbeebe33e496c11b238f34495e0ad4"
+    },
+    {
+      "id": "jsr:7bd4a689d1316b6f3c5e8c081dd2d201",
+      "path": "/images/projects/card_images/animate-html.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5441635a8898135833f1296467c2fa6a"
+    },
+    {
+      "id": "jsr:b8054bfe786e70528fcad3f5821622eb",
+      "path": "/images/projects/card_images/automate-secret-santa-emails-with-smtp.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:040b791d6bc9e85516d8ab05e88dfdca"
+    },
+    {
+      "id": "jsr:eac8984f921f71356e1cad67e5e8eb02",
+      "path": "/images/projects/card_images/build-a-discord-bot-with-python.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:45f81dd9b08b037484097c4f455b121e"
+    },
+    {
+      "id": "jsr:9c8bb465cdf1c242f7b6a1920525ad66",
+      "path": "/images/projects/card_images/build-a-flappy-bird-clone-with-phaser.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5813990f535b40b674724a6c7ed7c888"
+    },
+    {
+      "id": "jsr:8473b273224ef6d8927f67feea7b7041",
+      "path": "/images/projects/card_images/build-a-pomodoro-app-with-html-css-js.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5dbaa6711b324784764fb161d53d30d2"
+    },
+    {
+      "id": "jsr:656af4c617105df5c28e91ba231239db",
+      "path": "/images/projects/card_images/build-pong-with-pygame.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:44a256fda4ff4770e91a1c64e3f56355"
+    },
+    {
+      "id": "jsr:34001af0dd50d4fc9ce5a614c7d04caa",
+      "path": "/images/projects/card_images/chatapp-with-socket-io.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1bdb74d58e74b31a786f7685b47021e2"
+    },
+    {
+      "id": "jsr:2f41aa3f6a2ff510cd35cf3608da27f2",
+      "path": "/images/projects/card_images/cipher_project_card.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:fd003792d1a7f619d542eae6da70c5d4"
+    },
+    {
+      "id": "jsr:078e729afcd99637f4c7c1a1029fef04",
+      "path": "/images/projects/card_images/conversation-project-card.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:4f6a9936fecf1b482e7630373ee092ad"
+    },
+    {
+      "id": "jsr:3a1ca61d8d029bd1a807d6351ecb28d1",
+      "path": "/images/projects/card_images/convert-roman-numerals-with-python.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:c32b4e7d9c8cb6b646d262fad1ccb3f4"
+    },
+    {
+      "id": "jsr:c942690b4e3a86c1f49afc72ccd732a3",
+      "path": "/images/projects/card_images/create-a-gif-with-python.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7376b41aaec5b6926217b9c795254f49"
+    },
+    {
+      "id": "jsr:7b19aa501356e9c11ee0c18077a20c60",
+      "path": "/images/projects/card_images/create-a-to-do-list-app-with-html-css-js.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6560f13ab840406eb9a3ca3871115f3e"
+    },
+    {
+      "id": "jsr:25f50f4bb4acc74dc94ef4376fe9bf75",
+      "path": "/images/projects/card_images/create-a-voice-virtual-assistant-with-elevenlabs.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:77757d568efb9ebe86be86c03a141577"
+    },
+    {
+      "id": "jsr:023b191c394f98f112619d42abc6b7fa",
+      "path": "/images/projects/card_images/create-a-vr-solar-system-with-a-frame.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:ad3e76dfb64f28d1face5237e8a913a3"
+    },
+    {
+      "id": "jsr:bc86263ccedefd125f29d8f61e7ce056",
+      "path": "/images/projects/card_images/daniels-minecraft.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:922331744054c52deb6c9ea281ffed02"
+    },
+    {
+      "id": "jsr:f44318cd3c2aaa428d15de7540a19112",
+      "path": "/images/projects/card_images/debug-card.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0678cc8e2af29a1cf3315c80663e138a"
+    },
+    {
+      "id": "jsr:1cd558a398d1e187d9a8b1d6e04f4146",
+      "path": "/images/projects/card_images/deploy-vercel-project.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:3b6106523a1a155bdb7f5857c274359b"
+    },
+    {
+      "id": "jsr:103a31e1f6935a3c68eb768e290240fd",
+      "path": "/images/projects/card_images/detect-hotdog-with-hugging-face.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:4ec301126731caa414dc9745a0d28e68"
+    },
+    {
+      "id": "jsr:4f100ffb86c24103eac75f3a6e4480a6",
+      "path": "/images/projects/card_images/exa-ai.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:8eadd731de4c9891e162551a34192e41"
+    },
+    {
+      "id": "jsr:3fa52ed4f6f781389b557d3a59072ada",
+      "path": "/images/projects/card_images/fireworks-with-javascript-and-canvas.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0f62c5194d98f5c6cd8aed9010566815"
+    },
+    {
+      "id": "jsr:0b36012cff617e827ffb88de643f375a",
+      "path": "/images/projects/card_images/generate-a-blog-with-openai.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:60f2fd961bd5e97551dcbe935522b715"
+    },
+    {
+      "id": "jsr:0de044bd26a4fe4a1ed236042c709103",
+      "path": "/images/projects/card_images/generate-a-poem-with-google-gemini.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:f2243573f8d9aeb75bb57cbf45d94b3b"
+    },
+    {
+      "id": "jsr:16ae77504d1b9a6547ca6469776b867f",
+      "path": "/images/projects/card_images/generate-a-qr-code-with-python.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5e8dd1007464c2baf0bf0e4d7c5eed44"
+    },
+    {
+      "id": "jsr:0a75f2a6ce61f47c13cc5037a93a8c1d",
+      "path": "/images/projects/card_images/get-started-with-love2d-and-lua.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:bdf000b2f90d66ae28325558c5851ebd"
+    },
+    {
+      "id": "jsr:db1dd4cfc36288f0122f797c59ae06ec",
+      "path": "/images/projects/card_images/get-started-with-roblox-studio-and-lua.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7eea1370ee235fadbeca9a3b61743953"
+    },
+    {
+      "id": "jsr:83a528648e071503755dfbe90de29161",
+      "path": "/images/projects/card_images/google-maps-thumbnail.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:2442b1b2017ee6e409c859c124230fcb"
+    },
+    {
+      "id": "jsr:2d152db48712e98aaee0543cfdbc49fe",
+      "path": "/images/projects/card_images/gui_project_card.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:ea1c28e9d54088f1ced57600d934fa44"
+    },
+    {
+      "id": "jsr:b8423c74fe3efb2403da0e428951034e",
+      "path": "/images/projects/card_images/htmlanimate.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:98d5ad01e7953bb88ca422d53be0c9f0"
+    },
+    {
+      "id": "jsr:121d3e005cec37ebbf5339dbb4bb80ef",
+      "path": "/images/projects/card_images/linear-regression.jpg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:f0311d13b4345dbfba0cab68a774f5d7"
+    },
+    {
+      "id": "jsr:0c4259493e242a3d5f60962adc467c4d",
+      "path": "/images/projects/card_images/local-html.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:9e040e4e3fe23ce6ba66668791252a3c"
+    },
+    {
+      "id": "jsr:a89252c58d9e0f3bc50907f8782fd986",
+      "path": "/images/projects/card_images/make-a-bg3-mod-with-lua.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5eee16cc0fa888ce32cdcfd4699dbeb5"
+    },
+    {
+      "id": "jsr:60d212b8da7823c7f86a225e3499d3f2",
+      "path": "/images/projects/card_images/make-a-github-profile-readme.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:212982fb0db6a91f51777e92b8f6f4c7"
+    },
+    {
+      "id": "jsr:6b0fc90819dacddc09f2775cb92e29c6",
+      "path": "/images/projects/card_images/nearest-model.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7f687b260e2eff71850eccc5a7569ec7"
+    },
+    {
+      "id": "jsr:0e279c26e208019976dfe27f1f7f5853",
+      "path": "/images/projects/card_images/p5.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1b9bd4358eef7ba8f5a5409df90fbf41"
+    },
+    {
+      "id": "jsr:4280860505712dcff02e6ce762b6aa85",
+      "path": "/images/projects/card_images/publish-vite.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:07a43fd7e1d77db8d14da71fa408f27e"
+    },
+    {
+      "id": "jsr:ef2598eb1d89a9af7d78872ecca23af1",
+      "path": "/images/projects/card_images/scipy.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:95d5d9c441fb8ad106c5f11bc0f52cc8"
+    },
+    {
+      "id": "jsr:5163efe6c77ceca72c77386f1dc7e91b",
+      "path": "/images/projects/card_images/set-up-local-dev-environment-with-python.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0f5bd7d80d6086985f7873c02a522ca1"
+    },
+    {
+      "id": "jsr:2ee5544314ebde1229d5eec49f822aa5",
+      "path": "/images/projects/card_images/spotify.jpg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:bfb3dc60322345cd4269523de20614d2"
+    },
+    {
+      "id": "jsr:a0ca564bb2d597a6b5718a32e5ffa600",
+      "path": "/images/projects/card_images/tictactoe.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:4834010177050a53e1e6a08119ff8c02"
+    },
+    {
+      "id": "jsr:c28b0a136407ebec7f0e21c0d6cd4b74",
+      "path": "/images/projects/card_images/view-weather-with-html-css-js.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:3d80a7e26af316373bdfdcafcbdd081b"
+    },
+    {
+      "id": "jsr:da32280b289a91fb464d99c88a2e2820",
+      "path": "/images/projects/card_images/visualize-youtube-data-with-plotly.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d71b2918181fc085698b901cd4f80c85"
+    },
+    {
+      "id": "jsr:f819b43f5e7ff4569f7c58107e7e1982",
+      "path": "/images/projects/card_images/web-scrape-amazon-with-beautiful-soup.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:a57082ee3d36abc35025e757f3c3bc5a"
+    },
+    {
+      "id": "jsr:b2e6983cf2cb2cab7b0052ca9b9adde9",
+      "path": "/images/projects/card_images/word-game.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d27c7fa5548f78eb7f2784a7ac1aba6c"
+    },
+    {
+      "id": "jsr:f262c4e41bfb7ebba23922cf5cc7d265",
+      "path": "/images/python/nav-paython-image.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:1e66ddec2ec6a92cb771bb2a5ce9bf34"
+    },
+    {
+      "id": "jsr:795bb5626f19291b721ddf35ebd9a09f",
+      "path": "/images/python/python-animated.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:b2c5b4a15a5f93876d86497451a7569e"
+    },
+    {
+      "id": "jsr:5c03468f71517519a30f42310b405873",
+      "path": "/images/rank_badges/level_1.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 5,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:3331c5b2a68da7f3d930dbaf39bc9240"
+    },
+    {
+      "id": "jsr:a300f25791905c36b002b9d2cb9176a1",
+      "path": "/images/rank_badges/level_2.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 5,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:15678e58ad11632a8cf7a0ff22b6ab1d"
+    },
+    {
+      "id": "jsr:926056cdcae32c0ab8a9705cd76b6d3e",
+      "path": "/images/rank_badges/level_3.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 5,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:004964e9b94085c4ac7578bb2b99127f"
+    },
+    {
+      "id": "jsr:e1a08097283a7ddfcdf8dbce203ce3f3",
+      "path": "/images/rank_badges/level_4.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 5,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:278950d63b0cecba3f1d0e668db0d253"
+    },
+    {
+      "id": "jsr:690123afd03fb744c46fe6c1124e47f6",
+      "path": "/images/rank_badges/level_5.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 10,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:031fb1681cea3f7697a49504e33ccffd"
+    },
+    {
+      "id": "jsr:cd9af4834bec863e6e7885345c0d3881",
+      "path": "/images/robot.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:3c1729d06b362316ae7230c4adc40da2"
+    },
+    {
+      "id": "jsr:880377a37dcf5cc4751d6d2907c9ee76",
+      "path": "/images/school_logos/Deloitte_1.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:11ffd5c0d0dae5da42e34b6b5ac95ccd"
+    },
+    {
+      "id": "jsr:e08355a6868d9f4c9af99035e4f70f59",
+      "path": "/images/school_logos/MIT_logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7082d8481c1f62974b701447c5bf6fd1"
+    },
+    {
+      "id": "jsr:80b8e331e865ed53cbd641a95f28e69e",
+      "path": "/images/school_logos/Sullivan.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:22fd47cdcf7f47d729a3351594e14aea"
+    },
+    {
+      "id": "jsr:d788410f04c713f9b639be1483bdc191",
+      "path": "/images/school_logos/amd-logo.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:bfabf66291e70c45902bdc707ef0985e"
+    },
+    {
+      "id": "jsr:c1603e7f936404af0b8b97dfab87cae2",
+      "path": "/images/school_logos/apple_logo_grey.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d5efc8e5dbc01661f6020963763a6b2b"
+    },
+    {
+      "id": "jsr:f77b251579d441488dbeacdedd7a72c2",
+      "path": "/images/school_logos/blackcsta.webp",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0b90f8fba0125183a91d7a0b30d3a39d"
+    },
+    {
+      "id": "jsr:168b6cfca2f061ef9bbf0127b90dbe4f",
+      "path": "/images/school_logos/blackdeliote.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d6c2b744253b6e8cb812bac27f3b97a0"
+    },
+    {
+      "id": "jsr:a84ecf382c06e86a17d91cf37a439f10",
+      "path": "/images/school_logos/columbia-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:671fe1c25b7ba9bc13ddea2acc83a24c"
+    },
+    {
+      "id": "jsr:0dcb78c34c208aa614d942bac4a4f841",
+      "path": "/images/school_logos/csforall-logo.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6ebc4b531854f9925443e03a772808bc"
+    },
+    {
+      "id": "jsr:afc4519a945c530f573d1b59ab943fd2",
+      "path": "/images/school_logos/csta-white-removebg-preview.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:8b30b689c978e3f22846a42c5f25fec0"
+    },
+    {
+      "id": "jsr:8e0ccce5492cb74ec69ba2e28d6eb23c",
+      "path": "/images/school_logos/divhacks-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:4a7f04036b856802e92b6450f73b3565"
+    },
+    {
+      "id": "jsr:e6df7711d8aa757402e55461100b6c4d",
+      "path": "/images/school_logos/hacknyu.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:5eb8172f309bc5769fa1b0cdaff1b3cd"
+    },
+    {
+      "id": "jsr:b43314fe1b19b860fcc0092489dac90c",
+      "path": "/images/school_logos/lehman-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:babc833f8d7d8e4d4b42e03bf71aa22a"
+    },
+    {
+      "id": "jsr:188296ada45332eae1681adc80578332",
+      "path": "/images/school_logos/ohio-state-university.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:da01abeca583da4b909949d6e1ed4e91"
+    },
+    {
+      "id": "jsr:e8c1d556a2c8bcb3ab239de74f7fc923",
+      "path": "/images/school_logos/pinterest.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:a8f8652af08900ecc3d6980b1d4d4b6b"
+    },
+    {
+      "id": "jsr:48ea9e303ea618a7c4d379f520785a4c",
+      "path": "/images/school_logos/spacex.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:95a0b9040a5536f6ce9cd80dbbfeeb8b"
+    },
+    {
+      "id": "jsr:6c27ae9ad9a98fb8de704d647aae7445",
+      "path": "/images/school_logos/spotify-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:74e0a7c353aa9ca831df9f4e41e32580"
+    },
+    {
+      "id": "jsr:c47e5f984274acd10a6bbfc248f353a8",
+      "path": "/images/school_logos/tesla-logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:196f70f5fe25f83be45f6824336abfa8"
+    },
+    {
+      "id": "jsr:02b7c08493d4d0d3577050d9fd75fa90",
+      "path": "/images/school_logos/uber-eats-black.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:65cb9e9353fddfa01e552d80a8c06bf6"
+    },
+    {
+      "id": "jsr:fa733e4e777ed5ae96bd6d289cf4b52a",
+      "path": "/images/school_logos/uber-eats-white.svg",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6c1f9b75d181e61e1f0979e7fd4cab2e"
+    },
+    {
+      "id": "jsr:81b7756108ca072302c1da7c5fe72b98",
+      "path": "/images/socials/discord.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7c92c3fb805644b6e4e78e616a44469f"
+    },
+    {
+      "id": "jsr:15a6fb11611f4b664f5395ac92f449f4",
+      "path": "/images/sql-course/Sql_data_base_with_logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:0ec142969cb4a921ca4d3dfb51d13ea4"
+    },
+    {
+      "id": "jsr:a8218125984c7a912bdcdbc5dc386747",
+      "path": "/images/sql/seo-bannergif.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 2,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:085eb38eb64324396d1c107a1b790efa"
+    },
+    {
+      "id": "jsr:eb40bf9be881076d4b80ecf32ff388c3",
+      "path": "/images/sql/sqlbanner.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:a13e4e5d2be3d9668b52da7fa74473c1"
+    },
+    {
+      "id": "jsr:47b59491ce39ad163bea6ee258782c4c",
+      "path": "/images/tiktok_logo.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d18dccccd405a2e23f53798af21bac3c"
+    },
+    {
+      "id": "jsr:027ba4d5f376396b0a67e3236ee58db6",
+      "path": "/images/ui-ux-design/uiux.gif",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:4dfb0ad4c40065157a51ba4831011a11"
+    },
+    {
+      "id": "jsr:7df72b99fbe8917d6b3fd706d1dc3363",
+      "path": "/images/unlockableItems/RubberDuck.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:3ab0ea452b9d803c0eff853ec5320c23"
+    },
+    {
+      "id": "jsr:e14db759bd18f1609676bb154cdd0d20",
+      "path": "/images/unlockableItems/ai-bot-sprite.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:d5cbe33f60ce5894a7e1e25546d8ec05"
+    },
+    {
+      "id": "jsr:0cbb9e6e20bd8cf9b855792e6d2a0412",
+      "path": "/images/unlockableItems/editor-theme-brush.png",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:64c944207fb360ec5c458b2053bf19d3"
+    },
+    {
+      "id": "jsr:f843c0448fc91cb5691b57b472bb0416",
+      "path": "/login",
+      "classification": "system",
+      "classification_basis": "path-name-heuristic",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 6,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:29cf07acaf6953214f5d5d200e5fd477"
+    },
+    {
+      "id": "jsr:5f683c27aa63d3894cb338559ca4a81b",
+      "path": "/pricing",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 10,
+      "source_count": 3,
+      "primary_occurrence_id": "jso:601d4b1183def3bc86cf459f4d0baff9"
+    },
+    {
+      "id": "jsr:c979d247845636edda6f6488fe2dc2d6",
+      "path": "/privacy",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 4,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:05a402530d90174436c325a34b5df29d"
+    },
+    {
+      "id": "jsr:c056147a6f428b740095f4b2290b1037",
+      "path": "/python",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 9,
+      "source_count": 3,
+      "primary_occurrence_id": "jso:0fb3059eae5a0289e86792190ee9934a"
+    },
+    {
+      "id": "jsr:2dc8f208825921f8629d731375e96179",
+      "path": "/python/:challenge+",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:178ceb068cd5d20b74d16cdc7dc39ac1"
+    },
+    {
+      "id": "jsr:b68db10d9d7e956244a4705273afe271",
+      "path": "/python/bonus/dictionaries-and-sets-in-python",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6cf1c1ff2b0f904a5a948eb34be1586f"
+    },
+    {
+      "id": "jsr:a65a0d74d554de42df142f5ac4020196",
+      "path": "/python/bonus/errors-in-python",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:497920a19a2e54c06e4f4e178149de01"
+    },
+    {
+      "id": "jsr:2d919611336df7c55cd8670fa838ff03",
+      "path": "/python/bonus/lambda-in-python",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:f26c75379f057d1fa718584b9a2c8823"
+    },
+    {
+      "id": "jsr:93374d627d2391e07680556f9609196b",
+      "path": "/python/bonus/nested-control-statements",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:c830c66489c853094c2957dff0efde3e"
+    },
+    {
+      "id": "jsr:1085ab68a874102f92b3888da382ccc4",
+      "path": "/python/bonus/nested-lists",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:63be1424ca54952d037a18e2401551df"
+    },
+    {
+      "id": "jsr:bcc0d4a5575065309e61ece6497186b3",
+      "path": "/python/bonus/nested-loops",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:7a2ff1b36e52c950dc3fd03d0f714385"
+    },
+    {
+      "id": "jsr:3d5e1275332cce86fc7cbaee2993220d",
+      "path": "/python/bonus/set-up-your-local-environment-in-python",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "route-string-constant"
+      ],
+      "occurrence_count": 1,
+      "source_count": 1,
+      "primary_occurrence_id": "jso:6b836232f78ddad47ed991f7e4f0c637"
+    },
+    {
+      "id": "jsr:f38098074c45c5a70096f0db80a151a8",
+      "path": "/signup",
+      "classification": "system",
+      "classification_basis": "path-name-heuristic",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 14,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:043991939297ee0300df33e6d5214999"
+    },
+    {
+      "id": "jsr:d9640de1c4be616b55c189140d238ae6",
+      "path": "/terms",
+      "classification": "unknown",
+      "classification_basis": "unknown",
+      "confidence": "low",
+      "mechanisms": [
+        "navigation-target",
+        "route-string-constant"
+      ],
+      "occurrence_count": 4,
+      "source_count": 2,
+      "primary_occurrence_id": "jso:21f4ce2854cb1670b3ca571a85a39f65"
+    }
+  ],
+  "unknowns": [
+    {
+      "dimension": "javascript_analysis",
+      "reason": "Analysis was unavailable for captured scripts (deadline); findings from those scripts are unknown. Worker detail: \"analyze_web_bundle reached its 30000 ms per-script deadline (deadlineExpired) for analysis_timeout_ms. This is not total_analysis_timeout_ms and not the MCP client deadline.\"",
+      "affected_script_keys": [
+        "scr_41e7cc3c8e9955119749c2b4154a1043c245364b43e4e08538e2c8c553cf3484"
+      ]
+    },
+    {
+      "dimension": "javascript_ast",
+      "reason": "Local returned-reference projections were conservatively widened; effects include additional source-local candidates.",
+      "affected_script_keys": [
+        "scr_0eef44d520894b68790e24c7c8ea90f76c285012b59ee801d083e429b41e89b8",
+        "scr_2102b94d4cda49e4f2de0a041234d75ba3f26d9c7f58d0bdd4d285b07ee732e5",
+        "scr_3da2c05d891d771b0561c10b2519eeb74be9e65964c9f8c3413f42b40e0077f6",
+        "scr_4cee6fc0b47c20225979f83bb12d2e6d393f5a7665ff4bbcf9fed9537b3b6048",
+        "scr_87e6d7cc44fff1b34ed9dd9f5311f81b995d1cde12c38c4cb00fa300a470e3ef",
+        "scr_bf7af948dbdb4bc95c623d898890d4b70ad996371338dcf0115faaab3e7d2616",
+        "scr_de8fd18e94b2e452f259cc9f5d7a8147d5ecde705a71eb59fd869913f898fa1a"
+      ]
+    }
+  ],
+  "limitations": [
+    "Artifact identity is unavailable for this observation.",
+    "Static bundle findings are observations or bounded inferences; REA does not execute captured JavaScript.",
+    "Bare string arguments of unbound HTTP-method-named calls are low-confidence endpoint candidates; form, translation, storage and other APIs can use the same syntax. URL-shaped findings still do not prove network execution.",
+    "Endpoint candidates are deduplicated by script, value and detector; basis retains only the first matching source coordinate. They are not a complete call-site inventory or a runtime occurrence count. completeness.status=\"complete\" describes examination of captured source, not a call-site census.",
+    "String-built routes and endpoints, encrypted configuration, and server-side behavior may remain unknown.",
+    "Page-declared WebMCP metadata is untrusted and is never registered or invoked as an REA tool."
+  ]
+}

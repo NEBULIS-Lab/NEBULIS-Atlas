@@ -1,0 +1,554 @@
+[
+  {
+    "route": "/",
+    "file": "home.html",
+    "title": "Cod\u00e9dex | Start Your Coding Adventure \u22c6\u02d9\u27e1",
+    "source": "https://www.codedex.io/"
+  },
+  {
+    "route": "/30-nites-of-code",
+    "file": "30-nites-of-code.html",
+    "title": "Cod\u00e9dex | #30NitesOfCode",
+    "source": "https://www.codedex.io/30-nites-of-code"
+  },
+  {
+    "route": "/about",
+    "file": "about.html",
+    "title": "Cod\u00e9dex | About",
+    "source": "https://www.codedex.io/about"
+  },
+  {
+    "route": "/blog",
+    "file": "blog.html",
+    "title": "Cod\u00e9dex | Blog",
+    "source": "https://www.codedex.io/blog"
+  },
+  {
+    "route": "/blog/a-personal-history-of-the-creative-coding-zeitgeist",
+    "file": "blog__a-personal-history-of-the-creative-coding-zeitgeist.html",
+    "title": "Cod\u00e9dex | A Personal History of the Creative Coding Zeitgeist",
+    "source": "https://www.codedex.io/blog/a-personal-history-of-the-creative-coding-zeitgeist"
+  },
+  {
+    "route": "/blog/ap-computer-science-exam-2026-2027",
+    "file": "blog__ap-computer-science-exam-2026-2027.html",
+    "title": "Cod\u00e9dex | AP Computer Science Exam 2026-2027: Everything You Need to Know",
+    "source": "https://www.codedex.io/blog/ap-computer-science-exam-2026-2027"
+  },
+  {
+    "route": "/blog/codedex-update-q3-2026",
+    "file": "blog__codedex-update-q3-2026.html",
+    "title": "Cod\u00e9dex | Cod\u00e9dex Update - Q3 2026",
+    "source": "https://www.codedex.io/blog/codedex-update-q3-2026"
+  },
+  {
+    "route": "/blog/from-best-first-time-hack-to-fullstack-developer-anjali-sharma",
+    "file": "blog__from-best-first-time-hack-to-fullstack-developer-anjali-sharma.html",
+    "title": "Cod\u00e9dex | From 'Best First-Time Hack' to Fullstack Developer: Anjali Sharma \ud83c\uddee\ud83c\uddf3",
+    "source": "https://www.codedex.io/blog/from-best-first-time-hack-to-fullstack-developer-anjali-sharma"
+  },
+  {
+    "route": "/blog/from-retail-to-fullstack-developer-alan-geirnaert",
+    "file": "blog__from-retail-to-fullstack-developer-alan-geirnaert.html",
+    "title": "Cod\u00e9dex | From Retail to Fullstack Developer: Alan Geirnaert \ud83c\uddeb\ud83c\uddf7",
+    "source": "https://www.codedex.io/blog/from-retail-to-fullstack-developer-alan-geirnaert"
+  },
+  {
+    "route": "/blog/from-uber-eats-to-sofware-developer-at-deloitte-tj-moses-james",
+    "file": "blog__from-uber-eats-to-sofware-developer-at-deloitte-tj-moses-james.html",
+    "title": "Cod\u00e9dex | From Uber Eats to Software Developer @ Deloitte: 'TJ' Moses James \ud83c\uddfa\ud83c\uddf8",
+    "source": "https://www.codedex.io/blog/from-uber-eats-to-sofware-developer-at-deloitte-tj-moses-james"
+  },
+  {
+    "route": "/blog/gen-z-builders-networking-nite-recap",
+    "file": "blog__gen-z-builders-networking-nite-recap.html",
+    "title": "Cod\u00e9dex | Gen Z Builders Networking Nite",
+    "source": "https://www.codedex.io/blog/gen-z-builders-networking-nite-recap"
+  },
+  {
+    "route": "/blog/github-student-developer-pack-update",
+    "file": "blog__github-student-developer-pack-update.html",
+    "title": "Cod\u00e9dex | GitHub Student Developer Pack Update \ud83c\udf92",
+    "source": "https://www.codedex.io/blog/github-student-developer-pack-update"
+  },
+  {
+    "route": "/blog/introducing-community-badges",
+    "file": "blog__introducing-community-badges.html",
+    "title": "Cod\u00e9dex | Introducing 15 New Badges",
+    "source": "https://www.codedex.io/blog/introducing-community-badges"
+  },
+  {
+    "route": "/blog/its-okay-to-change-your-mind",
+    "file": "blog__its-okay-to-change-your-mind.html",
+    "title": "Cod\u00e9dex | It's Okay to Change Your Mind",
+    "source": "https://www.codedex.io/blog/its-okay-to-change-your-mind"
+  },
+  {
+    "route": "/blog/my-intro-to-creative-coding",
+    "file": "blog__my-intro-to-creative-coding.html",
+    "title": "Cod\u00e9dex | My Intro to Creative Coding",
+    "source": "https://www.codedex.io/blog/my-intro-to-creative-coding"
+  },
+  {
+    "route": "/builds",
+    "file": "builds.html",
+    "title": "Cod\u00e9dex | Builds",
+    "source": "https://www.codedex.io/builds"
+  },
+  {
+    "route": "/c-sharp",
+    "file": "c-sharp.html",
+    "title": "Cod\u00e9dex | Learn C#",
+    "source": "https://www.codedex.io/c-sharp"
+  },
+  {
+    "route": "/challenges",
+    "file": "challenges.html",
+    "title": "Cod\u00e9dex | Challenge Packs",
+    "source": "https://www.codedex.io/challenges"
+  },
+  {
+    "route": "/challenges/conditionals/nite-owl",
+    "file": "challenges__conditionals__nite-owl.html",
+    "title": "Cod\u00e9dex | \ud83e\udd89 Nite Owl",
+    "source": "https://www.codedex.io/challenges/conditionals/nite-owl"
+  },
+  {
+    "route": "/challenges/control-flow/food-ratings",
+    "file": "challenges__control-flow__food-ratings.html",
+    "title": "Cod\u00e9dex | \u2b50\ufe0f Food Ratings",
+    "source": "https://www.codedex.io/challenges/control-flow/food-ratings"
+  },
+  {
+    "route": "/challenges/control-flow/girl-scout-cookies",
+    "file": "challenges__control-flow__girl-scout-cookies.html",
+    "title": "Cod\u00e9dex | \ud83c\udf6a Girl Scout Cookies",
+    "source": "https://www.codedex.io/challenges/control-flow/girl-scout-cookies"
+  },
+  {
+    "route": "/challenges/control-flow/swipe-right",
+    "file": "challenges__control-flow__swipe-right.html",
+    "title": "Cod\u00e9dex | \ud83d\udc49 Swipe Right",
+    "source": "https://www.codedex.io/challenges/control-flow/swipe-right"
+  },
+  {
+    "route": "/challenges/elements/garage-sale",
+    "file": "challenges__elements__garage-sale.html",
+    "title": "Cod\u00e9dex | \ud83e\udeb4 Garage Sale",
+    "source": "https://www.codedex.io/challenges/elements/garage-sale"
+  },
+  {
+    "route": "/challenges/loops/are-we-there-yet",
+    "file": "challenges__loops__are-we-there-yet.html",
+    "title": "Cod\u00e9dex | \ud83d\ude99 Are We There Yet?",
+    "source": "https://www.codedex.io/challenges/loops/are-we-there-yet"
+  },
+  {
+    "route": "/challenges/loops/blast-off",
+    "file": "challenges__loops__blast-off.html",
+    "title": "Cod\u00e9dex | \ud83d\ude80 Blast Off",
+    "source": "https://www.codedex.io/challenges/loops/blast-off"
+  },
+  {
+    "route": "/challenges/loops/one-mississippi",
+    "file": "challenges__loops__one-mississippi.html",
+    "title": "Cod\u00e9dex | \u23f1\ufe0f One Mississippi",
+    "source": "https://www.codedex.io/challenges/loops/one-mississippi"
+  },
+  {
+    "route": "/challenges/structure/song-lyrics",
+    "file": "challenges__structure__song-lyrics.html",
+    "title": "Cod\u00e9dex | \ud83c\udfb5 Song Lyrics",
+    "source": "https://www.codedex.io/challenges/structure/song-lyrics"
+  },
+  {
+    "route": "/challenges/variables/year-of-the-snake",
+    "file": "challenges__variables__year-of-the-snake.html",
+    "title": "Cod\u00e9dex | \ud83d\udc0d Year of the Snake",
+    "source": "https://www.codedex.io/challenges/variables/year-of-the-snake"
+  },
+  {
+    "route": "/command-line",
+    "file": "command-line.html",
+    "title": "Cod\u00e9dex | Learn Command Line",
+    "source": "https://www.codedex.io/command-line"
+  },
+  {
+    "route": "/community",
+    "file": "community.html",
+    "title": "Cod\u00e9dex | Community",
+    "source": "https://www.codedex.io/community"
+  },
+  {
+    "route": "/courses",
+    "file": "courses.html",
+    "title": "Cod\u00e9dex | Course Catalog",
+    "source": "https://www.codedex.io/courses"
+  },
+  {
+    "route": "/cpp",
+    "file": "cpp.html",
+    "title": "Cod\u00e9dex | Learn C++",
+    "source": "https://www.codedex.io/cpp"
+  },
+  {
+    "route": "/css",
+    "file": "css.html",
+    "title": "Cod\u00e9dex | Learn CSS",
+    "source": "https://www.codedex.io/css"
+  },
+  {
+    "route": "/css/01-picasso",
+    "file": "css__01-picasso.html",
+    "title": "Cod\u00e9dex | 01. Picasso",
+    "source": "https://www.codedex.io/css/01-picasso"
+  },
+  {
+    "route": "/css/02-syntax",
+    "file": "css__02-syntax.html",
+    "title": "Cod\u00e9dex | 02. Syntax",
+    "source": "https://www.codedex.io/css/02-syntax"
+  },
+  {
+    "route": "/data-structures-and-algorithms",
+    "file": "data-structures-and-algorithms.html",
+    "title": "Cod\u00e9dex | Learn Data Structures & Algorithms",
+    "source": "https://www.codedex.io/data-structures-and-algorithms"
+  },
+  {
+    "route": "/educators",
+    "file": "educators.html",
+    "title": "Cod\u00e9dex | For Educators",
+    "source": "https://www.codedex.io/educators"
+  },
+  {
+    "route": "/gen-ai",
+    "file": "gen-ai.html",
+    "title": "Cod\u00e9dex | Learn GenAI",
+    "source": "https://www.codedex.io/gen-ai"
+  },
+  {
+    "route": "/git-github",
+    "file": "git-github.html",
+    "title": "Cod\u00e9dex | Learn Git & GitHub",
+    "source": "https://www.codedex.io/git-github"
+  },
+  {
+    "route": "/github-copilot",
+    "file": "github-copilot.html",
+    "title": "Cod\u00e9dex | Learn GitHub Copilot",
+    "source": "https://www.codedex.io/github-copilot"
+  },
+  {
+    "route": "/html",
+    "file": "html.html",
+    "title": "Learn HTML - Free Course | Cod\u00e9dex",
+    "source": "https://www.codedex.io/html"
+  },
+  {
+    "route": "/html/01-shooting-star",
+    "file": "html__01-shooting-star.html",
+    "title": "Cod\u00e9dex | 01. Shooting Star",
+    "source": "https://www.codedex.io/html/01-shooting-star"
+  },
+  {
+    "route": "/html/02-elemental",
+    "file": "html__02-elemental.html",
+    "title": "Cod\u00e9dex | 02. Elemental",
+    "source": "https://www.codedex.io/html/02-elemental"
+  },
+  {
+    "route": "/html/03-newspaper",
+    "file": "html__03-newspaper.html",
+    "title": "Cod\u00e9dex | 03. Newspaper",
+    "source": "https://www.codedex.io/html/03-newspaper"
+  },
+  {
+    "route": "/html/04-corporate-talk",
+    "file": "html__04-corporate-talk.html",
+    "title": "Cod\u00e9dex | 04. Corporate Talk",
+    "source": "https://www.codedex.io/html/04-corporate-talk"
+  },
+  {
+    "route": "/html/05-sous-chef",
+    "file": "html__05-sous-chef.html",
+    "title": "Cod\u00e9dex | 05. Sous-Chef",
+    "source": "https://www.codedex.io/html/05-sous-chef"
+  },
+  {
+    "route": "/html/06-lost-pet",
+    "file": "html__06-lost-pet.html",
+    "title": "Cod\u00e9dex | 06. Lost Pet",
+    "source": "https://www.codedex.io/html/06-lost-pet"
+  },
+  {
+    "route": "/html/07-favorite-band",
+    "file": "html__07-favorite-band.html",
+    "title": "Cod\u00e9dex | 07. Favorite Band",
+    "source": "https://www.codedex.io/html/07-favorite-band"
+  },
+  {
+    "route": "/intermediate-java",
+    "file": "intermediate-java.html",
+    "title": "Cod\u00e9dex | Learn Intermediate Java",
+    "source": "https://www.codedex.io/intermediate-java"
+  },
+  {
+    "route": "/intermediate-javascript",
+    "file": "intermediate-javascript.html",
+    "title": "Cod\u00e9dex | Learn Intermediate JavaScript",
+    "source": "https://www.codedex.io/intermediate-javascript"
+  },
+  {
+    "route": "/intermediate-python",
+    "file": "intermediate-python.html",
+    "title": "Cod\u00e9dex | Learn Intermediate Python",
+    "source": "https://www.codedex.io/intermediate-python"
+  },
+  {
+    "route": "/java",
+    "file": "java.html",
+    "title": "Cod\u00e9dex | Learn Java",
+    "source": "https://www.codedex.io/java"
+  },
+  {
+    "route": "/javascript",
+    "file": "javascript.html",
+    "title": "Cod\u00e9dex | Learn JavaScript",
+    "source": "https://www.codedex.io/javascript"
+  },
+  {
+    "route": "/javascript/01-setting-up",
+    "file": "javascript__01-setting-up.html",
+    "title": "Cod\u00e9dex | 01. Setting Up",
+    "source": "https://www.codedex.io/javascript/01-setting-up"
+  },
+  {
+    "route": "/login",
+    "file": "login.html",
+    "title": "Cod\u00e9dex | Log in",
+    "source": "https://www.codedex.io/login"
+  },
+  {
+    "route": "/lua",
+    "file": "lua.html",
+    "title": "Cod\u00e9dex | Learn Lua",
+    "source": "https://www.codedex.io/lua"
+  },
+  {
+    "route": "/machine-learning",
+    "file": "machine-learning.html",
+    "title": "Cod\u00e9dex | Learn Machine Learning",
+    "source": "https://www.codedex.io/machine-learning"
+  },
+  {
+    "route": "/matplotlib",
+    "file": "matplotlib.html",
+    "title": "Cod\u00e9dex | Learn Matplotlib",
+    "source": "https://www.codedex.io/matplotlib"
+  },
+  {
+    "route": "/nodejs",
+    "file": "nodejs.html",
+    "title": "Cod\u00e9dex | Learn Node.js",
+    "source": "https://www.codedex.io/nodejs"
+  },
+  {
+    "route": "/numpy",
+    "file": "numpy.html",
+    "title": "Cod\u00e9dex | Learn NumPy",
+    "source": "https://www.codedex.io/numpy"
+  },
+  {
+    "route": "/p5js",
+    "file": "p5js.html",
+    "title": "Cod\u00e9dex | Learn p5.js",
+    "source": "https://www.codedex.io/p5js"
+  },
+  {
+    "route": "/pandas",
+    "file": "pandas.html",
+    "title": "Cod\u00e9dex | Learn Pandas",
+    "source": "https://www.codedex.io/pandas"
+  },
+  {
+    "route": "/phaser",
+    "file": "phaser.html",
+    "title": "Cod\u00e9dex | Learn Phaser",
+    "source": "https://www.codedex.io/phaser"
+  },
+  {
+    "route": "/pricing",
+    "file": "pricing.html",
+    "title": "Cod\u00e9dex | Pricing",
+    "source": "https://www.codedex.io/pricing"
+  },
+  {
+    "route": "/privacy",
+    "file": "privacy.html",
+    "title": "Cod\u00e9dex | Privacy Policy",
+    "source": "https://www.codedex.io/privacy"
+  },
+  {
+    "route": "/projects",
+    "file": "projects.html",
+    "title": "Cod\u00e9dex | Projects",
+    "source": "https://www.codedex.io/projects"
+  },
+  {
+    "route": "/projects/add-interactable-objects-to-your-godot-game",
+    "file": "projects__add-interactable-objects-to-your-godot-game.html",
+    "title": "Cod\u00e9dex | Add Interactable Objects to Your Godot Game",
+    "source": "https://www.codedex.io/projects/add-interactable-objects-to-your-godot-game"
+  },
+  {
+    "route": "/projects/animate-images-with-keyframes-using-css",
+    "file": "projects__animate-images-with-keyframes-using-css.html",
+    "title": "Cod\u00e9dex | Animate Images with keyframes using CSS",
+    "source": "https://www.codedex.io/projects/animate-images-with-keyframes-using-css"
+  },
+  {
+    "route": "/projects/build-a-custom-search-engine-with-exa-ai",
+    "file": "projects__build-a-custom-search-engine-with-exa-ai.html",
+    "title": "Cod\u00e9dex | Build a Custom Search Engine with Exa",
+    "source": "https://www.codedex.io/projects/build-a-custom-search-engine-with-exa-ai"
+  },
+  {
+    "route": "/projects/build-a-pocket-rave-with-arduino",
+    "file": "projects__build-a-pocket-rave-with-arduino.html",
+    "title": "Cod\u00e9dex | Build a Pocket Rave with Arduino",
+    "source": "https://www.codedex.io/projects/build-a-pocket-rave-with-arduino"
+  },
+  {
+    "route": "/projects/build-a-word-guessing-game-with-python",
+    "file": "projects__build-a-word-guessing-game-with-python.html",
+    "title": "Cod\u00e9dex | Build a Word Guessing Game with Python",
+    "source": "https://www.codedex.io/projects/build-a-word-guessing-game-with-python"
+  },
+  {
+    "route": "/projects/create-a-gif-with-python",
+    "file": "projects__create-a-gif-with-python.html",
+    "title": "Cod\u00e9dex | Create a GIF with Python",
+    "source": "https://www.codedex.io/projects/create-a-gif-with-python"
+  },
+  {
+    "route": "/projects/create-a-react-app-with-vite",
+    "file": "projects__create-a-react-app-with-vite.html",
+    "title": "Cod\u00e9dex | Create a React App with Vite",
+    "source": "https://www.codedex.io/projects/create-a-react-app-with-vite"
+  },
+  {
+    "route": "/projects/create-a-voice-virtual-assistant-with-elevenlabs",
+    "file": "projects__create-a-voice-virtual-assistant-with-elevenlabs.html",
+    "title": "Cod\u00e9dex | Create a Voice Virtual Assistant with ElevenLabs",
+    "source": "https://www.codedex.io/projects/create-a-voice-virtual-assistant-with-elevenlabs"
+  },
+  {
+    "route": "/projects/debug-your-web-app-in-vs-code",
+    "file": "projects__debug-your-web-app-in-vs-code.html",
+    "title": "Cod\u00e9dex | Debug Your Web App in VS Code",
+    "source": "https://www.codedex.io/projects/debug-your-web-app-in-vs-code"
+  },
+  {
+    "route": "/projects/deploy-a-website-with-vercel",
+    "file": "projects__deploy-a-website-with-vercel.html",
+    "title": "Cod\u00e9dex | Deploy a Website with Vercel",
+    "source": "https://www.codedex.io/projects/deploy-a-website-with-vercel"
+  },
+  {
+    "route": "/projects/generate-a-blog-with-openai",
+    "file": "projects__generate-a-blog-with-openai.html",
+    "title": "Cod\u00e9dex | Generate a Blog with OpenAI",
+    "source": "https://www.codedex.io/projects/generate-a-blog-with-openai"
+  },
+  {
+    "route": "/projects/generate-a-poem-with-google-gemini",
+    "file": "projects__generate-a-poem-with-google-gemini.html",
+    "title": "Cod\u00e9dex | Generate a Poem with Google Gemini",
+    "source": "https://www.codedex.io/projects/generate-a-poem-with-google-gemini"
+  },
+  {
+    "route": "/projects/run-a-website-locally-with-html",
+    "file": "projects__run-a-website-locally-with-html.html",
+    "title": "Cod\u00e9dex | Run a Website Locally with HTML",
+    "source": "https://www.codedex.io/projects/run-a-website-locally-with-html"
+  },
+  {
+    "route": "/projects/set-up-a-gui-with-java",
+    "file": "projects__set-up-a-gui-with-java.html",
+    "title": "Cod\u00e9dex | Set Up a GUI with Java",
+    "source": "https://www.codedex.io/projects/set-up-a-gui-with-java"
+  },
+  {
+    "route": "/python",
+    "file": "python.html",
+    "title": "Learn Python - For Beginners",
+    "source": "https://www.codedex.io/python"
+  },
+  {
+    "route": "/python/01-setting-up",
+    "file": "python__01-setting-up.html",
+    "title": "Cod\u00e9dex | 01. Setting Up",
+    "source": "https://www.codedex.io/python/01-setting-up"
+  },
+  {
+    "route": "/python/02-hello-world",
+    "file": "python__02-hello-world.html",
+    "title": "Cod\u00e9dex | 02. Hello World",
+    "source": "https://www.codedex.io/python/02-hello-world"
+  },
+  {
+    "route": "/python/03-pattern",
+    "file": "python__03-pattern.html",
+    "title": "Cod\u00e9dex | 03. Pattern",
+    "source": "https://www.codedex.io/python/03-pattern"
+  },
+  {
+    "route": "/python/04-initials",
+    "file": "python__04-initials.html",
+    "title": "Cod\u00e9dex | 04. Initials",
+    "source": "https://www.codedex.io/python/04-initials"
+  },
+  {
+    "route": "/python/05-snail-mail",
+    "file": "python__05-snail-mail.html",
+    "title": "Cod\u00e9dex | 05. Snail Mail",
+    "source": "https://www.codedex.io/python/05-snail-mail"
+  },
+  {
+    "route": "/react",
+    "file": "react.html",
+    "title": "Cod\u00e9dex | Learn React",
+    "source": "https://www.codedex.io/react"
+  },
+  {
+    "route": "/signup",
+    "file": "signup.html",
+    "title": "Cod\u00e9dex | Sign Up",
+    "source": "https://www.codedex.io/signup"
+  },
+  {
+    "route": "/sql",
+    "file": "sql.html",
+    "title": "Cod\u00e9dex | Learn SQL",
+    "source": "https://www.codedex.io/sql"
+  },
+  {
+    "route": "/sql/01-introduction",
+    "file": "sql__01-introduction.html",
+    "title": "Cod\u00e9dex | 01. Introduction",
+    "source": "https://www.codedex.io/sql/01-introduction"
+  },
+  {
+    "route": "/terms",
+    "file": "terms.html",
+    "title": "Cod\u00e9dex | Terms of Service",
+    "source": "https://www.codedex.io/terms"
+  },
+  {
+    "route": "/ui-ux-design",
+    "file": "ui-ux-design.html",
+    "title": "Learn UI/UX Design - For Beginners",
+    "source": "https://www.codedex.io/ui-ux-design"
+  }
+]
