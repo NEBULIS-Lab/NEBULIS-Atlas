@@ -10,7 +10,7 @@ The active world uses no flattened island or all-map image. `src/atlas/explorer.
 - `src/atlas/explorer.mjs`: terrain composition, camera, mobile arrangement, selection and panels.
 - `src/atlas/explorer.css`: full-screen scene and template-style interface.
 
-Sea routes connect regions. Selecting a region moves the camera toward it, reveals its learning nodes and opens the resource panel. Selecting a node moves its decorative guide and shows the resource introduction, official links and any research demonstration. All regions remain freely accessible. Phone layouts use two columns and a bottom content panel; desktop layouts use a wide sea and side panel. The map supports pointer drag, touch pinch, wheel/button zoom and focused keyboard arrow controls. Reading progress is stored locally.
+Wooden bridges and stone causeways connect the surrounding regions to Base Camp, with varied distances and directions. Selecting a region moves the camera toward it, reveals its learning nodes and opens the resource panel. Selecting a node moves its decorative guide and shows the resource introduction, official links and any research demonstration. All regions remain freely accessible. Phone layouts keep Base Camp between the surrounding regions and use a bottom content panel; desktop layouts use a wide sea and side panel. The map supports pointer drag, touch pinch, wheel/button zoom and focused keyboard arrow controls. Reading progress is stored locally. Each island has a clickable NEBULIS-Lab guide with contextual greetings. Animated GIF guides use a browser-captured still image when environmental motion is paused. Three boats and enlarged authored wave/rock animations decorate the blue gradient sea.
 
 ## Original landing
 

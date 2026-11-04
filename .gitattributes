@@ -4,3 +4,4 @@ public/research-media/** linguist-vendored=true
 public/template-assets/** linguist-vendored=true -whitespace
 public/scene-assets/** linguist-vendored=true -whitespace
 src/atlas/landing.html linguist-generated=true -whitespace
+public/research-covers/** linguist-vendored=true

@@ -1,0 +1,93 @@
+{
+  "title": "Wooden Boat",
+  "artist": "Pavel Kutejnikov",
+  "license": "CC0-1.0",
+  "sourcePage": "https://opengameart.org/content/wooden-boat",
+  "downloadUrl": "https://opengameart.org/sites/default/files/wooden_boat.7z",
+  "retrieved": "2026-11-04",
+  "image": "/scene-assets/sea-details/Wooden_boat/boat.png",
+  "imageSize": [
+    72,
+    72
+  ],
+  "frames": [
+    {
+      "id": "rowboat-warm",
+      "rect": [
+        0,
+        0,
+        24,
+        72
+      ],
+      "anchor": [
+        12,
+        36
+      ],
+      "alphaBounds": [
+        1,
+        9,
+        23,
+        63
+      ],
+      "recommendedScale": 2
+    },
+    {
+      "id": "rowboat-natural",
+      "rect": [
+        24,
+        0,
+        24,
+        72
+      ],
+      "anchor": [
+        12,
+        36
+      ],
+      "alphaBounds": [
+        1,
+        9,
+        23,
+        63
+      ],
+      "recommendedScale": 2
+    },
+    {
+      "id": "rowboat-weathered",
+      "rect": [
+        48,
+        0,
+        24,
+        72
+      ],
+      "anchor": [
+        12,
+        36
+      ],
+      "alphaBounds": [
+        1,
+        9,
+        23,
+        63
+      ],
+      "recommendedScale": 2
+    }
+  ],
+  "originalFiles": [
+    {
+      "path": "Wooden_boat/ReadMe.txt",
+      "bytes": 227,
+      "sha256": "2631d66e05772993930b4137a64bb121a2dd6bfc9e0085c33d34f870e9f83d06"
+    },
+    {
+      "path": "Wooden_boat/boat.png",
+      "bytes": 6479,
+      "sha256": "d7f1d80ae050d8a7dc3b4a6a88a8535daf1a14966a1110c28e855806111270ac"
+    },
+    {
+      "path": "wooden_boat.7z",
+      "bytes": 5213,
+      "sha256": "d0870ae527cc5ad103e320eccb050dfb591821e6dfcdb9825a41dc3557e94af1"
+    }
+  ],
+  "notes": "Original archive, PNG and author ReadMe retained without image modification. Three palette variants face north. Anchors are suggested display placement, not artist metadata."
+}

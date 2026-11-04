@@ -63,7 +63,8 @@
       "R02",
       "R03",
       "R04",
-      "R05"
+      "R05",
+      "R06"
     ],
     "next": [
       "embodied",
@@ -102,7 +103,8 @@
       "E05",
       "E06",
       "E07",
-      "E08"
+      "E08",
+      "F01"
     ],
     "next": [
       "world",
@@ -140,7 +142,9 @@
       "W03",
       "W04",
       "W05",
-      "W06"
+      "W06",
+      "W07",
+      "F02"
     ],
     "next": [
       "embodied",
@@ -176,7 +180,9 @@
       "M02",
       "M03",
       "M04",
-      "M05"
+      "M05",
+      "F03",
+      "F04"
     ],
     "next": [
       "distributed",
@@ -213,7 +219,8 @@
       "D03",
       "D04",
       "D05",
-      "D06"
+      "D06",
+      "F05"
     ],
     "next": [
       "embodied",
@@ -244,7 +251,11 @@
       "Simulators",
       "Benchmarks"
     ],
-    "nodes": [],
+    "nodes": [
+      "B11",
+      "B12",
+      "B13"
+    ],
     "next": [],
     "landmark": "Everything you need to set sail."
   }

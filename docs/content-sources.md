@@ -2,7 +2,7 @@
 
 核对日期：2026-11-04。内容入口：[catalog.json](../content/catalog.json)。
 
-目录包含 **66 个资源节点、5 条建议路线、15 个术语**，其中 DS01–DS11 提供数据类型、规模、获取方式和推荐用途。标题使用英文名称，简介与学习要点为编辑撰写的中文导读。资源 ID 固定，入口、方法、数据与基准可以指向同一原始项目，但不会被当作不同研究成果。
+目录包含 **71 个资源节点、5 条建议路线、15 个术语**，其中 DS01–DS11 提供数据类型、规模、获取方式和推荐用途。标题使用英文名称，简介与学习要点为编辑撰写的中文导读。资源 ID 固定，入口、方法、数据与基准可以指向同一原始项目，但不会被当作不同研究成果。
 
 ## 编辑约定
 
@@ -16,7 +16,7 @@
 
 ## 实际核对范围
 
-对初稿的 115 个不同链接执行了 HTTP GET，读取网页标题；对 arXiv 页面读取了摘要，并逐项比对方法简介。随后针对异常链接与新增来源做了定向复核。下表记录最终目录的所有不同链接；HTTP 可达性与内容核对分开记录，未把收到 HTTP 200 当作论文全文已读。
+对初稿的 115 个不同链接执行了 HTTP GET，读取网页标题；对 arXiv 页面读取了摘要，并逐项比对方法简介。随后针对异常链接与新增来源做了定向复核。下表记录初版目录的不同链接，后续新增入口见末尾增补记录；HTTP 可达性与内容核对分开记录，未把收到 HTTP 200 当作论文全文已读。
 
 浏览检索进一步读取了以下第一手内容：
 
@@ -41,7 +41,7 @@
 
 ## 实验室公开材料
 
-使用获准复用的实验室网站仓库公开内容：`data/publications.json`，以及 `data/projects/beyond-appearance-shifts-project-2026.json`、`d-jepa-project-2026.json`、`brace-project-2026.json`。这些材料仅提供公开研究介绍和链接。
+使用获准复用的实验室网站仓库公开内容：`data/publications.json`，以及 `data/projects/beyond-appearance-shifts-project-2026.json`、`d-jepa-project-2026.json`、`brace-project-2026.json`。以及 `data/projects/mimicx-project-2026.json`。这些材料仅提供公开研究介绍和链接。
 
 F03 **VLA-Fabric** 仅有用户指定的方向名称，本次未发现专属公开论文、仓库或日期。保留用户提供的协作研究方向描述，`year: null`，链接指向实验室项目总览；不编造专属论文、实现、发表状态或实验成绩。
 
@@ -174,3 +174,25 @@ F03 **VLA-Fabric** 仅有用户指定的方向名称，本次未发现专属公�
 - 11 个 DS 节点的 `dataset` 四项元数据完整；5 条路线各含 5–7 个节点。
 - 所有目录链接为 HTTPS，没有 `utm_` 参数；R01 / S02 不在同一路线重复出现。
 - 本记录不把“资源已列出”“入口可达”“研究结论已复现”混为一谈。全文复现不属于此导航站的内容制作范围。
+
+
+## 2026-11-04 增补：资源归类与新评测入口
+
+实验室资源统一进入 Resource Library 与所属研究岛：F01、F02、F04、F05 按论文归类，新增 R06 MimicX 同样归入论文；F03 VLA-Fabric 仍是研究项目，使用 `project`，不伪称已经发表。六项均以 `lab: true` 和 `NEBULIS-Lab` 标签标识来源，不再使用 `frontier` 类型。
+
+| 资源 | 核对的一手来源 | 实际核对结果 |
+| --- | --- | --- |
+| R06 MimicX | [arXiv 论文](https://arxiv.org/abs/2610.09055)、[官方代码](https://github.com/NEBULIS-Lab/MimicX)、[项目页](https://nebulis-lab.com/MimicX/) | 读取摘要、项目方法说明及仓库身份。题名与获准使用的实验室项目记录及原始项目论文主文件一致；中文导读概括策略执行反馈、监督目标与课程调整、重复执行筛选。 |
+| W07 FastWAM | [arXiv 论文](https://arxiv.org/abs/2603.16666)、[官方代码](https://github.com/yuantianyuan01/FastWAM)、[项目页](https://yuantianyuan01.github.io/FastWAM/) | 读取摘要与官方项目页。核对训练保留视频联合监督、推理移除显式未来视频生成的区别；不把其受控实验结论扩展成所有世界模型都无需规划。 |
+| B11 RoboDojo | [arXiv 论文](https://arxiv.org/abs/2607.04434)、[官方代码](https://github.com/RoboDojo-Benchmark/RoboDojo)、[项目页](https://robodojo-benchmark.com/) | arXiv 摘要确认 42 个仿真任务、18 个实机任务和五个仿真能力维度，官方代码由论文链接取得。项目域名由论文确认；浏览器文本提取器未返回该首页正文，未把这一结果当作完整页面审阅。 |
+| B12 LIBERO-Pro | [arXiv 论文](https://arxiv.org/abs/2510.03827)、[官方代码](https://github.com/Zxy-MLlab/LIBERO-PRO)、[项目页](https://zxy-mllab.github.io/LIBERO-PRO-Webpage/) | 读取摘要与官方 README；核对操纵物体、初始状态、任务指令、环境四维扰动。此卡对应原始 LIBERO-PRO；不把后续 Pro2.0 的静态与运行时扰动混入原始协议。 |
+| B13 LIBERO-Plus | [arXiv 论文](https://arxiv.org/abs/2510.13626)、[官方代码](https://github.com/sylvestf/LIBERO-plus)、[项目页](https://sylvestf.github.io/LIBERO-plus/) | 读取摘要、README 和项目页；核对七类扰动以及组合扰动分析。年份采用实际链接的 2025 年预印本，保持与原始代码引用一致。 |
+
+### LIBERO 评测提醒的依据
+
+目录把标准 LIBERO 标为经典复现入口与饱和风险基准。这个编辑判断依据两类公开证据：
+
+- [Fast-WAM 官方结果](https://yuantianyuan01.github.io/FastWAM/)列出多种现代策略在标准 LIBERO 上接近满分的结果，支持“多种现代策略下接近饱和”的限定表述。
+- [LIBERO-Pro](https://arxiv.org/abs/2510.03827)与[LIBERO-Plus](https://arxiv.org/abs/2510.13626)分别在各自受测模型和扰动设置下发现性能显著下降、对语言变化不敏感等现象。它们支持“标准高分不足以证明泛化”，不支持对所有模型作无条件的过拟合判定。
+
+卡片因此明确建议：历史复现仍可使用原始 LIBERO；新研究的泛化结论应结合 Pro / Plus 的扰动评估，或采用 RoboDojo 的多维仿真与实机测试。不同任务集、模型检查点、训练预算和扰动协议的分数不直接混排。此增补仅核对资料并编辑目录，未运行模型或基准实验。

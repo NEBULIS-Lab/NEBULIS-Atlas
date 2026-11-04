@@ -12,13 +12,17 @@ The landing layout, layered pixel scenery, decorative GIFs, course-card art, sty
 
 The world is assembled from the archived **Tiny Swords CC0** collection by **Pixel Frog**, distributed by Sprite Fusion. This is the old CC0 version, not the current pack with different terms. Provenance and exact asset metadata are in [scene-asset-sources.md](docs/scene-asset-sources.md), and the license is in [public/scene-assets/tiny-swords/LICENSE.txt](public/scene-assets/tiny-swords/LICENSE.txt). No generated flattened island image is shipped.
 
+## Decorative boats
+
+The three wooden boat variants are original CC0 sprites by Pavel Kutejnikov, distributed through OpenGameArt. The author’s license and source archive are retained under `public/scene-assets/sea-details/`. See [sea-detail-sources.md](docs/sea-detail-sources.md) for source rectangles and attribution.
+
 ## Supplementary pixel font
 
 Press Start 2P by CodeMan38 is distributed under the SIL Open Font License 1.1. Its bundled license is [public/atlas/FONT-LICENSE.txt](public/atlas/FONT-LICENSE.txt). The original template uses the separately sourced PixelGrid fonts described above.
 
 ## Scientific media and research links
 
-Research images and short video excerpts belong to their respective project teams. Source URLs, credits, excerpt timestamps and any explicit rights information are recorded in [media-sources.md](docs/media-sources.md), and credits appear beside media in the atlas. These project demonstrations are presented as attributed educational references. This repository does not grant a license to third-party papers, datasets or media; follow each original project’s terms for further use.
+Research images and short video excerpts belong to their respective project teams. Source URLs, credits, excerpt timestamps and any explicit rights information are recorded in [media-sources.md](docs/media-sources.md) and [cover-sources.md](docs/cover-sources.md), and credits appear beside media in the atlas. These project demonstrations are presented as attributed educational references. This repository does not grant a license to third-party papers, datasets or media; follow each original project’s terms for further use.
 
 ## Development dependency
 

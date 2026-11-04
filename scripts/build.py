@@ -12,9 +12,9 @@ root = Path(__file__).resolve().parents[1]
 out = root / args.out
 shutil.rmtree(out, ignore_errors=True)
 out.mkdir()
-for folder in ['atlas', 'research-media', 'template-assets', 'scene-assets']:
+for folder in ['atlas', 'research-media', 'template-assets', 'scene-assets', 'research-covers']:
     shutil.copytree(root / 'public' / folder, out / folder)
-for name in ['app.mjs', 'style.css', 'explorer.mjs', 'explorer.css']:
+for name in ['app.mjs', 'style.css', 'explorer.mjs', 'explorer.css', 'scenery.mjs', 'resources.css']:
     shutil.copy2(root / 'src' / 'atlas' / name, out / 'atlas' / name)
 shutil.copytree(root / 'content', out / 'content')
 html = (root / 'src' / 'atlas' / 'index.html').read_text().replace('{{BASE}}', base)

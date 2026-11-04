@@ -15,7 +15,7 @@ assert len(ids) == len(resources), 'Duplicate resource IDs'
 for r in resources:
     assert r['island'] in island_ids, r['id']
     assert r['title'] and r['summary'] and r['learn'], r['id']
-    assert r['type'] in {'paper','repo','dataset','simulator','benchmark','frontier'}, r['id']
+    assert r['type'] in {'paper','repo','dataset','simulator','benchmark','project'}, r['id']
     for key in ['prerequisites', 'related']:
         assert set(r.get(key, [])) <= ids, (r['id'], key)
     assert set(r.get('terms', [])) <= terms, (r['id'], 'terms')
@@ -51,3 +51,13 @@ for edge in world['connections']:
 for item in json.loads((root / 'docs/template-home-assets.json').read_text()):
     assert (root / 'public' / item['file']).is_file(), item['file']
 print('Composed scene and template asset references OK')
+
+covers = json.loads((root / 'content/covers.json').read_text())
+assert set(covers) == ids, 'Every resource needs an attributed cover'
+for id, cover in covers.items():
+    assert (root / 'public' / cover['image']).is_file(), (id, cover['image'])
+    assert cover['alt'] and cover['credit'] and cover['source'].startswith('https://'), id
+assert len(world['bridges']) >= 5
+assert {b['to'] for b in world['bridges'] if b['from'] == 'starting'} >= {'robot','embodied','world','multi','distributed'}
+assert {b['material'] for b in world['bridges']} >= {'wood','stone'}
+print(f'All {len(covers)} covers and Base Camp connections OK')

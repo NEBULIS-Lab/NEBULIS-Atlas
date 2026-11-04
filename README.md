@@ -10,11 +10,12 @@ An interactive research atlas for robotics, embodied intelligence, world models,
 
 - Original template landing with adapted lab branding; Explore opens a separate full-screen sea.
 - Seven independently composed regions: a starting camp, five research islands and a shared resource harbor.
-- Tile terrain, separate buildings and animated props, camera panning/zooming, and click-to-open resource panels.
-- 66 curated resource nodes, five learning journeys and 15 short glossary entries.
+- Tile terrain, wood/stone bridges around Base Camp, animated waves/rocks/boats, contextual lab guides, camera panning/zooming, and click-to-open resource panels.
+- 71 curated resource nodes, five learning journeys and 15 short glossary entries.
 - Papers, official repositories, datasets, simulators, benchmarks and laboratory research.
 - Chinese introductions and learning guidance alongside English research names.
-- Local, attributed research images and five short videos; videos load on demand.
+- An attributed cover for all 71 resources and five short research videos; videos load on demand.
+- Lab papers integrated into the library, with an optional NEBULIS-Lab filter.
 - Search, direction/type filters, bookmarks and reading marks. Progress lives in the current browser, with no account.
 
 This is a resource guide. It does not provide login, a community feed, payments, model training or an online code runner. All learning nodes are open.
@@ -37,7 +38,9 @@ Open **http://localhost:4387**. Use `PORT=8080 npm start` for a different port.
 | `content/catalog.json` | Resource records, learning journeys, glossary |
 | `content/islands.json` | Region names, node order and connected research directions |
 | `content/world.json` | Editable terrain footprints, building/tree positions and sea connections |
-| `content/media.json` | Resource-to-media mappings, credits and source links |
+| `content/media.json` | Research demo mappings, credits and source links |
+| `content/covers.json` | Complete resource cover mapping and attribution |
+| `public/research-covers/` | Lightweight project/paper covers |
 | `public/research-media/` | Locally hosted scientific images and short videos |
 | `public/atlas/` | Lab logo and supplementary pixel font |
 | `public/template-assets/` | Original landing art, decorative GIFs, fonts and styles |
@@ -92,12 +95,14 @@ PORT=4388 BASE_PATH=/NEBULIS-Atlas node scripts/serve.mjs dist-pages
 # http://localhost:4388/NEBULIS-Atlas/
 ```
 
-Hash routes preserve shareable resource links on static hosting; no rewrite server is required. The production bundle is about 14 MiB including videos, with only images/content needed for the active view loaded initially.
+Hash routes preserve shareable resource links on static hosting; no rewrite server is required. The production bundle is about 16 MiB including videos, with only images/content needed for the active view loaded initially.
 
 ## Sources and credits
 
 - [Content sources and link verification](docs/content-sources.md)
 - [Research media sources and attribution](docs/media-sources.md)
+- [Resource cover sources](docs/cover-sources.md)
+- [Boats and sea detail sources](docs/sea-detail-sources.md)
 - [Scene composition and maintenance](docs/map-artwork.md)
 - [Scene asset sources and licenses](docs/scene-asset-sources.md)
 - [Original homepage asset provenance](docs/template-home-assets.json)

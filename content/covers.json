@@ -1,0 +1,428 @@
+{
+  "S01": {
+    "image": "research-covers/s01.webp",
+    "alt": "PPO clipped objective illustration",
+    "credit": "John Schulman et al.",
+    "source": "https://arxiv.org/pdf/1707.06347"
+  },
+  "S02": {
+    "image": "research-covers/s02.webp",
+    "alt": "robomimic 官方机器人示范场景与项目标识",
+    "credit": "ARISE Initiative · robomimic Team",
+    "source": "https://robomimic.github.io/"
+  },
+  "S03": {
+    "image": "research-covers/s03.webp",
+    "alt": "LeRobot 官方项目标识",
+    "credit": "Hugging Face · LeRobot Team",
+    "source": "https://huggingface.co/docs/lerobot"
+  },
+  "S04": {
+    "image": "research-covers/s04.webp",
+    "alt": "MuJoCo 官方文档中的刚体与接触仿真场景",
+    "credit": "Google DeepMind · MuJoCo Team",
+    "source": "https://mujoco.readthedocs.io/en/stable/overview.html"
+  },
+  "R01": {
+    "image": "research-covers/s02.webp",
+    "alt": "robomimic 官方机器人示范场景与项目标识",
+    "credit": "ARISE Initiative · robomimic Team",
+    "source": "https://robomimic.github.io/"
+  },
+  "R02": {
+    "image": "research-media/aloha.jpg",
+    "alt": "ALOHA 机械臂执行电池插槽操作",
+    "credit": "Tony Z. Zhao et al. · ALOHA / ACT",
+    "source": "https://tonyzhaozh.github.io/aloha/"
+  },
+  "R03": {
+    "image": "research-media/diffusion-policy.jpg",
+    "alt": "Diffusion Policy 机械臂翻转杯子的演示",
+    "credit": "Cheng Chi et al. · Diffusion Policy",
+    "source": "https://diffusion-policy.cs.columbia.edu/"
+  },
+  "R04": {
+    "image": "research-covers/r04.webp",
+    "alt": "MimicGen data-generation method overview",
+    "credit": "Ajay Mandlekar et al. · MimicGen",
+    "source": "https://arxiv.org/pdf/2310.17596"
+  },
+  "R05": {
+    "image": "research-covers/r05.webp",
+    "alt": "LIBERO benchmark task and evaluation overview",
+    "credit": "Bo Liu et al. · LIBERO",
+    "source": "https://arxiv.org/pdf/2306.03310"
+  },
+  "E01": {
+    "image": "research-covers/e01.webp",
+    "alt": "RT-1 机器人在不同场景中的操作任务",
+    "credit": "Google Robotics · RT-1 Team",
+    "source": "https://robotics-transformer1.github.io/"
+  },
+  "E02": {
+    "image": "research-covers/e02.webp",
+    "alt": "RT-2 视觉语言动作模型的训练与机器人控制示意",
+    "credit": "Google DeepMind · RT-2 Team",
+    "source": "https://robotics-transformer2.github.io/"
+  },
+  "E03": {
+    "image": "research-covers/e03.webp",
+    "alt": "Open X-Embodiment 多机构多机器人数据与模型概览",
+    "credit": "Open X-Embodiment Collaboration",
+    "source": "https://robotics-transformer-x.github.io/"
+  },
+  "E04": {
+    "image": "research-covers/e04.webp",
+    "alt": "OpenVLA 模型组成及机器人任务概览",
+    "credit": "OpenVLA Team",
+    "source": "https://openvla.github.io/"
+  },
+  "E05": {
+    "image": "research-covers/e05.webp",
+    "alt": "π0 官方双臂机器人折叠衣物示范",
+    "credit": "Physical Intelligence",
+    "source": "https://www.physicalintelligence.company/blog/pi0"
+  },
+  "E06": {
+    "image": "research-covers/e06.webp",
+    "alt": "π0.5 官方厨房机器人接收语言指令的场景",
+    "credit": "Physical Intelligence",
+    "source": "https://www.physicalintelligence.company/blog/pi05"
+  },
+  "E07": {
+    "image": "research-covers/e07.webp",
+    "alt": "SmolVLA 视觉语言主干与动作专家架构",
+    "credit": "Hugging Face · SmolVLA Team",
+    "source": "https://huggingface.co/blog/smolvla"
+  },
+  "E08": {
+    "image": "research-covers/e08.webp",
+    "alt": "GR00T N1 model architecture",
+    "credit": "NVIDIA · GR00T N1 Team",
+    "source": "https://arxiv.org/pdf/2503.14734"
+  },
+  "W00": {
+    "image": "research-covers/w00.webp",
+    "alt": "A Path Towards Autonomous Machine Intelligence · 原论文首页",
+    "credit": "Yann LeCun",
+    "source": "https://openreview.net/forum?id=BZ5a1r-kVsf"
+  },
+  "W01": {
+    "image": "research-covers/w01.webp",
+    "alt": "DreamerV3 官方多环境任务展示",
+    "credit": "Danijar Hafner et al. · DreamerV3",
+    "source": "https://danijar.com/project/dreamerv3/"
+  },
+  "W02": {
+    "image": "research-covers/w02.webp",
+    "alt": "I-JEPA and alternative self-supervised learning architectures",
+    "credit": "Mahmoud Assran et al. · Meta FAIR",
+    "source": "https://arxiv.org/pdf/2301.08243"
+  },
+  "W03": {
+    "image": "research-media/dino-wm.png",
+    "alt": "DINO-WM 视觉特征预测与测试时规划示意图",
+    "credit": "Gaoyue Zhou, Hengkai Pan, Yann LeCun, Lerrel Pinto",
+    "source": "https://dino-wm.github.io/"
+  },
+  "W04": {
+    "image": "research-covers/w04.webp",
+    "alt": "V-JEPA 2 视频表征学习及动作条件模型流程",
+    "credit": "Meta FAIR · V-JEPA 2 Team",
+    "source": "https://github.com/facebookresearch/vjepa2"
+  },
+  "W05": {
+    "image": "research-covers/w05.webp",
+    "alt": "LeWorldModel 官方世界模型与控制演示",
+    "credit": "Lucas Maes et al. · LeWorldModel",
+    "source": "https://github.com/lucas-maes/le-wm"
+  },
+  "W06": {
+    "image": "research-covers/w06.webp",
+    "alt": "V-JEPA 2.1 模型架构",
+    "credit": "Meta FAIR · V-JEPA 2.1 Team",
+    "source": "https://github.com/facebookresearch/vjepa2"
+  },
+  "M01": {
+    "image": "research-covers/m01.webp",
+    "alt": "MADDPG centralized training and decentralized execution diagram",
+    "credit": "Ryan Lowe et al.",
+    "source": "https://arxiv.org/pdf/1706.02275"
+  },
+  "M02": {
+    "image": "research-covers/m02.webp",
+    "alt": "QMIX mixing network architecture",
+    "credit": "Tabish Rashid et al.",
+    "source": "https://arxiv.org/pdf/1803.11485"
+  },
+  "M03": {
+    "image": "research-covers/m03.webp",
+    "alt": "MAPPO evaluation curves for training settings",
+    "credit": "Chao Yu et al.",
+    "source": "https://arxiv.org/pdf/2103.01955"
+  },
+  "M04": {
+    "image": "research-media/partnr.png",
+    "alt": "PARTNR 任务生成流程与人机协作仿真场景",
+    "credit": "Meta FAIR · PARTNR Team",
+    "source": "https://aihabitat.org/partnr/"
+  },
+  "M05": {
+    "image": "research-media/robotwin.jpg",
+    "alt": "RoboTwin 双臂任务在不同外观条件下的仿真画面",
+    "credit": "RoboTwin Team",
+    "source": "https://robotwin-platform.github.io/"
+  },
+  "D01": {
+    "image": "research-covers/d01.webp",
+    "alt": "Ray 官方库与任务、参与者及对象层次架构",
+    "credit": "Ray Project",
+    "source": "https://github.com/ray-project/ray"
+  },
+  "D02": {
+    "image": "research-covers/d02.webp",
+    "alt": "Federated Averaging (FedAvg) · 原论文首页",
+    "credit": "H. Brendan McMahan et al.",
+    "source": "https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf"
+  },
+  "D03": {
+    "image": "research-covers/d03.webp",
+    "alt": "Flower federated learning system architecture",
+    "credit": "Flower Labs · Daniel J. Beutel et al.",
+    "source": "https://arxiv.org/pdf/2007.14390"
+  },
+  "D04": {
+    "image": "research-covers/d04.webp",
+    "alt": "FedScale 官方项目标识",
+    "credit": "SymbioticLab · FedScale Team",
+    "source": "https://github.com/SymbioticLab/FedScale"
+  },
+  "D05": {
+    "image": "research-covers/d05.webp",
+    "alt": "vLLM 官方项目标识",
+    "credit": "vLLM Project",
+    "source": "https://github.com/vllm-project/vllm"
+  },
+  "D06": {
+    "image": "research-covers/d06.webp",
+    "alt": "DistServe prefill and decoding interference measurements",
+    "credit": "Zhong et al. · DistServe Team",
+    "source": "https://arxiv.org/pdf/2401.09670"
+  },
+  "DS01": {
+    "image": "research-covers/s02.webp",
+    "alt": "robomimic 官方机器人示范场景与项目标识",
+    "credit": "ARISE Initiative · robomimic Team",
+    "source": "https://robomimic.github.io/"
+  },
+  "DS02": {
+    "image": "research-media/aloha.jpg",
+    "alt": "ALOHA 机械臂执行电池插槽操作",
+    "credit": "Tony Z. Zhao et al. · ALOHA / ACT",
+    "source": "https://tonyzhaozh.github.io/aloha/"
+  },
+  "DS03": {
+    "image": "research-covers/ds03.webp",
+    "alt": "BridgeData V2 机械臂桌面操作示范",
+    "credit": "BridgeData V2 Team",
+    "source": "https://bridgedata-v2.github.io/"
+  },
+  "DS04": {
+    "image": "research-covers/e03.webp",
+    "alt": "Open X-Embodiment 多机构多机器人数据与模型概览",
+    "credit": "Open X-Embodiment Collaboration",
+    "source": "https://robotics-transformer-x.github.io/"
+  },
+  "DS05": {
+    "image": "research-media/droid.jpg",
+    "alt": "DROID 机械臂操作苹果的实机画面",
+    "credit": "DROID Dataset Team",
+    "source": "https://droid-dataset.github.io/"
+  },
+  "DS06": {
+    "image": "research-covers/r04.webp",
+    "alt": "MimicGen data-generation method overview",
+    "credit": "Ajay Mandlekar et al. · MimicGen",
+    "source": "https://arxiv.org/pdf/2310.17596"
+  },
+  "DS07": {
+    "image": "research-media/robotwin-od.png",
+    "alt": "RoboTwin-OD 物体资产示例",
+    "credit": "RoboTwin Team",
+    "source": "https://robotwin-platform.github.io/"
+  },
+  "DS08": {
+    "image": "research-media/partnr.png",
+    "alt": "PARTNR 任务生成流程与人机协作仿真场景",
+    "credit": "Meta FAIR · PARTNR Team",
+    "source": "https://aihabitat.org/partnr/"
+  },
+  "DS09": {
+    "image": "research-covers/ds09.webp",
+    "alt": "Ego4D 第一视角活动数据集合",
+    "credit": "Ego4D Consortium",
+    "source": "https://ego4d-data.org/"
+  },
+  "DS10": {
+    "image": "research-covers/ds10.webp",
+    "alt": "LEAF / FEMNIST · 原论文首页",
+    "credit": "TalwalkarLab · LEAF Team",
+    "source": "https://arxiv.org/pdf/1812.01097"
+  },
+  "DS11": {
+    "image": "research-covers/d04.webp",
+    "alt": "FedScale 官方项目标识",
+    "credit": "SymbioticLab · FedScale Team",
+    "source": "https://github.com/SymbioticLab/FedScale"
+  },
+  "SIM01": {
+    "image": "research-covers/s04.webp",
+    "alt": "MuJoCo 官方文档中的刚体与接触仿真场景",
+    "credit": "Google DeepMind · MuJoCo Team",
+    "source": "https://mujoco.readthedocs.io/en/stable/overview.html"
+  },
+  "SIM02": {
+    "image": "research-covers/sim02.webp",
+    "alt": "Isaac Lab 官方机器人仿真场景",
+    "credit": "NVIDIA · Isaac Lab Team",
+    "source": "https://github.com/isaac-sim/IsaacLab"
+  },
+  "SIM03": {
+    "image": "research-media/maniskill.jpg",
+    "alt": "ManiSkill 多种机器人与室内操作仿真场景",
+    "credit": "ManiSkill Team; scene datasets: AI2THOR and ReplicaCAD",
+    "source": "https://github.com/mani-skill/ManiSkill"
+  },
+  "SIM04": {
+    "image": "research-covers/sim04.webp",
+    "alt": "robosuite 官方操作任务场景与项目标识",
+    "credit": "ARISE Initiative · robosuite Team",
+    "source": "https://robosuite.ai/"
+  },
+  "SIM05": {
+    "image": "research-covers/sim05.webp",
+    "alt": "Habitat 3.0 多智能体家庭物品整理仿真",
+    "credit": "Meta FAIR · Habitat Team",
+    "source": "https://aihabitat.org/habitat3/"
+  },
+  "B01": {
+    "image": "research-covers/b01.webp",
+    "alt": "Meta-World 十种机器人操作任务",
+    "credit": "Meta-World / Farama Foundation",
+    "source": "https://metaworld.farama.org/"
+  },
+  "B02": {
+    "image": "research-covers/b02.webp",
+    "alt": "RLBench 官方机器人操作任务集合",
+    "credit": "Stephen James et al. · RLBench",
+    "source": "https://github.com/stepjam/RLBench"
+  },
+  "B03": {
+    "image": "research-covers/r05.webp",
+    "alt": "LIBERO benchmark task and evaluation overview",
+    "credit": "Bo Liu et al. · LIBERO",
+    "source": "https://arxiv.org/pdf/2306.03310"
+  },
+  "B04": {
+    "image": "research-covers/b04.webp",
+    "alt": "RoboCasa365 官方厨房任务与场景概览",
+    "credit": "RoboCasa Team",
+    "source": "https://github.com/robocasa/robocasa"
+  },
+  "B05": {
+    "image": "research-covers/b05.webp",
+    "alt": "SimplerEnv 实机与仿真对照及评估结果",
+    "credit": "SimplerEnv Team",
+    "source": "https://simpler-env.github.io/"
+  },
+  "B06": {
+    "image": "research-media/robotwin.jpg",
+    "alt": "RoboTwin 双臂任务在不同外观条件下的仿真画面",
+    "credit": "RoboTwin Team",
+    "source": "https://robotwin-platform.github.io/"
+  },
+  "B07": {
+    "image": "research-covers/b07.webp",
+    "alt": "PettingZoo 官方环境演示中的围棋任务",
+    "credit": "Farama Foundation · PettingZoo",
+    "source": "https://pettingzoo.farama.org/"
+  },
+  "B08": {
+    "image": "research-media/partnr.png",
+    "alt": "PARTNR 任务生成流程与人机协作仿真场景",
+    "credit": "Meta FAIR · PARTNR Team",
+    "source": "https://aihabitat.org/partnr/"
+  },
+  "B09": {
+    "image": "research-covers/ds10.webp",
+    "alt": "LEAF / FEMNIST · 原论文首页",
+    "credit": "TalwalkarLab · LEAF Team",
+    "source": "https://arxiv.org/pdf/1812.01097"
+  },
+  "B10": {
+    "image": "research-covers/d04.webp",
+    "alt": "FedScale 官方项目标识",
+    "credit": "SymbioticLab · FedScale Team",
+    "source": "https://github.com/SymbioticLab/FedScale"
+  },
+  "F01": {
+    "image": "research-media/bas-vla.png",
+    "alt": "BAS-VLA 任务语义动作校准方法概览",
+    "credit": "NEBULIS-Lab · BAS-VLA Team",
+    "source": "https://nebulis-lab.com/Beyond-Appearance-Shifts/"
+  },
+  "F02": {
+    "image": "research-media/d-jepa.jpg",
+    "alt": "D-JEPA 与 Native VLA 的 RoboTwin 仿真并排画面",
+    "credit": "NEBULIS-Lab · D-JEPA Team",
+    "source": "https://nebulis-lab.com/D-JEPA/"
+  },
+  "F03": {
+    "image": "research-covers/f03.webp",
+    "alt": "VLA-Fabric 四机械臂协同支撑框架的任务场景",
+    "credit": "NEBULIS-Lab · VLA-Fabric Team",
+    "source": "https://nebulis-lab.com/VLA-Fabric/"
+  },
+  "F04": {
+    "image": "research-media/brace.png",
+    "alt": "BRACE 预算化重规划框架示意图",
+    "credit": "NEBULIS-Lab · BRACE Team",
+    "source": "https://nebulis-lab.com/BRACE/"
+  },
+  "F05": {
+    "image": "research-covers/f05.webp",
+    "alt": "Federated learning evaluation framework overview",
+    "credit": "Ningxin Su et al.",
+    "source": "https://ningxinsu.github.io/assets/ningxin-tkde26.pdf"
+  },
+  "R06": {
+    "image": "research-covers/r06.webp",
+    "alt": "MimicX 官方网球运动重建与机器人动作场景",
+    "credit": "NEBULIS-Lab · MimicX Team",
+    "source": "https://nebulis-lab.com/MimicX/"
+  },
+  "W07": {
+    "image": "research-covers/w07.webp",
+    "alt": "Fast-WAM 与世界动作模型范式的比较图",
+    "credit": "Tianyuan Yuan et al. · Tsinghua University / Galaxea AI",
+    "source": "https://yuantianyuan01.github.io/FastWAM/"
+  },
+  "B11": {
+    "image": "research-covers/b11.webp",
+    "alt": "RoboDojo 官方机械臂操作基准演示",
+    "credit": "RoboDojo Benchmark Team",
+    "source": "https://robodojo-benchmark.com/"
+  },
+  "B12": {
+    "image": "research-covers/b12.webp",
+    "alt": "LIBERO-Pro 官方不同扰动条件下的任务示例",
+    "credit": "Zxy-MLlab · LIBERO-Pro Team",
+    "source": "https://zxy-mllab.github.io/LIBERO-PRO-Webpage/"
+  },
+  "B13": {
+    "image": "research-covers/b13.webp",
+    "alt": "LIBERO-Plus 七类评估扰动概览",
+    "credit": "LIBERO-Plus Team",
+    "source": "https://sylvestf.github.io/LIBERO-plus/"
+  }
+}
