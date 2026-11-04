@@ -1,0 +1,110 @@
+[
+  {
+    "file": "/scene-assets/codedex/6wYeoCS.gif",
+    "source": "https://www.codedex.io/images/character_gifs/6wYeoCS.gif",
+    "size": [
+      280,
+      200
+    ],
+    "frames": 6,
+    "frameDurationMs": 160,
+    "sha256": "15b44c494c3c461921abf2cf355b6e994f6837ed8eb00311f0ccffceb084ad91",
+    "rights": "Original Cod\u00e9dex website asset, restored unmodified from supplied template capture; not CC0."
+  },
+  {
+    "file": "/scene-assets/codedex/Ai30sjf.gif",
+    "source": "https://www.codedex.io/images/character_gifs/Ai30sjf.gif",
+    "size": [
+      599,
+      506
+    ],
+    "frames": 11,
+    "frameDurationMs": 180,
+    "sha256": "642dc4bf424cae7ffdb9c9fc2bbd1ff3d124e9d7d4d9e5cbea839eecf0bcd6c0",
+    "rights": "Original Cod\u00e9dex website asset, restored unmodified from supplied template capture; not CC0."
+  },
+  {
+    "file": "/scene-assets/codedex/battle.gif",
+    "source": "https://www.codedex.io/images/character_gifs/battle.gif",
+    "size": [
+      480,
+      320
+    ],
+    "frames": 6,
+    "frameDurationMs": 180,
+    "sha256": "95fdd4c22e0a4684809fb0da4034458a7cb2781968af82cb03169a092055b655",
+    "rights": "Original Cod\u00e9dex website asset, restored unmodified from supplied template capture; not CC0."
+  },
+  {
+    "file": "/scene-assets/codedex/coin-cropped.png",
+    "source": "https://www.codedex.io/images/coin-cropped.png",
+    "size": [
+      907,
+      1033
+    ],
+    "frames": 1,
+    "frameDurationMs": null,
+    "sha256": "ee352f9602965bcf78debf9ab29345ec23512d9d97d5f9b973a073b463e3252f",
+    "rights": "Original Cod\u00e9dex website asset, restored unmodified from supplied template capture; not CC0."
+  },
+  {
+    "file": "/scene-assets/codedex/dZ7Qu9K.gif",
+    "source": "https://www.codedex.io/images/character_gifs/dZ7Qu9K.gif",
+    "size": [
+      280,
+      280
+    ],
+    "frames": 6,
+    "frameDurationMs": 230,
+    "sha256": "11efeca6254179249a114002b3858531312c32ad83f6081136f504cb017ed75b",
+    "rights": "Original Cod\u00e9dex website asset, restored unmodified from supplied template capture; not CC0."
+  },
+  {
+    "file": "/scene-assets/codedex/data-structures-and-algorithms.gif",
+    "source": "https://www.codedex.io/images/character_gifs/data-structures-and-algorithms.gif",
+    "size": [
+      400,
+      400
+    ],
+    "frames": 6,
+    "frameDurationMs": 160,
+    "sha256": "8664ff58d3db16235fdc986f3ff920d7d96088ca9b9511daf655bad929d53286",
+    "rights": "Original Cod\u00e9dex website asset, restored unmodified from supplied template capture; not CC0."
+  },
+  {
+    "file": "/scene-assets/codedex/letter.gif",
+    "source": "https://www.codedex.io/images/character_gifs/letter.gif",
+    "size": [
+      300,
+      265
+    ],
+    "frames": 36,
+    "frameDurationMs": 200,
+    "sha256": "a3e4395a8695c22c47b05c30680671d9c287e4e401a6553c13b8f1649f4b5bd1",
+    "rights": "Original Cod\u00e9dex website asset, restored unmodified from supplied template capture; not CC0."
+  },
+  {
+    "file": "/scene-assets/codedex/qOSmiVc.gif",
+    "source": "https://www.codedex.io/images/character_gifs/qOSmiVc.gif",
+    "size": [
+      480,
+      320
+    ],
+    "frames": 5,
+    "frameDurationMs": 150,
+    "sha256": "22aba97fb42dcac53fec565163851c7b6da5795ba4617c16f6f913fcb1186d5b",
+    "rights": "Original Cod\u00e9dex website asset, restored unmodified from supplied template capture; not CC0."
+  },
+  {
+    "file": "/scene-assets/codedex/tekmLsi.gif",
+    "source": "https://www.codedex.io/images/character_gifs/tekmLsi.gif",
+    "size": [
+      480,
+      430
+    ],
+    "frames": 6,
+    "frameDurationMs": 120,
+    "sha256": "09fe2da97dcd92fab928cd54d5dcf9d7b7b394c78d8088d62cc35f284a7638bf",
+    "rights": "Original Cod\u00e9dex website asset, restored unmodified from supplied template capture; not CC0."
+  }
+]

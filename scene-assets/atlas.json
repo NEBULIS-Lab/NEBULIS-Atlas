@@ -1,0 +1,1956 @@
+{
+  "tileSize": 64,
+  "sampling": "Canvas drawImage source rectangles; imageSmoothingEnabled=false; CSS image-rendering:pixelated. All rectangle coordinates are source pixels, not destination pixels.",
+  "assets": {
+    "bridge-and-dock": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-01.png",
+      "size": [
+        192,
+        256
+      ],
+      "sourceRect": [
+        0,
+        0,
+        192,
+        256
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        192,
+        254
+      ],
+      "anchor": [
+        96.0,
+        254
+      ],
+      "sha256": "816de342b39f03eeb97bc5d8837ece9d9fcc1936110207158b3ba01a1db3c95f"
+    },
+    "shadow": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-02.png",
+      "size": [
+        192,
+        192
+      ],
+      "sourceRect": [
+        0,
+        0,
+        192,
+        192
+      ],
+      "alphaBounds": [
+        59,
+        57,
+        133,
+        135
+      ],
+      "anchor": [
+        96.0,
+        135
+      ],
+      "sha256": "e6b60e7445c67f3d42f50113353e3065e790168550dd07e7e0b54b9f2a4d9eb8"
+    },
+    "cliff-and-stairs": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-03.png",
+      "size": [
+        256,
+        512
+      ],
+      "sourceRect": [
+        0,
+        0,
+        256,
+        512
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        256,
+        512
+      ],
+      "anchor": [
+        128.0,
+        512
+      ],
+      "sha256": "dab562d922d81e4de500dc9e2cb480e35825e6202728b2a0825714b8885daee1"
+    },
+    "grass-and-sand": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-04.png",
+      "size": [
+        640,
+        256
+      ],
+      "sourceRect": [
+        0,
+        0,
+        640,
+        256
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        637,
+        256
+      ],
+      "anchor": [
+        320.0,
+        256
+      ],
+      "sha256": "683b4ebc6dff10d2bf6e2bd34c24d732defdc65abcb0f5b9f509655aff8bec56"
+    },
+    "water-foam": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-05.png",
+      "size": [
+        1536,
+        192
+      ],
+      "sourceRect": [
+        0,
+        0,
+        192,
+        192
+      ],
+      "alphaBounds": [
+        55,
+        53,
+        1482,
+        139
+      ],
+      "anchor": [
+        768.0,
+        139
+      ],
+      "sha256": "eaeaab4c2211ce5babac0da55d3da096eb68ead4137a1fa060cbd93aece995c9",
+      "frames": [
+        [
+          0,
+          0,
+          192,
+          192
+        ],
+        [
+          192,
+          0,
+          192,
+          192
+        ],
+        [
+          384,
+          0,
+          192,
+          192
+        ],
+        [
+          576,
+          0,
+          192,
+          192
+        ],
+        [
+          768,
+          0,
+          192,
+          192
+        ],
+        [
+          960,
+          0,
+          192,
+          192
+        ],
+        [
+          1152,
+          0,
+          192,
+          192
+        ],
+        [
+          1344,
+          0,
+          192,
+          192
+        ]
+      ],
+      "frameAnchor": [
+        96.0,
+        137
+      ],
+      "suggestedFps": 8
+    },
+    "small-water-rock": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-06.png",
+      "size": [
+        1024,
+        128
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        128
+      ],
+      "alphaBounds": [
+        50,
+        54,
+        973,
+        77
+      ],
+      "anchor": [
+        512.0,
+        77
+      ],
+      "sha256": "56a85a84754200c9db1b20ff7f56ac20b9a65076ebdb4b60c468e38babaf66a5",
+      "frames": [
+        [
+          0,
+          0,
+          128,
+          128
+        ],
+        [
+          128,
+          0,
+          128,
+          128
+        ],
+        [
+          256,
+          0,
+          128,
+          128
+        ],
+        [
+          384,
+          0,
+          128,
+          128
+        ],
+        [
+          512,
+          0,
+          128,
+          128
+        ],
+        [
+          640,
+          0,
+          128,
+          128
+        ],
+        [
+          768,
+          0,
+          128,
+          128
+        ],
+        [
+          896,
+          0,
+          128,
+          128
+        ]
+      ],
+      "frameAnchor": [
+        64.0,
+        72
+      ],
+      "suggestedFps": 8
+    },
+    "medium-water-rock": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-07.png",
+      "size": [
+        1024,
+        128
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        128
+      ],
+      "alphaBounds": [
+        43,
+        53,
+        980,
+        87
+      ],
+      "anchor": [
+        512.0,
+        87
+      ],
+      "sha256": "02b5dea7d26c1b9ad5e4dcbfb952888255b466f201f38402f33075c5292a3445",
+      "frames": [
+        [
+          0,
+          0,
+          128,
+          128
+        ],
+        [
+          128,
+          0,
+          128,
+          128
+        ],
+        [
+          256,
+          0,
+          128,
+          128
+        ],
+        [
+          384,
+          0,
+          128,
+          128
+        ],
+        [
+          512,
+          0,
+          128,
+          128
+        ],
+        [
+          640,
+          0,
+          128,
+          128
+        ],
+        [
+          768,
+          0,
+          128,
+          128
+        ],
+        [
+          896,
+          0,
+          128,
+          128
+        ]
+      ],
+      "frameAnchor": [
+        64.0,
+        84
+      ],
+      "suggestedFps": 8
+    },
+    "large-water-rock": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-08.png",
+      "size": [
+        1024,
+        128
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        128
+      ],
+      "alphaBounds": [
+        34,
+        35,
+        997,
+        91
+      ],
+      "anchor": [
+        512.0,
+        91
+      ],
+      "sha256": "cb407bf96983b55356074d3de9164e1e1e8d0803bcf7f8536eaf505c0852fef0",
+      "frames": [
+        [
+          0,
+          0,
+          128,
+          128
+        ],
+        [
+          128,
+          0,
+          128,
+          128
+        ],
+        [
+          256,
+          0,
+          128,
+          128
+        ],
+        [
+          384,
+          0,
+          128,
+          128
+        ],
+        [
+          512,
+          0,
+          128,
+          128
+        ],
+        [
+          640,
+          0,
+          128,
+          128
+        ],
+        [
+          768,
+          0,
+          128,
+          128
+        ],
+        [
+          896,
+          0,
+          128,
+          128
+        ]
+      ],
+      "frameAnchor": [
+        64.0,
+        87
+      ],
+      "suggestedFps": 8
+    },
+    "extra-large-water-rock": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-09.png",
+      "size": [
+        1024,
+        128
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        128
+      ],
+      "alphaBounds": [
+        24,
+        34,
+        1006,
+        99
+      ],
+      "anchor": [
+        512.0,
+        99
+      ],
+      "sha256": "7c3d7f8db1d18fe516081174b0043156d43d06e2d5c1e209218ec86949ee9216",
+      "frames": [
+        [
+          0,
+          0,
+          128,
+          128
+        ],
+        [
+          128,
+          0,
+          128,
+          128
+        ],
+        [
+          256,
+          0,
+          128,
+          128
+        ],
+        [
+          384,
+          0,
+          128,
+          128
+        ],
+        [
+          512,
+          0,
+          128,
+          128
+        ],
+        [
+          640,
+          0,
+          128,
+          128
+        ],
+        [
+          768,
+          0,
+          128,
+          128
+        ],
+        [
+          896,
+          0,
+          128,
+          128
+        ]
+      ],
+      "frameAnchor": [
+        64.0,
+        96
+      ],
+      "suggestedFps": 8
+    },
+    "water-color": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-10.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "anchor": [
+        32.0,
+        64
+      ],
+      "sha256": "5ef30a00bbff22590eabb5acabb8aca6cc415557e7ab5f60db07714f01a4dba1"
+    },
+    "mushroom-small": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-11.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        25,
+        24,
+        42,
+        43
+      ],
+      "anchor": [
+        32.0,
+        43
+      ],
+      "sha256": "aae1d14745a5886b3217498f3ad1f8c0a82f3f1dc644ac2efd25c3f36f90eae7"
+    },
+    "mushroom-medium": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-12.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        21,
+        20,
+        47,
+        47
+      ],
+      "anchor": [
+        32.0,
+        47
+      ],
+      "sha256": "7adc58201b1db819ff18957eeacf044f4551beb5be09725587d8293cc2876d5a"
+    },
+    "mushroom-large": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-13.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        14,
+        12,
+        52,
+        49
+      ],
+      "anchor": [
+        32.0,
+        49
+      ],
+      "sha256": "5afe95e862aaa047064a1b189f19d97cf10363db4d4953218d4c4e8a44ee3838"
+    },
+    "rock-small": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-14.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        24,
+        19,
+        44,
+        37
+      ],
+      "anchor": [
+        32.0,
+        37
+      ],
+      "sha256": "e4a6132577721eb8837cc23fe5e25644c4d866da24c5e663fce58d86f4638f53"
+    },
+    "rock-medium": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-15.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        18,
+        18,
+        47,
+        40
+      ],
+      "anchor": [
+        32.0,
+        40
+      ],
+      "sha256": "f51cf8d4647febc196a4b5e7afc80badaf50c76bf6309e548e11ffb1898ecb79"
+    },
+    "rock-large": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-16.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        12,
+        15,
+        56,
+        49
+      ],
+      "anchor": [
+        32.0,
+        49
+      ],
+      "sha256": "edc4335ad52060a562b21fef868c64576d33b96a6a97ac5ba1448b6fb0a939c1"
+    },
+    "bush-small": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-17.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        16,
+        21,
+        47,
+        43
+      ],
+      "anchor": [
+        32.0,
+        43
+      ],
+      "sha256": "fae1719e2b2de9bd708598cdd2a0d0a5ca09aa88630dc6b52a80957f6a465d31"
+    },
+    "bush-medium": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-18.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        11,
+        17,
+        53,
+        49
+      ],
+      "anchor": [
+        32.0,
+        49
+      ],
+      "sha256": "f94b5fa5aac1b62b58d9389c5524bebd0d99a4193749e41a505642bde965a6a8"
+    },
+    "bush-large": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-19.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        2,
+        11,
+        63,
+        53
+      ],
+      "anchor": [
+        32.0,
+        53
+      ],
+      "sha256": "fa07501a73b22ae6d96297dfc5d8dad81791afe8751b8a40fb6ced4dfe45c3d5"
+    },
+    "sprout-small": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-20.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        22,
+        23,
+        44,
+        46
+      ],
+      "anchor": [
+        32.0,
+        46
+      ],
+      "sha256": "68f57683bc1f512d34fc0107c6b4fb33904a3298295df09f3a2d4a05e977821b"
+    },
+    "sprout-large": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-21.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        20,
+        15,
+        52,
+        50
+      ],
+      "anchor": [
+        32.0,
+        50
+      ],
+      "sha256": "26a7592cbc3ac76b63a871cd40261c45728eca9c520a39000f1f2cdc5bfda7fd"
+    },
+    "pumpkin-small": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-22.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        11,
+        12,
+        51,
+        51
+      ],
+      "anchor": [
+        32.0,
+        51
+      ],
+      "sha256": "54d6fce705950699ae4752df20e9a0019571c155ad13f4f7bee2eb558f0eb233"
+    },
+    "pumpkin-large": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-23.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        5,
+        10,
+        61,
+        55
+      ],
+      "anchor": [
+        32.0,
+        55
+      ],
+      "sha256": "9a7ef9a9695aba24dd43d3bbf97e7f0c67b10f61e3bba8ebf69ba2aefe5628d5"
+    },
+    "bone-long": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-24.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        15,
+        16,
+        51,
+        47
+      ],
+      "anchor": [
+        32.0,
+        47
+      ],
+      "sha256": "4515949922edc5533e07e60cf6b7212028e96aba3f5dcff89f2db9ea24a720c1"
+    },
+    "bone-short": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-25.png",
+      "size": [
+        64,
+        64
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "alphaBounds": [
+        24,
+        20,
+        48,
+        44
+      ],
+      "anchor": [
+        32.0,
+        44
+      ],
+      "sha256": "d09c7ef588b00cdbdc9e6d5239a6cb45804828410f4c50019f92a11f6472f376"
+    },
+    "warning-sign": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-26.png",
+      "size": [
+        64,
+        128
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        128
+      ],
+      "alphaBounds": [
+        7,
+        3,
+        59,
+        104
+      ],
+      "anchor": [
+        32.0,
+        104
+      ],
+      "sha256": "bbf9170c41a2bd10f4e10942407f9c90c3a4f338f5fe454a4cc7fa0b287fafef"
+    },
+    "direction-sign": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-27.png",
+      "size": [
+        64,
+        128
+      ],
+      "sourceRect": [
+        0,
+        0,
+        64,
+        128
+      ],
+      "alphaBounds": [
+        2,
+        15,
+        61,
+        105
+      ],
+      "anchor": [
+        32.0,
+        105
+      ],
+      "sha256": "c3da63203ae56798b0188fc09c376bdb7ea6de74a8c1930c4ec6f7d02b5881ac"
+    },
+    "scarecrow": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-28.png",
+      "size": [
+        192,
+        192
+      ],
+      "sourceRect": [
+        0,
+        0,
+        192,
+        192
+      ],
+      "alphaBounds": [
+        54,
+        48,
+        141,
+        169
+      ],
+      "anchor": [
+        96.0,
+        169
+      ],
+      "sha256": "8ef2e9479438091df9622dd4aa4f943b2454916fadc7975cfa1f39d30231eb68"
+    },
+    "construction": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-29.png",
+      "size": [
+        128,
+        192
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "alphaBounds": [
+        17,
+        72,
+        115,
+        174
+      ],
+      "anchor": [
+        64.0,
+        174
+      ],
+      "sha256": "75998fbb9dff099c55410bf1cd3a7e0eeb61b0d309942beccdf56a5a756b7c62"
+    },
+    "red-workshop": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-30.png",
+      "size": [
+        128,
+        192
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "alphaBounds": [
+        7,
+        26,
+        120,
+        171
+      ],
+      "anchor": [
+        64.0,
+        171
+      ],
+      "sha256": "5e25c872df37f63e4432230e9c5d762b4de2f34956799d1127cce1963f60e1a9"
+    },
+    "blue-workshop-animation": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-31.png",
+      "size": [
+        1024,
+        192
+      ],
+      "sourceRect": [
+        0,
+        0,
+        256,
+        192
+      ],
+      "alphaBounds": [
+        63,
+        16,
+        959,
+        171
+      ],
+      "anchor": [
+        512.0,
+        171
+      ],
+      "sha256": "c22c288b5bb4f43eeb3054389642dda0d5a7c7bde0f79f15b0ea94282b3818a8",
+      "frames": [
+        [
+          0,
+          0,
+          256,
+          192
+        ],
+        [
+          256,
+          0,
+          256,
+          192
+        ],
+        [
+          512,
+          0,
+          256,
+          192
+        ],
+        [
+          768,
+          0,
+          256,
+          192
+        ]
+      ],
+      "frameAnchor": [
+        128.0,
+        171
+      ],
+      "suggestedFps": 8
+    },
+    "destroyed-workshop": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-32.png",
+      "size": [
+        256,
+        192
+      ],
+      "sourceRect": [
+        0,
+        0,
+        256,
+        192
+      ],
+      "alphaBounds": [
+        73,
+        66,
+        188,
+        174
+      ],
+      "anchor": [
+        128.0,
+        174
+      ],
+      "sha256": "beca37f966313c58310cb4475688494ac2f54dfd056051a6dc74e607c01359d7"
+    },
+    "construction-frame": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-33.png",
+      "size": [
+        256,
+        192
+      ],
+      "sourceRect": [
+        0,
+        0,
+        256,
+        192
+      ],
+      "alphaBounds": [
+        65,
+        28,
+        174,
+        179
+      ],
+      "anchor": [
+        128.0,
+        179
+      ],
+      "sha256": "349a2b5a33226d59c2408263f94e29bb341065ef916d972fc4ea314f4b6b1c15"
+    },
+    "red-workshop-animation": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-34.png",
+      "size": [
+        1024,
+        192
+      ],
+      "sourceRect": [
+        0,
+        0,
+        256,
+        192
+      ],
+      "alphaBounds": [
+        63,
+        16,
+        959,
+        171
+      ],
+      "anchor": [
+        512.0,
+        171
+      ],
+      "sha256": "4e422cfd3a0975ef16763839810ff5c14c38d10aedf84e0a035e7a7e139e59cc",
+      "frames": [
+        [
+          0,
+          0,
+          256,
+          192
+        ],
+        [
+          256,
+          0,
+          256,
+          192
+        ],
+        [
+          512,
+          0,
+          256,
+          192
+        ],
+        [
+          768,
+          0,
+          256,
+          192
+        ]
+      ],
+      "frameAnchor": [
+        128.0,
+        171
+      ],
+      "suggestedFps": 8
+    },
+    "blue-castle": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-35.png",
+      "size": [
+        320,
+        256
+      ],
+      "sourceRect": [
+        0,
+        0,
+        320,
+        256
+      ],
+      "alphaBounds": [
+        12,
+        45,
+        308,
+        250
+      ],
+      "anchor": [
+        160.0,
+        250
+      ],
+      "sha256": "616cfeec6287ede0b368a14332afc9ac34462dee5bb3f5a8f7595464c8b2ca53"
+    },
+    "castle-construction": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-36.png",
+      "size": [
+        320,
+        256
+      ],
+      "sourceRect": [
+        0,
+        0,
+        320,
+        256
+      ],
+      "alphaBounds": [
+        16,
+        140,
+        304,
+        247
+      ],
+      "anchor": [
+        160.0,
+        247
+      ],
+      "sha256": "3850894fa86cfd08fe94834d9da764c7ff426ae6e17ccf2c6295224225d76def"
+    },
+    "castle-ruin": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-37.png",
+      "size": [
+        320,
+        256
+      ],
+      "sourceRect": [
+        0,
+        0,
+        320,
+        256
+      ],
+      "alphaBounds": [
+        0,
+        136,
+        319,
+        254
+      ],
+      "anchor": [
+        160.0,
+        254
+      ],
+      "sha256": "bdfb6452c3e16bd22ad4d36d8808063f124dadb8c00c84376e425d6f62f0027e"
+    },
+    "red-castle": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-38.png",
+      "size": [
+        320,
+        256
+      ],
+      "sourceRect": [
+        0,
+        0,
+        320,
+        256
+      ],
+      "alphaBounds": [
+        12,
+        45,
+        308,
+        250
+      ],
+      "anchor": [
+        160.0,
+        250
+      ],
+      "sha256": "b64221f532aa3f6ec1074a5e0f36e9c3337a370f62ce366d6872535d7940b771"
+    },
+    "blue-house": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-39.png",
+      "size": [
+        128,
+        192
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "alphaBounds": [
+        10,
+        24,
+        118,
+        172
+      ],
+      "anchor": [
+        64.0,
+        172
+      ],
+      "sha256": "9020e35116ffde6d22a8c854d7117d94e99e19bd582c3c3855ece449d7d2af6d"
+    },
+    "house-construction": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-40.png",
+      "size": [
+        128,
+        192
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "alphaBounds": [
+        16,
+        90,
+        112,
+        184
+      ],
+      "anchor": [
+        64.0,
+        184
+      ],
+      "sha256": "0718972905f8fdb47e1db7b80ccc6be4cc73f4d62e273cebafce09ff46990c69"
+    },
+    "house-ruin": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-41.png",
+      "size": [
+        128,
+        192
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "alphaBounds": [
+        16,
+        83,
+        110,
+        166
+      ],
+      "anchor": [
+        64.0,
+        166
+      ],
+      "sha256": "f7a1baca074726848449ca78d437e236ea989121c61aac413b74e6f3896e7441"
+    },
+    "red-house": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-42.png",
+      "size": [
+        128,
+        192
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "alphaBounds": [
+        10,
+        24,
+        118,
+        172
+      ],
+      "anchor": [
+        64.0,
+        172
+      ],
+      "sha256": "27f027830c1b5499d99075e87c1ea5f5c26bf49ecfd6ada758ceb5da2d7b058e"
+    },
+    "blue-tower": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-43.png",
+      "size": [
+        128,
+        256
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        256
+      ],
+      "alphaBounds": [
+        7,
+        52,
+        121,
+        235
+      ],
+      "anchor": [
+        64.0,
+        235
+      ],
+      "sha256": "2d39450c366fc1ebc0e5a290a860dcf21ebd7d4a22d16eb5cca23e6d4de94ca9"
+    },
+    "tower-construction": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-44.png",
+      "size": [
+        128,
+        256
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        256
+      ],
+      "alphaBounds": [
+        13,
+        148,
+        115,
+        232
+      ],
+      "anchor": [
+        64.0,
+        232
+      ],
+      "sha256": "e4975c74fcf9874b5298ced752f79dca4c116c4f8a2a22784e0b8985ee81c905"
+    },
+    "tower-ruin": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-45.png",
+      "size": [
+        128,
+        256
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        256
+      ],
+      "alphaBounds": [
+        1,
+        144,
+        126,
+        230
+      ],
+      "anchor": [
+        64.0,
+        230
+      ],
+      "sha256": "e92d9ac401698e22171fd054ddcd9ce2f2b41cb5ad171e2a18c92ab511245a70"
+    },
+    "red-tower": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-46.png",
+      "size": [
+        128,
+        256
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        256
+      ],
+      "alphaBounds": [
+        7,
+        52,
+        121,
+        235
+      ],
+      "anchor": [
+        64.0,
+        235
+      ],
+      "sha256": "bec8cffab0b56b42345c754132b9ab911ae02b9f59d5413b91a1cdf41296083a"
+    },
+    "gold-bag": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-47.png",
+      "size": [
+        128,
+        128
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        128
+      ],
+      "alphaBounds": [
+        48,
+        51,
+        91,
+        99
+      ],
+      "anchor": [
+        64.0,
+        99
+      ],
+      "sha256": "ee9a2018e179b95839105d0b6d39725f22ae57e28d73532421fb1994c4b4de78"
+    },
+    "gold-animation": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-48.png",
+      "size": [
+        1024,
+        128
+      ],
+      "sourceRect": [
+        0,
+        0,
+        128,
+        128
+      ],
+      "alphaBounds": [
+        43,
+        48,
+        982,
+        86
+      ],
+      "anchor": [
+        512.0,
+        86
+      ],
+      "sha256": "ed5ead99086725adf5268e950a24cced9ed14530d641dba6326933986bfd869e",
+      "frames": [
+        [
+          0,
+          0,
+          128,
+          128
+        ],
+        [
+          128,
+          0,
+          128,
+          128
+        ],
+        [
+          256,
+          0,
+          128,
+          128
+        ],
+        [
+          384,
+          0,
+          128,
+          128
+        ],
+        [
+          512,
+          0,
+          128,
+          128
+        ],
+        [
+          640,
+          0,
+          128,
+          128
+        ],
+        [
+          768,
+          0,
+          128,
+          128
+        ],
+        [
+          896,
+          0,
+          128,
+          128
+        ]
+      ],
+      "frameAnchor": [
+        64.0,
+        86
+      ],
+      "suggestedFps": 8
+    },
+    "gold-mine-active": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-49.png",
+      "size": [
+        192,
+        128
+      ],
+      "sourceRect": [
+        0,
+        0,
+        192,
+        128
+      ],
+      "alphaBounds": [
+        12,
+        5,
+        181,
+        126
+      ],
+      "anchor": [
+        96.0,
+        126
+      ],
+      "sha256": "c5205d8181d488adce612f8cf5b1546d4bd793d0ab1dd2956aa86d22c861d37f"
+    },
+    "gold-mine-ruin": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-50.png",
+      "size": [
+        192,
+        128
+      ],
+      "sourceRect": [
+        0,
+        0,
+        192,
+        128
+      ],
+      "alphaBounds": [
+        14,
+        20,
+        178,
+        115
+      ],
+      "anchor": [
+        96.0,
+        115
+      ],
+      "sha256": "b567b295530bf75e984bdcbfc8cf89320d3cb324b55efe15fa458af17ed652ee"
+    },
+    "gold-mine": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-51.png",
+      "size": [
+        192,
+        128
+      ],
+      "sourceRect": [
+        0,
+        0,
+        192,
+        128
+      ],
+      "alphaBounds": [
+        12,
+        5,
+        181,
+        119
+      ],
+      "anchor": [
+        96.0,
+        119
+      ],
+      "sha256": "83b6d5d74b84c565950f01b325bd93b0517ac6c19e719921095b71628065270a"
+    },
+    "pine-tree-animation": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-52.png",
+      "size": [
+        768,
+        576
+      ],
+      "sourceRect": [
+        0,
+        0,
+        192,
+        192
+      ],
+      "alphaBounds": [
+        39,
+        4,
+        729,
+        560
+      ],
+      "anchor": [
+        384.0,
+        560
+      ],
+      "sha256": "63a1ae03991621528eab44d0840a75a923583a7bbb999311de27799ab21b4d3e",
+      "frames": [
+        [
+          0,
+          0,
+          192,
+          192
+        ],
+        [
+          192,
+          0,
+          192,
+          192
+        ],
+        [
+          384,
+          0,
+          192,
+          192
+        ],
+        [
+          576,
+          0,
+          192,
+          192
+        ],
+        [
+          0,
+          192,
+          192,
+          192
+        ],
+        [
+          192,
+          192,
+          192,
+          192
+        ]
+      ],
+      "frameAnchor": [
+        96.0,
+        178
+      ],
+      "suggestedFps": 6
+    }
+  },
+  "terrain": {
+    "file": "/scene-assets/tiny-swords/tiny-swords-04.png",
+    "grass": {
+      "topLeft": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "top": [
+        64,
+        0,
+        64,
+        64
+      ],
+      "topRight": [
+        128,
+        0,
+        64,
+        64
+      ],
+      "left": [
+        0,
+        64,
+        64,
+        64
+      ],
+      "center": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "right": [
+        128,
+        64,
+        64,
+        64
+      ],
+      "bottomLeft": [
+        0,
+        128,
+        64,
+        64
+      ],
+      "bottom": [
+        64,
+        128,
+        64,
+        64
+      ],
+      "bottomRight": [
+        128,
+        128,
+        64,
+        64
+      ]
+    },
+    "sand": {
+      "topLeft": [
+        320,
+        0,
+        64,
+        64
+      ],
+      "top": [
+        384,
+        0,
+        64,
+        64
+      ],
+      "topRight": [
+        448,
+        0,
+        64,
+        64
+      ],
+      "left": [
+        320,
+        64,
+        64,
+        64
+      ],
+      "center": [
+        384,
+        64,
+        64,
+        64
+      ],
+      "right": [
+        448,
+        64,
+        64,
+        64
+      ],
+      "bottomLeft": [
+        320,
+        128,
+        64,
+        64
+      ],
+      "bottom": [
+        384,
+        128,
+        64,
+        64
+      ],
+      "bottomRight": [
+        448,
+        128,
+        64,
+        64
+      ]
+    },
+    "cliffTop": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-03.png",
+      "topLeft": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "top": [
+        64,
+        0,
+        64,
+        64
+      ],
+      "topRight": [
+        128,
+        0,
+        64,
+        64
+      ],
+      "left": [
+        0,
+        64,
+        64,
+        64
+      ],
+      "center": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "right": [
+        128,
+        64,
+        64,
+        64
+      ],
+      "bottomLeft": [
+        0,
+        128,
+        64,
+        64
+      ],
+      "bottom": [
+        64,
+        128,
+        64,
+        64
+      ],
+      "bottomRight": [
+        128,
+        128,
+        64,
+        64
+      ]
+    },
+    "cliffFace": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-03.png",
+      "left": [
+        0,
+        192,
+        64,
+        64
+      ],
+      "center": [
+        64,
+        192,
+        64,
+        64
+      ],
+      "right": [
+        128,
+        192,
+        64,
+        64
+      ]
+    },
+    "stairs": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-03.png",
+      "left": [
+        0,
+        448,
+        64,
+        64
+      ],
+      "center": [
+        64,
+        448,
+        64,
+        64
+      ],
+      "right": [
+        128,
+        448,
+        64,
+        64
+      ]
+    },
+    "bridge": {
+      "file": "/scene-assets/tiny-swords/tiny-swords-01.png",
+      "horizontalStart": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "horizontalMiddle": [
+        64,
+        0,
+        64,
+        64
+      ],
+      "horizontalEnd": [
+        128,
+        0,
+        64,
+        64
+      ],
+      "verticalStart": [
+        0,
+        64,
+        64,
+        64
+      ],
+      "verticalMiddle": [
+        0,
+        128,
+        64,
+        64
+      ],
+      "verticalEnd": [
+        0,
+        192,
+        64,
+        64
+      ]
+    }
+  },
+  "renderOrder": [
+    "sea solid color",
+    "water foam",
+    "sand island footprint",
+    "grass interior footprint",
+    "cliffs / stairs / bridges",
+    "buildings and trees sorted by anchor y",
+    "small props",
+    "characters",
+    "labels and interaction targets"
+  ],
+  "waterColor": "#47aba9",
+  "source": "https://www.spritefusion.com/downloads/tilesets/tiny-swords.zip",
+  "license": "CC0-1.0 (Sprite Fusion archived Tiny Swords distribution; not current Free Pack)"
+}
