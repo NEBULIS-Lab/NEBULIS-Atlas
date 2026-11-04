@@ -1,0 +1,99 @@
+{
+  "R02": {
+    "image": "research-media/aloha.jpg",
+    "alt": "ALOHA 机械臂执行电池插槽操作",
+    "credit": "Tony Z. Zhao et al. · ALOHA / ACT",
+    "source": "https://tonyzhaozh.github.io/aloha/",
+    "caption": "ACT 官方电池插槽任务演示节选。",
+    "video": "research-media/aloha.mp4"
+  },
+  "R03": {
+    "image": "research-media/diffusion-policy.jpg",
+    "alt": "Diffusion Policy 机械臂翻转杯子的演示",
+    "credit": "Cheng Chi et al. · Diffusion Policy",
+    "source": "https://diffusion-policy.cs.columbia.edu/",
+    "caption": "官方杯子翻转演示节选；原视频标注为 4 倍速。",
+    "video": "research-media/diffusion-policy.mp4"
+  },
+  "DS05": {
+    "image": "research-media/droid.jpg",
+    "alt": "DROID 机械臂操作苹果的实机画面",
+    "credit": "DROID Dataset Team",
+    "source": "https://droid-dataset.github.io/",
+    "caption": "官方 apple_droid 实机策略演示节选。",
+    "video": "research-media/droid.mp4"
+  },
+  "B06": {
+    "image": "research-media/robotwin.jpg",
+    "alt": "RoboTwin 双臂任务在不同外观条件下的仿真画面",
+    "credit": "RoboTwin Team",
+    "source": "https://robotwin-platform.github.io/",
+    "caption": "RoboTwin 2.0 官方域随机化演示节选。",
+    "video": "research-media/robotwin.mp4"
+  },
+  "M05": {
+    "image": "research-media/robotwin.jpg",
+    "alt": "RoboTwin 双臂任务在不同外观条件下的仿真画面",
+    "credit": "RoboTwin Team",
+    "source": "https://robotwin-platform.github.io/",
+    "caption": "RoboTwin 2.0 官方域随机化演示节选。",
+    "video": "research-media/robotwin.mp4"
+  },
+  "DS07": {
+    "image": "research-media/robotwin-od.png",
+    "alt": "RoboTwin-OD 物体资产示例",
+    "credit": "RoboTwin Team",
+    "source": "https://robotwin-platform.github.io/",
+    "caption": "官方项目页中的 RoboTwin-OD 物体集合图。"
+  },
+  "SIM03": {
+    "image": "research-media/maniskill.jpg",
+    "alt": "ManiSkill 多种机器人与室内操作仿真场景",
+    "credit": "ManiSkill Team; scene datasets: AI2THOR and ReplicaCAD",
+    "source": "https://github.com/mani-skill/ManiSkill",
+    "caption": "官方环境与机器人场景合集，包含光线追踪渲染画面。"
+  },
+  "W03": {
+    "image": "research-media/dino-wm.png",
+    "alt": "DINO-WM 视觉特征预测与测试时规划示意图",
+    "credit": "Gaoyue Zhou, Hengkai Pan, Yann LeCun, Lerrel Pinto",
+    "source": "https://dino-wm.github.io/",
+    "caption": "官方方法概览：从视觉特征预测到测试时规划。"
+  },
+  "B08": {
+    "image": "research-media/partnr.png",
+    "alt": "PARTNR 任务生成流程与人机协作仿真场景",
+    "credit": "Meta FAIR · PARTNR Team",
+    "source": "https://aihabitat.org/partnr/",
+    "caption": "PARTNR 官方任务生成与筛选流程，包含人机协作仿真画面。"
+  },
+  "M04": {
+    "image": "research-media/partnr.png",
+    "alt": "PARTNR 任务生成流程与人机协作仿真场景",
+    "credit": "Meta FAIR · PARTNR Team",
+    "source": "https://aihabitat.org/partnr/",
+    "caption": "PARTNR 官方任务生成与筛选流程，包含人机协作仿真画面。"
+  },
+  "F01": {
+    "image": "research-media/bas-vla.png",
+    "alt": "BAS-VLA 任务语义动作校准方法概览",
+    "credit": "NEBULIS-Lab · BAS-VLA Team",
+    "source": "https://nebulis-lab.com/Beyond-Appearance-Shifts/",
+    "caption": "实验室已公开项目页中的 BAS-VLA 方法总览。"
+  },
+  "F02": {
+    "image": "research-media/d-jepa.jpg",
+    "alt": "D-JEPA 与 Native VLA 的 RoboTwin 仿真并排画面",
+    "credit": "NEBULIS-Lab · D-JEPA Team",
+    "source": "https://nebulis-lab.com/D-JEPA/",
+    "caption": "已公开项目页中的 RoboTwin 策略对照演示节选。",
+    "video": "research-media/d-jepa.mp4"
+  },
+  "F04": {
+    "image": "research-media/brace.png",
+    "alt": "BRACE 预算化重规划框架示意图",
+    "credit": "NEBULIS-Lab · BRACE Team",
+    "source": "https://nebulis-lab.com/BRACE/",
+    "caption": "实验室已公开项目页中的 BRACE 框架总览。"
+  }
+}

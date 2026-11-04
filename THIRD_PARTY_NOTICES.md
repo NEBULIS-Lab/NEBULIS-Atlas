@@ -1,27 +1,19 @@
-# Third-party notices
+# Credits and third-party notices
 
-## Codédex source material
+## Identity and original artwork
 
-Original website: https://www.codedex.io/
+The NEBULIS-Lab logo is supplied by the laboratory's public website repository. The research archipelago is an original image generated for this atlas; its brief and origin are documented in [map-artwork.md](docs/map-artwork.md).
 
-The captured visual design, text, artwork, brand, fonts and course data remain the property of their respective owners. This study reconstruction does not transfer or relicense those rights. Asset sources are recorded in `docs/asset-provenance.json`; page sources are in `src/routes.json`.
+The visual atmosphere is inspired by Codédex. This atlas is a separate NEBULIS-Lab research resource guide, not affiliated with Codédex. The deployed site does not include the earlier captured Codédex pages, course text, scene artwork or application runtimes.
 
-## Pyodide
+## Pixel font
 
-Bundled npm package version: **314.0.7**.
-Source: https://github.com/pyodide/pyodide
-License: Mozilla Public License 2.0; license text is distributed in `public/vendor/pyodide/LICENSE`. The bundled Python runtime and standard library include their upstream component licenses; consult the Pyodide distribution and CPython sources for their respective notices.
+Press Start 2P by CodeMan38 is distributed under the SIL Open Font License 1.1. The bundled license is [public/atlas/FONT-LICENSE.txt](public/atlas/FONT-LICENSE.txt). The font was obtained from Google Fonts; the original template's proprietary pixel fonts are not used.
 
-## sql.js / SQLite
+## Scientific media and research links
 
-Source: https://github.com/sql-js/sql.js
-sql.js uses the MIT license, included at `public/vendor/sqljs/LICENSE`. SQLite is public domain. No changes were made to the bundled runtime binaries.
+Research images and short video excerpts belong to their respective project teams. Source URLs, credits, excerpt timestamps and any explicit rights information are recorded in [media-sources.md](docs/media-sources.md), and credits appear beside media in the atlas. These project demonstrations are presented as attributed educational references. This repository does not grant a license to third-party papers, datasets or media; follow each original project's terms for further use.
 
-## REA
+## Development dependency
 
-Analysis tool: https://github.com/morluto/rea · version 6.8.0 · MIT.
-REA was used to investigate the public frontend and is not bundled in the website runtime. Its generated analysis summary is retained under `docs/rea-analysis.json`.
-
-## Browser tooling
-
-Playwright is a development dependency under Apache-2.0. It is not loaded by the deployed website.
+Playwright is used only for the optional local browser smoke check and is licensed under Apache-2.0. No Playwright code or browser binary is included in the static website.

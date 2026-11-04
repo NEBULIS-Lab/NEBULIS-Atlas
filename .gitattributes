@@ -1,3 +1,2 @@
-src/pages/** -whitespace linguist-generated=true
-public/assets/** -whitespace linguist-vendored=true
-public/vendor/** -whitespace linguist-vendored=true
+public/atlas/*.woff2 linguist-vendored=true
+public/research-media/** linguist-vendored=true

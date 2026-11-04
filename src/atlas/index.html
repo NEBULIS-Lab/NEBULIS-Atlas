@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101321">
+  <meta name="description" content="NEBULIS-Lab 科研入门资源地图。探索机器人学习、具身智能、世界模型、多智能体协作与分布式 AI，发现论文、开源实现、数据集和评测环境。">
+  <meta property="og:title" content="NEBULIS Research Adventure">
+  <meta property="og:description" content="Embark on an Embodied AI Adventure with NEBULIS-Lab">
+  <meta property="og:type" content="website">
+  <meta name="atlas-base" content="{{BASE}}">
+  <title>NEBULIS Research Adventure</title>
+  <link rel="icon" href="{{BASE}}/atlas/lab-logo.png">
+  <link rel="preload" href="{{BASE}}/atlas/press-start-2p.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="{{BASE}}/atlas/style.css">
+  <script type="module" src="{{BASE}}/atlas/app.mjs"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳转到内容</a>
+  <header class="site-header">
+    <a class="brand" href="#/" aria-label="NEBULIS Research Adventure 首页"><img src="{{BASE}}/atlas/lab-logo.png" alt="" width="38" height="38"><span>NEBULIS<span class="brand-sub">RESEARCH ADVENTURE</span></span></a>
+    <nav class="desktop-nav" aria-label="主导航"><a href="#/" data-nav="map">Explore the map</a><a href="#/library" data-nav="library">Resource library</a><a href="#/journeys" data-nav="journeys">Learning paths</a><a href="#/frontier" data-nav="frontier">Lab frontier <span>↗</span></a></nav>
+    <div class="header-actions"><button class="search-trigger" data-action="search" aria-label="搜索资料"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><span>Search</span><kbd>/</kbd></button><button class="mobile-toggle" data-action="menu" aria-label="打开导航" aria-expanded="false">☰</button></div>
+  </header>
+  <nav class="mobile-nav" aria-label="手机导航" hidden><a href="#/">探索地图</a><a href="#/library">资源目录</a><a href="#/journeys">学习路线</a><a href="#/frontier">实验室前沿</a></nav>
+  <main id="main" tabindex="-1"><div class="loading-state"><span class="pixel-loader"></span><p>Preparing your adventure…</p></div></main>
+  <footer class="site-footer"><div><a class="footer-brand" href="#/">NEBULIS<span>RESEARCH ADVENTURE</span></a><p>A little curiosity. A world to explore.</p></div><div class="footer-links"><a href="https://nebulis-lab.com/" target="_blank" rel="noopener noreferrer">NEBULIS-Lab ↗</a><a href="https://github.com/NEBULIS-Lab/NEBULIS-Atlas" target="_blank" rel="noopener noreferrer">GitHub ↗</a><a href="#/about">About this atlas</a></div><div class="footer-bottom"><span>Made for curious minds · NEBULIS-Lab @ HKUST(GZ)</span><span>All paths are open. Choose your own adventure.</span></div></footer>
+  <dialog id="search-dialog" class="search-dialog"><div class="search-top"><label for="global-search">Find your next discovery</label><button class="icon-button" data-action="close-dialog" aria-label="关闭搜索">×</button></div><div class="search-field"><span aria-hidden="true">⌕</span><input id="global-search" type="search" placeholder="搜索论文、工具、数据集或关键词…" autocomplete="off"><kbd>ESC</kbd></div><div id="global-results" class="global-results"></div><div class="search-hint">按名称或研究方向搜索 · 点击进入资源详情</div></dialog>
+  <dialog id="term-dialog" class="term-dialog"><button class="icon-button" data-action="close-dialog" aria-label="关闭术语说明">×</button><span class="eyebrow">FIELD NOTES / 术语手册</span><div id="term-content"></div></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <noscript><p class="noscript">请启用 JavaScript 浏览交互地图。资源目录也可在 <a href="https://github.com/NEBULIS-Lab/NEBULIS-Atlas/tree/main/content">GitHub content 目录</a>中查看。</p></noscript>
+</body>
+</html>

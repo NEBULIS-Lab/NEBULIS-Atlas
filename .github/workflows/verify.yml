@@ -1,4 +1,4 @@
-name: Verify local reconstruction
+name: Verify research atlas
 on:
   push:
     branches: [main]
@@ -13,20 +13,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-          cache: npm
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: npm ci
-      - run: npm test
-      - run: npm run build -- --base /NEBULIS-Atlas
-      - run: npx playwright install --with-deps chromium
-      - run: |
-          BASE_PATH=/NEBULIS-Atlas npm start > /tmp/atlas-server.log 2>&1 &
-          for i in $(seq 1 30); do curl --fail http://127.0.0.1:4387/NEBULIS-Atlas/ && break || sleep 1; done
-          TEST_BASE=/NEBULIS-Atlas npm run test:e2e
-      - uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: browser-verification
-          path: test-results/
+      - run: python3 scripts/check-content.py
+      - run: node --check src/atlas/app.mjs
+      - run: python3 scripts/build.py --base /NEBULIS-Atlas --out dist-pages
