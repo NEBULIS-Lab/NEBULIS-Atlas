@@ -15,7 +15,9 @@
 - [x] Implement navigation menus, theme, course filtering/search, local profile/progress, browser code execution and local build previews.
 - [x] Verify desktop/mobile rendering, missing resources, internal links, persistence and code execution using browser tests.
 - [x] Document startup, capture provenance, supported behavior and coverage gaps.
-- [ ] Commit and push source and deployable output; verify repository and available hosting.
+- [x] Commit and push source and deployable output; verify repository and available hosting.
+
+Deployment verified on 2026-11-04 at https://nebulis-lab.com/NEBULIS-Atlas/. GitHub Pages and cloud verification succeeded. All 17 browser checks passed against the live deployment with zero browser errors or external requests.
 
 ## Review focus
 - All local pages/resources must work beneath a repository URL prefix.

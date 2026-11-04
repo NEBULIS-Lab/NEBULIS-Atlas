@@ -44,7 +44,9 @@ Browser tests cover local search, profile creation, Python execution, SQL data, 
 
 ## GitHub Pages
 
-The deployable site is published in the **`gh-pages` branch**. Configure repository **Settings → Pages → Deploy from a branch → `gh-pages` / root** if Pages has not already been enabled. The source repository is not itself a live website; hosting availability is tracked separately.
+The live site is **[nebulis-lab.com/NEBULIS-Atlas](https://nebulis-lab.com/NEBULIS-Atlas/)**, published from the **`gh-pages` branch**. The default GitHub Pages address redirects to this organization domain.
+
+Deployment was verified on 2026-11-04: GitHub Pages and the cloud verification workflow succeeded; all 17 browser checks passed against the live site, with no browser errors, missing resources or requests outside the hosting origin. The three state unit tests also passed.
 
 For repository-path deployment:
 
