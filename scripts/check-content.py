@@ -36,3 +36,18 @@ for id, m in media.items():
             assert (root / 'public' / m[kind]).is_file(), (id, kind)
     assert m['credit'] and m['source'] and m['alt'], id
 print(f"Catalog OK: {len(resources)} resources, {len(islands)} regions, {len(catalog['journeys'])} journeys, {len(terms)} terms, {len(media)} media entries")
+
+world = json.loads((root / 'content/world.json').read_text())
+atlas = json.loads((root / 'public/scene-assets/atlas.json').read_text())
+assert {r['id'] for r in world['regions']} == island_ids, 'Scene/catalog region mismatch'
+for region in world['regions']:
+    assert all(0 <= left <= right for left, right in region['shape']), region['id']
+    assert all(name in atlas['assets'] for name, *_ in region['buildings']), region['id']
+    assert (root / 'public/scene-assets/codedex' / region['character']).is_file(), region['id']
+for asset in atlas['assets'].values():
+    assert (root / 'public' / asset['file'].lstrip('/')).is_file(), asset['file']
+for edge in world['connections']:
+    assert len(edge) == 2 and set(edge) <= island_ids, edge
+for item in json.loads((root / 'docs/template-home-assets.json').read_text()):
+    assert (root / 'public' / item['file']).is_file(), item['file']
+print('Composed scene and template asset references OK')

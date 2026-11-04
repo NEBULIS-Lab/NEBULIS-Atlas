@@ -8,7 +8,9 @@ An interactive research atlas for robotics, embodied intelligence, world models,
 
 ## What is here
 
-- Seven map regions: a starting camp, five research islands and a shared resource harbor.
+- Original template landing with adapted lab branding; Explore opens a separate full-screen sea.
+- Seven independently composed regions: a starting camp, five research islands and a shared resource harbor.
+- Tile terrain, separate buildings and animated props, camera panning/zooming, and click-to-open resource panels.
 - 66 curated resource nodes, five learning journeys and 15 short glossary entries.
 - Papers, official repositories, datasets, simulators, benchmarks and laboratory research.
 - Chinese introductions and learning guidance alongside English research names.
@@ -33,10 +35,14 @@ Open **http://localhost:4387**. Use `PORT=8080 npm start` for a different port.
 | File | Purpose |
 | --- | --- |
 | `content/catalog.json` | Resource records, learning journeys, glossary |
-| `content/islands.json` | Map regions, coordinates, node order and connected islands |
+| `content/islands.json` | Region names, node order and connected research directions |
+| `content/world.json` | Editable terrain footprints, building/tree positions and sea connections |
 | `content/media.json` | Resource-to-media mappings, credits and source links |
 | `public/research-media/` | Locally hosted scientific images and short videos |
-| `public/atlas/` | Original map, lab logo and licensed pixel font |
+| `public/atlas/` | Lab logo and supplementary pixel font |
+| `public/template-assets/` | Original landing art, decorative GIFs, fonts and styles |
+| `public/scene-assets/atlas.json` | Original tile/sprite rectangles, anchors and animation frames |
+| `public/scene-assets/` | CC0 terrain and independently placed props; template decorative sprites |
 | `src/atlas/` | Page shell, theme and browser interactions |
 
 To add a resource, create a unique ID with a title, island, type, level, summary, learning points and official links. Use IDs for `prerequisites` and `related`; add it to the desired island or journey. Keep resource URLs canonical and free of tracking parameters. Dataset entries may also provide `dataset: {data_type, scale, access, recommended_use}`. Do not infer a media license from a repository's code license.
@@ -86,13 +92,15 @@ PORT=4388 BASE_PATH=/NEBULIS-Atlas node scripts/serve.mjs dist-pages
 # http://localhost:4388/NEBULIS-Atlas/
 ```
 
-Hash routes preserve shareable resource links on static hosting; no rewrite server is required. The production bundle is about 12 MiB including videos, with only images/content needed for the active view loaded initially.
+Hash routes preserve shareable resource links on static hosting; no rewrite server is required. The production bundle is about 14 MiB including videos, with only images/content needed for the active view loaded initially.
 
 ## Sources and credits
 
 - [Content sources and link verification](docs/content-sources.md)
 - [Research media sources and attribution](docs/media-sources.md)
-- [Map artwork and generation brief](docs/map-artwork.md)
+- [Scene composition and maintenance](docs/map-artwork.md)
+- [Scene asset sources and licenses](docs/scene-asset-sources.md)
+- [Original homepage asset provenance](docs/template-home-assets.json)
 - [Third-party notices](THIRD_PARTY_NOTICES.md)
 
-The earlier Codédex study reconstruction is preserved in Git history at `1f8fc20` and in a separate local baseline backup. This redesign retains its pixel-game visual inspiration while replacing the branding, artwork, content and application flows with the research atlas.
+The earlier Codédex study reconstruction is preserved in Git history at `1f8fc20` and in a separate local baseline backup. The current landing reuses that template’s original layers, detailed art, type and buttons. The research world is composed separately from the documented tile/sprite collection, with the catalog maintained independently.

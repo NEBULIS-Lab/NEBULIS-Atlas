@@ -1,0 +1,18 @@
+Tiny Swords — Pixel Frog — archived CC0 distribution
+
+Downloaded unchanged PNG files from:
+https://www.spritefusion.com/downloads/tilesets/tiny-swords.zip
+Distribution landing page, explicitly marked License: CC0:
+https://www.spritefusion.com/tilesets/tiny-swords
+
+Original author page:
+https://pixelfrog-assets.itch.io/tiny-swords
+The author page separately lists TS_old version_CC0 Licensed.
+The current Free Pack has different redistribution terms and is NOT the source of these files.
+
+CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
+Legal code:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
+
+Checked 2026-11-04. PNG bytes were not modified. Source rectangles and descriptive metadata are project additions.

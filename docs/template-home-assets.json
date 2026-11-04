@@ -1,0 +1,632 @@
+[
+  {
+    "file": "template-assets/39735b72d81c7a1b3ff3.webp",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Mountain.webp",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/83071c16664c2f1b5112.webp",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Hills.webp",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/a8c3c550d8c3ae24813c.webp",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Grass.webp",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/006be1b09a9660a7c34a.png",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Sky.png",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/1432e19cecb832808bab.gif",
+    "source": "https://www.codedex.io/images/python/python-animated.gif",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/ce9cb2e1503a6e086737.css",
+    "source": "https://www.codedex.io/_next/static/css/b020897797f84685.css",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/b5ef62d5a9ee3dbeec77.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2d_Cj7dc.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/8d1504641beb2e8435d1.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size4-Regular.10d95fd3.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/ef71aa26d91c70be3fa0.webp",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Sky.webp",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/73ea765aa8ab57a9ed4d.png",
+    "source": "https://www.codedex.io/images/homepage/town%20sq.png",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/e9fc1e99e89952fead6d.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFR8amvG547LTdNwPak.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/2ae8e1ef98a1bf6fe944.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNW8amvG547LTdNwPak.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/072f3f43e5a37b28c9e8.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Regular.ba21ed5f.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/b1ab69fd0780f21e6c31.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size3-Regular.9acaf01c.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/dbf93e121989821e4fbe.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size4-Regular.fbccdabe.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/6dbc0f743145638f35aa.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Math-Italic.939bc644.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/da2bcc642180658d28a3.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_AMS-Regular.a79f1c31.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/748dada8b1ecf4da7a32.ttf",
+    "source": "https://www.codedex.io/fonts/empire/empire7h.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/2a0723bb43c50817df80.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Regular.7f51fe03.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/32ad96c90fe84be067df.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Regular.0462f03b.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/ab39dad5945b15038bf1.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size3-Regular.b4230e7e.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/d5137db9bc0370fb3f87.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Typewriter-Regular.d97aaf4a.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/f482ad8a422e336bc1c3.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size1-Regular.eae34984.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/d079ff77c3a98f340ada.webp",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Mascot.webp",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/8116e6b7d2822e041039.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Fraktur-Regular.7c187121.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/63720c35428f79d321d6.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Bold.c3fb5ac2.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/f03ad3f0f1bbdf66197e.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Bold.8c5b5494.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/55b8842a68eeb8ad6104.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSfF5Q6DzNVwd6kWSA.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/f707fa89abf8c57423c2.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2dPCj7dc.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/eedfaed563ddbba99f95.ttf",
+    "source": "https://www.codedex.io/fonts/Hack-Regular.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/89966f4d054cf2cdde28.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Caligraphic-Bold.ec17d132.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/d4883607b8012cdca3c3.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size1-Regular.fabc004a.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/40ea02c7cb87a67cb900.woff2",
+    "source": "https://fonts.gstatic.com/s/montserrat/v25/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/459a635480c4eea6e506.ttf",
+    "source": "https://www.codedex.io/fonts/empire/empire9h.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/b1d7a435e0f481bccd2a.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Math-BoldItalic.a879cf83.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/e2d92a3df76e57e4a76f.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_AMS-Regular.4aafdb68.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/9e7fbef5fee414a4b232.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8amvG547LTdNwPak.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/898444b46b128900a192.gif",
+    "source": "https://www.codedex.io/images/character_gifs/6wYeoCS.gif",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/eb6d92bcbc068c432f73.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Bold.94e1e8dc.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/7384d05ddc1c1b40d8a1.ttf",
+    "source": "https://www.codedex.io/fonts/Scrambled_Eggs_Bold.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/89da5e384ac09ee41120.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNW8aevG547LTdNwA.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/5522f6504d1614177bdb.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size2-Regular.57727022.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/1c47836124fe934f7c9b.woff",
+    "source": "https://www.codedex.io/fonts/pixelgrid-squarebolds.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/4dd99e2781fb25422ff5.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Script-Regular.03e9641d.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/d41ee427be12e0ba4424.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2efCj7dc.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/fab1e788486a23bd4fa8.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size2-Regular.5916a24f.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/36a79c47b62172e0b59c.woff2",
+    "source": "https://fonts.gstatic.com/s/montserrat/v25/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/7a8ff62efddb3f38d1f2.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size1-Regular.e1e279cb.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/a9b1885e29cb6dafecf8.png",
+    "source": "https://www.codedex.io/images/homepage/LandingPage_Mountain.png",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/a2f41dd418b540d55dc4.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Script-Regular.07505710.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/4c84f4dcefe507dba295.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size2-Regular.d6b476ec.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/1412de23540bf5d04fe5.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Fraktur-Bold.b18f59e1.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/e5a99505630243bfaaa3.woff2",
+    "source": "https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/45f1e9a49cfb7fe69590.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Typewriter-Regular.6258592b.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/a7ceb73c669c9e18e071.woff2",
+    "source": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nYivN04w.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/c231a100f6a75f307a43.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Caligraphic-Regular.55fac258.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/8f3845a21ca282b4b7cd.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8amvG547LTdNwPak.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/57580b963f918b098df2.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRW8aevG547LTdNwA.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/61f06984bd0de4525010.woff2",
+    "source": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nVivM.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/bce53c0d63275d29c8e2.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size3-Regular.a144ef58.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/077d08bec2fb2878e177.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Fraktur-Regular.d3c882a6.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/d4f4f1ce567e1a5d37d8.gif",
+    "source": "https://www.codedex.io/images/css/css-course-banner.gif",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/4dd57770b6ff4264212f.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Math-BoldItalic.f1035d8d.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/98fa2a0c8b660d76f4ac.ttf",
+    "source": "https://www.codedex.io/fonts/empire/empire7p.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/f8966d7adf58e93ed721.gif",
+    "source": "https://www.codedex.io/images/javascript/javascript-course-banner.gif",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/6cae6f7735295a79076e.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Italic.b4c20c84.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/641bfbf13b4c8bd23378.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Caligraphic-Bold.b6770918.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/e7cfbe1e05d8f602f004.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2fvCj7dc.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/352bc3ee2a445cbcf67b.woff",
+    "source": "https://www.codedex.io/fonts/pixelgrid-squareboldm.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/40f2dd51fee82207a60e.webp",
+    "source": "https://firebasestorage.googleapis.com/v0/b/codedex-io.appspot.com/o/assets%2Flandingpage%2F6b2ecd08-c734-474c-985c-8e36d85fdc03.webp",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/951978b3f7c5bd5bc8b3.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Italic.47373d1e.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/b78379aa7700dce83855.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRW8amvG547LTdNwPak.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/8925e61b0a71775d2fd7.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Math-Italic.f28c23ac.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/9b3bd6cd5f502be5d6e9.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Bold.d181c465.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/8d005d5d40c0d27c7e45.gif",
+    "source": "https://www.codedex.io/images/sql/seo-bannergif.gif",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/da701913293d1ba7f8c9.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_AMS-Regular.1608a09b.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/253434a8d525769c6fba.woff2",
+    "source": "https://fonts.gstatic.com/s/worksans/v18/QGYqz_wNahGAdqQ43Rh_eZDrv_0.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/418905c8b2157c5b3f09.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Fraktur-Bold.d42a5579.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/a01aa2b908d25b0724a3.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Math-BoldItalic.572d331f.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/23a32cabcb3c7425f0d0.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Bold.bf59d231.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/54339c80a79fc3d93168.woff2",
+    "source": "https://www.codedex.io/fonts/pixelgrid-squareboldxl.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/f4eb12e7b9e629802bfd.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Regular.d4d7ba48.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/1ddd71bda3bc16476fff.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSfGZQ6DzNVwd6k.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/0670b9ac042ca690fd60.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNW8aivG547LTdNwPak.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/9f87fca89fe21ae206c3.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2dvCj7dc.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/4b52f45503509b9ebd47.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSfHZQ6DzNVwd6kWSA.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/08efb7ecd790400f53a8.woff2",
+    "source": "https://www.codedex.io/fonts/pixelgrid-squareboldm.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/d05665f96f9b325d8210.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNW8aOvG547LTdNwPak.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/e2eb9f07e97290356844.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Caligraphic-Bold.cce5b8ec.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/beb833a01a0c9cfe46d5.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-BoldItalic.e3f82f9d.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/c6b2b9358d246d581cae.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSG-OfF5Q6DzNVwd6kWSA.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/80b1d9dd6af004d80871.woff2",
+    "source": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nbivN04w.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/25cbc79caefb70b07c3e.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Caligraphic-Regular.07ef19e7.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/e54234ab2ac6759294e3.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Bold.b74a1a8b.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/c8c8111c37143bef197e.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2evCj.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/c84e5b7a39149b5d9acf.woff2",
+    "source": "https://fonts.gstatic.com/s/notosansmono/v20/BngcUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZ2dfCj7dc.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/a148a9f3cb9d134fb183.gif",
+    "source": "https://www.codedex.io/images/html/html-parralax-combined.gif",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/16ac30b8c892753fa79d.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSfFpQ6DzNVwd6kWSA.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/1d12c8c7f8a96e294921.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Caligraphic-Regular.dad44a7f.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/1b4731d7c012e8f597da.woff2",
+    "source": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nRivN04w.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/54d0c38b17b4340b36ba.woff2",
+    "source": "https://www.codedex.io/fonts/pixelgrid-squarebolds.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/a5c738b4cff027da96bd.woff2",
+    "source": "https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nWivN04w.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/35311f2730b83033f64d.ttf",
+    "source": "https://www.codedex.io/fonts/empire/empire9p.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/2b323f5bba76edbe8e12.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Italic.9024d815.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/d49453616bb06a4a5ed6.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8aevG547LTdNwA.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/1b0f7085a7c0590e0160.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNW8aqvG547LTdNwPak.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/76dea87f8430fd4c56dd.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Math-Italic.5295ba48.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/542a53cb8599dd0bc8dc.otf",
+    "source": "https://www.codedex.io/_next/static/media/dogica.8c4894b8.otf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/c16e733247e604b993b9.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Size4-Regular.7a996c9d.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/1bf2055f0199ae4614ec.woff2",
+    "source": "https://fonts.gstatic.com/s/worksans/v18/QGYsz_wNahGAdqQ43Rh_fKDp.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/a5605be67e3e7a3221d8.woff",
+    "source": "https://www.codedex.io/fonts/pixelgrid-squareboldxl.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/dba13c0feabbaf174c48.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSfFJQ6DzNVwd6kWSA.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/06d47700a4acaa199110.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Italic.3b1e59b3.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/c86c2b8525b4e751f90a.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Fraktur-Bold.9f256b85.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/90c84d361ec253ba5c36.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Italic.7c9bc82b.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/e27efc6ce64ab5df82a8.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8aevG547LTdNwA.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/06e652347188fa8bd384.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Script-Regular.fe9cbbe1.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/ba84bc3e6c08b7d30b85.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-BoldItalic.70d8b0a5.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/22c67552b1ff070c36c2.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-BoldItalic.6f2bb1df.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/6f229779282cb027c551.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSG-OfGZQ6DzNVwd6k.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/392e5a1987037b4c5460.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Regular.b7f8fe9b.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/e8c113e2765c44868c05.woff2",
+    "source": "https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFR8aevG547LTdNwA.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/46bad539a526acc3a8c2.woff",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_SansSerif-Regular.74048478.woff",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/59982a5c205cf7719430.ttf",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Fraktur-Regular.ed38e79f.ttf",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/e55de0041a497ba3b26e.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Typewriter-Regular.a8709e36.woff2",
+    "origin_commit": "1f8fc20"
+  },
+  {
+    "file": "template-assets/a43c7a26ec46dc8e19a1.woff2",
+    "source": "https://www.codedex.io/_next/static/media/KaTeX_Main-Italic.8916142b.woff2",
+    "origin_commit": "1f8fc20"
+  }
+]

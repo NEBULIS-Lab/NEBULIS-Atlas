@@ -12,13 +12,16 @@ root = Path(__file__).resolve().parents[1]
 out = root / args.out
 shutil.rmtree(out, ignore_errors=True)
 out.mkdir()
-for folder in ['atlas', 'research-media']:
+for folder in ['atlas', 'research-media', 'template-assets', 'scene-assets']:
     shutil.copytree(root / 'public' / folder, out / folder)
-for name in ['app.mjs', 'style.css']:
+for name in ['app.mjs', 'style.css', 'explorer.mjs', 'explorer.css']:
     shutil.copy2(root / 'src' / 'atlas' / name, out / 'atlas' / name)
 shutil.copytree(root / 'content', out / 'content')
 html = (root / 'src' / 'atlas' / 'index.html').read_text().replace('{{BASE}}', base)
 (out / 'index.html').write_text(html)
+(out / 'landing.html').write_text((root / 'src/atlas/landing.html').read_text().replace('{{BASE}}', base))
+for css in (out / 'template-assets').glob('*.css'):
+    css.write_text(css.read_text().replace('{{BASE}}', base))
 (out / '.nojekyll').touch()
 (out / '404.html').write_text('''<!doctype html><html lang="zh-CN"><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>Uncharted waters | NEBULIS</title>

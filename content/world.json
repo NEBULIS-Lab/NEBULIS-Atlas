@@ -1,0 +1,15 @@
+{
+  "width": 3060,
+  "height": 2180,
+  "cellSize": 40,
+  "regions": [
+    {"id":"starting","x":180,"y":1170,"seed":4,"terrain":"grass","shape":[[4,11],[2,13],[1,14],[0,15],[0,15],[0,15],[1,14],[1,14],[2,13],[3,12],[4,11]],"buildings":[["blue-house",290,205,1],["blue-house",445,320,0.85]],"trees":[[90,240],[130,150],[195,100],[455,140],[510,220],[100,365],[460,420]],"character":"6wYeoCS.gif","caption":"FIRST STEPS"},
+    {"id":"robot","x":200,"y":300,"seed":7,"terrain":"grass","shape":[[4,11],[2,13],[1,14],[1,14],[0,15],[0,15],[0,15],[1,14],[2,13],[2,13],[3,12],[5,10]],"buildings":[["blue-workshop-animation",300,210,1.1],["blue-house",130,290,0.9],["blue-tower",470,280,0.8]],"trees":[[165,115],[400,120],[520,220],[70,300],[490,370],[120,410],[225,450]],"character":"letter.gif","caption":"LEARN TO ACT"},
+    {"id":"embodied","x":1270,"y":120,"seed":11,"terrain":"grass","shape":[[4,12],[2,14],[1,15],[0,16],[0,16],[0,16],[0,16],[1,15],[1,15],[2,14],[3,13],[5,11]],"buildings":[["blue-castle",340,235,1],["blue-house",145,300,0.9],["blue-tower",535,300,0.85]],"trees":[[195,120],[500,130],[575,370],[110,380],[245,450],[430,455],[90,230]],"character":"tekmLsi.gif","caption":"SEE · UNDERSTAND · ACT"},
+    {"id":"world","x":2320,"y":340,"seed":17,"terrain":"cliffTop","shape":[[5,10],[3,12],[2,13],[1,14],[0,15],[0,15],[0,15],[1,14],[2,13],[2,13],[4,11],[5,10]],"buildings":[["blue-tower",325,230,1.2],["blue-house",160,300,0.9],["gold-mine-active",470,300,0.85]],"trees":[[220,130],[440,150],[100,290],[530,370],[150,395],[440,445]],"character":"Ai30sjf.gif","caption":"IMAGINE WHAT COMES NEXT"},
+    {"id":"multi","x":2250,"y":1270,"seed":21,"terrain":"grass","shape":[[3,7],[1,9],[0,10],[0,10],[1,9],[2,8],[3,14],[5,16],[5,16],[6,15],[7,14]],"satellites":[{"x":430,"y":-60,"w":6,"h":5}],"buildings":[["red-house",220,200,1],["blue-house",545,100,1],["red-workshop-animation",470,380,0.85]],"trees":[[150,80],[350,200],[70,250],[460,50],[620,125],[300,415],[600,440]],"character":"qOSmiVc.gif","caption":"BETTER TOGETHER"},
+    {"id":"distributed","x":1280,"y":1550,"seed":29,"terrain":"cliffTop","shape":[[4,11],[2,13],[1,14],[1,14],[0,15],[0,15],[0,15],[1,14],[2,13],[3,12],[4,11]],"buildings":[["red-tower",185,225,1],["blue-tower",450,225,1],["blue-workshop-animation",330,355,0.9]],"trees":[[225,100],[415,110],[90,270],[535,260],[130,380],[500,390]],"character":"data-structures-and-algorithms.gif","caption":"INTELLIGENCE, CONNECTED"},
+    {"id":"harbor","x":1040,"y":890,"seed":34,"terrain":"sand","shape":[[4,10],[2,12],[1,13],[0,14],[0,14],[0,14],[1,13],[2,12],[3,11],[5,9]],"buildings":[["red-workshop-animation",290,200,1],["red-house",430,300,0.8],["blue-house",130,260,0.8]],"trees":[[200,100],[400,115],[90,250],[450,345]],"character":"dZ7Qu9K.gif","caption":"DATA · TOOLS · BENCHMARKS"}
+  ],
+  "connections":[["starting","robot"],["starting","harbor"],["robot","embodied"],["robot","world"],["embodied","world"],["world","multi"],["multi","distributed"],["harbor","distributed"],["harbor","embodied"]]
+}

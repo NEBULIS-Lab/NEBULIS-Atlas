@@ -1,34 +1,30 @@
-// One focused smoke pass for the static atlas; no external resource reproduction.
+// One focused browser pass for the landing → world → resource journey.
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import {createRequire} from 'node:module';
 const {chromium}=createRequire(import.meta.url)(process.env.PLAYWRIGHT_MODULE||'playwright');
-const origin=process.env.TEST_URL||'http://127.0.0.1:4387';
-const base=process.env.TEST_BASE||'';
+const origin=process.env.TEST_URL||'http://127.0.0.1:4387',base=process.env.TEST_BASE||'';
 const browser=await chromium.launch({headless:true,executablePath:process.env.CHROMIUM_PATH||undefined,args:['--no-sandbox','--disable-gpu']});
 const context=await browser.newContext({viewport:{width:1440,height:1000}});
-const page=await context.newPage();const errors=[],external=[];
+const page=await context.newPage(),errors=[],external=[];let checks=0;
 page.on('pageerror',e=>errors.push(e.message));
 page.on('response',r=>{if(r.status()>=400)errors.push(`${r.status()} ${r.url()}`);});
 page.on('request',r=>{if(r.url().startsWith('http')&&new URL(r.url()).origin!==new URL(origin).origin)external.push(r.url());});
-await fs.mkdir('test-results',{recursive:true});let checks=0;
+await fs.mkdir('test-results',{recursive:true});
 async function go(hash=''){await page.goto(origin+base+'/'+hash);await page.waitForSelector('html[data-atlas-ready="true"]');}
+async function shot(name){await page.waitForTimeout(600);await page.screenshot({path:`test-results/${name}.png`});}
 try{
- await go();assert.equal(await page.locator('.island-pin').count(),7);assert.match(await page.locator('h1').innerText(),/Embodied AI Adventure/);checks++;
- await page.locator('.skip-link').focus();await page.keyboard.press('Enter');assert.equal(await page.locator('.island-pin').count(),7);checks++;
- await page.locator('.island-pin[href="#/island/robot"]').click();await page.waitForSelector('.path-node');assert.equal(await page.locator('.path-node').count(),5);checks++;
- await go('#/resource/R02');await page.waitForSelector('video');await page.locator('video').evaluate(v=>v.play());await page.waitForFunction(()=>document.querySelector('video').currentTime>0);await page.locator('video').evaluate(v=>v.pause());checks++;
- await page.locator('[data-read]').click();await page.locator('.save-detail').click();await page.reload();await page.waitForSelector('[data-read][aria-pressed="true"]');assert.equal(await page.locator('.save-detail').getAttribute('aria-pressed'),'true');checks++;
- await page.locator('[data-term]').first().click();assert.equal(await page.locator('#term-dialog').evaluate(d=>d.open),true);await page.keyboard.press('Escape');checks++;
- await go('#/library?q=OpenVLA');await page.waitForSelector('#library-grid .resource-card');assert.equal(await page.locator('#library-grid .resource-card').count(),1);await page.locator('#library-search').fill('no-such-resource-123456');await page.waitForSelector('.empty-state');await page.getByRole('button',{name:'重新探索'}).click();checks++;
- await go('#/library?scope=harbor&island=embodied&type=dataset');await page.waitForSelector('#library-grid .resource-card');assert.ok(await page.locator('#library-grid').innerText().then(t=>t.includes('DROID')));checks++;
- await go('#/resource/DS05');await page.locator('.back-island').click();await page.waitForSelector('#library-grid .resource-card');assert.ok(await page.locator('#library-grid .resource-card').count()>20);checks++;
- await page.getByRole('button',{name:'搜索资料',exact:true}).click();await page.locator('#global-search').fill('V-JEPA');await page.waitForSelector('.search-result');assert.ok(await page.locator('.search-result').count()>=2);await page.keyboard.press('Escape');checks++;
- await go('#/journey/vla');await page.waitForSelector('.journey-path');assert.ok(await page.locator('.path-node').count()>=5);checks++;
- await go('#/frontier');await page.waitForSelector('.frontier-grid');assert.equal(await page.locator('.frontier-grid .resource-card').count(),5);checks++;
- await go();await page.evaluate(()=>document.fonts.ready);await page.screenshot({path:'test-results/research-home-desktop.png'});await page.locator('#world-map').screenshot({path:'test-results/research-map-desktop.png'});
- await page.setViewportSize({width:390,height:844});await go();await page.getByRole('button',{name:'打开导航'}).click();assert.equal(await page.locator('.mobile-nav').isVisible(),true);await page.getByRole('button',{name:'打开导航'}).click();assert.equal(await page.locator('.mobile-island-links a').count(),7);assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));await page.screenshot({path:'test-results/research-home-mobile.png'});checks++;
- await go('#/library');await page.waitForSelector('#library-grid .resource-card');assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));await page.screenshot({path:'test-results/research-library-mobile.png'});checks++;
+ await go();const landing=page.frameLocator('.template-landing');await landing.locator('.research-title').waitFor();assert.match(await landing.locator('.research-title').innerText(),/Embodied AI/);await shot('restored-home');checks++;
+ await landing.locator('[data-explore]').first().click();await page.waitForSelector('[data-scene-ready="true"]');assert.equal(await page.locator('.island-terrain').count(),7);assert.ok(await page.locator('.world-sprite').count()>200);assert.equal(await page.locator('.island-panel').isVisible(),false);await shot('composed-world');checks++;
+ // Keyboard panning and wheel zoom change the composed world camera.
+ const stage=page.locator('.sea-world'),before=await stage.getAttribute('style');await page.locator('.sea-viewport').focus();await page.keyboard.press('ArrowRight');await page.waitForTimeout(250);assert.notEqual(await stage.getAttribute('style'),before);const z=await page.locator('.zoom-level').textContent();await page.locator('[data-world="zoom-in"]').click();await page.waitForTimeout(250);assert.notEqual(await page.locator('.zoom-level').textContent(),z);await page.locator('[data-world="overview"]').click();checks++;
+ await page.locator('.world-destinations a[href="#/island/robot"]').click();await page.locator('.island-panel h2').waitFor();assert.equal(await page.locator('.panel-node-list li').count(),5);await shot('composed-robot');checks++;
+ await page.locator('.world-region.selected .island-learning-node[href$="/R02"]').click();await page.locator('.island-panel video').waitFor();await page.locator('.island-panel video').evaluate(v=>v.play());await page.waitForFunction(()=>document.querySelector('.island-panel video').currentTime>0);await page.locator('video').evaluate(v=>v.pause());await page.locator('[data-world-read="R02"]').click();await page.reload();await page.waitForSelector('.panel-read.is-read');await page.locator('[data-world-term]').first().click();assert.equal(await page.locator('#term-dialog').evaluate(d=>d.open),true);await page.keyboard.press('Escape');checks++;
+ await page.locator('.panel-full-link').click();await page.locator('.resource-page').waitFor();await page.locator('.save-detail').click();await page.reload();await page.waitForSelector('.save-detail[aria-pressed="true"]');checks++;
+ await go('#/library?q=OpenVLA');await page.locator('#library-grid .resource-card').waitFor();assert.equal(await page.locator('#library-grid .resource-card').count(),1);checks++;
+ await go('#/island/harbor');await page.locator('.panel-node-list').waitFor();assert.ok(await page.locator('.panel-node-list li').count()>20);await page.locator('[data-world="search"]').click();await page.locator('#global-search').fill('V-JEPA');await page.locator('.search-result').first().waitFor();assert.ok(await page.locator('.search-result').count()>=2);await page.keyboard.press('Escape');checks++;
+ await page.setViewportSize({width:390,height:844});await go();await page.frameLocator('.template-landing').locator('.research-title').waitFor();await shot('restored-home-mobile');assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));checks++;
+ await page.frameLocator('.template-landing').locator('[data-explore]').first().click();await page.waitForSelector('[data-scene-ready="true"]');await shot('composed-world-mobile');assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));await page.locator('.world-destinations a[href="#/island/embodied"]').click();await page.locator('.panel-node-list').waitFor();assert.equal(await page.locator('.panel-node-list li').count(),8);await shot('composed-island-mobile');await page.locator('.panel-close').click();await page.waitForFunction(()=>document.querySelector('.island-panel').hidden);checks++;
  assert.deepEqual([...new Set(errors)],[]);assert.deepEqual([...new Set(external)],[]);
  console.log(JSON.stringify({passed:true,checks,base,browserErrors:errors.length,externalRequests:external.length},null,2));
-} finally {await fs.writeFile('test-results/research-diagnostics.json',JSON.stringify({checks,errors,external},null,2));await browser.close();}
+}finally{await fs.writeFile('test-results/research-diagnostics.json',JSON.stringify({checks,errors,external},null,2));await browser.close();}
